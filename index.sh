@@ -1,4 +1,5 @@
-
+mkdir -p log out
+pushd $(dirname $0)
 echo -ne "Retrieving anatomical systems...\r"
 curl -s http://www.ebi.ac.uk/ols/api/ontologies/uberon/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000467/children?size=1000 \
 | jq -r '._embedded.terms | map (.short_form +"|"+ .label+"\n") | add' | grep '[^[:blank:]]'| sort | uniq \
@@ -29,18 +30,3 @@ find ./log -type f | xargs grep Error
 
 echo "Generating anatomical_systems.txt ..."
 ./join_files.py
-if [ "$(hostname)" == "wbazant-ml" ]
-then
-  cp ./out/anatomical_systems.txt $SRC/resources
-  pushd .
-  cd $SRC/resources
-  if [ "$(git diff --name-only --cached | wc -l )" != 0 ]
-  then
-    echo "Dirty worktree, commit anatomical_systems.txt by yourself: " ; git diff --name-only --cached
-  else
-    git commit $SRC/resources/anatomical_systems.txt -m "Anatomical systems file"
-  fi
-  popd
-else
-  echo "You can update the anatomical_systems.txt now"
-fi
