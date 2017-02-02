@@ -1,3 +1,27 @@
+CL_0000485|mucosal type mast cell
+CL_0000844|germinal center B cell
+CL_0000865|gastrointestinal tract (lamina propria) macrophage
+CL_0000868|lymph node macrophage
+CL_0000869|tonsillar macrophage
+CL_0000870|Peyer's patch macrophage
+CL_0000877|splenic tingible body macrophage
+CL_0000884|mucosa-associated lymphoid tissue macrophage
+CL_0000885|gut-associated lymphoid tissue macrophage
+CL_0000886|nasal and broncial associated lymphoid tissue macrophage
+CL_0000887|lymph node subcapsular sinus macrophage
+CL_0000888|lymph node tingible body macrophage
+CL_0000963|Bm3-delta B cell
+CL_0000964|Bm2' B cell
+CL_0000965|Bm3 B cell
+CL_0000966|Bm4 B cell
+CL_0002138|endothelial cell of lymphatic vessel
+CL_0002402|Peyer's patch B cell
+CL_0002554|fibroblast of lymphatic vessel
+CL_1000411|endothelial cell of Peyer's patch
+CL_1001577|tonsil squamous cell
+CL_2000006|tonsil germinal center B cell
+CL_2000011|dermis lymphatic vessel endothelial cell
+CL_2000041|dermis microvascular lymphatic vessel endothelial cell
 UBERON_0000029|lymph node
 UBERON_0000444|lymphoid follicle
 UBERON_0001097|axillary lymph node
@@ -21,6 +45,7 @@ UBERON_0001963|bronchial-associated lymphoid tissue
 UBERON_0002006|cortex of lymph node
 UBERON_0002007|medulla of lymph node
 UBERON_0002042|lymphatic vessel endothelium
+UBERON_0002194|capsule of lymph node
 UBERON_0002195|trabecula of lymph node
 UBERON_0002372|tonsil
 UBERON_0002373|palatine tonsil
@@ -70,6 +95,7 @@ UBERON_0009007|superficial inguinal lymph node
 UBERON_0009039|lymph node germinal center
 UBERON_0009744|lymph node medullary sinus
 UBERON_0009745|lymph node medullary cord
+UBERON_0010160|lumen of lymphatic vessel
 UBERON_0010386|Peyer's patch follicle
 UBERON_0010387|Peyer's patch T cell area
 UBERON_0010392|B cell domain

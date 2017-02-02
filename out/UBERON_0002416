@@ -1,3 +1,93 @@
+CL_0000209|taste receptor cell
+CL_0000242|Merkel cell
+CL_0000312|keratinocyte
+CL_0000317|sebum secreting cell
+CL_0000346|hair follicle dermal papilla cell
+CL_0000362|epidermal cell
+CL_0000372|tormogen cell
+CL_0000374|trichogen cell
+CL_0000463|epidermal cell (sensu arthropoda)
+CL_0000575|corneal epithelial cell
+CL_0000649|prickle cell
+CL_0000712|stratum granulosum cell
+CL_0001006|dermal dendritic cell
+CL_0001009|immature dermal dendritic cell
+CL_0001010|mature dermal dendritic cell
+CL_0002060|melanophage
+CL_0002135|nonkeratinized cell of epidermis
+CL_0002140|acinar cell of sebaceous gland
+CL_0002142|dark cell of eccrine sweat gland
+CL_0002146|clear cell of eccrine sweat gland
+CL_0002153|corneocyte
+CL_0002187|basal cell of epidermis
+CL_0002189|granular cell of epidermis
+CL_0002190|squamous cell of epidermis
+CL_0002285|type III taste bud cell
+CL_0002286|type II taste cell
+CL_0002287|type IV taste receptor cell
+CL_0002288|type V taste receptor cell
+CL_0002289|type I taste bud cell
+CL_0002308|epithelial cell of skin gland
+CL_0002324|myoepithelial cell of mammary gland
+CL_0002325|mammary alveolar cell
+CL_0002326|luminal epithelial cell of mammary gland
+CL_0002327|mammary gland epithelial cell
+CL_0002337|keratinocyte stem cell
+CL_0002363|keratocyte
+CL_0002458|langerin-positive dermal dendritic cell
+CL_0002459|langerin-negative dermal dendritic cell
+CL_0002482|dermal melanocyte
+CL_0002483|hair follicle melanocyte
+CL_0002521|subcutaneous fat cell
+CL_0002526|CD14-positive dermal dendritic cell
+CL_0002527|immature CD14-positive dermal dendritic cell
+CL_0002528|mature CD14-positive dermal dendritic cell
+CL_0002529|CD1a-positive dermal dendritic cell
+CL_0002530|immature CD1a-positive dermal dendritic cell
+CL_0002531|mature CD1a-positive dermal dendritic cell
+CL_0002551|fibroblast of dermis
+CL_0002555|fibroblast of mammary gland
+CL_0002559|hair follicle cell
+CL_0002560|inner root sheath cell
+CL_0002561|outer root sheath cell
+CL_0002562|hair germinal matrix cell
+CL_0002583|subcutaneous preadipocyte
+CL_0002620|skin fibroblast
+CL_0002660|luminal cell of acinus of lactiferous gland
+CL_0002661|luminal cell of lactiferous terminal ductal lobular unit
+CL_0002662|luminal cell of lactiferous duct
+CL_0007017|Stiftchenzellen
+CL_0007018|epidermal ciliary cell
+CL_0007021|alarm substance cell
+CL_0007023|flask cell
+CL_0010000|keratinized cell of hair follicle
+CL_1000302|fibroblast of papillary layer of dermis
+CL_1000416|myoepithelial cell of lactiferous gland
+CL_1000417|myoepithelial cell of sweat gland
+CL_1000418|myoepithelial cell of lactiferous alveolus
+CL_1000419|myoepithelial cell of lactiferous duct
+CL_1000428|stem cell of epidermis
+CL_1000448|epithelial cell of sweat gland
+CL_1000458|melanocyte of skin
+CL_1000468|myoepithelial cell of acinus of lactiferous gland
+CL_1001586|mammary gland glandular cell
+CL_1001606|foreskin keratinocyte
+CL_1001608|foreskin fibroblast
+CL_2000000|epidermal melanocyte
+CL_2000010|dermis blood vessel endothelial cell
+CL_2000011|dermis lymphatic vessel endothelial cell
+CL_2000012|fibroblast of pedal digit skin
+CL_2000013|fibroblast of skin of abdomen
+CL_2000014|fibroblast of upper leg skin
+CL_2000015|fibroblast of arm
+CL_2000021|sebaceous gland native cell
+CL_2000033|limb basal cell of epidermis
+CL_2000041|dermis microvascular lymphatic vessel endothelial cell
+CL_2000081|melanocyte of skin of face
+CL_2000082|melanocyte of foreskin
+CL_2000083|hair follicle dermal papilla cell of scalp
+CL_2000092|hair follicular keratinocyte
+CL_2000096|reticular layer of dermis fibroblast
 UBERON_0000014|zone of skin
 UBERON_0000021|cutaneous appendage
 UBERON_0000022|feather
@@ -38,6 +128,7 @@ UBERON_0001554|skin of hip
 UBERON_0001702|eyelash
 UBERON_0001705|nail
 UBERON_0001765|mammary duct
+UBERON_0001772|corneal epithelium
 UBERON_0001777|substantia propria of cornea
 UBERON_0001818|tarsal gland
 UBERON_0001820|sweat gland
@@ -62,6 +153,7 @@ UBERON_0002071|stratum lucidum of epidermis
 UBERON_0002072|hypodermis
 UBERON_0002073|hair follicle
 UBERON_0002074|hair shaft
+UBERON_0002076|cuticle of hair
 UBERON_0002077|cortex of hair
 UBERON_0002097|skin of body
 UBERON_0002190|subcutaneous adipose tissue
@@ -93,6 +185,8 @@ UBERON_0003219|shell septum
 UBERON_0003244|epithelium of mammary gland
 UBERON_0003297|gland of integumental system
 UBERON_0003326|mesenchyme of mammary gland
+UBERON_0003371|pelvic appendage bud ectoderm
+UBERON_0003372|pectoral appendage bud ectoderm
 UBERON_0003403|skin of forearm
 UBERON_0003412|pelvic appendage bud mesenchyme
 UBERON_0003413|pectoral appendage bud mesenchyme
@@ -112,6 +206,8 @@ UBERON_0003585|dermis connective tissue
 UBERON_0003605|eye skin gland
 UBERON_0003719|Pacinian corpuscle
 UBERON_0003836|abdominal segment skin
+UBERON_0003952|anterior stroma of cornea
+UBERON_0003953|posterior stroma of cornea
 UBERON_0003967|cutaneous elastic tissue
 UBERON_0004000|tarsal gland acinus
 UBERON_0004014|labium minora
@@ -220,7 +316,7 @@ UBERON_0007330|rhamphotheca
 UBERON_0007331|maxillary rhamphotheca
 UBERON_0007332|mandibular rhamphotheca
 UBERON_0007376|outer epithelium
-UBERON_0007377|stratum compactum
+UBERON_0007377|stratum compactum of dermis
 UBERON_0007380|dermal scale
 UBERON_0007381|epidermal scale
 UBERON_0007623|comb and wattle
@@ -361,6 +457,7 @@ UBERON_0011671|nuchal plate of carapace
 UBERON_0011672|suprapygal plate of carapace
 UBERON_0011673|plastron scute
 UBERON_0011674|carapace scute
+UBERON_0011782|feather follicle
 UBERON_0011783|feather follicle placode
 UBERON_0011784|feather shaft
 UBERON_0011785|ramus of feather barb
@@ -372,8 +469,10 @@ UBERON_0011795|remex feather
 UBERON_0011796|primary remex feather
 UBERON_0011797|secondary remex feather
 UBERON_0011798|tertial remex feather
+UBERON_0011799|cavity of feather shaft
 UBERON_0011800|dermal pulp of feather shaft
 UBERON_0011801|dermal condensation of feather follicle
+UBERON_0011805|cavity of feather follicle
 UBERON_0011806|dermis of feather follicle
 UBERON_0011807|epidermis of feather follicle
 UBERON_0011808|outer epidermal layer of feather follicle
@@ -415,6 +514,7 @@ UBERON_0012349|digital pad
 UBERON_0012350|carpal pad
 UBERON_0012447|podotheca
 UBERON_0012450|Meissner's corpuscle
+UBERON_0012456|Merkel nerve ending
 UBERON_0012457|Ruffini nerve ending
 UBERON_0012458|antler velvet
 UBERON_0013154|1st arch maxillary endoderm
@@ -462,6 +562,7 @@ UBERON_0014482|ischial callosity
 UBERON_0014705|median lingual swelling epithelium
 UBERON_0014707|hyoplastron
 UBERON_0014708|costal plate of carapace
+UBERON_0014764|anatomical line along groove
 UBERON_0014931|periungual skin
 UBERON_0015132|extralobar lactiferous duct
 UBERON_0015133|terminal lactiferous duct
@@ -505,6 +606,8 @@ UBERON_0016915|vermilion
 UBERON_0016918|upper vermilion
 UBERON_0016919|lower vermilion
 UBERON_0017163|skin bony tubercle
+UBERON_0017616|afferent spiracular artery
+UBERON_0017617|efferent spiracular artery
 UBERON_0018134|rugal fold of scrotum
 UBERON_0018140|mammary lobe
 UBERON_0018150|skin of lower lip
@@ -562,6 +665,8 @@ UBERON_0035501|unencapsulated tactile receptor
 UBERON_0035609|outer root sheath companion layer
 UBERON_0035610|hair canal
 UBERON_0035611|hair peg
+UBERON_0036149|suprapubic skin
+UBERON_0036150|skin appendage follicle
 UBERON_1000003|dewlap
 UBERON_1000010|mole
 UBERON_1000015|skin of snout
@@ -573,6 +678,7 @@ UBERON_2000078|ventral actinotrichium
 UBERON_2000090|apical ectodermal ridge dorsal fin
 UBERON_2000102|dorsal fin fold
 UBERON_2000178|caudal peduncle
+UBERON_2000202|efferent portion of pharyngeal arch artery
 UBERON_2000250|opercle
 UBERON_2000264|preopercle
 UBERON_2000284|subopercle
@@ -584,6 +690,7 @@ UBERON_2000555|opercular flap
 UBERON_2000589|sulcus ypsiloniformis
 UBERON_2000622|barbel
 UBERON_2000674|interopercle
+UBERON_2000716|afferent portion of pharyngeal arch artery
 UBERON_2000717|apical ectodermal ridge median fin fold
 UBERON_2000788|mesenchyme dorsal fin
 UBERON_2000912|mesenchyme median fin fold
@@ -628,6 +735,12 @@ UBERON_2002274|transforming ctenoid scale
 UBERON_2002283|melanophore spot
 UBERON_2002284|body marking
 UBERON_2002285|cycloid scale
+UBERON_2005012|afferent filamental artery
+UBERON_2005013|concurrent branch afferent branchial artery
+UBERON_2005014|recurrent branch afferent branchial artery
+UBERON_2005015|afferent lamellar arteriole
+UBERON_2005018|efferent filamental artery
+UBERON_2005019|efferent lamellar arteriole
 UBERON_2005119|barbel primordium
 UBERON_2005220|larval melanophore stripe
 UBERON_2005221|dorsal larval melanophore stripe
@@ -737,7 +850,36 @@ UBERON_4300004|scale pocket
 UBERON_4300031|fin web
 UBERON_4300102|postcleithral scale
 UBERON_4500003|predorsal scale
+UBERON_6001845|cephalopharyngeal skeleton
+UBERON_6001848|epipharyngeal sclerite
+UBERON_6004340|wing hair
+UBERON_6004475|sclerite
+UBERON_6004476|tergite
+UBERON_6004477|sternite
+UBERON_6004481|adult external head
+UBERON_6004520|mouthpart
+UBERON_6004521|clypeus
+UBERON_6004535|proboscis
+UBERON_6004540|basiproboscis
+UBERON_6004551|adult external thorax
+UBERON_6004552|tergum
+UBERON_6004578|adult external mesothorax
+UBERON_6004579|dorsal mesothorax
+UBERON_6004580|mesothoracic tergum
+UBERON_6004788|adult external abdomen
+UBERON_6004823|analia
+UBERON_6004824|female analia
+UBERON_6004825|male analia
+UBERON_6004979|trichome
 UBERON_6004983|embryonic/larval cuticle
 UBERON_6004986|third instar larval cuticle
+UBERON_6005054|spiracle
+UBERON_6005378|wing margin
 UBERON_6005393|embryonic/larval integumentary system
 UBERON_6005396|adult integumentary system
+UBERON_6005913|arista lateral
+UBERON_6007245|cuticular specialization
+UBERON_6007284|insect region of integument
+UBERON_6007285|segmental subdivision of integument
+UBERON_6007288|insect integumentary specialisation
+UBERON_6007289|tagmatic subdivision of integument

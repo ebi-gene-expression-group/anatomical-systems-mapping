@@ -1,3 +1,8 @@
+CL_0000706|choroid plexus epithelial cell
+CL_0000708|leptomeningeal cell
+CL_0002549|fibroblast of choroid plexus
+CL_1001581|lateral ventricle glial cell
+CL_1001582|lateral ventricle neuron
 UBERON_0001886|choroid plexus
 UBERON_0002162|area postrema
 UBERON_0002285|telencephalic ventricle
@@ -50,6 +55,7 @@ UBERON_0008902|lateral recess of third vetricle
 UBERON_0009572|lumen of central canal of spinal cord
 UBERON_0009573|sulcus limitans of fourth ventricle
 UBERON_0009676|early telencephalic vesicle
+UBERON_0009857|cavum septum pellucidum
 UBERON_0010404|lateral ventricle subependymal layer
 UBERON_0011360|ampulla caudalis
 UBERON_0013147|early mesencephalic vesicle

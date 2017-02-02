@@ -1,3 +1,128 @@
+CL_0000059|ameloblast
+CL_0000060|odontoblast
+CL_0000061|cementoblast
+CL_0000092|osteoclast
+CL_0000137|osteocyte
+CL_0000141|cementocyte
+CL_0000188|cell of skeletal muscle
+CL_0000189|slow muscle cell
+CL_0000190|fast muscle cell
+CL_0000214|synovial cell
+CL_0000345|dental papilla cell
+CL_0000355|multi-potent skeletal muscle stem cell
+CL_0000358|sphincter associated smooth muscle cell
+CL_0000388|tendon cell
+CL_0000513|cardiac muscle myoblast
+CL_0000556|megakaryocyte
+CL_0000557|granulocyte monocyte progenitor cell
+CL_0000588|odontoclast
+CL_0000594|skeletal muscle satellite cell
+CL_0000633|Hensen cell
+CL_0000634|Claudius cell
+CL_0000635|Deiter's cell
+CL_0000742|periarticular chondrocyte
+CL_0000778|mononuclear osteoclast
+CL_0000779|multinuclear osteoclast
+CL_0000780|multinuclear odontoclast
+CL_0000781|mononuclear odontoclast
+CL_0001035|bone cell
+CL_0001040|non-terminally differentiated osteoblast
+CL_0002001|CD34-positive, CD38-positive granulocyte monocyte progenitor
+CL_0002002|Kit-positive granulocyte monocyte progenitor
+CL_0002026|CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+CL_0002027|CD9-positive, CD41-positive megakaryocyte cell
+CL_0002084|Boettcher cell
+CL_0002092|bone marrow cell
+CL_0002096|internodal tract myocyte
+CL_0002148|dental pulp cell
+CL_0002157|endosteal cell
+CL_0002163|internal pillar cell of cochlea
+CL_0002164|external pillar cell of cochlea
+CL_0002165|phalangeal cell
+CL_0002168|border cell of cochlea
+CL_0002172|interdental cell of cochlea
+CL_0002210|red muscle cell
+CL_0002211|type I muscle cell
+CL_0002212|type II muscle cell
+CL_0002213|white muscle cell
+CL_0002214|type IIa muscle cell
+CL_0002215|type IIb muscle cell
+CL_0002216|intermediate muscle cell
+CL_0002240|marrow fibroblast
+CL_0002243|smooth muscle cell of sphincter of pupil
+CL_0002301|type B synovial cell
+CL_0002302|type A synovial cell
+CL_0002315|supporting cell of cochlea
+CL_0002476|bone marrow macrophage
+CL_0002490|organ of Corti supporting cell
+CL_0002539|aortic smooth muscle cell
+CL_0002540|mesenchymal stem cell of the bone marrow
+CL_0002556|fibroblast of periodontium
+CL_0002564|nucleus pulposus cell of intervertebral disc
+CL_0002572|vertebral mesenchymal stem cell
+CL_0002602|annulus pulposus cell
+CL_0002673|tongue muscle cell
+CL_0005015|inner phalangeal cell
+CL_0007000|preameloblast
+CL_0007002|precementoblast
+CL_0007003|preodontoblast
+CL_0007005|notochordal cell
+CL_0007007|notochordal sheath cell
+CL_0007008|notochordal vacuole cell
+CL_0007010|preosteoblast
+CL_0007012|non-terminally differentiated odontoblast
+CL_0007013|terminally differentiated odontoblast
+CL_0008002|skeletal muscle fiber
+CL_0008011|skeletal muscle satellite stem cell
+CL_0008012|quiescent skeletal muscle satellite cell
+CL_0008016|activated skeletal muscle satellite cell
+CL_0008017|adult skeletal muscle myoblast
+CL_0008020|skeletal muscle satellite myogenic cell
+CL_0010001|stromal cell of bone marrow
+CL_0010004|mononuclear cell of bone marrow
+CL_0010005|atrioventricular bundle cell
+CL_0010007|His-Purkinje system cell
+CL_0011114|segmented neutrophil of bone marrow
+CL_1000191|pillar cell
+CL_1000217|growth plate cartilage chondrocyte
+CL_1000287|myocyte of anterior internodal tract
+CL_1000288|myocyte of atrial branch of anterior internodal tract
+CL_1000289|myocyte of atrial septal branch of anterior internodal tract
+CL_1000290|myocyte of middle internodal tract
+CL_1000291|myocyte of posterior internodal tract
+CL_1000363|transitional myocyte of atrial branch of anterior internodal tract
+CL_1000364|transitional myocyte of anterior internodal tract
+CL_1000365|transitional myocyte of atrial septal branch of anterior internodal tract
+CL_1000366|transitional myocyte of middle internodal tract
+CL_1000367|transitional myocyte of posterior internodal tract
+CL_1000368|transitional myocyte of anterior division of left branch of atrioventricular bundle
+CL_1000369|transitional myocyte of septal division of left branch of atrioventricular bundle
+CL_1000370|transitional myocyte of left branch of atrioventricular bundle
+CL_1000371|transitional myocyte of right branch of atrioventricular bundle
+CL_1000372|transitional myocyte of atrial part of atrioventricular bundle
+CL_1000373|transitional myocyte of ventricular part of atrioventricular bundle
+CL_1000374|transitional myocyte of posterior division of left branch of atrioventricular bundle
+CL_1000375|myocardial endocrine cell of septal division of left branch of atrioventricular bundle
+CL_1000409|myocyte of sinoatrial node
+CL_1000410|myocyte of atrioventricular node
+CL_1000445|myoepithelial cell of dilator pupillae
+CL_1000477|cardiac pacemaker cell of sinoatrial node
+CL_1000478|transitional myocyte of sinoatrial node
+CL_1000479|Purkinje myocyte of atrioventricular node
+CL_1000480|transitional myocyte of internodal tract
+CL_1000481|transitional myocyte of atrioventricular bundle
+CL_1000483|Purkinje myocyte of internodal tract
+CL_1000484|Purkinje myocyte of atrioventricular bundle
+CL_1000702|kidney pelvis smooth muscle cell
+CL_1001607|articular chondrocyte
+CL_1001609|muscle fibroblast
+CL_1001610|bone marrow hematopoietic cell
+CL_2000007|articular chondrocyte of knee joint
+CL_2000017|fibroblast of peridontal ligament
+CL_2000057|femural osteoblast
+CL_2000058|calvarial osteoblast
+CL_2000077|skeletal muscle tissue of pectoralis major striated muscle cell
+CL_2000079|mesenchymal stem cell of femoral bone marrow
 UBERON_0000041|odontode scale
 UBERON_0000043|tendon
 UBERON_0000075|subdivision of skeletal system
@@ -11,6 +136,7 @@ UBERON_0000219|vertebral foramen of atlas
 UBERON_0000220|atlanto-occipital joint
 UBERON_0000221|supraauricular point
 UBERON_0000303|adductor longus
+UBERON_0000304|tendon sheath
 UBERON_0000311|extensor muscle
 UBERON_0000312|inner cambium layer of periosteum
 UBERON_0000313|portion of cartilage tissue in tibia
@@ -78,6 +204,7 @@ UBERON_0001127|serratus dorsalis inferior muscle
 UBERON_0001128|sternocleidomastoid
 UBERON_0001129|subscapularis muscle
 UBERON_0001130|vertebral column
+UBERON_0001131|vertebral foramen
 UBERON_0001133|cardiac muscle tissue
 UBERON_0001134|skeletal muscle tissue
 UBERON_0001135|smooth muscle tissue
@@ -575,6 +702,7 @@ UBERON_0004012|golgi tendon organ
 UBERON_0004057|skeletal muscle fiber triad
 UBERON_0004096|odontoid process of cervical vertebra 2
 UBERON_0004098|tibial plateaux
+UBERON_0004099|joint space of elbow
 UBERON_0004103|alveolar ridge
 UBERON_0004106|crus of ear
 UBERON_0004108|clivus of occipital bone
@@ -896,6 +1024,7 @@ UBERON_0004835|epididymis smooth muscle
 UBERON_0004858|cellular cartilage
 UBERON_0004865|actinopterygian parietal bone
 UBERON_0004866|actinopterygian frontal bone
+UBERON_0004867|orbital cavity
 UBERON_0004895|alveolar smooth muscle
 UBERON_0004905|articulation
 UBERON_0004915|sphincter of hepatopancreatic ampulla
@@ -1080,6 +1209,7 @@ UBERON_0006682|hypoglossal canal
 UBERON_0006683|posterior fontanelle
 UBERON_0006684|sphenoidal fontanelle
 UBERON_0006686|spinal vein
+UBERON_0006692|vertebral canal
 UBERON_0006713|foramen cecum of frontal bone
 UBERON_0006714|tibiofibula
 UBERON_0006715|radio-ulna
@@ -1188,6 +1318,7 @@ UBERON_0007522|striated muscle sphincter
 UBERON_0007612|extensor digitorum communis
 UBERON_0007613|extensor digitorum lateralis muscle
 UBERON_0007614|extensor digiti minimi muscle
+UBERON_0007617|synovial cavity of joint
 UBERON_0007618|synovial cavity of hip joint
 UBERON_0007652|esophageal sphincter
 UBERON_0007657|anular ligament of radius
@@ -1249,6 +1380,7 @@ UBERON_0007997|sesamoid bone of manus
 UBERON_0008000|sesamoid bone of pes
 UBERON_0008001|irregular bone
 UBERON_0008114|joint of girdle
+UBERON_0008115|surface of cartilage
 UBERON_0008124|joint articular surface
 UBERON_0008187|hypertrophic cartilage zone
 UBERON_0008188|tendon of biceps brachii
@@ -1444,6 +1576,7 @@ UBERON_0010054|malleus cartilage element
 UBERON_0010055|stapes cartilage element
 UBERON_0010059|hypoglossal cord
 UBERON_0010066|tympanic plate
+UBERON_0010076|network of trabecular spaces in bone tissue
 UBERON_0010129|femur cartilage element
 UBERON_0010131|conducting tissue of heart
 UBERON_0010155|parietomastoid suture
@@ -1723,6 +1856,7 @@ UBERON_0011136|ligament of vertebral column
 UBERON_0011137|axial skeletal system
 UBERON_0011138|postcranial axial skeletal system
 UBERON_0011139|synovial limb joint
+UBERON_0011140|superficial part of masseter muscle
 UBERON_0011141|appendicular ossicle
 UBERON_0011142|axial ossicle
 UBERON_0011144|adductor muscle of hip
@@ -1757,6 +1891,8 @@ UBERON_0011218|spinalis cervicis muscle
 UBERON_0011219|longissimus lumborum muscle
 UBERON_0011220|mastoid process of temporal bone
 UBERON_0011222|intra-ocular muscle
+UBERON_0011233|synovial membrane of synovial tendon sheath
+UBERON_0011234|fibrous membrane of synovial tendon sheath
 UBERON_0011236|deep fascia
 UBERON_0011237|visceral fascia
 UBERON_0011238|mesethmoid bone
@@ -1776,10 +1912,15 @@ UBERON_0011271|caudal-sacral region of vertebral column
 UBERON_0011287|rostral organ
 UBERON_0011289|pharyngobasilar fascia
 UBERON_0011301|manubrium sternum pre-cartilage condensation
+UBERON_0011305|superficial part of temporalis
+UBERON_0011306|deep part of temporalis
 UBERON_0011307|suprazygomatic part of temporalis
+UBERON_0011308|pars reflexa of masseter
 UBERON_0011309|body of mandible
 UBERON_0011310|masseteric fossa
 UBERON_0011312|hyoepiglottic muscle
+UBERON_0011313|posterior subdivision of masseter
+UBERON_0011314|anterior subdivision of masseter
 UBERON_0011318|capsule of temporomandibular joint
 UBERON_0011319|disk of temporomandibular joint
 UBERON_0011320|ligament of temporomandibular joint
@@ -1904,6 +2045,8 @@ UBERON_0011687|levator hyomandibulae muscle
 UBERON_0011688|pre-enameloid
 UBERON_0011692|enameloid
 UBERON_0011770|mentomeckelian
+UBERON_0011772|lower jaw opening
+UBERON_0011773|upper jaw opening
 UBERON_0011792|feather muscle
 UBERON_0011863|bone collagen fibril
 UBERON_0011864|tendon collagen fibril
@@ -1974,6 +2117,7 @@ UBERON_0012110|frontal process of zygomatic bone
 UBERON_0012111|diastema
 UBERON_0012115|dental comb
 UBERON_0012116|nutrient foramen conduit
+UBERON_0012117|lumen of nutrient foramen
 UBERON_0012118|infraspinatus tendon
 UBERON_0012119|vinculum tendon of wing
 UBERON_0012120|vinculum of tendon
@@ -2759,6 +2903,12 @@ UBERON_0035964|promontory of tympanic cavity
 UBERON_0035967|alveolar mucosa
 UBERON_0036071|diaphragmaticus muscle
 UBERON_0036144|incisive duct
+UBERON_0036147|oral siphon muscle
+UBERON_0036148|orovelar muscle
+UBERON_0036172|palmaris brevis
+UBERON_0036173|abductor digiti minimi of hand
+UBERON_0036174|flexor digiti minimi brevis of hand
+UBERON_0036176|opponens digiti minimi of hand
 UBERON_1500000|scapular blade
 UBERON_1500005|ischial cartilage
 UBERON_1500006|paired fin radial bone
@@ -3713,6 +3863,7 @@ UBERON_2205384|dorsal fin proximal radial cartilage 7
 UBERON_2205385|dorsal fin proximal radial cartilage 8
 UBERON_3000002|alary cartilage
 UBERON_3000003|alary process of premaxilla
+UBERON_3000006|alveolar foramen
 UBERON_3000012|angulosplenial coronoid process
 UBERON_3000015|anterior maxillary process
 UBERON_3000016|anterior nasal wall
@@ -3864,6 +4015,7 @@ UBERON_3000590|supraorbital flange
 UBERON_3000591|suprasphenoid
 UBERON_3000599|taenia tecti marginalis
 UBERON_3000601|tectum nasi
+UBERON_3000605|tentacular foramen
 UBERON_3000610|trochlear foramen
 UBERON_3000619|tympanosquamosal
 UBERON_3000628|ventral ramus of squamosal
@@ -4569,3 +4721,4 @@ UBERON_5112260|alular digit digitopodial skeleton
 UBERON_5112261|manual major digit (Aves) digitopodial skeleton
 UBERON_5112262|manual minor digit (Aves) digitopodial skeleton
 UBERON_6003218|adult muscle system
+UBERON_6003259|adult somatic muscle

@@ -1,3 +1,69 @@
+CL_0000082|epithelial cell of lung
+CL_0000158|Clara cell
+CL_0000307|tracheal epithelial cell
+CL_0000322|pneumocyte
+CL_0000853|olfactory epithelial support cell
+CL_0000869|tonsillar macrophage
+CL_0000886|nasal and broncial associated lymphoid tissue macrophage
+CL_0002062|type I pneumocyte
+CL_0002063|type II pneumocyte
+CL_0002075|brush cell of trachebronchial tree
+CL_0002145|ciliated columnar cell of tracheobronchial tree
+CL_0002169|basal cell of olfactory epithelium
+CL_0002171|globose cell of olfactory epithelium
+CL_0002184|basal proper cell of olfactory epithelium
+CL_0002202|epithelial cell of tracheobronchial tree
+CL_0002205|brush cell of lobular bronchiole
+CL_0002206|brush cell of terminal bronchiole
+CL_0002207|brush cell of trachea
+CL_0002208|brush cell of bronchus
+CL_0002209|intermediate epitheliocyte
+CL_0002241|pulmonary interstitial fibroblast
+CL_0002328|bronchial epithelial cell
+CL_0002329|basal epithelial cell of tracheobronchial tree
+CL_0002330|undifferentiated cell of bronchus epithelium
+CL_0002332|ciliated cell of the bronchus
+CL_0002368|respiratory epithelial cell
+CL_0002370|respiratory goblet cell
+CL_0002480|nasal mucosa goblet cell
+CL_0002553|fibroblast of lung
+CL_0002598|bronchial smooth muscle cell
+CL_0002600|smooth muscle cell of trachea
+CL_0002631|epithelial cell of upper respiratory tract
+CL_0002632|epithelial cell of lower respiratory tract
+CL_0002633|respiratory basal cell
+CL_0002638|bronchioalveolar stem cell
+CL_0008026|open tracheal system tracheocyte
+CL_0010003|epithelial cell of alveolus of lung
+CL_1000143|lung goblet cell
+CL_1000223|lung neuroendocrine cell
+CL_1000271|lung ciliated cell
+CL_1000272|lung secretory cell
+CL_1000312|bronchial goblet cell
+CL_1000329|tracheal goblet cell
+CL_1000330|serous cell of epithelium of trachea
+CL_1000331|serous cell of epithelium of bronchus
+CL_1000332|serous cell of epithelium of terminal bronchiole
+CL_1000333|serous cell of epithelium of lobular bronchiole
+CL_1000337|enterocyte of epithelium of duodenal gland
+CL_1000348|basal cell of epithelium of trachea
+CL_1000349|basal cell of epithelium of bronchus
+CL_1000350|basal cell of epithelium of terminal bronchiole
+CL_1000351|basal cell of epithelium of respiratory bronchiole
+CL_1000352|basal cell of epithelium of lobular bronchiole
+CL_1000377|dense-core granulated cell of epithelium of trachea
+CL_1000491|mesothelial cell of pleura
+CL_1000492|mesothelial cell of parietal pleura
+CL_1000493|mesothelial cell of visceral pleura
+CL_1001566|bronchioalveolar stem cells
+CL_1001567|lung endothelial cell
+CL_1001573|nasopharyngeal epithelial cell
+CL_1001577|tonsil squamous cell
+CL_1001603|lung macrophage
+CL_2000006|tonsil germinal center B cell
+CL_2000016|lung microvascular endothelial cell
+CL_2000093|bronchus fibroblast of lung
+CL_2000094|nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa
 UBERON_0000031|lamina propria of trachea
 UBERON_0000065|respiratory tract
 UBERON_0000072|proximo-distal subdivision of respiratory tract
@@ -91,16 +157,11 @@ UBERON_0002373|palatine tonsil
 UBERON_0002375|cricoid cartilage
 UBERON_0002400|parietal pleura
 UBERON_0002401|visceral pleura
+UBERON_0002402|pleural cavity
 UBERON_0002453|ethmoid sinus
 UBERON_0002486|glottis
 UBERON_0002535|gill
-UBERON_0002539|pharyngeal arch
-UBERON_0003066|pharyngeal arch 2
 UBERON_0003091|thyroid primordium
-UBERON_0003114|pharyngeal arch 3
-UBERON_0003115|pharyngeal arch 4
-UBERON_0003116|pharyngeal arch 5
-UBERON_0003117|pharyngeal arch 6
 UBERON_0003118|pharyngeal arch artery 1
 UBERON_0003119|pharyngeal arch artery 2
 UBERON_0003120|pharyngeal arch artery 3
@@ -165,14 +226,12 @@ UBERON_0003831|respiratory system muscle
 UBERON_0003948|blood-air barrier
 UBERON_0003949|tubal tonsil
 UBERON_0004110|midnasal cavity
-UBERON_0004117|pharyngeal pouch
 UBERON_0004225|respiratory system smooth muscle
 UBERON_0004233|lower respiratory tract smooth muscle
 UBERON_0004241|main bronchus smooth muscle
 UBERON_0004242|bronchus smooth muscle
 UBERON_0004296|respiratory system lymphatic vessel smooth muscle
 UBERON_0004297|respiratory system blood vessel smooth muscle
-UBERON_0004362|pharyngeal arch 1
 UBERON_0004363|pharyngeal arch artery
 UBERON_0004368|Reichert's cartilage
 UBERON_0004478|musculature of larynx
@@ -254,12 +313,6 @@ UBERON_0005562|thymus primordium
 UBERON_0005639|right lung cranial lobe epithelium
 UBERON_0005640|right lung caudal lobe epithelium
 UBERON_0005655|right lung accessory lobe epithelium
-UBERON_0005660|2nd arch ectoderm
-UBERON_0005661|3rd arch ectoderm
-UBERON_0005662|4th arch ectoderm
-UBERON_0005664|2nd arch endoderm
-UBERON_0005665|3rd arch endoderm
-UBERON_0005666|4th arch endoderm
 UBERON_0005672|right lung endothelium
 UBERON_0005673|left lung endothelium
 UBERON_0005674|right lung cranial lobe endothelium
@@ -270,15 +323,11 @@ UBERON_0005679|right lung caudal lobe segmental bronchus
 UBERON_0005680|right lung accessory lobe segmental bronchus
 UBERON_0005681|right lung upper lobe bronchiole
 UBERON_0005682|right lung accessory lobe bronchiole
-UBERON_0005689|2nd arch mesenchyme
-UBERON_0005690|3rd arch mesenchyme
-UBERON_0005691|4th arch mesenchyme
 UBERON_0005872|1st arch pharyngeal cleft
 UBERON_0005873|2nd arch pharyngeal cleft
 UBERON_0005874|3rd arch pharyngeal cleft
 UBERON_0005875|4th arch pharyngeal cleft
 UBERON_0005879|pharyngeal cleft
-UBERON_0006216|cervical sinus of His
 UBERON_0006257|laryngotracheal groove
 UBERON_0006325|laryngeal intrinsic ligament
 UBERON_0006326|base of arytenoid
@@ -293,26 +342,19 @@ UBERON_0006670|central tendon of diaphragm
 UBERON_0006679|carina of trachea
 UBERON_0006680|trachealis
 UBERON_0006685|pharyngeal tubercle
-UBERON_0007122|pharyngeal pouch 1
-UBERON_0007123|pharyngeal pouch 2
-UBERON_0007124|pharyngeal pouch 3
-UBERON_0007125|pharyngeal pouch 4
-UBERON_0007126|pharyngeal pouch 5
-UBERON_0007127|pharyngeal pouch 6
+UBERON_0006832|lumen of open tracheal system trachea
+UBERON_0006833|lumen of trachea
 UBERON_0007145|dome of diaphragm
 UBERON_0007161|medial arcuate ligament
 UBERON_0007162|lateral arcuate ligament
 UBERON_0007166|left dome of diaphragm
 UBERON_0007167|right dome of diaphragm
 UBERON_0007196|tracheobronchial tree
-UBERON_0007237|1st arch mandibular component
-UBERON_0007238|1st arch maxillary component
 UBERON_0007250|lingual tonsil
 UBERON_0007267|trachea pre-cartilage rings
 UBERON_0007303|pharyngeal vasculature
 UBERON_0007311|sputum
 UBERON_0007689|thyroid diverticulum
-UBERON_0007690|early pharyngeal endoderm
 UBERON_0008310|nasopharyngeal gland
 UBERON_0008397|tracheobronchial epithelium
 UBERON_0008572|posterior crico-arytenoid
@@ -322,7 +364,6 @@ UBERON_0008575|oblique arytenoid
 UBERON_0008576|thyro-arytenoid
 UBERON_0008577|vocalis muscle
 UBERON_0008804|stylopharyngeus muscle
-UBERON_0008814|pharyngeal arch system
 UBERON_0008815|pharyngeal slit
 UBERON_0008817|thymus primordium endoderm
 UBERON_0008870|pulmonary alveolar parenchyma
@@ -330,7 +371,6 @@ UBERON_0008873|alveolar pore
 UBERON_0008874|pulmonary acinus
 UBERON_0008891|external gill
 UBERON_0008892|internal gill
-UBERON_0008896|post-hyoid pharyngeal arch
 UBERON_0008946|lung parenchyma
 UBERON_0008948|upper lobe of lung
 UBERON_0008949|lower lobe of lung
@@ -362,18 +402,10 @@ UBERON_0009078|pessulus
 UBERON_0009116|thymoid
 UBERON_0009119|branchial basket
 UBERON_0009120|gill filament
-UBERON_0009145|pharyngeal region of foregut
-UBERON_0009210|pharyngeal membrane
-UBERON_0009213|pharyngeal membrane of 1st arch
-UBERON_0009215|pharyngeal membrane of 2nd arch
-UBERON_0009216|pharyngeal membrane of 3rd arch
-UBERON_0009217|pharyngeal membrane of 4th arch
-UBERON_0009494|pharyngeal arch mesenchymal region
 UBERON_0009504|mesenchyme of main bronchus
 UBERON_0009505|mesenchyme of trachea
 UBERON_0009536|vascular element of left lung
 UBERON_0009537|vascular element of right lung
-UBERON_0009584|1st arch mandibular mesenchyme
 UBERON_0009602|left lung associated mesenchyme
 UBERON_0009603|right lung associated mesenchyme
 UBERON_0009644|trachea non-cartilage connective tissue
@@ -382,28 +414,14 @@ UBERON_0009653|trachea basement membrane
 UBERON_0009671|nasal fin
 UBERON_0009672|oronasal membrane
 UBERON_0009695|epithelium of laryngopharynx
-UBERON_0009722|entire pharyngeal arch endoderm
 UBERON_0009778|pleural sac
 UBERON_0009867|Hatschek's diverticulum
 UBERON_0009868|Hatschek's left diverticulum
 UBERON_0009869|Hatschek's right diverticulum
 UBERON_0009948|clavicular air sac
+UBERON_0009959|lumen of oropharynx
 UBERON_0010002|pulmonary neuroendocrine body
 UBERON_0010019|spiracle (sensu Vertebrata)
-UBERON_0010021|dorsal part of pharyngeal pouch 1
-UBERON_0010022|ventral part of pharyngeal pouch 1
-UBERON_0010023|dorsal part of pharyngeal pouch 2
-UBERON_0010024|ventral part of pharyngeal pouch 2
-UBERON_0010025|dorsal part of pharyngeal pouch 3
-UBERON_0010026|ventral part of pharyngeal pouch 3
-UBERON_0010027|dorsal part of pharyngeal pouch 4
-UBERON_0010028|ventral part of pharyngeal pouch 4
-UBERON_0010029|dorsal part of pharyngeal pouch 5
-UBERON_0010030|ventral part of pharyngeal pouch 5
-UBERON_0010031|6th arch mesenchyme
-UBERON_0010042|1st arch mesenchyme
-UBERON_0010045|1st arch maxillary mesenchyme
-UBERON_0010046|entire pharyngeal arch associated mesenchyme
 UBERON_0010060|pharyngeal opening of pharyngotympanic tube
 UBERON_0010061|lumen of nasopharynx
 UBERON_0010212|laryngeal apparatus
@@ -414,22 +432,6 @@ UBERON_0010219|thyroid pre-cartilage condensation
 UBERON_0010220|arytenoid pre-cartilage condensation
 UBERON_0010221|laryngeal associated mesenchyme
 UBERON_0010234|palatopharyngeus muscle
-UBERON_0010252|1st arch mandibular mesenchyme from neural crest
-UBERON_0010253|1st arch maxillary mesenchyme from neural crest
-UBERON_0010254|2nd arch mesenchyme from neural crest
-UBERON_0010255|3rd arch mesenchyme from neural crest
-UBERON_0010256|4th arch mesenchyme from neural crest
-UBERON_0010257|6th arch mesenchyme from neural crest
-UBERON_0010259|1st arch mesenchyme from neural crest
-UBERON_0010338|1st arch maxillary mesenchyme from head mesenchyme
-UBERON_0010339|1st arch mandibular mesenchyme from head mesenchyme
-UBERON_0010341|1st arch mesenchyme from head mesenchyme
-UBERON_0010343|2nd arch mesenchyme from head mesenchyme
-UBERON_0010344|3rd arch mesenchyme from head mesenchyme
-UBERON_0010345|4th arch mesenchyme from head mesenchyme
-UBERON_0010347|6th arch mesenchyme from head mesenchyme
-UBERON_0010359|pharyngeal arch mesenchyme from neural crest
-UBERON_0010360|pharyngeal arch mesenchyme from head mesenchyme
 UBERON_0010368|pulmonary lobule
 UBERON_0010369|secondary pulmonary lobule
 UBERON_0010384|lumen of laryngopharynx
@@ -441,7 +443,6 @@ UBERON_0010936|thyropharyngeus muscle
 UBERON_0010937|salpingopharyngeus muscle
 UBERON_0010958|arytenoid muscle
 UBERON_0011025|aryepiglotticus muscle
-UBERON_0011087|pharyngeal arch 7
 UBERON_0011148|submucosal gland
 UBERON_0011150|pharyngeal arch derived gill
 UBERON_0011157|cuneiform cartilage
@@ -453,7 +454,6 @@ UBERON_0011495|rectus thoracis muscle
 UBERON_0011623|horn of thyroid cartilage
 UBERON_0011624|superior horn of thyroid cartilage
 UBERON_0011625|inferior horn of thyroid cartilage
-UBERON_0011638|pharyngeal arch 8
 UBERON_0011862|pulmonary collagen fibril
 UBERON_0011985|infraorbital sinus
 UBERON_0012055|left lung lower lobe bronchiole
@@ -475,13 +475,9 @@ UBERON_0012100|appendicocostalis muscle
 UBERON_0012121|respiratory velum
 UBERON_0012181|tonsil crypt
 UBERON_0012278|gland of nasal mucosa
-UBERON_0012313|1st arch maxillary ectoderm
 UBERON_0012330|nasal-associated lymphoid tissue
 UBERON_0012416|respiratory system arterial smooth muscle
 UBERON_0013074|cornual diverticulum
-UBERON_0013154|1st arch maxillary endoderm
-UBERON_0013155|1st arch mandibular ectoderm
-UBERON_0013156|1st arch mandibular endoderm
 UBERON_0013157|1st arch maxillary-mandibular cleft
 UBERON_0013167|cricopharyngeal ligament
 UBERON_0013168|thyroepiglottic ligament
@@ -492,7 +488,7 @@ UBERON_0013172|cricotracheal ligament
 UBERON_0013175|nasal air sac
 UBERON_0013233|supraorbital gland
 UBERON_0013479|lung endothelium
-UBERON_0013502|5th arch mesenchyme
+UBERON_0013653|velar skeleton
 UBERON_0013688|tonsil germinal center
 UBERON_0013696|tonsil epithelium
 UBERON_0014372|fibroelastic membrane of larynx
@@ -531,7 +527,12 @@ UBERON_0034971|aortic body
 UBERON_0035077|lateral nasal gland
 UBERON_0035120|fauces
 UBERON_0035228|tonsillar fossa
+UBERON_0035240|posterior wall of oropharynx
 UBERON_0035270|roof of nasopharynx
+UBERON_0035286|lateral wall of oropharynx
+UBERON_0035313|posterior wall of laryngopharynx
+UBERON_0035383|lateral wall of nasopharynx
+UBERON_0035401|posterior wall of nasopharynx
 UBERON_0035431|mediastinal pleura
 UBERON_0035453|laryngeal ventricle
 UBERON_0035468|costodiaphragmatic recess
@@ -545,7 +546,6 @@ UBERON_2000211|gill lamella
 UBERON_2000319|branchiostegal membrane
 UBERON_2000666|filamental artery
 UBERON_2000716|afferent portion of pharyngeal arch artery
-UBERON_2001129|pharyngeal pouches 2-6
 UBERON_2001467|pharyngeal mesoderm
 UBERON_2001857|hyoidean artery
 UBERON_2001990|epibranchial arborescent organ
@@ -574,3 +574,4 @@ UBERON_3010200|vasculature of respiratory integument
 UBERON_3010524|bronchial tube
 UBERON_3010613|laryngo-tracheal chamber
 UBERON_3010614|cartilago lateralis of aryngo-tracheal chamber
+UBERON_6005054|spiracle

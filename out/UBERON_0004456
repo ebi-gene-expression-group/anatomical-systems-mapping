@@ -1,3 +1,135 @@
+CL_0000202|auditory hair cell
+CL_0000207|olfactory receptor cell
+CL_0000287|eye photoreceptor cell
+CL_0000347|scleral cell
+CL_0000348|choroidal cell of the eye
+CL_0000573|retinal cone cell
+CL_0000575|corneal epithelial cell
+CL_0000589|cochlear inner hair cell
+CL_0000601|outer hair cell
+CL_0000604|retinal rod cell
+CL_0000633|Hensen cell
+CL_0000634|Claudius cell
+CL_0000635|Deiter's cell
+CL_0000687|R1 photoreceptor cell
+CL_0000690|R2 photoreceptor cell
+CL_0000694|R3 photoreceptor cell
+CL_0000697|R4 photoreceptor cell
+CL_0000702|R5 photoreceptor cell
+CL_0000705|R6 photoreceptor cell
+CL_0000707|R7 photoreceptor cell
+CL_0000709|R8 photoreceptor cell
+CL_0000718|compound eye cone cell
+CL_0000719|posterior cone cell (sensu Endopterygota)
+CL_0000720|anterior cone cell (sensu Endopterygota)
+CL_0000721|equatorial cone cell (sensu Endopterygota)
+CL_0000740|retinal ganglion cell
+CL_0000745|retina horizontal cell
+CL_0000748|retinal bipolar neuron
+CL_0000749|ON-bipolar cell
+CL_0000750|OFF-bipolar cell
+CL_0000751|rod bipolar cell
+CL_0000752|cone retinal bipolar cell
+CL_0000753|type 1 cone bipolar cell (sensu Mus)
+CL_0000754|type 2 cone bipolar cell (sensu Mus)
+CL_0000755|type 3 cone bipolar cell (sensu Mus)
+CL_0000756|type 4 cone bipolar cell (sensu Mus)
+CL_0000757|type 5 cone bipolar cell (sensu Mus)
+CL_0000758|type 6 cone bipolar cell (sensu Mus)
+CL_0000759|type 7 cone bipolar cell (sensu Mus)
+CL_0000760|type 8 cone bipolar cell (sensu Mus)
+CL_0000761|type 9 cone bipolar cell (sensu Mus)
+CL_0000847|ciliated olfactory receptor neuron
+CL_0000848|microvillous olfactory receptor neuron
+CL_0000849|crypt olfactory receptor neuron
+CL_0000851|neuromast mantle cell
+CL_0000852|neuromast support cell
+CL_0000853|olfactory epithelial support cell
+CL_0000856|neuromast hair cell
+CL_0002084|Boettcher cell
+CL_0002162|internal epithelial cell of tympanic membrane
+CL_0002163|internal pillar cell of cochlea
+CL_0002164|external pillar cell of cochlea
+CL_0002165|phalangeal cell
+CL_0002168|border cell of cochlea
+CL_0002169|basal cell of olfactory epithelium
+CL_0002171|globose cell of olfactory epithelium
+CL_0002172|interdental cell of cochlea
+CL_0002184|basal proper cell of olfactory epithelium
+CL_0002222|vertebrate lens cell
+CL_0002223|anterior lens cell
+CL_0002224|lens epithelial cell
+CL_0002225|secondary lens fiber
+CL_0002226|non-nucleated secondary lens fiber
+CL_0002227|nucleated secondary lens fiber
+CL_0002228|primary lens fiber
+CL_0002243|smooth muscle cell of sphincter of pupil
+CL_0002314|external supporting cell of vestibular epithelium
+CL_0002315|supporting cell of cochlea
+CL_0002316|supporting cell of vestibular epithelium
+CL_0002317|external limiting cell of vestibular epithelium
+CL_0002363|keratocyte
+CL_0002367|trabecular meshwork cell
+CL_0002480|nasal mucosa goblet cell
+CL_0002485|retinal melanocyte
+CL_0002486|strial intermediate cell
+CL_0002490|organ of Corti supporting cell
+CL_0002493|strial basal cell
+CL_0002550|fibroblast of the conjunctiva
+CL_0002565|iris pigment epithelial cell
+CL_0002585|retinal blood vessel endothelial cell
+CL_0002586|retinal pigment epithelial cell
+CL_0002665|otic fibrocyte
+CL_0002666|type 2 otic fibrocyte
+CL_0002667|type 5 otic fibrocyte
+CL_0002668|type 4 otic fibrocyte
+CL_0002669|type 3 otic fibrocyte
+CL_0002670|type 1 otic fibrocyte
+CL_0005008|macular hair cell
+CL_0005015|inner phalangeal cell
+CL_0008021|anterior lateral line ganglion neuron
+CL_0009001|compound eye retinal cell
+CL_0009004|retinal cell
+CL_0010009|camera-type eye photoreceptor cell
+CL_0011004|lens fiber cell
+CL_0011104|interplexiform cell
+CL_0011105|dopamanergic interplexiform cell
+CL_0011106|GABAnergic interplexiform cell
+CL_0011107|Muller cell
+CL_0011113|spiral ganglion neuron
+CL_1000050|lateral line nerve glial cell
+CL_1000191|pillar cell
+CL_1000236|posterior lateral line nerve glial cell
+CL_1000239|anterior lateral line nerve glial cell
+CL_1000245|posterior lateral line ganglion neuron
+CL_1000379|type 1 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth
+CL_1000380|type 1 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth
+CL_1000381|type 1 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth
+CL_1000383|type 2 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth
+CL_1000384|type 2 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth
+CL_1000385|type 2 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth
+CL_1000391|melanocyte of eyelid
+CL_1000432|conjunctival epithelial cell
+CL_1000433|epithelial cell of lacrimal canaliculus
+CL_1000434|epithelial cell of external acoustic meatus
+CL_1000435|epithelial cell of lacrimal duct
+CL_1000436|epithelial cell of lacrimal sac
+CL_1000437|epithelial cell of nasolacrimal duct
+CL_1000443|ciliary muscle cell
+CL_1000444|mesothelial cell of anterior chamber of eye
+CL_1000445|myoepithelial cell of dilator pupillae
+CL_1001561|vomeronasal sensory neuron
+CL_2000019|compound eye photoreceptor cell
+CL_2000031|lateral line ganglion neuron
+CL_2000034|anterior lateral line neuromast hair cell
+CL_2000035|anterior lateral line neuromast mantle cell
+CL_2000036|anterior lateral line neuromast support cell
+CL_2000037|posterior lateral line neuromast hair cell
+CL_2000038|posterior lateral line neuromast mantle cell
+CL_2000039|posterior lateral line neuromast support cell
+CL_2000070|optic choroid fibroblast
+CL_2000084|conjunctiva goblet cell
+CL_2000094|nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa
 UBERON_0000003|naris
 UBERON_0000004|nose
 UBERON_0000005|chemosensory organ
@@ -101,6 +233,7 @@ UBERON_0001799|vitreous chamber of eyeball
 UBERON_0001801|anterior segment of eyeball
 UBERON_0001802|posterior segment of eyeball
 UBERON_0001803|epithelium of lens
+UBERON_0001804|capsule of lens
 UBERON_0001811|conjunctiva
 UBERON_0001812|palpebral conjunctiva
 UBERON_0001817|lacrimal gland
@@ -254,6 +387,8 @@ UBERON_0003926|photoreceptor outer segment layer
 UBERON_0003942|somatic sensory system
 UBERON_0003950|inner ear canal
 UBERON_0003951|ocular fundus
+UBERON_0003952|anterior stroma of cornea
+UBERON_0003953|posterior stroma of cornea
 UBERON_0003956|aqueous drainage system
 UBERON_0003957|Bruch's membrane
 UBERON_0003966|gonial bone
@@ -269,6 +404,7 @@ UBERON_0004101|nasolabial region
 UBERON_0004106|crus of ear
 UBERON_0004110|midnasal cavity
 UBERON_0004113|muscle of auditory ossicle
+UBERON_0004114|tympanic cavity
 UBERON_0004115|blood vessel of tympanic cavity
 UBERON_0004116|nerve of tympanic cavity
 UBERON_0004118|vasculature of iris
@@ -288,6 +424,7 @@ UBERON_0004692|external naris epithelium
 UBERON_0004694|Harderian gland epithelium
 UBERON_0004721|crista ampullaris
 UBERON_0004724|medial palpebral ligament
+UBERON_0004727|cochlear nerve
 UBERON_0004771|posterior nasal aperture
 UBERON_0004772|eyelid tarsus
 UBERON_0004773|superior eyelid tarsus
@@ -409,6 +546,9 @@ UBERON_0007276|crista of ampulla of lateral semicircular duct of membranous layb
 UBERON_0007352|stria vascularis vasculature
 UBERON_0007354|cartilage of pharyngotympanic tube
 UBERON_0007355|bony part of pharyngotympanic tube
+UBERON_0007367|surface of tongue
+UBERON_0007371|superior surface of tongue
+UBERON_0007373|inferior surface of tongue
 UBERON_0007374|incus cartilage element
 UBERON_0007619|limiting membrane of retina
 UBERON_0007622|pecten oculi
@@ -712,6 +852,7 @@ UBERON_0022274|lacrimal papilla
 UBERON_0022279|strand of hair on external ear
 UBERON_0022284|lacrimal gland bud
 UBERON_0022287|tear film
+UBERON_0022288|surface of eyeball
 UBERON_0022434|primary superior olive
 UBERON_0022437|dorsal periolivary nucleus
 UBERON_0023094|posterodorsal nucleus of medial geniculate body
@@ -748,6 +889,8 @@ UBERON_0035930|retro-olivary nucleus
 UBERON_0035941|Kimura membrane
 UBERON_0035964|promontory of tympanic cavity
 UBERON_0035966|scleral lamina cribrosa
+UBERON_0036167|Sattler's layer
+UBERON_0036168|Haller's layer
 UBERON_1000004|collection of hair on external ear
 UBERON_1000005|external ear margin
 UBERON_1000012|nose anterior margin

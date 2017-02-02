@@ -1,3 +1,99 @@
+CL_0000155|peptic cell
+CL_0000162|parietal cell
+CL_0000508|type G enteroendocrine cell
+CL_0000510|paneth cell
+CL_0000577|type EC enteroendocrine cell
+CL_0000584|enterocyte
+CL_0000865|gastrointestinal tract (lamina propria) macrophage
+CL_0000870|Peyer's patch macrophage
+CL_0002071|enterocyte of epithelium of large intestine
+CL_0002178|epithelial cell of stomach
+CL_0002179|foveolar cell of stomach
+CL_0002180|mucous cell of stomach
+CL_0002181|mucus neck cell of gastric gland
+CL_0002182|surface mucosal cell of stomach
+CL_0002183|stem cell of gastric gland
+CL_0002203|Brush cell of epithelium proper of large intestine
+CL_0002250|intestinal crypt stem cell
+CL_0002253|epithelial cell of large intestine
+CL_0002254|epithelial cell of small intestine
+CL_0002264|type A cell of stomach
+CL_0002265|type D cell of colon
+CL_0002266|type D cell of small intestine
+CL_0002267|type D cell of stomach
+CL_0002270|type EC2 enteroendocrine cell
+CL_0002271|type EC1 enteroendocrine cell
+CL_0002273|type ECL enteroendocrine cell
+CL_0002402|Peyer's patch B cell
+CL_0002502|type M enteroendocrine cell
+CL_0002504|enteric smooth muscle cell
+CL_0002563|intestinal epithelial cell
+CL_0002624|paneth cell of the appendix
+CL_0002634|epithelial cell of anal column
+CL_0002635|nonkeratinized epithelial cell of anal column
+CL_0002636|nonkeratinized epithelial cell of inferior part of anal canal
+CL_0002637|keratinized epithelial cell of the anal canal
+CL_0002658|glandular cell of the large intestine
+CL_0002659|glandular cell of stomach
+CL_0002680|PP cell of intestine
+CL_0011108|colon epithelial cell
+CL_1000222|stomach neuroendocrine cell
+CL_1000275|smooth muscle cell of small intestine
+CL_1000276|smooth muscle fiber of duodenum
+CL_1000277|smooth muscle fiber of jejunum
+CL_1000278|smooth muscle fiber of ileum
+CL_1000279|smooth muscle cell of large intestine
+CL_1000280|smooth muscle cell of colon
+CL_1000281|smooth muscle cell of cecum
+CL_1000282|smooth muscle fiber of ascending colon
+CL_1000283|smooth muscle fiber of transverse colon
+CL_1000284|smooth muscle fiber of descending colon
+CL_1000285|smooth muscle cell of sigmoid colon
+CL_1000286|smooth muscle cell of rectum
+CL_1000313|gastric goblet cell
+CL_1000314|gastric cardiac gland goblet cell
+CL_1000315|principal gastric gland goblet cell
+CL_1000317|intestinal villus goblet cell
+CL_1000320|large intestine goblet cell
+CL_1000321|large intestine crypt goblet cell
+CL_1000323|pylroric gastric gland goblet cell
+CL_1000324|duodenal goblet cell
+CL_1000325|jejunal goblet cell
+CL_1000326|ileal goblet cell
+CL_1000327|appendix goblet cell
+CL_1000334|enterocyte of epithelium of small intestine
+CL_1000335|enterocyte of epithelium of intestinal villus
+CL_1000337|enterocyte of epithelium of duodenal gland
+CL_1000338|enterocyte of epithelium of crypt of Lieberkuhn of small intestine
+CL_1000339|enterocyte of epithelium proper of small intestine
+CL_1000340|enterocyte of epithelium proper of duodenum
+CL_1000341|enterocyte of epithelium proper of jejunum
+CL_1000342|enterocyte of epithelium proper of ileum
+CL_1000343|paneth cell of epithelium of small intestine
+CL_1000344|paneth cell of epithelium proper of small intestine
+CL_1000345|paneth cell of epithelium of crypt of Lieberkuhn of small intestine
+CL_1000346|vacuolar absorptive cell of epithelium proper of large intestine
+CL_1000347|vacuolar absorptive cell of epithelium of colon
+CL_1000353|microfold cell of epithelium of small intestine
+CL_1000354|microfold cell of epithelium of intestinal villus
+CL_1000355|microfold cell of epithelium proper of small intestine
+CL_1000356|microfold cell of epithelium proper of duodenum
+CL_1000357|microfold cell of epithelium proper of jejunum
+CL_1000358|microfold cell of epithelium proper of ileum
+CL_1000359|microfold cell of epithelium proper of appendix
+CL_1000360|microfold cell of epithelium proper of large intestine
+CL_1000405|epithelial cell of appendix
+CL_1000411|endothelial cell of Peyer's patch
+CL_1000438|epithelial cell of wall of inferior part of anal canal
+CL_1000495|small intestine goblet cell
+CL_1001516|intestinal enteroendocrine cell
+CL_1001517|stomach enteroendocrine cell
+CL_1001572|colon endothelial cell
+CL_1001585|appendix glandular cell
+CL_1001588|colon glandular cell
+CL_1001589|duodenum glandular cell
+CL_1001595|rectum glandular cell
+CL_1001598|small intestine glandular cell
 UBERON_0000059|large intestine
 UBERON_0000159|anal canal
 UBERON_0000160|intestine
@@ -97,6 +193,7 @@ UBERON_0004222|stomach smooth muscle
 UBERON_0004226|gastrointestinal system smooth muscle
 UBERON_0004239|small intestine smooth muscle
 UBERON_0004550|gastroesophageal sphincter
+UBERON_0004648|esophagus muscularis mucosa
 UBERON_0004693|Peyer's patch epithelium
 UBERON_0004697|Peyer's patch germinal center
 UBERON_0004757|rectal salt gland
@@ -148,9 +245,13 @@ UBERON_0005712|midgut duodenum mesentery
 UBERON_0006293|spleen primordium
 UBERON_0006359|mesoduodenum
 UBERON_0006574|pectinate line
+UBERON_0006676|muscularis mucosa
+UBERON_0006912|urinary bladder muscularis mucosa
 UBERON_0006921|stomach squamous epithelium
 UBERON_0006924|stomach glandular epithelium
 UBERON_0006931|stomach glandular region mucosa
+UBERON_0007158|lumen of anal canal
+UBERON_0007159|lumen of colon
 UBERON_0007177|lamina propria of mucosa of colon
 UBERON_0007178|muscularis mucosae of colon
 UBERON_0007357|proventriculus
@@ -183,9 +284,11 @@ UBERON_0008994|equine glandular stomach
 UBERON_0009034|stomach region
 UBERON_0009130|dorsal meso-duodenum
 UBERON_0009566|intestinal submucosa
+UBERON_0009670|rectal lumen
 UBERON_0009697|epithelium of appendix
 UBERON_0009870|zone of stomach
 UBERON_0009882|anal column
+UBERON_0009959|lumen of oropharynx
 UBERON_0009971|principal gastric gland
 UBERON_0010016|spiral valve of intestine
 UBERON_0010038|fundic gastric gland
@@ -238,6 +341,7 @@ UBERON_0013482|crypt of Lieberkuhn of duodenum
 UBERON_0013483|crypt of Lieberkuhn of jejunum
 UBERON_0013485|crypt of Lieberkuhn of colon
 UBERON_0013486|crypt of Lieberkuhn of appendix
+UBERON_0013525|stomach lumen
 UBERON_0013636|epithelium of intestinal villus
 UBERON_0013689|appendix lymphoid tissue
 UBERON_0013695|colon endothelium
@@ -252,7 +356,9 @@ UBERON_0014510|lamina of omasum
 UBERON_0015142|falciform fat
 UBERON_0015716|anal canal epithelium
 UBERON_0015834|duodenum lamina propria
+UBERON_0016500|muscularis mucosa of fundus of urinary bladder
 UBERON_0016501|muscularis mucosae of fundus of stomach
+UBERON_0016502|stomach fundus lumen
 UBERON_0016511|lamina propria of fundus of stomach
 UBERON_0016517|lumen of jejunum
 UBERON_0016519|muscularis mucosae of jejunum
@@ -261,6 +367,7 @@ UBERON_0017627|rectal valve
 UBERON_0018111|muscle layer of rectum
 UBERON_0018112|rectum smooth muscle tissue
 UBERON_0018410|lacteal
+UBERON_0018543|lumen of intestine
 UBERON_0022275|colic flexure
 UBERON_0022276|splenic flexure of colon
 UBERON_0022277|hepatic flexure of colon
@@ -268,10 +375,14 @@ UBERON_0022280|epithelium of crypt of Lieberkuhn of small intestine
 UBERON_0022281|epithelium of crypt of Lieberkuhn of large intestine
 UBERON_0022357|mesentery of ileum
 UBERON_0035120|fauces
+UBERON_0035240|posterior wall of oropharynx
 UBERON_0035243|anal sinus
+UBERON_0035286|lateral wall of oropharynx
 UBERON_0035377|transverse fold of rectum
 UBERON_0035386|space of Mall
 UBERON_0035805|muscle layer of sigmoid colon
+UBERON_0035840|esophagogastric junction muscularis mucosa
+UBERON_0035844|lower esophagus muscularis mucosa
 UBERON_2001076|intestinal bulb
 UBERON_2005126|intestinal bulb epithelium
 UBERON_2005256|intervillus pockets

@@ -1,3 +1,70 @@
+CL_0000175|luteal cell
+CL_0000178|Leydig cell
+CL_0000216|Sertoli cell
+CL_0000436|vaginal lubricant secreting cell
+CL_0000590|small luteal cell
+CL_0000592|large luteal cell
+CL_0002094|interstitial cell of ovary
+CL_0002095|hilus cell of ovary
+CL_0002132|stromal cell of ovary
+CL_0002133|stromal cell of ovarian cortex
+CL_0002134|stromal cell of ovarian medulla
+CL_0002149|epithelial cell of uterus
+CL_0002152|columnar cell of endocervix
+CL_0002231|epithelial cell of prostate
+CL_0002232|epithelial cell of prostatic duct
+CL_0002233|epithelial cell of prostatic acinus
+CL_0002234|basal cell of prostatic acinus
+CL_0002235|luminal cell of prostatic acinus
+CL_0002236|basal epithelial cell of prostatic duct
+CL_0002237|luminal epithelial cell of prostatic duct
+CL_0002238|male gonocyte
+CL_0002239|ooblast
+CL_0002244|squamous cell of ectocervix
+CL_0002255|stromal cell of endometrium
+CL_0002313|endocrine-paracrine cell of prostate gland
+CL_0002339|prostate stem cell
+CL_0002340|luminal cell of prostate epithelium
+CL_0002341|basal cell of prostate epithelium
+CL_0002359|placental hematopoietic stem cell
+CL_0002366|myometrial cell
+CL_0002481|peritubular myoid cell
+CL_0002535|epithelial cell of cervix
+CL_0002558|fibroblast of villous mesenchyme
+CL_0002577|placental epithelial cell
+CL_0002601|uterine smooth muscle cell
+CL_0002622|prostate stromal cell
+CL_0002625|seminiferous tubule epithelial cell
+CL_0002656|glandular cell of endometrium
+CL_0007022|micropylar cell
+CL_1000299|fibroblast of connective tissue of prostate
+CL_1000300|fibroblast of outer membrane of prostatic capsule
+CL_1000301|fibroblast of subepithelial connective tissue of prostatic gland
+CL_1000304|fibroblast of connective tissue of nonglandular part of prostate
+CL_1000305|fibroblast of connective tissue of glandular part of prostate
+CL_1000465|chromaffin cell of ovary
+CL_1000466|chromaffin cell of right ovary
+CL_1000467|chromaffin cell of left ovary
+CL_1000487|smooth muscle cell of prostate
+CL_1001575|uterine cervix squamous cell
+CL_1001578|vagina squamous cell
+CL_1001587|uterine cervix glandular cell
+CL_1001590|epididymis glandular cell
+CL_1001591|oviduct glandular cell
+CL_1001597|seminal vesicle glandular cell
+CL_1001606|foreskin keratinocyte
+CL_1001608|foreskin fibroblast
+CL_2000002|decidua cell
+CL_2000045|foreskin melanocyte
+CL_2000059|prostate gland microvascular endothelial cell
+CL_2000060|placental villous trophoblast
+CL_2000061|placental amniotic mesenchymal stromal cell
+CL_2000062|placental villus capillary endothelial cell
+CL_2000063|ovarian fibroblast
+CL_2000064|ovarian surface epithelial cell
+CL_2000078|placental pericyte
+CL_2000082|melanocyte of foreskin
+CL_2000091|endometrial microvascular endothelial cells
 UBERON_0000002|uterine cervix
 UBERON_0000035|primary ovarian follicle
 UBERON_0000036|secondary ovarian follicle
@@ -102,7 +169,7 @@ UBERON_0004085|labium majora
 UBERON_0004175|internal genitalia
 UBERON_0004176|external genitalia
 UBERON_0004179|prostate glandular acinus
-UBERON_0004183|labyrinthine layer blood vessel
+UBERON_0004183|placental labyrinth blood vessel
 UBERON_0004184|prostate gland stroma
 UBERON_0004223|vagina smooth muscle
 UBERON_0004224|muscular coat of vas deferens
@@ -333,6 +400,7 @@ UBERON_0013720|dartos muscle of labia majora
 UBERON_0013758|cervical os
 UBERON_0013759|internal cervical os
 UBERON_0013760|external cervical os
+UBERON_0013761|cervical cavity
 UBERON_0013769|uterine lumen
 UBERON_0014394|uterine fat pad
 UBERON_0014458|female bulbospongiosus muscle
@@ -357,6 +425,7 @@ UBERON_0016487|anterior fornix of vagina
 UBERON_0016505|Mullerian tubercle
 UBERON_0016524|muscle layer of spongiose part of urethra
 UBERON_0016632|isthmus of fallopian tube
+UBERON_0017160|lumen of hemipenial sheath
 UBERON_0017161|hemipenial mucuous gland
 UBERON_0017162|hemipenial holocrine gland
 UBERON_0017180|hemipenis keratinized epithelium
@@ -365,6 +434,7 @@ UBERON_0017259|placental caruncle
 UBERON_0017294|horn of hemipenis
 UBERON_0017623|prepelvic clasper
 UBERON_0017624|pseudoclasper
+UBERON_0017659|ventral surface of penis
 UBERON_0017732|raphe of scrotum
 UBERON_0018131|periovarian fat pad
 UBERON_0018134|rugal fold of scrotum
@@ -386,6 +456,7 @@ UBERON_0034694|gubernacular bulb, intra-abdominal part
 UBERON_0034695|gubernacular bulb, extra-abdominal part
 UBERON_0034735|oviduct albumen gland
 UBERON_0034770|bulbourethral gland epithelium
+UBERON_0034928|dorsal surface of penis
 UBERON_0034963|lateral fornix of vagina
 UBERON_0035004|preputial swelling
 UBERON_0035005|preputial swelling of male
@@ -396,6 +467,7 @@ UBERON_0035105|sac of scrotum
 UBERON_0035142|preputial space of male
 UBERON_0035143|preputial space of female
 UBERON_0035144|preputial space
+UBERON_0035165|posterior surface of prostate
 UBERON_0035258|mons pubis
 UBERON_0035310|inferolateral surface of prostate
 UBERON_0035316|prostatic capsule
@@ -403,9 +475,19 @@ UBERON_0035331|base of prostate
 UBERON_0035341|posterior lobe of prostate
 UBERON_0035441|apex of prostate
 UBERON_0035465|endometrial cavity
+UBERON_0035480|surface of prostate
+UBERON_0035523|anterior surface of prostate
 UBERON_0035651|glans
 UBERON_0035766|median lobe of prostate
+UBERON_0035956|epididymal lumen
 UBERON_0035962|supravaginal part of cervix
+UBERON_0036151|diffuse placenta
+UBERON_0036152|cotyledonary placenta
+UBERON_0036153|zonary placenta
+UBERON_0036154|discoid placenta
+UBERON_0036161|epitheliochorial placenta
+UBERON_0036162|endotheliochorial placenta
+UBERON_0036163|hemochorial placenta
 UBERON_2001118|urogenital papilla
 UBERON_2001263|ovarian follicle stage I
 UBERON_2001265|ovarian follicle stage II

@@ -1,3 +1,332 @@
+CL_0000006|neuronal receptor cell
+CL_0000028|CNS neuron (sensu Nematoda and Protostomia)
+CL_0000029|neuron neural crest derived
+CL_0000031|neuroblast
+CL_0000047|neuronal stem cell
+CL_0000095|neuron associated cell
+CL_0000099|interneuron
+CL_0000100|motor neuron
+CL_0000101|sensory neuron
+CL_0000102|polymodal neuron
+CL_0000103|bipolar neuron
+CL_0000104|multipolar neuron
+CL_0000105|pseudounipolar neuron
+CL_0000106|unipolar neuron
+CL_0000107|autonomic neuron
+CL_0000108|cholinergic neuron
+CL_0000109|adrenergic neuron
+CL_0000110|peptidergic neuron
+CL_0000111|peripheral neuron
+CL_0000112|columnar neuron
+CL_0000116|pioneer neuron
+CL_0000117|CNS neuron (sensu Vertebrata)
+CL_0000118|basket cell
+CL_0000119|cerebellar Golgi cell
+CL_0000120|granule cell
+CL_0000121|Purkinje cell
+CL_0000122|stellate neuron
+CL_0000123|neuron associated cell (sensu Vertebrata)
+CL_0000124|glial cell (sensu Nematoda and Protostomia)
+CL_0000125|glial cell
+CL_0000126|macroglial cell
+CL_0000127|astrocyte
+CL_0000128|oligodendrocyte
+CL_0000129|microglial cell
+CL_0000130|neuron associated cell (sensu Nematoda and Protostomia)
+CL_0000143|guidepost cell
+CL_0000198|pain receptor cell
+CL_0000199|mechanoreceptor cell
+CL_0000200|touch receptor cell
+CL_0000202|auditory hair cell
+CL_0000203|gravity sensitive cell
+CL_0000204|acceleration receptive cell
+CL_0000205|thermoreceptor cell
+CL_0000206|chemoreceptor cell
+CL_0000207|olfactory receptor cell
+CL_0000208|pH receptor cell
+CL_0000209|taste receptor cell
+CL_0000210|photoreceptor cell
+CL_0000218|myelinating Schwann cell
+CL_0000242|Merkel cell
+CL_0000243|glial cell (sensu Vertebrata)
+CL_0000246|Mauthner neuron
+CL_0000247|Rohon-Beard neuron
+CL_0000251|extramedullary cell
+CL_0000253|eurydendroid cell
+CL_0000287|eye photoreceptor cell
+CL_0000337|neuroblast (sensu Vertebrata)
+CL_0000338|neuroblast (sensu Nematoda and Protostomia)
+CL_0000339|glioblast (sensu Vertebrata)
+CL_0000340|glioblast (sensu Nematoda and Protostomia)
+CL_0000367|sheath cell (sensu Nematoda)
+CL_0000376|humidity receptor cell
+CL_0000379|sensory processing neuron
+CL_0000381|neurosecretory neuron
+CL_0000389|socket cell (sensu Nematoda)
+CL_0000397|ganglion interneuron
+CL_0000402|CNS interneuron
+CL_0000405|neuroepidermoblast
+CL_0000406|CNS short range interneuron
+CL_0000410|CNS long range interneuron
+CL_0000437|gonadtroph
+CL_0000468|neuroglioblast
+CL_0000469|ganglion mother cell
+CL_0000476|thyrotroph
+CL_0000488|visible light photoreceptor cell
+CL_0000489|scotopic photoreceptor cell
+CL_0000490|photopic photoreceptor cell
+CL_0000494|UV sensitive photoreceptor cell
+CL_0000495|blue sensitive photoreceptor cell
+CL_0000496|green sensitive photoreceptor cell
+CL_0000497|red sensitive photoreceptor cell
+CL_0000498|inhibitory interneuron
+CL_0000516|perineuronal satellite cell
+CL_0000526|afferent neuron
+CL_0000527|efferent neuron
+CL_0000528|nitrergic neuron
+CL_0000530|primary neuron
+CL_0000531|primary sensory neuron
+CL_0000532|CAP motoneuron
+CL_0000533|primary motor neuron
+CL_0000534|primary interneuron
+CL_0000535|secondary neuron
+CL_0000536|secondary motor neuron
+CL_0000540|neuron
+CL_0000544|slowly adapting mechanoreceptor cell
+CL_0000551|unimodal nocireceptor
+CL_0000555|neuronal brush cell
+CL_0000561|amacrine cell
+CL_0000567|polymodal nocireceptor
+CL_0000573|retinal cone cell
+CL_0000587|cold sensing thermoreceptor cell
+CL_0000589|cochlear inner hair cell
+CL_0000591|warmth sensing thermoreceptor cell
+CL_0000598|pyramidal neuron
+CL_0000601|outer hair cell
+CL_0000602|pressoreceptor cell
+CL_0000604|retinal rod cell
+CL_0000609|vestibular hair cell
+CL_0000617|GABAergic neuron
+CL_0000619|support cell (sensu Nematoda)
+CL_0000626|olfactory granule cell
+CL_0000636|Mueller cell
+CL_0000637|chromophil cell of anterior pituitary gland
+CL_0000638|acidophil cell of pars distalis of adenohypophysis
+CL_0000639|basophil cell of pars distalis of adenohypophysis
+CL_0000644|Bergmann glial cell
+CL_0000645|pituicyte
+CL_0000652|pinealocyte
+CL_0000662|neuroglioblast (sensu Nematoda)
+CL_0000673|Kenyon cell
+CL_0000678|commissural neuron
+CL_0000679|glutamatergic neuron
+CL_0000681|radial glial cell
+CL_0000683|ependymoglial cell
+CL_0000687|R1 photoreceptor cell
+CL_0000690|R2 photoreceptor cell
+CL_0000691|stellate interneuron
+CL_0000692|terminal Schwann cell
+CL_0000693|neuroglioform cell
+CL_0000694|R3 photoreceptor cell
+CL_0000695|Cajal-Retzius cell
+CL_0000697|R4 photoreceptor cell
+CL_0000700|dopaminergic neuron
+CL_0000702|R5 photoreceptor cell
+CL_0000705|R6 photoreceptor cell
+CL_0000706|choroid plexus epithelial cell
+CL_0000707|R7 photoreceptor cell
+CL_0000708|leptomeningeal cell
+CL_0000709|R8 photoreceptor cell
+CL_0000717|fusimotor neuron
+CL_0000740|retinal ganglion cell
+CL_0000741|spinal accessory motor neuron
+CL_0000745|retina horizontal cell
+CL_0000748|retinal bipolar neuron
+CL_0000749|ON-bipolar cell
+CL_0000750|OFF-bipolar cell
+CL_0000751|rod bipolar cell
+CL_0000752|cone retinal bipolar cell
+CL_0000753|type 1 cone bipolar cell (sensu Mus)
+CL_0000754|type 2 cone bipolar cell (sensu Mus)
+CL_0000755|type 3 cone bipolar cell (sensu Mus)
+CL_0000756|type 4 cone bipolar cell (sensu Mus)
+CL_0000757|type 5 cone bipolar cell (sensu Mus)
+CL_0000758|type 6 cone bipolar cell (sensu Mus)
+CL_0000759|type 7 cone bipolar cell (sensu Mus)
+CL_0000760|type 8 cone bipolar cell (sensu Mus)
+CL_0000761|type 9 cone bipolar cell (sensu Mus)
+CL_0000847|ciliated olfactory receptor neuron
+CL_0000848|microvillous olfactory receptor neuron
+CL_0000849|crypt olfactory receptor neuron
+CL_0000850|serotonergic neuron
+CL_0000853|olfactory epithelial support cell
+CL_0000855|sensory hair cell
+CL_0000856|neuromast hair cell
+CL_0000878|central nervous system macrophage
+CL_0000879|meningeal macrophage
+CL_0000880|choroid-plexus macrophage
+CL_0000881|perivascular macrophage
+CL_0001031|cerebellar granule cell
+CL_0001032|cortical granule cell
+CL_0001033|hippocampal granule cell
+CL_0002069|type II vestibular sensory cell
+CL_0002070|type I vestibular sensory cell
+CL_0002085|tanycyte
+CL_0002169|basal cell of olfactory epithelium
+CL_0002171|globose cell of olfactory epithelium
+CL_0002177|folliculostellate cell of pars distalis of adenohypophysis
+CL_0002184|basal proper cell of olfactory epithelium
+CL_0002285|type III taste bud cell
+CL_0002286|type II taste cell
+CL_0002287|type IV taste receptor cell
+CL_0002288|type V taste receptor cell
+CL_0002289|type I taste bud cell
+CL_0002309|corticotroph
+CL_0002310|mammosomatotroph
+CL_0002311|mammotroph
+CL_0002312|somatotroph
+CL_0002319|neural cell
+CL_0002362|granule cell precursor
+CL_0002374|ear hair cell
+CL_0002376|non-myelinating Schwann cell
+CL_0002377|immature Schwann cell
+CL_0002450|tether cell
+CL_0002453|oligodendrocyte precursor cell
+CL_0002485|retinal melanocyte
+CL_0002487|cutaneous/subcutaneous mechanoreceptor cell
+CL_0002549|fibroblast of choroid plexus
+CL_0002573|Schwann cell
+CL_0002575|central nervous system pericyte
+CL_0002576|perineural cell
+CL_0002585|retinal blood vessel endothelial cell
+CL_0002586|retinal pigment epithelial cell
+CL_0002590|smooth muscle cell of the brain vasculature
+CL_0002603|astrocyte of the cerebellum
+CL_0002604|astrocyte of the hippocampus
+CL_0002605|astrocyte of the cerebral cortex
+CL_0002606|astrocyte of the spinal cord
+CL_0002608|hippocampal neuron
+CL_0002609|neuron of cerebral cortex
+CL_0002610|raphe nuclei neuron
+CL_0002611|neuron of the dorsal spinal cord
+CL_0002612|neuron of the ventral spinal cord
+CL_0002613|striatum neuron
+CL_0002614|neuron of the substantia nigra
+CL_0002626|immature astrocyte
+CL_0002627|mature astrocyte
+CL_0002628|immature microglial cell
+CL_0002629|mature microglial cell
+CL_0002676|neural crest derived neuroblast
+CL_0005000|spinal cord interneuron
+CL_0005007|Kolmer-Agduhr neuron
+CL_0005008|macular hair cell
+CL_0005023|branchiomotor neuron
+CL_0005024|somatomotor neuron
+CL_0005025|visceromotor neuron
+CL_0007011|enteric neuron
+CL_0007017|Stiftchenzellen
+CL_0008010|cranial somatomotor neuron
+CL_0008013|cranial visceromotor neuron
+CL_0008014|excitatory motor neuron
+CL_0008015|inhibitory motor neuron
+CL_0008021|anterior lateral line ganglion neuron
+CL_0008025|noradrenergic neuron
+CL_0009000|sensory neuron of spinal nerve
+CL_0009001|compound eye retinal cell
+CL_0009004|retinal cell
+CL_0010009|camera-type eye photoreceptor cell
+CL_0010010|cerebellar stellate cell
+CL_0010011|cerebral cortex GABAergic interneuron
+CL_0010012|cerebral cortex neuron
+CL_0010013|type I pinealocyte
+CL_0010014|type II pinealocyte
+CL_0010020|cardiac glial cell
+CL_0010022|cardiac neuron
+CL_0011000|dorsal horn interneuron
+CL_0011001|spinal cord motor neuron
+CL_0011002|lateral motor column neuron
+CL_0011003|magnocellular neurosecretory cell (duplicate class)
+CL_0011005|GABAergic interneuron
+CL_0011006|Lugaro cell
+CL_0011100|galanergic neuron
+CL_0011102|parasympathetic neuron
+CL_0011103|sympathetic neuron
+CL_0011104|interplexiform cell
+CL_0011105|dopamanergic interplexiform cell
+CL_0011106|GABAnergic interplexiform cell
+CL_0011107|Muller cell
+CL_0011109|hypocretin-secreting neuron
+CL_0011110|histaminergic neuron
+CL_0011111|gonadotropin releasing neuron
+CL_0011112|magnocellular neurosecretory cell
+CL_0011113|spiral ganglion neuron
+CL_0012000|astrocyte of the forebrain
+CL_0012001|neuron of the forebrain
+CL_0013000|forebrain radial glial cell
+CL_0015000|cranial motor neuron
+CL_1000001|retrotrapezoid nucleus neuron
+CL_1000042|forebrain neuroblast
+CL_1000050|lateral line nerve glial cell
+CL_1000073|spinal cord radial glial cell
+CL_1000082|stretch receptor cell
+CL_1000236|posterior lateral line nerve glial cell
+CL_1000239|anterior lateral line nerve glial cell
+CL_1000245|posterior lateral line ganglion neuron
+CL_1000298|mesothelial cell of dura mater
+CL_1000378|type 1 vestibular sensory cell of stato-acoustic epithelium
+CL_1000379|type 1 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth
+CL_1000380|type 1 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth
+CL_1000381|type 1 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth
+CL_1000382|type 2 vestibular sensory cell of stato-acoustic epithelium
+CL_1000383|type 2 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth
+CL_1000384|type 2 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth
+CL_1000385|type 2 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth
+CL_1000606|kidney nerve cell
+CL_1001434|olfactory bulb interneuron
+CL_1001435|periglomerular cell
+CL_1001436|hair-tylotrich neuron
+CL_1001437|hair-down neuron
+CL_1001451|sensory neuron of dorsal root ganglion
+CL_1001474|medium spiny neuron
+CL_1001502|mitral cell
+CL_1001503|olfactory bulb tufted cell
+CL_1001505|parvocellular neurosecretory cell
+CL_1001509|glycinergic neuron
+CL_1001561|vomeronasal sensory neuron
+CL_1001569|hippocampal interneuron
+CL_1001571|hippocampal pyramidal neuron
+CL_1001579|cerebral cortex glial cell
+CL_1001580|hippocampus glial cell
+CL_1001581|lateral ventricle glial cell
+CL_1001582|lateral ventricle neuron
+CL_1001602|cerebral cortex endothelial cell
+CL_1001611|cerebellar neuron
+CL_2000004|pituitary gland cell
+CL_2000005|brain macroglial cell
+CL_2000019|compound eye photoreceptor cell
+CL_2000023|spinal cord ventral column interneuron
+CL_2000024|spinal cord medial motor column neuron
+CL_2000025|spinal cord oligodendrocyte
+CL_2000027|cerebellum basket cell
+CL_2000028|cerebellum glutamatergic neuron
+CL_2000029|central nervous system neuron
+CL_2000030|hypothalamus native cell
+CL_2000031|lateral line ganglion neuron
+CL_2000032|peripheral nervous system neuron
+CL_2000034|anterior lateral line neuromast hair cell
+CL_2000037|posterior lateral line neuromast hair cell
+CL_2000043|brain pericyte
+CL_2000044|brain microvascular endothelial cell
+CL_2000047|brainstem motor neuron
+CL_2000048|ventral horn of spinal cord spinal cord motor neuron
+CL_2000049|primary motor cortex pyramidal cell
+CL_2000056|Meynert cell
+CL_2000086|neocortex basket cell
+CL_2000087|dentate gyrus of hippocampal formation basket cell
+CL_2000088|Ammon's horn basket cell
+CL_2000089|dentate gyrus of hippocampal formation granule cell
+CL_2000090|dentate gyrus of hippocampal formation stellate cell
+CL_2000097|midbrain dopaminergic neuron
 UBERON_0000005|chemosensory organ
 UBERON_0000007|pituitary gland
 UBERON_0000010|peripheral nervous system
@@ -29,9 +358,11 @@ UBERON_0000369|corpus striatum
 UBERON_0000373|tapetum of corpus callosum
 UBERON_0000375|mandibular nerve
 UBERON_0000377|maxillary nerve
+UBERON_0000391|leptomeninx
 UBERON_0000395|cochlear ganglion
 UBERON_0000408|vertebral ganglion
 UBERON_0000411|visual cortex
+UBERON_0000416|subdural space
 UBERON_0000429|enteric plexus
 UBERON_0000430|ventral intermediate nucleus of thalamus
 UBERON_0000431|ventral medial complex of thalamus
@@ -40,6 +371,7 @@ UBERON_0000433|posterior paraventricular nucleus of thalamus
 UBERON_0000434|anterior paraventricular nucleus of thalamus
 UBERON_0000435|lateral tuberal nucleus
 UBERON_0000437|arachnoid barrier layer
+UBERON_0000439|arachnoid trabecula
 UBERON_0000445|habenular trigone
 UBERON_0000446|septum of telencephalon
 UBERON_0000451|prefrontal cortex
@@ -84,6 +416,8 @@ UBERON_0001492|radial nerve
 UBERON_0001493|axillary nerve
 UBERON_0001494|ulnar nerve
 UBERON_0001579|olfactory nerve
+UBERON_0001641|transverse sinus
+UBERON_0001642|superior sagittal sinus
 UBERON_0001643|oculomotor nerve
 UBERON_0001644|trochlear nerve
 UBERON_0001645|trigeminal nerve
@@ -332,6 +666,10 @@ UBERON_0002318|white matter of spinal cord
 UBERON_0002322|periventricular nucleus
 UBERON_0002327|trunk of intercostal nerve
 UBERON_0002336|corpus callosum
+UBERON_0002360|meninx
+UBERON_0002361|pia mater
+UBERON_0002362|arachnoid mater
+UBERON_0002363|dura mater
 UBERON_0002410|autonomic nervous system
 UBERON_0002420|basal ganglion
 UBERON_0002421|hippocampal formation
@@ -367,6 +705,7 @@ UBERON_0002556|corticotectal tract
 UBERON_0002557|linear nucleus
 UBERON_0002559|medullary reticular formation
 UBERON_0002560|temporal operculum
+UBERON_0002561|lumen of central nervous system
 UBERON_0002562|superior frontal sulcus
 UBERON_0002563|central nucleus of inferior colliculus
 UBERON_0002565|olivary pretectal nucleus
@@ -742,7 +1081,7 @@ UBERON_0002996|nucleus of optic tract
 UBERON_0002997|nucleus of medial eminence
 UBERON_0002998|inferior frontal gyrus
 UBERON_0002999|oral pontine reticular nucleus
-UBERON_0003001|lemniscus
+UBERON_0003001|nervous system lemniscus
 UBERON_0003002|medial lemniscus
 UBERON_0003004|median raphe nucleus
 UBERON_0003005|dorsal longitudinal fasciculus of midbrain
@@ -765,6 +1104,7 @@ UBERON_0003023|pontine tegmentum
 UBERON_0003024|principal part of ventral posteromedial nucleus
 UBERON_0003025|brachium of inferior colliculus
 UBERON_0003026|limitans nucleus
+UBERON_0003027|cingulate cortex
 UBERON_0003028|commissure of inferior colliculus
 UBERON_0003029|stria terminalis
 UBERON_0003030|posterior nucleus of thalamus
@@ -856,6 +1196,7 @@ UBERON_0003562|midbrain dura mater
 UBERON_0003563|telencephalon dura mater
 UBERON_0003564|diencephalon dura mater
 UBERON_0003565|hindbrain dura mater
+UBERON_0003712|cavernous sinus
 UBERON_0003714|neural tissue
 UBERON_0003715|splanchnic nerve
 UBERON_0003716|recurrent laryngeal nerve
@@ -979,7 +1320,6 @@ UBERON_0004680|body of fornix
 UBERON_0004682|corona radiata of neuraxis
 UBERON_0004683|parasubiculum
 UBERON_0004684|raphe nuclei
-UBERON_0004685|middle temporal area
 UBERON_0004703|dorsal thalamus
 UBERON_0004714|septum pellucidum
 UBERON_0004717|Brodmann (1909) area 29
@@ -1073,8 +1413,11 @@ UBERON_0005437|conus medullaris
 UBERON_0005443|filum terminale
 UBERON_0005453|inferior mesenteric ganglion
 UBERON_0005465|obturator nerve
+UBERON_0005475|sigmoid sinus
 UBERON_0005476|spinal nerve trunk
 UBERON_0005479|superior mesenteric ganglion
+UBERON_0005481|tentorial sinus
+UBERON_0005486|venous dural sinus
 UBERON_0005488|superior mesenteric plexus
 UBERON_0005495|midbrain lateral wall
 UBERON_0005499|rhombomere 1
@@ -1148,6 +1491,7 @@ UBERON_0005976|ansiform lobule crus I
 UBERON_0005977|ansiform lobule crus II
 UBERON_0005978|olfactory bulb outer nerve layer
 UBERON_0006007|pre-Botzinger complex
+UBERON_0006059|falx cerebri
 UBERON_0006078|subdivision of spinal cord lateral column
 UBERON_0006079|subdivision of spinal cord dorsal column
 UBERON_0006083|perirhinal cortex
@@ -1255,6 +1599,7 @@ UBERON_0006569|diencephalic nucleus
 UBERON_0006585|vestibular organ
 UBERON_0006666|great cerebral vein
 UBERON_0006681|interthalamic adhesion
+UBERON_0006691|tentorium cerebelli
 UBERON_0006694|cerebellum vasculature
 UBERON_0006695|mammillary axonal complex
 UBERON_0006696|mammillothalamic axonal tract
@@ -1289,6 +1634,8 @@ UBERON_0006934|sensory epithelium
 UBERON_0006935|crista ampullaris neuroepithelium
 UBERON_0006964|pars distalis of adenohypophysis
 UBERON_0007134|trunk ganglion
+UBERON_0007152|inferior sagittal sinus
+UBERON_0007160|inferior petrosal sinus
 UBERON_0007224|medial entorhinal cortex
 UBERON_0007225|lateral entorhinal cortex
 UBERON_0007227|superior vestibular nucleus
@@ -1331,6 +1678,9 @@ UBERON_0007637|hippocampus stratum lucidum
 UBERON_0007639|hippocampus alveus
 UBERON_0007640|hippocampus stratum lacunosum moleculare
 UBERON_0007641|trigeminal nuclear complex
+UBERON_0007645|future meninx
+UBERON_0007646|endomeninx
+UBERON_0007647|ectomeninx
 UBERON_0007656|lateral recess of fourth ventricle
 UBERON_0007691|gustatory pore
 UBERON_0007692|nucleus of thalamus
@@ -1457,6 +1807,7 @@ UBERON_0009841|upper rhombic lip
 UBERON_0009848|zona limitans intrathalamica
 UBERON_0009851|border of sublaminar layers S4 and S5
 UBERON_0009852|border of sublaminar layers S2 and S3
+UBERON_0009857|cavum septum pellucidum
 UBERON_0009897|right auditory cortex
 UBERON_0009898|left auditory cortex
 UBERON_0009899|pole of cerebral hemisphere
@@ -1468,6 +1819,7 @@ UBERON_0009918|retrotrapezoid nucleus
 UBERON_0009950|olfactory bulb plexiform layer
 UBERON_0009951|main olfactory bulb
 UBERON_0009952|dentate gyrus subgranular zone
+UBERON_0009968|primitive superior sagittal sinus
 UBERON_0009969|statoacoustic epithelium
 UBERON_0009975|remnant of lumen of Rathke's pouch
 UBERON_0009992|cranial sensory ganglion
@@ -1500,9 +1852,12 @@ UBERON_0010405|spinal cord lateral motor column
 UBERON_0010406|cholinergic enteric nerve
 UBERON_0010415|barrel cortex
 UBERON_0010505|periosteal dura mater
+UBERON_0010506|meningeal dura mater
+UBERON_0010507|layer of dura mater
+UBERON_0010743|meningeal cluster
 UBERON_0011096|lacrimal nerve
 UBERON_0011155|Sylvian cistern
-UBERON_0011172|retrorubral area
+UBERON_0011172|retrorubral area of midbrain reticular nucleus
 UBERON_0011173|anterior division of bed nuclei of stria terminalis
 UBERON_0011175|fusiform nucleus of stria terminalis
 UBERON_0011176|oval nucleus of stria terminalis
@@ -1567,6 +1922,7 @@ UBERON_0013147|early mesencephalic vesicle
 UBERON_0013148|early midbrain vesicle
 UBERON_0013149|hindbrain vesicle
 UBERON_0013150|future brain vesicle
+UBERON_0013153|arachnoid villus
 UBERON_0013159|epithalamus mantle layer
 UBERON_0013160|epithalamus ventricular layer
 UBERON_0013161|left lateral ventricle
@@ -1787,6 +2143,7 @@ UBERON_0014912|thalamic eminence
 UBERON_0014913|ventral pallium
 UBERON_0014915|genu of facial nerve
 UBERON_0014918|retrosplenial granular cortex
+UBERON_0014930|perivascular space
 UBERON_0014932|periventricular white matter
 UBERON_0014933|periventricular gray matter
 UBERON_0014935|cerebral cortex marginal layer
@@ -1811,6 +2168,7 @@ UBERON_0015510|body of corpus callosum
 UBERON_0015593|frontal gyrus
 UBERON_0015599|genu of corpus callosum
 UBERON_0015703|rostrum of corpus callosum
+UBERON_0015704|sagittal sinus
 UBERON_0015708|splenium of the corpus callosum
 UBERON_0015793|induseum griseum
 UBERON_0015800|taenia tectum of brain
@@ -1864,6 +2222,10 @@ UBERON_0016850|nucleus of phrenic nerve
 UBERON_0017631|calcified structure of brain
 UBERON_0017632|pineal corpora arenacea
 UBERON_0017633|choroid plexus corpora arenacea
+UBERON_0017635|paired venous dural sinus
+UBERON_0017637|marginal venous sinus
+UBERON_0017638|primitive marginal sinus
+UBERON_0017640|unpaired venous dural sinus
 UBERON_0017641|meningeal branch of spinal nerve
 UBERON_0017642|communicating branch of spinal nerve
 UBERON_0018104|parafoveal part of retina
@@ -2037,7 +2399,7 @@ UBERON_0023787|subicular complex
 UBERON_0023836|gross anatomical parts of the cerebellum
 UBERON_0023852|temporoparietal junction
 UBERON_0023855|commissural nucleus of the solitary tract
-UBERON_0023859|primary somatosensory cortex lamina VI
+UBERON_0023859|primary somatosensory cortex layer 6
 UBERON_0023861|planum polare
 UBERON_0023862|hippocampal formation of GP94
 UBERON_0023865|medial ventral tegmental area
@@ -2354,6 +2716,9 @@ UBERON_0035158|dorsolateral prefrontal cortex layer 6
 UBERON_0035207|deep fibular nerve
 UBERON_0035231|superficial middle cerebral vein
 UBERON_0035319|anterior median fissure of spinal cord
+UBERON_0035338|sphenoparietal sinus
+UBERON_0035416|diaphragma sellae
+UBERON_0035425|falx cerebelli
 UBERON_0035501|unencapsulated tactile receptor
 UBERON_0035526|superficial fibular nerve
 UBERON_0035530|basal vein
@@ -2392,6 +2757,7 @@ UBERON_0035599|profundal part of trigeminal ganglion complex
 UBERON_0035601|maxillomandibular part of trigeminal ganglion complex
 UBERON_0035602|collar nerve cord
 UBERON_0035607|accessory nerve cord of dorsal region
+UBERON_0035608|dura mater lymph vessel
 UBERON_0035642|laryngeal nerve
 UBERON_0035646|anterior superior alveolar nerve
 UBERON_0035647|posterior auricular nerve
@@ -2470,7 +2836,6 @@ UBERON_0035972|interanterodorsal nucleus of the thalamus
 UBERON_0035973|nucleus incertus
 UBERON_0035974|anteroventral preoptic nucleus
 UBERON_0035975|intergeniculate leaflet of the lateral geniculate complex
-UBERON_0035976UBERON_0000128|olivary body
 UBERON_0035976|accessory abducens nucleus
 UBERON_0035977|bed nucleus of the accessory olfactory tract
 UBERON_0035999|dopaminergic cell groups
@@ -2493,6 +2858,8 @@ UBERON_0036063|quadrangular lobule
 UBERON_0036065|cerebellum vermis lobule VIIAt
 UBERON_0036143|meningeal branch of mandibular nerve
 UBERON_0036145|glymphatic system
+UBERON_0036164|ambient gyrus
+UBERON_0036177|nucleus recessus
 UBERON_2000116|macula lagena
 UBERON_2000120|lateral line ganglion
 UBERON_2000165|inferior lobe
@@ -2721,13 +3088,18 @@ UBERON_6003623|adult central nervous system
 UBERON_6003624|adult brain
 UBERON_6003626|supraesophageal ganglion
 UBERON_6003627|protocerebrum
+UBERON_6003632|adult central complex
+UBERON_6005096|stomatogastric nervous system
 UBERON_6005177|chaeta
 UBERON_6005805|Bolwig organ
+UBERON_6007070|centro-posterior medial synaptic neuropil domain
 UBERON_6007145|adult protocerebrum
 UBERON_6007231|external sensillum
 UBERON_6007232|eo-type sensillum
 UBERON_6007233|internal sensillum
 UBERON_6007240|embryonic/larval sensillum
 UBERON_6007242|embryonic/larval head sensillum
+UBERON_6040005|synaptic neuropil
+UBERON_6040007|synaptic neuropil domain
+UBERON_6041000|synaptic neuropil block
 UBERON_6110636|adult cerebral ganglion
-|accessory abducens nucleus

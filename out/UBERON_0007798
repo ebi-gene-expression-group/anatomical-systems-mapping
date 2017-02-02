@@ -1,3 +1,106 @@
+CL_0000071|blood vessel endothelial cell
+CL_0000348|choroidal cell of the eye
+CL_0000359|vascular associated smooth muscle cell
+CL_0000704|endothelial tip cell
+CL_0000706|choroid plexus epithelial cell
+CL_0000708|leptomeningeal cell
+CL_0000881|perivascular macrophage
+CL_0002138|endothelial cell of lymphatic vessel
+CL_0002144|capillary endothelial cell
+CL_0002262|endothelial cell of sinusoid
+CL_0002350|endocardial cell
+CL_0002539|aortic smooth muscle cell
+CL_0002543|vein endothelial cell
+CL_0002544|aortic endothelial cell
+CL_0002545|thoracic aorta endothelial cell
+CL_0002547|fibroblast of the aortic adventitia
+CL_0002549|fibroblast of choroid plexus
+CL_0002554|fibroblast of lymphatic vessel
+CL_0002557|fibroblast of pulmonary artery
+CL_0002585|retinal blood vessel endothelial cell
+CL_0002588|smooth muscle cell of the umbilical vein
+CL_0002589|smooth muscle cell of the brachiocephalic vasculature
+CL_0002590|smooth muscle cell of the brain vasculature
+CL_0002591|smooth muscle cell of the pulmonary artery
+CL_0002592|smooth muscle cell of the coronary artery
+CL_0002593|smooth muscle cell of the internal thoracic artery
+CL_0002594|smooth muscle cell of the umbilical artery
+CL_0002595|smooth muscle cell of the subclavian artery
+CL_0002596|smooth muscle cell of the carotid artery
+CL_0002618|endothelial cell of umbilical vein
+CL_0002651|endothelial cell of venous sinus of spleen
+CL_0002652|endothelial cell of high endothelial venule
+CL_0002653|squamous endothelial cell
+CL_0002671|endothelial stalk cell
+CL_0008022|endocardial cushion cell
+CL_0010002|epithelial cell of umbilical artery
+CL_0010006|cardiac blood vessel endothelial cell
+CL_1000306|fibroblast of tunica adventitia of artery
+CL_1000397|endothelial cell of venous sinus of red pulp of spleen
+CL_1000398|endothelial cell of hepatic sinusoid
+CL_1000412|endothelial cell of arteriole
+CL_1000413|endothelial cell of artery
+CL_1000414|endothelial cell of venule
+CL_1000742|glomerular mesangial cell
+CL_1000854|kidney blood vessel cell
+CL_1000891|kidney arterial blood vessel cell
+CL_1000892|kidney capillary endothelial cell
+CL_1000893|kidney venous blood vessel cell
+CL_1001005|glomerular capillary endothelial cell
+CL_1001006|kidney afferent arteriole cell
+CL_1001009|kidney efferent arteriole cell
+CL_1001033|peritubular capillary endothelial cell
+CL_1001036|vasa recta cell
+CL_1001045|kidney cortex artery cell
+CL_1001052|kidney cortex vein cell
+CL_1001064|kidney artery smooth muscle cell
+CL_1001066|kidney arteriole smooth muscle cell
+CL_1001068|kidney venous system smooth muscle cell
+CL_1001096|kidney afferent arteriole endothelial cell
+CL_1001097|kidney afferent arteriole smooth muscle cell
+CL_1001099|kidney efferent arteriole endothelial cell
+CL_1001100|kidney efferent arteriole smooth muscle cell
+CL_1001123|kidney outer medulla peritubular capillary cell
+CL_1001124|kidney cortex peritubular capillary cell
+CL_1001126|inner renal medulla vasa recta cell
+CL_1001127|outer renal medulla vasa recta cell
+CL_1001131|vasa recta ascending limb cell
+CL_1001135|arcuate artery cell
+CL_1001138|interlobular artery cell
+CL_1001142|arcuate vein cell
+CL_1001145|interlobular vein cell
+CL_1001209|inner medulla vasa recta ascending limb cell
+CL_1001210|outer medulla vasa recta ascending limb cell
+CL_1001213|arcuate artery endothelial cell
+CL_1001214|arcuate artery smooth muscle cell
+CL_1001216|interlobulary artery endothelial cell
+CL_1001217|interlobulary artery smooth muscle cell
+CL_1001220|arcuate vein endothelial cell
+CL_1001221|arcuate vein smooth muscle cell
+CL_1001223|interlobulary vein endothelial cell
+CL_1001224|interlobulary vein smooth muscle cell
+CL_1001285|vasa recta descending limb cell
+CL_1001286|inner medulla vasa recta descending limb cell
+CL_1001287|outer medulla vasa recta descending limb cell
+CL_1001567|lung endothelial cell
+CL_1001568|pulmonary artery endothelial cell
+CL_2000008|microvascular endothelial cell
+CL_2000010|dermis blood vessel endothelial cell
+CL_2000011|dermis lymphatic vessel endothelial cell
+CL_2000016|lung microvascular endothelial cell
+CL_2000018|endothelial cell of coronary artery
+CL_2000040|bladder microvascular endothelial cell
+CL_2000041|dermis microvascular lymphatic vessel endothelial cell
+CL_2000044|brain microvascular endothelial cell
+CL_2000052|umbilical artery endothelial cell
+CL_2000059|prostate gland microvascular endothelial cell
+CL_2000062|placental villus capillary endothelial cell
+CL_2000065|ovarian microvascular endothelial cell
+CL_2000070|optic choroid fibroblast
+CL_2000071|mammary microvascular endothelial cell
+CL_2000072|adipose microvascular endothelial cell
+CL_2000076|hindlimb stylopod vein endothelial cell
+CL_2000091|endometrial microvascular endothelial cells
 UBERON_0000102|lung vasculature
 UBERON_0000415|artery wall
 UBERON_0000442|right testicular vein
@@ -340,7 +443,7 @@ UBERON_0004118|vasculature of iris
 UBERON_0004148|cardiac vein
 UBERON_0004162|pulmonary myocardium
 UBERON_0004178|aorta smooth muscle tissue
-UBERON_0004183|labyrinthine layer blood vessel
+UBERON_0004183|placental labyrinth blood vessel
 UBERON_0004189|glomerular endothelium
 UBERON_0004190|renal glomerulus vasculature
 UBERON_0004212|glomerular capillary
@@ -656,6 +759,8 @@ UBERON_0009968|primitive superior sagittal sinus
 UBERON_0009976|hypothalamo-hypophyseal system
 UBERON_0010078|optic choroid vascular plexus
 UBERON_0010132|gastroduodenal artery
+UBERON_0010160|lumen of lymphatic vessel
+UBERON_0010161|lumen of blood vessel
 UBERON_0010172|bulb of aorta
 UBERON_0010173|sinotubular junction
 UBERON_0010174|Schweigger-Seidel sheath
@@ -681,6 +786,7 @@ UBERON_0010249|posterior meningeal artery
 UBERON_0010250|middle meningeal artery
 UBERON_0010251|anterior meningeal artery
 UBERON_0010260|umbilical blood vessel
+UBERON_0010293|suprachoroid lamina
 UBERON_0010366|conjunctival vasculature
 UBERON_0010367|conjunctival vein
 UBERON_0010370|tibial vein
@@ -766,6 +872,7 @@ UBERON_0013755|arterial blood
 UBERON_0013756|venous blood
 UBERON_0013757|capillary blood
 UBERON_0013768|great vessel of heart
+UBERON_0014399|sinusoidal space
 UBERON_0014400|hepatic sinusoidal space
 UBERON_0014401|renal venous blood vessel
 UBERON_0014685|pterygoid plexus
@@ -870,6 +977,7 @@ UBERON_0034727|vestibular bulb artery
 UBERON_0034884|juxtaglomerular arteriole
 UBERON_0034903|left atrium endocardium
 UBERON_0034927|arcuate artery of foot
+UBERON_0034940|venous sinus cavity
 UBERON_0034949|lymphatic valve
 UBERON_0034950|lymph sac
 UBERON_0034951|subcutaneous lymph sac
@@ -960,6 +1068,8 @@ UBERON_0035965|wall of blood vessel
 UBERON_0036066|inferior endocardial cushion
 UBERON_0036067|superior endocardial cushion
 UBERON_0036074|vein of vestibular aqueduct
+UBERON_0036167|Sattler's layer
+UBERON_0036168|Haller's layer
 UBERON_2000039|median axial vein
 UBERON_2000096|cardinal system
 UBERON_2000202|efferent portion of pharyngeal arch artery
