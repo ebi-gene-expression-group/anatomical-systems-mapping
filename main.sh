@@ -1,11 +1,5 @@
 mkdir -p log out
 pushd $(dirname $0)
-echo -ne "Retrieving anatomical systems...\r"
-curl -s http://www.ebi.ac.uk/ols/api/ontologies/uberon/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000467/children?size=1000 \
-| jq -r '._embedded.terms | map (.short_form +"|"+ .label+"\n") | add' | grep '[^[:blank:]]'| sort | uniq \
- > out/all_systems
-echo "Retrieved $(cat out/all_systems | wc -l) systems             "
-
 
 
 one_system()
@@ -21,7 +15,7 @@ fi
 
 }
 
-for SYSTEM in $(cat out/all_systems | cut -f1 -d '|')
+for SYSTEM in $(cat ./all_systems | cut -f1 -d '|')
   do one_system $SYSTEM
 done
 
@@ -30,3 +24,5 @@ find ./log -type f | xargs grep Error
 
 echo "Generating anatomical_systems.txt ..."
 ./join_files.py
+
+popd
