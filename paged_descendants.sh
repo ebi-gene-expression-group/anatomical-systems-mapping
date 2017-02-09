@@ -10,7 +10,7 @@ then
   echo "Found no data for for $1"
 else
   printf "Pages | $1 | $PAGES\n" >> $LOG
-  seq 0 $[PAGES-1] | xargs -n 1 -P 10 ./task.sh $LOG $1 >> $OUT
+  seq 0 $[PAGES-1] | xargs -n 1 ./task.sh $LOG $1 >> $OUT
   mv $OUT $TMP
   sort -u $TMP > $OUT
   echo "Retrieved $(cat $OUT | wc -l ) descendants for $1"
