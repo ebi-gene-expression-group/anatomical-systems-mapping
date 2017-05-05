@@ -25,4 +25,9 @@ find ./log -type f | xargs grep Error
 echo "Generating anatomical_systems.txt ..."
 ./join_files.py
 
+echo "Appending extra mappings ..."
+cat './extra_mappings.txt' >> './out/anatomical_systems.txt'
+
+sort -u './out/anatomical_systems.txt' -o './out/anatomical_systems.txt'
+
 popd

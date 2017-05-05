@@ -1,0 +1,11 @@
+UBERON_0002416	integumental system 	UBERON_0001013	adipose tissue
+UBERON_0034929	external soft tissue	UBERON_0000310	breast
+UBERON_0007651	anatomical junction	UBERON_0007650	esophagogastric junction
+UBERON_0001016	nervous system	UBERON_0016525	frontal lobe
+UBERON_0001016	nervous system	UBERON_0002771	middle temporal gyrus
+UBERON_0001016	nervous system	UBERON_0002021	occipital lobe
+UBERON_0001007	digestive system	UBERON_0003729	oral mucosa
+UBERON_0000949	endocrine system	UBERON_0001264	pancreas
+UBERON_0001016	nervous system	UBERON_0001872	parietal lobe
+UBERON_0002390	hematopoietic system	CL_0000233	platelet
+UBERON_0001016	nervous system	UBERON_0001871	temporal lobe

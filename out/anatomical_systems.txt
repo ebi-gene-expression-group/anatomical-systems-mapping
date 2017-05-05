@@ -204,6 +204,7 @@ UBERON_0000949	endocrine system	UBERON_0001236	adrenal medulla
 UBERON_0000949	endocrine system	UBERON_0001237	paraaortic body
 UBERON_0000949	endocrine system	UBERON_0001246	interlobular bile duct
 UBERON_0000949	endocrine system	UBERON_0001247	falciform ligament
+UBERON_0000949	endocrine system	UBERON_0001264	pancreas
 UBERON_0000949	endocrine system	UBERON_0001279	portal triad
 UBERON_0000949	endocrine system	UBERON_0001280	liver parenchyma
 UBERON_0000949	endocrine system	UBERON_0001281	hepatic sinusoid
@@ -1866,6 +1867,7 @@ UBERON_0001007	digestive system	UBERON_0003686	tooth socket
 UBERON_0001007	digestive system	UBERON_0003703	extrahepatic bile duct
 UBERON_0001007	digestive system	UBERON_0003704	intrahepatic bile duct
 UBERON_0001007	digestive system	UBERON_0003705	Meckel's diverticulum
+UBERON_0001007	digestive system	UBERON_0003729	oral mucosa
 UBERON_0001007	digestive system	UBERON_0003820	prostate bud
 UBERON_0001007	digestive system	UBERON_0003832	esophagus muscle
 UBERON_0001007	digestive system	UBERON_0003894	liver primordium
@@ -5412,6 +5414,8 @@ UBERON_0001016	nervous system	UBERON_0001816	autonomic nerve plexus
 UBERON_0001016	nervous system	UBERON_0001853	utricle of membranous labyrinth
 UBERON_0001016	nervous system	UBERON_0001854	saccule of membranous labyrinth
 UBERON_0001016	nervous system	UBERON_0001870	frontal cortex
+UBERON_0001016	nervous system	UBERON_0001871	temporal lobe
+UBERON_0001016	nervous system	UBERON_0001872	parietal lobe
 UBERON_0001016	nervous system	UBERON_0001873	caudate nucleus
 UBERON_0001016	nervous system	UBERON_0001874	putamen
 UBERON_0001016	nervous system	UBERON_0001875	globus pallidus
@@ -5496,6 +5500,7 @@ UBERON_0001016	nervous system	UBERON_0002013	superior hypogastric nerve plexus
 UBERON_0001016	nervous system	UBERON_0002014	inferior hypogastric nerve plexus
 UBERON_0001016	nervous system	UBERON_0002019	accessory XI nerve
 UBERON_0001016	nervous system	UBERON_0002020	gray matter
+UBERON_0001016	nervous system	UBERON_0002021	occipital lobe
 UBERON_0001016	nervous system	UBERON_0002022	insula
 UBERON_0001016	nervous system	UBERON_0002023	claustrum of brain
 UBERON_0001016	nervous system	UBERON_0002024	internal carotid nerve plexus
@@ -5825,6 +5830,7 @@ UBERON_0001016	nervous system	UBERON_0002765	lateral medullary lamina of globus 
 UBERON_0001016	nervous system	UBERON_0002767	inferior rostral sulcus
 UBERON_0001016	nervous system	UBERON_0002768	vestibulospinal tract
 UBERON_0001016	nervous system	UBERON_0002770	posterior hypothalamic region
+UBERON_0001016	nervous system	UBERON_0002771	middle temporal gyrus
 UBERON_0001016	nervous system	UBERON_0002772	olfactory sulcus
 UBERON_0001016	nervous system	UBERON_0002773	anterior transverse temporal gyrus
 UBERON_0001016	nervous system	UBERON_0002774	posterior transverse temporal gyrus
@@ -7116,6 +7122,7 @@ UBERON_0001016	nervous system	UBERON_0015828	cerebellum ventricular layer
 UBERON_0001016	nervous system	UBERON_0015829	forebrain ventricular layer
 UBERON_0001016	nervous system	UBERON_0016430	palmar branch of median nerve
 UBERON_0001016	nervous system	UBERON_0016508	pelvic ganglion
+UBERON_0001016	nervous system	UBERON_0016525	frontal lobe
 UBERON_0001016	nervous system	UBERON_0016527	white matter of cerebral lobe
 UBERON_0001016	nervous system	UBERON_0016528	white matter of frontal lobe
 UBERON_0001016	nervous system	UBERON_0016529	cortex of cerebral lobe
@@ -14611,6 +14618,7 @@ UBERON_0002330	exocrine system	UBERON_1000022	Zymbal's gland
 UBERON_0002330	exocrine system	UBERON_2005174	ventral liver lobe
 UBERON_0002330	exocrine system	UBERON_2005346	extrapancreatic duct
 UBERON_0002330	exocrine system	UBERON_3010404	capillary system of liver
+UBERON_0002390	hematopoietic system	CL_0000233	platelet
 UBERON_0002390	hematopoietic system	CL_0000556	megakaryocyte
 UBERON_0002390	hematopoietic system	CL_0000557	granulocyte monocyte progenitor cell
 UBERON_0002390	hematopoietic system	CL_0000805	immature single positive thymocyte
@@ -16371,6 +16379,7 @@ UBERON_0002416	integumental system	UBERON_6007284	insect region of integument
 UBERON_0002416	integumental system	UBERON_6007285	segmental subdivision of integument
 UBERON_0002416	integumental system	UBERON_6007288	insect integumentary specialisation
 UBERON_0002416	integumental system	UBERON_6007289	tagmatic subdivision of integument
+UBERON_0002416	integumental system 	UBERON_0001013	adipose tissue
 UBERON_0002465	lymphoid system	CL_0000485	mucosal type mast cell
 UBERON_0002465	lymphoid system	CL_0000844	germinal center B cell
 UBERON_0002465	lymphoid system	CL_0000865	gastrointestinal tract (lamina propria) macrophage
@@ -16622,3 +16631,5 @@ UBERON_0004122	genitourinary system	UBERON_3010590	amphibian cloacal gland
 UBERON_0004122	genitourinary system	UBERON_3011048	genital system
 UBERON_0004122	genitourinary system	UBERON_4300129	dorsal pelvic gland
 UBERON_0004122	genitourinary system	UBERON_4300130	lateral pelvic gland
+UBERON_0007651	anatomical junction	UBERON_0007650	esophagogastric junction
+UBERON_0034929	external soft tissue	UBERON_0000310	breast
