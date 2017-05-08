@@ -10,6 +10,7 @@ then
 else
   echo  -ne "Refreshing $1 ...                         \r"
   rm out/$1 2> /dev/null
+  rm log/$1 2> /dev/null
    ./paged_descendants.sh $1
 fi
 
@@ -19,7 +20,7 @@ for SYSTEM in $(cat ./all_systems | cut -f1 -d '|')
   do one_system $SYSTEM
 done
 
-echo -ne "Done! Errors: "
+echo -ne "Done! Errors: \n"
 find ./log -type f | xargs grep Error
 
 echo "Generating anatomical_systems.txt ..."
