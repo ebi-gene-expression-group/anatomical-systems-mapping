@@ -25,9 +25,6 @@ UBERON_0006699|foramen cecum of tongue
 UBERON_0006916|non-keratinized epithelium of tongue
 UBERON_0006918|parakeratinized epithelium of tongue
 UBERON_0006919|tongue squamous epithelium
-UBERON_0007367|surface of tongue
-UBERON_0007371|superior surface of tongue
-UBERON_0007373|inferior surface of tongue
 UBERON_0007691|gustatory pore
 UBERON_0008582|superior longitudinal muscle of tongue
 UBERON_0008583|transverse muscle of tongue
@@ -37,9 +34,6 @@ UBERON_0009673|accessory XI nerve cranial component
 UBERON_0010032|anterior part of tongue
 UBERON_0010033|posterior part of tongue
 UBERON_0010052|mucosa of dorsum of tongue
-UBERON_0011315|digastric branch of facial nerve
-UBERON_0011316|nerve to stylohyoid from facial nerve
-UBERON_0011317|nerve to stylopharyngeus from glossopharyngeal nerve
 UBERON_0011876|body of tongue
 UBERON_0011877|margin of tongue
 UBERON_0013475|gustatory gland

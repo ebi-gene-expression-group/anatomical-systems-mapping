@@ -1,172 +1,3 @@
-CL_0000071|blood vessel endothelial cell
-CL_0000193|cardiac muscle cell (sensu Arthopoda)
-CL_0000348|choroidal cell of the eye
-CL_0000359|vascular associated smooth muscle cell
-CL_0000513|cardiac muscle myoblast
-CL_0000704|endothelial tip cell
-CL_0000706|choroid plexus epithelial cell
-CL_0000708|leptomeningeal cell
-CL_0000746|cardiac muscle cell
-CL_0000881|perivascular macrophage
-CL_0002068|Purkinje myocyte
-CL_0002072|nodal myocyte
-CL_0002073|transitional myocyte
-CL_0002074|myocardial endocrine cell
-CL_0002086|specialized cardiac myocyte
-CL_0002096|internodal tract myocyte
-CL_0002098|regular cardiac myocyte
-CL_0002100|regular interventricular cardiac myocyte
-CL_0002129|regular atrial cardiac myocyte
-CL_0002130|regular interatrial cardiac myocyte
-CL_0002131|regular ventricular cardiac myocyte
-CL_0002138|endothelial cell of lymphatic vessel
-CL_0002144|capillary endothelial cell
-CL_0002246|peripheral blood stem cell
-CL_0002262|endothelial cell of sinusoid
-CL_0002350|endocardial cell
-CL_0002494|cardiocyte
-CL_0002495|fetal cardiomyocyte
-CL_0002539|aortic smooth muscle cell
-CL_0002543|vein endothelial cell
-CL_0002544|aortic endothelial cell
-CL_0002545|thoracic aorta endothelial cell
-CL_0002547|fibroblast of the aortic adventitia
-CL_0002548|fibroblast of cardiac tissue
-CL_0002549|fibroblast of choroid plexus
-CL_0002554|fibroblast of lymphatic vessel
-CL_0002557|fibroblast of pulmonary artery
-CL_0002585|retinal blood vessel endothelial cell
-CL_0002588|smooth muscle cell of the umbilical vein
-CL_0002589|smooth muscle cell of the brachiocephalic vasculature
-CL_0002590|smooth muscle cell of the brain vasculature
-CL_0002591|smooth muscle cell of the pulmonary artery
-CL_0002592|smooth muscle cell of the coronary artery
-CL_0002593|smooth muscle cell of the internal thoracic artery
-CL_0002594|smooth muscle cell of the umbilical artery
-CL_0002595|smooth muscle cell of the subclavian artery
-CL_0002596|smooth muscle cell of the carotid artery
-CL_0002618|endothelial cell of umbilical vein
-CL_0002651|endothelial cell of venous sinus of spleen
-CL_0002652|endothelial cell of high endothelial venule
-CL_0002653|squamous endothelial cell
-CL_0002663|myocardial endocrine cell of atrium
-CL_0002671|endothelial stalk cell
-CL_0008022|endocardial cushion cell
-CL_0010002|epithelial cell of umbilical artery
-CL_0010005|atrioventricular bundle cell
-CL_0010006|cardiac blood vessel endothelial cell
-CL_0010007|His-Purkinje system cell
-CL_0010008|cardiac endothelial cell
-CL_0010020|cardiac glial cell
-CL_0010022|cardiac neuron
-CL_1000147|heart valve cell
-CL_1000287|myocyte of anterior internodal tract
-CL_1000288|myocyte of atrial branch of anterior internodal tract
-CL_1000289|myocyte of atrial septal branch of anterior internodal tract
-CL_1000290|myocyte of middle internodal tract
-CL_1000291|myocyte of posterior internodal tract
-CL_1000306|fibroblast of tunica adventitia of artery
-CL_1000309|epicardial adipocyte
-CL_1000310|adipocyte of epicardial fat of right ventricle
-CL_1000311|adipocyte of epicardial fat of left ventricle
-CL_1000361|transitional myocyte of interatrial septum
-CL_1000362|transitional myocyte of interventricular septum
-CL_1000363|transitional myocyte of atrial branch of anterior internodal tract
-CL_1000364|transitional myocyte of anterior internodal tract
-CL_1000365|transitional myocyte of atrial septal branch of anterior internodal tract
-CL_1000366|transitional myocyte of middle internodal tract
-CL_1000367|transitional myocyte of posterior internodal tract
-CL_1000368|transitional myocyte of anterior division of left branch of atrioventricular bundle
-CL_1000369|transitional myocyte of septal division of left branch of atrioventricular bundle
-CL_1000370|transitional myocyte of left branch of atrioventricular bundle
-CL_1000371|transitional myocyte of right branch of atrioventricular bundle
-CL_1000372|transitional myocyte of atrial part of atrioventricular bundle
-CL_1000373|transitional myocyte of ventricular part of atrioventricular bundle
-CL_1000374|transitional myocyte of posterior division of left branch of atrioventricular bundle
-CL_1000375|myocardial endocrine cell of septal division of left branch of atrioventricular bundle
-CL_1000376|Purkinje myocyte of interventricular septum
-CL_1000397|endothelial cell of venous sinus of red pulp of spleen
-CL_1000398|endothelial cell of hepatic sinusoid
-CL_1000409|myocyte of sinoatrial node
-CL_1000410|myocyte of atrioventricular node
-CL_1000412|endothelial cell of arteriole
-CL_1000413|endothelial cell of artery
-CL_1000414|endothelial cell of venule
-CL_1000477|cardiac pacemaker cell of sinoatrial node
-CL_1000478|transitional myocyte of sinoatrial node
-CL_1000479|Purkinje myocyte of atrioventricular node
-CL_1000480|transitional myocyte of internodal tract
-CL_1000481|transitional myocyte of atrioventricular bundle
-CL_1000482|myocardial endocrine cell of interventricular septum
-CL_1000483|Purkinje myocyte of internodal tract
-CL_1000484|Purkinje myocyte of atrioventricular bundle
-CL_1000742|glomerular mesangial cell
-CL_1000854|kidney blood vessel cell
-CL_1000891|kidney arterial blood vessel cell
-CL_1000892|kidney capillary endothelial cell
-CL_1000893|kidney venous blood vessel cell
-CL_1001005|glomerular capillary endothelial cell
-CL_1001006|kidney afferent arteriole cell
-CL_1001009|kidney efferent arteriole cell
-CL_1001033|peritubular capillary endothelial cell
-CL_1001036|vasa recta cell
-CL_1001045|kidney cortex artery cell
-CL_1001052|kidney cortex vein cell
-CL_1001064|kidney artery smooth muscle cell
-CL_1001066|kidney arteriole smooth muscle cell
-CL_1001068|kidney venous system smooth muscle cell
-CL_1001096|kidney afferent arteriole endothelial cell
-CL_1001097|kidney afferent arteriole smooth muscle cell
-CL_1001099|kidney efferent arteriole endothelial cell
-CL_1001100|kidney efferent arteriole smooth muscle cell
-CL_1001123|kidney outer medulla peritubular capillary cell
-CL_1001124|kidney cortex peritubular capillary cell
-CL_1001126|inner renal medulla vasa recta cell
-CL_1001127|outer renal medulla vasa recta cell
-CL_1001131|vasa recta ascending limb cell
-CL_1001135|arcuate artery cell
-CL_1001138|interlobular artery cell
-CL_1001142|arcuate vein cell
-CL_1001145|interlobular vein cell
-CL_1001209|inner medulla vasa recta ascending limb cell
-CL_1001210|outer medulla vasa recta ascending limb cell
-CL_1001213|arcuate artery endothelial cell
-CL_1001214|arcuate artery smooth muscle cell
-CL_1001216|interlobulary artery endothelial cell
-CL_1001217|interlobulary artery smooth muscle cell
-CL_1001220|arcuate vein endothelial cell
-CL_1001221|arcuate vein smooth muscle cell
-CL_1001223|interlobulary vein endothelial cell
-CL_1001224|interlobulary vein smooth muscle cell
-CL_1001285|vasa recta descending limb cell
-CL_1001286|inner medulla vasa recta descending limb cell
-CL_1001287|outer medulla vasa recta descending limb cell
-CL_1001567|lung endothelial cell
-CL_1001568|pulmonary artery endothelial cell
-CL_2000001|peripheral blood mononuclear cell
-CL_2000008|microvascular endothelial cell
-CL_2000010|dermis blood vessel endothelial cell
-CL_2000011|dermis lymphatic vessel endothelial cell
-CL_2000016|lung microvascular endothelial cell
-CL_2000018|endothelial cell of coronary artery
-CL_2000022|cardiac septum native cell
-CL_2000040|bladder microvascular endothelial cell
-CL_2000041|dermis microvascular lymphatic vessel endothelial cell
-CL_2000044|brain microvascular endothelial cell
-CL_2000046|ventricular cardiac muscle cell
-CL_2000052|umbilical artery endothelial cell
-CL_2000059|prostate gland microvascular endothelial cell
-CL_2000062|placental villus capillary endothelial cell
-CL_2000065|ovarian microvascular endothelial cell
-CL_2000066|cardiac ventricle fibroblast
-CL_2000067|cardiac atrium fibroblast
-CL_2000068|pericardium fibroblast
-CL_2000070|optic choroid fibroblast
-CL_2000071|mammary microvascular endothelial cell
-CL_2000072|adipose microvascular endothelial cell
-CL_2000076|hindlimb stylopod vein endothelial cell
-CL_2000091|endometrial microvascular endothelial cells
-CL_2000095|cord blood hematopoietic stem cell
 UBERON_0000102|lung vasculature
 UBERON_0000178|blood
 UBERON_0000415|artery wall
@@ -455,7 +286,6 @@ UBERON_0002494|papillary muscle of heart
 UBERON_0002505|spiral modiolar artery
 UBERON_0002511|trabecula carnea
 UBERON_0002522|tunica media
-UBERON_0002523|tunica intima
 UBERON_0003084|heart primordium
 UBERON_0003085|ventral aorta
 UBERON_0003086|caudal artery
@@ -1005,8 +835,6 @@ UBERON_0010018|spiral valve of conus arteriosus
 UBERON_0010078|optic choroid vascular plexus
 UBERON_0010131|conducting tissue of heart
 UBERON_0010132|gastroduodenal artery
-UBERON_0010160|lumen of lymphatic vessel
-UBERON_0010161|lumen of blood vessel
 UBERON_0010172|bulb of aorta
 UBERON_0010173|sinotubular junction
 UBERON_0010174|Schweigger-Seidel sheath
@@ -1068,7 +896,6 @@ UBERON_0011741|cardiac valve leaflet
 UBERON_0011742|aortic valve leaflet
 UBERON_0011745|pulmonary valve leaflets
 UBERON_0011765|jugular lymph sac
-UBERON_0011819|lumen of atrioventricular canal
 UBERON_0011820|atrioventricular region
 UBERON_0011861|aorta collagen fibril
 UBERON_0011897|cardiac endomysium
@@ -1131,7 +958,6 @@ UBERON_0013755|arterial blood
 UBERON_0013756|venous blood
 UBERON_0013757|capillary blood
 UBERON_0013768|great vessel of heart
-UBERON_0014399|sinusoidal space
 UBERON_0014400|hepatic sinusoidal space
 UBERON_0014401|renal venous blood vessel
 UBERON_0014685|pterygoid plexus
@@ -1206,10 +1032,6 @@ UBERON_0016394|anterior auricular lymph node
 UBERON_0016395|infra-auricular lymph node
 UBERON_0016396|intraglandular lymph node
 UBERON_0016405|pulmonary capillary
-UBERON_0016509|cavity of right ventricle
-UBERON_0016513|cavity of left atrium
-UBERON_0016514|cavity of left ventricle
-UBERON_0016522|cavity of right atrium
 UBERON_0016559|superficial cerebral vein
 UBERON_0016564|deep cerebral vein
 UBERON_0016565|cerebral blood vessel
@@ -1268,7 +1090,6 @@ UBERON_0034727|vestibular bulb artery
 UBERON_0034884|juxtaglomerular arteriole
 UBERON_0034903|left atrium endocardium
 UBERON_0034927|arcuate artery of foot
-UBERON_0034940|venous sinus cavity
 UBERON_0034949|lymphatic valve
 UBERON_0034950|lymph sac
 UBERON_0034951|subcutaneous lymph sac
@@ -1361,7 +1182,6 @@ UBERON_0035756|capillary network of liver
 UBERON_0035757|embryonic capillary plexus
 UBERON_0035758|peritubular capillary plexus of kidney
 UBERON_0035762|capillary network of kidney
-UBERON_0035763|cavity of cardiac chamber
 UBERON_0035764|pulmonary lymph node
 UBERON_0035765|subsegmental lymph node
 UBERON_0035829|right gastroepiploic artery

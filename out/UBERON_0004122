@@ -10,13 +10,10 @@ UBERON_0005294|gonadal ridge
 UBERON_0005792|nephric ridge
 UBERON_0006217|cloacal membrane
 UBERON_0006307|urogenital membrane
-UBERON_0009669|embryonic cloacal lumen
-UBERON_0009844|urogenital sinus lumen
 UBERON_0009846|embryonic cloacal epithelium
 UBERON_0009847|prostate field
 UBERON_0011510|cloacal bursa
 UBERON_0012421|urodeum
-UBERON_0012463|cloacal lumen
 UBERON_0012464|cloacal vent
 UBERON_0012478|cloacal gland
 UBERON_0012479|urodeal gland
@@ -32,7 +29,6 @@ UBERON_0013501|cloacal sphincter
 UBERON_0014783|cloacal muscle
 UBERON_0014784|transverse cloacal muscle
 UBERON_0014785|levator cloacae
-UBERON_0016498|intestinal-cloacal junction
 UBERON_0016505|Mullerian tubercle
 UBERON_0017164|dorsal cloacal gland
 UBERON_3001003|cloacal fold

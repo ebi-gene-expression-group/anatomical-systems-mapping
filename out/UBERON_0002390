@@ -1,87 +1,3 @@
-CL_0000556|megakaryocyte
-CL_0000557|granulocyte monocyte progenitor cell
-CL_0000805|immature single positive thymocyte
-CL_0000806|DN2 thymocyte
-CL_0000807|DN3 thymocyte
-CL_0000808|DN4 thymocyte
-CL_0000809|double-positive, alpha-beta thymocyte
-CL_0000810|CD4-positive, alpha-beta thymocyte
-CL_0000811|CD8-positive, alpha-beta thymocyte
-CL_0000845|marginal zone B cell
-CL_0000866|thymic macrophage
-CL_0000871|splenic macrophage
-CL_0000872|splenic marginal zone macrophage
-CL_0000873|splenic metallophillic macrophage
-CL_0000874|splenic red pulp macrophage
-CL_0000876|splenic white pulp macrophage
-CL_0000877|splenic tingible body macrophage
-CL_0000882|thymic medullary macrophage
-CL_0000883|thymic cortical macrophage
-CL_0000893|thymocyte
-CL_0000894|DN1 thymic pro-T cell
-CL_0000941|thymic conventional dendritic cell
-CL_0002001|CD34-positive, CD38-positive granulocyte monocyte progenitor
-CL_0002002|Kit-positive granulocyte monocyte progenitor
-CL_0002026|CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
-CL_0002027|CD9-positive, CD41-positive megakaryocyte cell
-CL_0002059|CD8alpha-positive thymic conventional dendritic cell
-CL_0002092|bone marrow cell
-CL_0002126|CD25-positive, CD27-positive immature gamma-delta T cell
-CL_0002218|immature dendritic epithelial T cell precursor
-CL_0002240|marrow fibroblast
-CL_0002246|peripheral blood stem cell
-CL_0002293|epithelial cell of thymus
-CL_0002294|type-1 epithelial cell of thymus
-CL_0002295|type-6 epithelial cell of thymus
-CL_0002296|type-4 epithelial cell of thymus
-CL_0002297|type-3 epithelial cell of thymus
-CL_0002298|type-5 epithelial cell of thymus
-CL_0002299|type-2 epithelial cell of thymus
-CL_0002300|type-7 epithelial cell of thymus
-CL_0002364|cortical thymic epithelial cell
-CL_0002365|medullary thymic epithelial cell
-CL_0002378|immature Vgamma2-positive fetal thymocyte
-CL_0002401|mature dendritic epithelial T cell precursor
-CL_0002403|mature Vgamma2-positive fetal thymocyte
-CL_0002404|fetal thymocyte
-CL_0002405|gamma-delta thymocyte
-CL_0002406|immature Vgamma2-positive thymocyte
-CL_0002407|mature Vgamma2-positive thymocyte
-CL_0002408|immature Vgamma2-negative thymocyte
-CL_0002409|mature Vgamma2-negative thymocyte
-CL_0002411|Vgamma1.1-positive, Vdelta6.3-negative thymocyte
-CL_0002412|Vgamma1.1-positive, Vdelta6.3-positive thymocyte
-CL_0002413|mature Vgamma1.1-positive, Vdelta6.3-negative thymocyte
-CL_0002414|immature Vgamma1.1-positive, Vdelta6.3-negative thymocyte
-CL_0002415|immature Vgamma1.1-positive, Vdelta6.3-positive thymocyte
-CL_0002416|mature Vgamma1.1-positive, Vdelta6.3-positive thymocyte
-CL_0002423|DN2a thymocyte
-CL_0002424|DN2b thymocyte
-CL_0002427|resting double-positive thymocyte
-CL_0002428|double-positive blast
-CL_0002429|CD69-positive double-positive thymocyte
-CL_0002430|CD4-intermediate, CD8-positive double-positive thymocyte
-CL_0002431|CD4-positive, CD8-intermediate double-positive thymocyte
-CL_0002432|CD24-positive, CD4 single-positive thymocyte
-CL_0002433|CD69-positive, CD4-positive single-positive thymocyte
-CL_0002434|CD24-positive, CD8 single-positive thymocyte
-CL_0002435|CD69-positive, CD8-positive single-positive thymocyte
-CL_0002460|CD8alpha-negative thymic conventional dendritic cell
-CL_0002476|bone marrow macrophage
-CL_0002489|double negative thymocyte
-CL_0002540|mesenchymal stem cell of the bone marrow
-CL_0010001|stromal cell of bone marrow
-CL_0010004|mononuclear cell of bone marrow
-CL_0011114|segmented neutrophil of bone marrow
-CL_1000397|endothelial cell of venous sinus of red pulp of spleen
-CL_1000489|reticular cell of splenic cord
-CL_1001610|bone marrow hematopoietic cell
-CL_2000001|peripheral blood mononuclear cell
-CL_2000051|splenic fibroblast
-CL_2000053|splenic endothelial cell
-CL_2000074|splenocyte
-CL_2000079|mesenchymal stem cell of femoral bone marrow
-CL_2000095|cord blood hematopoietic stem cell
 UBERON_0000040|Leydig's organ
 UBERON_0000178|blood
 UBERON_0000332|yellow bone marrow
@@ -96,14 +12,12 @@ UBERON_0001959|white pulp of spleen
 UBERON_0001960|periarterial lymphatic sheath
 UBERON_0001969|blood plasma
 UBERON_0002106|spleen
-UBERON_0002122|capsule of thymus
 UBERON_0002123|cortex of thymus
 UBERON_0002124|medulla of thymus
 UBERON_0002125|thymus lobule
 UBERON_0002370|thymus
 UBERON_0002371|bone marrow
 UBERON_0003105|dorsal lateral plate region
-UBERON_0003304|mesoderm blood island
 UBERON_0003483|thymus lymphoid tissue
 UBERON_0003846|thymus epithelium
 UBERON_0003903|bursa of Fabricius
@@ -142,7 +56,7 @@ UBERON_0010401|spleen central arteriole
 UBERON_0010421|spleen B cell corona
 UBERON_0010756|spleen follicular dendritic cell network
 UBERON_0012168|umbilical cord blood
-UBERON_0012429|hemopoietic tissue
+UBERON_0012429|hematopoietic tissue
 UBERON_0013119|haemal node
 UBERON_0013132|penicillar arteriole
 UBERON_0013755|arterial blood

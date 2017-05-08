@@ -1,69 +1,3 @@
-CL_0000082|epithelial cell of lung
-CL_0000158|Clara cell
-CL_0000307|tracheal epithelial cell
-CL_0000322|pneumocyte
-CL_0000853|olfactory epithelial support cell
-CL_0000869|tonsillar macrophage
-CL_0000886|nasal and broncial associated lymphoid tissue macrophage
-CL_0002062|type I pneumocyte
-CL_0002063|type II pneumocyte
-CL_0002075|brush cell of trachebronchial tree
-CL_0002145|ciliated columnar cell of tracheobronchial tree
-CL_0002169|basal cell of olfactory epithelium
-CL_0002171|globose cell of olfactory epithelium
-CL_0002184|basal proper cell of olfactory epithelium
-CL_0002202|epithelial cell of tracheobronchial tree
-CL_0002205|brush cell of lobular bronchiole
-CL_0002206|brush cell of terminal bronchiole
-CL_0002207|brush cell of trachea
-CL_0002208|brush cell of bronchus
-CL_0002209|intermediate epitheliocyte
-CL_0002241|pulmonary interstitial fibroblast
-CL_0002328|bronchial epithelial cell
-CL_0002329|basal epithelial cell of tracheobronchial tree
-CL_0002330|undifferentiated cell of bronchus epithelium
-CL_0002332|ciliated cell of the bronchus
-CL_0002368|respiratory epithelial cell
-CL_0002370|respiratory goblet cell
-CL_0002480|nasal mucosa goblet cell
-CL_0002553|fibroblast of lung
-CL_0002598|bronchial smooth muscle cell
-CL_0002600|smooth muscle cell of trachea
-CL_0002631|epithelial cell of upper respiratory tract
-CL_0002632|epithelial cell of lower respiratory tract
-CL_0002633|respiratory basal cell
-CL_0002638|bronchioalveolar stem cell
-CL_0008026|open tracheal system tracheocyte
-CL_0010003|epithelial cell of alveolus of lung
-CL_1000143|lung goblet cell
-CL_1000223|lung neuroendocrine cell
-CL_1000271|lung ciliated cell
-CL_1000272|lung secretory cell
-CL_1000312|bronchial goblet cell
-CL_1000329|tracheal goblet cell
-CL_1000330|serous cell of epithelium of trachea
-CL_1000331|serous cell of epithelium of bronchus
-CL_1000332|serous cell of epithelium of terminal bronchiole
-CL_1000333|serous cell of epithelium of lobular bronchiole
-CL_1000337|enterocyte of epithelium of duodenal gland
-CL_1000348|basal cell of epithelium of trachea
-CL_1000349|basal cell of epithelium of bronchus
-CL_1000350|basal cell of epithelium of terminal bronchiole
-CL_1000351|basal cell of epithelium of respiratory bronchiole
-CL_1000352|basal cell of epithelium of lobular bronchiole
-CL_1000377|dense-core granulated cell of epithelium of trachea
-CL_1000491|mesothelial cell of pleura
-CL_1000492|mesothelial cell of parietal pleura
-CL_1000493|mesothelial cell of visceral pleura
-CL_1001566|bronchioalveolar stem cells
-CL_1001567|lung endothelial cell
-CL_1001573|nasopharyngeal epithelial cell
-CL_1001577|tonsil squamous cell
-CL_1001603|lung macrophage
-CL_2000006|tonsil germinal center B cell
-CL_2000016|lung microvascular endothelial cell
-CL_2000093|bronchus fibroblast of lung
-CL_2000094|nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa
 UBERON_0000031|lamina propria of trachea
 UBERON_0000065|respiratory tract
 UBERON_0000072|proximo-distal subdivision of respiratory tract
@@ -157,7 +91,6 @@ UBERON_0002373|palatine tonsil
 UBERON_0002375|cricoid cartilage
 UBERON_0002400|parietal pleura
 UBERON_0002401|visceral pleura
-UBERON_0002402|pleural cavity
 UBERON_0002453|ethmoid sinus
 UBERON_0002486|glottis
 UBERON_0002535|gill
@@ -342,8 +275,6 @@ UBERON_0006670|central tendon of diaphragm
 UBERON_0006679|carina of trachea
 UBERON_0006680|trachealis
 UBERON_0006685|pharyngeal tubercle
-UBERON_0006832|lumen of open tracheal system trachea
-UBERON_0006833|lumen of trachea
 UBERON_0007145|dome of diaphragm
 UBERON_0007161|medial arcuate ligament
 UBERON_0007162|lateral arcuate ligament
@@ -419,7 +350,6 @@ UBERON_0009867|Hatschek's diverticulum
 UBERON_0009868|Hatschek's left diverticulum
 UBERON_0009869|Hatschek's right diverticulum
 UBERON_0009948|clavicular air sac
-UBERON_0009959|lumen of oropharynx
 UBERON_0010002|pulmonary neuroendocrine body
 UBERON_0010019|spiracle (sensu Vertebrata)
 UBERON_0010060|pharyngeal opening of pharyngotympanic tube
@@ -488,7 +418,6 @@ UBERON_0013172|cricotracheal ligament
 UBERON_0013175|nasal air sac
 UBERON_0013233|supraorbital gland
 UBERON_0013479|lung endothelium
-UBERON_0013653|velar skeleton
 UBERON_0013688|tonsil germinal center
 UBERON_0013696|tonsil epithelium
 UBERON_0014372|fibroelastic membrane of larynx
@@ -527,12 +456,7 @@ UBERON_0034971|aortic body
 UBERON_0035077|lateral nasal gland
 UBERON_0035120|fauces
 UBERON_0035228|tonsillar fossa
-UBERON_0035240|posterior wall of oropharynx
 UBERON_0035270|roof of nasopharynx
-UBERON_0035286|lateral wall of oropharynx
-UBERON_0035313|posterior wall of laryngopharynx
-UBERON_0035383|lateral wall of nasopharynx
-UBERON_0035401|posterior wall of nasopharynx
 UBERON_0035431|mediastinal pleura
 UBERON_0035453|laryngeal ventricle
 UBERON_0035468|costodiaphragmatic recess

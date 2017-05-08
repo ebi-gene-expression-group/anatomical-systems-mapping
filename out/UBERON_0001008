@@ -1,154 +1,3 @@
-CL_0000474|pericardial nephrocyte
-CL_0000486|garland cell
-CL_0000648|kidney granular cell
-CL_0000653|glomerular visceral epithelial cell
-CL_0000731|urothelial cell
-CL_0002173|extraglomerular mesangial cell
-CL_0002188|glomerular endothelial cell
-CL_0002201|renal beta-intercalated cell
-CL_0002305|epithelial cell of distal tubule
-CL_0002306|epithelial cell of proximal tubule
-CL_0002307|brush border cell of the proximal tubule
-CL_0002518|kidney epithelial cell
-CL_0002519|interrenal epithelial cell
-CL_0002520|nephrocyte
-CL_0002522|renal filtration cell
-CL_0002523|mesonephric glomerular visceral epithelial cell
-CL_0002524|disseminated nephrocyte
-CL_0002525|metanephric glomerular visceral epithelial cell
-CL_0002584|renal cortical epithelial cell
-CL_0002597|smooth muscle cell of bladder
-CL_0002681|kidney cortical cell
-CL_0005009|renal principal cell
-CL_0005010|renal intercalated cell
-CL_0005011|renal alpha-intercalated cell
-CL_1000022|mesonephric nephron tubule epithelial cell
-CL_1000090|pronephric nephron tubule epithelial cell
-CL_1000123|metanephric nephron tubule epithelial cell
-CL_1000155|Malpighian tubule stellate cell
-CL_1000182|malpighian tubule tip cell
-CL_1000296|epithelial cell of urethra
-CL_1000308|fibrocyte of adventitia of ureter
-CL_1000442|urothelial cell of trigone of urinary bladder
-CL_1000449|epithelial cell of nephron
-CL_1000450|epithelial cell of glomerular capsule
-CL_1000451|epithelial cell of visceral layer of glomerular capsule
-CL_1000452|parietal epithelial cell
-CL_1000453|epithelial cell of intermediate tubule
-CL_1000454|kidney collecting duct epithelial cell
-CL_1000486|basal cell of urothelium
-CL_1000494|nephron tubule epithelial cell
-CL_1000497|kidney cell
-CL_1000500|kidney interstitial cell
-CL_1000504|kidney medulla cell
-CL_1000505|kidney pelvis cell
-CL_1000507|kidney tubule cell
-CL_1000510|kidney glomerular epithelial cell
-CL_1000546|kidney medulla collecting duct epithelial cell
-CL_1000547|kidney inner medulla collecting duct epithelial cell
-CL_1000548|kidney outer medulla collecting duct epithelial cell
-CL_1000549|kidney cortex collecting duct epithelial cell
-CL_1000550|kidney papillary duct principal epithelial cell
-CL_1000596|inner renal cortex cell
-CL_1000597|papillary tips cell
-CL_1000600|lower urinary tract cell
-CL_1000601|ureteral cell
-CL_1000606|kidney nerve cell
-CL_1000612|kidney corpuscule cell
-CL_1000615|kidney cortex tubule cell
-CL_1000616|kidney outer medulla cell
-CL_1000617|kidney inner medulla cell
-CL_1000618|juxtaglomerular complex cell
-CL_1000681|kidney cortex interstitial cell
-CL_1000682|kidney medulla interstitial cell
-CL_1000691|kidney interstitial myofibroblast
-CL_1000692|kidney interstitial fibroblast
-CL_1000693|kidney interstitial fibrocyte
-CL_1000695|kidney interstitial alternatively activated macrophage
-CL_1000696|kidney interstitial inflammatory macrophage
-CL_1000697|kidney interstitial suppressor macrophage
-CL_1000698|kidney resident macrophage
-CL_1000699|kidney resident dendritic cell
-CL_1000702|kidney pelvis smooth muscle cell
-CL_1000703|kidney pelvis urothelial cell
-CL_1000706|ureter urothelial cell
-CL_1000708|ureter adventitial cell
-CL_1000714|kidney cortex collecting duct principal cell
-CL_1000715|kidney cortex collecting duct intercalated cell
-CL_1000716|kidney outer medulla collecting duct principal cell
-CL_1000717|kidney outer medulla collecting duct intercalated cell
-CL_1000718|kidney inner medulla collecting duct principal cell
-CL_1000719|kidney inner medulla collecting duct intercalated cell
-CL_1000720|kidney papillary duct intercalated cell
-CL_1000721|kidney papillary duct principal cell
-CL_1000742|glomerular mesangial cell
-CL_1000746|glomerular cell
-CL_1000768|kidney connecting tubule epithelial cell
-CL_1000803|kidney inner medulla interstitial cell
-CL_1000804|kidney outer medulla interstitial cell
-CL_1000838|kidney proximal convoluted tubule epithelial cell
-CL_1000839|kidney proximal straight tubule epithelial cell
-CL_1000849|kidney distal convoluted tubule epithelial cell
-CL_1000850|macula densa epithelial cell
-CL_1000854|kidney blood vessel cell
-CL_1000891|kidney arterial blood vessel cell
-CL_1000892|kidney capillary endothelial cell
-CL_1000893|kidney venous blood vessel cell
-CL_1000909|kidney loop of Henle epithelial cell
-CL_1000979|ureter smooth muscle cell
-CL_1001005|glomerular capillary endothelial cell
-CL_1001006|kidney afferent arteriole cell
-CL_1001009|kidney efferent arteriole cell
-CL_1001016|kidney loop of Henle ascending limb epithelial cell
-CL_1001021|kidney loop of Henle descending limb epithelial cell
-CL_1001033|peritubular capillary endothelial cell
-CL_1001036|vasa recta cell
-CL_1001045|kidney cortex artery cell
-CL_1001052|kidney cortex vein cell
-CL_1001064|kidney artery smooth muscle cell
-CL_1001066|kidney arteriole smooth muscle cell
-CL_1001068|kidney venous system smooth muscle cell
-CL_1001096|kidney afferent arteriole endothelial cell
-CL_1001097|kidney afferent arteriole smooth muscle cell
-CL_1001099|kidney efferent arteriole endothelial cell
-CL_1001100|kidney efferent arteriole smooth muscle cell
-CL_1001106|kidney loop of Henle thick ascending limb epithelial cell
-CL_1001107|kidney loop of Henle thin ascending limb epithelial cell
-CL_1001108|kidney loop of Henle medullary thick ascending limb epithelial cell
-CL_1001109|kidney loop of Henle cortical thick ascending limb epithelial cell
-CL_1001111|kidney loop of Henle thin descending limb epithelial cell
-CL_1001123|kidney outer medulla peritubular capillary cell
-CL_1001124|kidney cortex peritubular capillary cell
-CL_1001126|inner renal medulla vasa recta cell
-CL_1001127|outer renal medulla vasa recta cell
-CL_1001131|vasa recta ascending limb cell
-CL_1001135|arcuate artery cell
-CL_1001138|interlobular artery cell
-CL_1001142|arcuate vein cell
-CL_1001145|interlobular vein cell
-CL_1001209|inner medulla vasa recta ascending limb cell
-CL_1001210|outer medulla vasa recta ascending limb cell
-CL_1001213|arcuate artery endothelial cell
-CL_1001214|arcuate artery smooth muscle cell
-CL_1001216|interlobulary artery endothelial cell
-CL_1001217|interlobulary artery smooth muscle cell
-CL_1001220|arcuate vein endothelial cell
-CL_1001221|arcuate vein smooth muscle cell
-CL_1001223|interlobulary vein endothelial cell
-CL_1001224|interlobulary vein smooth muscle cell
-CL_1001225|kidney collecting duct cell
-CL_1001285|vasa recta descending limb cell
-CL_1001286|inner medulla vasa recta descending limb cell
-CL_1001287|outer medulla vasa recta descending limb cell
-CL_1001318|renal interstitial pericyte
-CL_1001319|bladder cell
-CL_1001320|urethra cell
-CL_1001428|bladder urothelial cell
-CL_1001430|urethra urothelial cell
-CL_1001431|kidney collecting duct principal cell
-CL_1001432|kidney collecting duct intercalated cell
-CL_2000040|bladder microvascular endothelial cell
-CL_2000065|ovarian microvascular endothelial cell
 UBERON_0000056|ureter
 UBERON_0000057|urethra
 UBERON_0000074|renal glomerulus
@@ -204,7 +53,6 @@ UBERON_0001337|spongiose part of urethra
 UBERON_0001338|urethral gland
 UBERON_0001552|kidney arcuate artery
 UBERON_0001556|lower urinary tract
-UBERON_0002015|kidney capsule
 UBERON_0002068|urachus
 UBERON_0002113|kidney
 UBERON_0002120|pronephros
@@ -228,8 +76,6 @@ UBERON_0003546|distal convoluted tubule macula densa
 UBERON_0003644|kidney arterial blood vessel
 UBERON_0003820|prostate bud
 UBERON_0003829|urethra muscle tissue
-UBERON_0004032|podocyte slit diaphragm
-UBERON_0004033|podocyte slit junction
 UBERON_0004100|renal collecting system
 UBERON_0004134|proximal tubule
 UBERON_0004135|distal tubule
@@ -441,7 +287,7 @@ UBERON_0007653|capillary loop nephron
 UBERON_0007654|maturing nephron
 UBERON_0007684|uriniferous tubule
 UBERON_0007685|region of nephron tubule
-UBERON_0008404|proximale tubular epithelium
+UBERON_0008404|proximal tubular epithelium
 UBERON_0008408|distal tubular epithelium
 UBERON_0008716|hilum of kidney
 UBERON_0008987|renal parenchyma
@@ -456,9 +302,7 @@ UBERON_0009201|nephric duct
 UBERON_0009622|pronephric proximal straight tubule
 UBERON_0009650|cortical arch of kidney
 UBERON_0009651|nephron tubule basement membrane
-UBERON_0009669|embryonic cloacal lumen
 UBERON_0009773|renal tubule
-UBERON_0009844|urogenital sinus lumen
 UBERON_0009846|embryonic cloacal epithelium
 UBERON_0009847|prostate field
 UBERON_0009866|Hatschek's nephridium
@@ -480,7 +324,6 @@ UBERON_0010151|duct of bulbourethral gland
 UBERON_0010181|straight venules of kidney
 UBERON_0010186|male urethral gland
 UBERON_0010187|female urethral gland
-UBERON_0010390|lumen of urethra
 UBERON_0010418|urethral opening
 UBERON_0010531|metanephros induced blastemal cells
 UBERON_0010532|primitive nephron
@@ -496,7 +339,6 @@ UBERON_0011202|urachus epithelium
 UBERON_0011203|urachus mesenchyme
 UBERON_0011379|male external urethral sphincter
 UBERON_0011380|female external urethral sphincter
-UBERON_0011574|mesonephric duct lumen
 UBERON_0011830|duct of lesser vestibular gland
 UBERON_0011947|ureter luminal urothelium
 UBERON_0011948|ureter subluminal urothelium
@@ -514,7 +356,6 @@ UBERON_0012299|mucosa of urethra
 UBERON_0012301|female membranous urethra
 UBERON_0012302|male membranous urethra
 UBERON_0012303|ureteral orifice
-UBERON_0012351|urachal lumen
 UBERON_0012352|mesangial matrix
 UBERON_0012378|muscle layer of urinary bladder
 UBERON_0012428|proximal convoluted tubule brush border
@@ -548,7 +389,6 @@ UBERON_0034884|juxtaglomerular arteriole
 UBERON_0034996|outer renal medulla loop of Henle
 UBERON_0034997|renal medulla loop of Henle
 UBERON_0035368|anterior surface of kidney
-UBERON_0035471|posterior surface of kidney
 UBERON_0035758|peritubular capillary plexus of kidney
 UBERON_0035762|capillary network of kidney
 UBERON_2001055|pronephric duct opening

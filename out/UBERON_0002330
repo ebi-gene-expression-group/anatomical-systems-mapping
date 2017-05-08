@@ -1,48 +1,3 @@
-CL_0000152|exocrine cell
-CL_0000182|hepatocyte
-CL_0000317|sebum secreting cell
-CL_0000632|hepatic stellate cell
-CL_0000684|littoral cell of liver
-CL_0002064|pancreatic acinar cell
-CL_0002079|pancreatic ductal cell
-CL_0002080|pancreatic centro-acinar cell
-CL_0002140|acinar cell of sebaceous gland
-CL_0002142|dark cell of eccrine sweat gland
-CL_0002146|clear cell of eccrine sweat gland
-CL_0002181|mucus neck cell of gastric gland
-CL_0002183|stem cell of gastric gland
-CL_0002195|hepatic stem cell
-CL_0002196|hepatic oval stem cell
-CL_0002324|myoepithelial cell of mammary gland
-CL_0002325|mammary alveolar cell
-CL_0002326|luminal epithelial cell of mammary gland
-CL_0002327|mammary gland epithelial cell
-CL_0002353|fetal liver hematopoietic progenitor cell
-CL_0002538|intrahepatic bile duct epithelial cell
-CL_0002555|fibroblast of mammary gland
-CL_0002571|hepatic mesenchymal stem cell
-CL_0002623|acinar cell of salivary gland
-CL_0002660|luminal cell of acinus of lactiferous gland
-CL_0002661|luminal cell of lactiferous terminal ductal lobular unit
-CL_0002662|luminal cell of lactiferous duct
-CL_1000314|gastric cardiac gland goblet cell
-CL_1000315|principal gastric gland goblet cell
-CL_1000322|pancreatic goblet cell
-CL_1000323|pylroric gastric gland goblet cell
-CL_1000337|enterocyte of epithelium of duodenal gland
-CL_1000398|endothelial cell of hepatic sinusoid
-CL_1000416|myoepithelial cell of lactiferous gland
-CL_1000417|myoepithelial cell of sweat gland
-CL_1000418|myoepithelial cell of lactiferous alveolus
-CL_1000419|myoepithelial cell of lactiferous duct
-CL_1000448|epithelial cell of sweat gland
-CL_1000468|myoepithelial cell of acinus of lactiferous gland
-CL_1001433|epithelial cell of exocrine pancreas
-CL_1001586|mammary gland glandular cell
-CL_1001596|salivary gland glandular cell
-CL_1001599|pancreas exocrine glandular cell
-CL_2000021|sebaceous gland native cell
-CL_2000055|liver dendritic cell
 UBERON_0000017|exocrine pancreas
 UBERON_0000325|gastric gland
 UBERON_0000359|preputial gland
@@ -259,7 +214,6 @@ UBERON_0015784|duct of olfactory gland
 UBERON_0015785|acinus of olfactory gland
 UBERON_0015796|liver blood vessel
 UBERON_0016478|liver stroma
-UBERON_0016479|capsule of liver
 UBERON_0016480|interlobular stroma of liver
 UBERON_0016852|skin scent gland
 UBERON_0016853|interdigital gland

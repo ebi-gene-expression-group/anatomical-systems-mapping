@@ -1,182 +1,3 @@
-CL_0000163|endocrine cell
-CL_0000164|enteroendocrine cell
-CL_0000165|neuroendocrine cell
-CL_0000166|chromaffin cell
-CL_0000169|type B pancreatic cell
-CL_0000171|pancreatic A cell
-CL_0000173|pancreatic D cell
-CL_0000174|steroid hormone secreting cell
-CL_0000175|luteal cell
-CL_0000176|ecdysteroid secreting cell
-CL_0000177|testosterone secreting cell
-CL_0000178|Leydig cell
-CL_0000179|progesterone secreting cell
-CL_0000180|estradiol secreting cell
-CL_0000182|hepatocyte
-CL_0000336|adrenal medulla chromaffin cell
-CL_0000437|gonadtroph
-CL_0000438|luteinizing hormone secreting cell
-CL_0000446|chief cell of parathyroid gland
-CL_0000452|thyroid hormone secreting cell
-CL_0000456|mineralocorticoid secreting cell
-CL_0000460|glucocorticoid secreting cell
-CL_0000467|adrenocorticotropic hormone secreting cell
-CL_0000476|thyrotroph
-CL_0000482|juvenile hormone secreting cell
-CL_0000501|granulosa cell
-CL_0000502|type D enteroendocrine cell
-CL_0000503|theca cell
-CL_0000504|enterochromaffin-like cell
-CL_0000508|type G enteroendocrine cell
-CL_0000568|amine precursor uptake and decarboxylation cell
-CL_0000570|parafollicular cell
-CL_0000577|type EC enteroendocrine cell
-CL_0000590|small luteal cell
-CL_0000592|large luteal cell
-CL_0000593|androgen secreting cell
-CL_0000632|hepatic stellate cell
-CL_0000637|chromophil cell of anterior pituitary gland
-CL_0000638|acidophil cell of pars distalis of adenohypophysis
-CL_0000639|basophil cell of pars distalis of adenohypophysis
-CL_0000641|chromophobe cell
-CL_0000642|folliculostellate cell
-CL_0000652|pinealocyte
-CL_0000684|littoral cell of liver
-CL_0000689|myoendocrine cell
-CL_0000696|PP cell
-CL_0000699|paraganglial type 1 cell
-CL_0000805|immature single positive thymocyte
-CL_0000806|DN2 thymocyte
-CL_0000807|DN3 thymocyte
-CL_0000808|DN4 thymocyte
-CL_0000809|double-positive, alpha-beta thymocyte
-CL_0000810|CD4-positive, alpha-beta thymocyte
-CL_0000811|CD8-positive, alpha-beta thymocyte
-CL_0000866|thymic macrophage
-CL_0000882|thymic medullary macrophage
-CL_0000883|thymic cortical macrophage
-CL_0000893|thymocyte
-CL_0000894|DN1 thymic pro-T cell
-CL_0000941|thymic conventional dendritic cell
-CL_0002059|CD8alpha-positive thymic conventional dendritic cell
-CL_0002066|Feyrter cell
-CL_0002067|type A enterocrine cell
-CL_0002074|myocardial endocrine cell
-CL_0002082|type II cell of adrenal medulla
-CL_0002083|type I cell of adrenal medulla
-CL_0002095|hilus cell of ovary
-CL_0002097|cortical cell of adrenal gland
-CL_0002099|type I cell of adrenal cortex
-CL_0002126|CD25-positive, CD27-positive immature gamma-delta T cell
-CL_0002136|type II cell of adrenal cortex
-CL_0002137|type III cell of adrenal cortex
-CL_0002141|active chief cell of parathyroid gland
-CL_0002143|dark chief cell of parathyroid cell
-CL_0002147|clear chief cell of parathyroid cell
-CL_0002177|folliculostellate cell of pars distalis of adenohypophysis
-CL_0002195|hepatic stem cell
-CL_0002196|hepatic oval stem cell
-CL_0002197|inactive chief cell of parathyoid gland
-CL_0002199|oxyphil cell of parathyroid gland
-CL_0002200|oxyphil cell of thyroid
-CL_0002218|immature dendritic epithelial T cell precursor
-CL_0002229|light chief cell of parathyroid gland
-CL_0002257|epithelial cell of thyroid gland
-CL_0002258|thyroid follicular cell
-CL_0002260|epithelial cell of parathyroid gland
-CL_0002263|transitional cell of parathyroid gland
-CL_0002264|type A cell of stomach
-CL_0002265|type D cell of colon
-CL_0002266|type D cell of small intestine
-CL_0002267|type D cell of stomach
-CL_0002268|P/D1 enteroendocrine cell
-CL_0002270|type EC2 enteroendocrine cell
-CL_0002271|type EC1 enteroendocrine cell
-CL_0002273|type ECL enteroendocrine cell
-CL_0002275|pancreatic PP cell
-CL_0002277|type I enteroendocrine cell
-CL_0002278|GIP cell
-CL_0002279|type L enteroendocrine cell
-CL_0002280|type N enteroendocrine cell
-CL_0002281|type S enteroendocrine cell
-CL_0002282|type TG enteroendocrine cell
-CL_0002284|type X enteroendocrine cell
-CL_0002293|epithelial cell of thymus
-CL_0002294|type-1 epithelial cell of thymus
-CL_0002295|type-6 epithelial cell of thymus
-CL_0002296|type-4 epithelial cell of thymus
-CL_0002297|type-3 epithelial cell of thymus
-CL_0002298|type-5 epithelial cell of thymus
-CL_0002299|type-2 epithelial cell of thymus
-CL_0002300|type-7 epithelial cell of thymus
-CL_0002309|corticotroph
-CL_0002310|mammosomatotroph
-CL_0002311|mammotroph
-CL_0002312|somatotroph
-CL_0002353|fetal liver hematopoietic progenitor cell
-CL_0002364|cortical thymic epithelial cell
-CL_0002365|medullary thymic epithelial cell
-CL_0002378|immature Vgamma2-positive fetal thymocyte
-CL_0002401|mature dendritic epithelial T cell precursor
-CL_0002403|mature Vgamma2-positive fetal thymocyte
-CL_0002404|fetal thymocyte
-CL_0002405|gamma-delta thymocyte
-CL_0002406|immature Vgamma2-positive thymocyte
-CL_0002407|mature Vgamma2-positive thymocyte
-CL_0002408|immature Vgamma2-negative thymocyte
-CL_0002409|mature Vgamma2-negative thymocyte
-CL_0002411|Vgamma1.1-positive, Vdelta6.3-negative thymocyte
-CL_0002412|Vgamma1.1-positive, Vdelta6.3-positive thymocyte
-CL_0002413|mature Vgamma1.1-positive, Vdelta6.3-negative thymocyte
-CL_0002414|immature Vgamma1.1-positive, Vdelta6.3-negative thymocyte
-CL_0002415|immature Vgamma1.1-positive, Vdelta6.3-positive thymocyte
-CL_0002416|mature Vgamma1.1-positive, Vdelta6.3-positive thymocyte
-CL_0002423|DN2a thymocyte
-CL_0002424|DN2b thymocyte
-CL_0002427|resting double-positive thymocyte
-CL_0002428|double-positive blast
-CL_0002429|CD69-positive double-positive thymocyte
-CL_0002430|CD4-intermediate, CD8-positive double-positive thymocyte
-CL_0002431|CD4-positive, CD8-intermediate double-positive thymocyte
-CL_0002432|CD24-positive, CD4 single-positive thymocyte
-CL_0002433|CD69-positive, CD4-positive single-positive thymocyte
-CL_0002434|CD24-positive, CD8 single-positive thymocyte
-CL_0002435|CD69-positive, CD8-positive single-positive thymocyte
-CL_0002460|CD8alpha-negative thymic conventional dendritic cell
-CL_0002489|double negative thymocyte
-CL_0002500|P enteroendocrine cell
-CL_0002501|type D1 enteroendocrine cell
-CL_0002502|type M enteroendocrine cell
-CL_0002515|interrenal norepinephrine type cell
-CL_0002516|interrenal chromaffin cell
-CL_0002517|interrenal epinephrin secreting cell
-CL_0002538|intrahepatic bile duct epithelial cell
-CL_0002571|hepatic mesenchymal stem cell
-CL_0002663|myocardial endocrine cell of atrium
-CL_0002680|PP cell of intestine
-CL_0008024|pancreatic endocrine cell
-CL_0010013|type I pinealocyte
-CL_0010014|type II pinealocyte
-CL_0011111|gonadotropin releasing neuron
-CL_1000222|stomach neuroendocrine cell
-CL_1000223|lung neuroendocrine cell
-CL_1000375|myocardial endocrine cell of septal division of left branch of atrioventricular bundle
-CL_1000377|dense-core granulated cell of epithelium of trachea
-CL_1000398|endothelial cell of hepatic sinusoid
-CL_1000424|chromaffin cell of paraaortic body
-CL_1000425|chromaffin cell of paraganglion
-CL_1000426|chromaffin cell of adrenal gland
-CL_1000427|adrenal cortex chromaffin cell
-CL_1000465|chromaffin cell of ovary
-CL_1000466|chromaffin cell of right ovary
-CL_1000467|chromaffin cell of left ovary
-CL_1000482|myocardial endocrine cell of interventricular septum
-CL_1001516|intestinal enteroendocrine cell
-CL_1001517|stomach enteroendocrine cell
-CL_1001593|parathyroid glandular cell
-CL_1001601|adrenal gland glandular cell
-CL_2000004|pituitary gland cell
-CL_2000055|liver dendritic cell
 UBERON_0000006|islet of Langerhans
 UBERON_0000007|pituitary gland
 UBERON_0000016|endocrine pancreas
@@ -216,12 +37,10 @@ UBERON_0001749|parenchyma of parathyroid gland
 UBERON_0001761|future foramen cecum
 UBERON_0001905|pineal body
 UBERON_0002046|thyroid gland
-UBERON_0002052|adrenal gland capsule
 UBERON_0002053|zona glomerulosa of adrenal gland
 UBERON_0002054|zona fasciculata of adrenal gland
 UBERON_0002055|zona reticularis of adrenal gland
 UBERON_0002107|liver
-UBERON_0002122|capsule of thymus
 UBERON_0002123|cortex of thymus
 UBERON_0002124|medulla of thymus
 UBERON_0002125|thymus lobule
@@ -308,7 +127,6 @@ UBERON_0011768|pineal gland stalk
 UBERON_0011955|left hepatic vein
 UBERON_0011956|right hepatic vein
 UBERON_0011957|middle hepatic vein
-UBERON_0012246|thyroid follicular lumen
 UBERON_0012279|chromaffin paraganglion
 UBERON_0012325|retrocerebral complex
 UBERON_0012363|thyroid follicle epithelium
@@ -325,7 +143,6 @@ UBERON_0015481|left hepatic artery
 UBERON_0015482|right hepatic artery
 UBERON_0015796|liver blood vessel
 UBERON_0016478|liver stroma
-UBERON_0016479|capsule of liver
 UBERON_0016480|interlobular stroma of liver
 UBERON_0016890|intrahepatic branch of portal vein
 UBERON_0017632|pineal corpora arenacea

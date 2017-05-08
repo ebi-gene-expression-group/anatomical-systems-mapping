@@ -1,152 +1,3 @@
-CL_0000155|peptic cell
-CL_0000162|parietal cell
-CL_0000182|hepatocyte
-CL_0000508|type G enteroendocrine cell
-CL_0000510|paneth cell
-CL_0000577|type EC enteroendocrine cell
-CL_0000584|enterocyte
-CL_0000632|hepatic stellate cell
-CL_0000682|M cell of gut
-CL_0000684|littoral cell of liver
-CL_0000845|marginal zone B cell
-CL_0000865|gastrointestinal tract (lamina propria) macrophage
-CL_0000869|tonsillar macrophage
-CL_0000870|Peyer's patch macrophage
-CL_0000871|splenic macrophage
-CL_0000872|splenic marginal zone macrophage
-CL_0000873|splenic metallophillic macrophage
-CL_0000874|splenic red pulp macrophage
-CL_0000876|splenic white pulp macrophage
-CL_0000877|splenic tingible body macrophage
-CL_0000885|gut-associated lymphoid tissue macrophage
-CL_0002071|enterocyte of epithelium of large intestine
-CL_0002079|pancreatic ductal cell
-CL_0002166|epithelial cell of Malassez
-CL_0002170|keratinized cell of the oral mucosa
-CL_0002178|epithelial cell of stomach
-CL_0002179|foveolar cell of stomach
-CL_0002180|mucous cell of stomach
-CL_0002181|mucus neck cell of gastric gland
-CL_0002182|surface mucosal cell of stomach
-CL_0002183|stem cell of gastric gland
-CL_0002195|hepatic stem cell
-CL_0002196|hepatic oval stem cell
-CL_0002203|Brush cell of epithelium proper of large intestine
-CL_0002221|keratinized squamous cell of esophagus
-CL_0002250|intestinal crypt stem cell
-CL_0002251|epithelial cell of alimentary canal
-CL_0002252|epithelial cell of esophagus
-CL_0002253|epithelial cell of large intestine
-CL_0002254|epithelial cell of small intestine
-CL_0002264|type A cell of stomach
-CL_0002265|type D cell of colon
-CL_0002266|type D cell of small intestine
-CL_0002267|type D cell of stomach
-CL_0002270|type EC2 enteroendocrine cell
-CL_0002271|type EC1 enteroendocrine cell
-CL_0002273|type ECL enteroendocrine cell
-CL_0002353|fetal liver hematopoietic progenitor cell
-CL_0002402|Peyer's patch B cell
-CL_0002502|type M enteroendocrine cell
-CL_0002504|enteric smooth muscle cell
-CL_0002538|intrahepatic bile duct epithelial cell
-CL_0002552|fibroblast of gingiva
-CL_0002563|intestinal epithelial cell
-CL_0002571|hepatic mesenchymal stem cell
-CL_0002599|smooth muscle cell of the esophagus
-CL_0002621|gingival epithelial cell
-CL_0002623|acinar cell of salivary gland
-CL_0002624|paneth cell of the appendix
-CL_0002634|epithelial cell of anal column
-CL_0002635|nonkeratinized epithelial cell of anal column
-CL_0002636|nonkeratinized epithelial cell of inferior part of anal canal
-CL_0002637|keratinized epithelial cell of the anal canal
-CL_0002641|epithelial cell of esophageal gland proper
-CL_0002642|epithelial cell of esophageal cardiac gland
-CL_0002643|nonkeratinized cell of stratum corneum of esophageal epithelium
-CL_0002654|epithelial cell of stratum corneum of esophageal epithelium
-CL_0002655|epithelial cell of stratum spinosum of esophageal epithelium
-CL_0002657|glandular cell of esophagus
-CL_0002658|glandular cell of the large intestine
-CL_0002659|glandular cell of stomach
-CL_0002673|tongue muscle cell
-CL_0002680|PP cell of intestine
-CL_0011108|colon epithelial cell
-CL_1000222|stomach neuroendocrine cell
-CL_1000275|smooth muscle cell of small intestine
-CL_1000276|smooth muscle fiber of duodenum
-CL_1000277|smooth muscle fiber of jejunum
-CL_1000278|smooth muscle fiber of ileum
-CL_1000279|smooth muscle cell of large intestine
-CL_1000280|smooth muscle cell of colon
-CL_1000281|smooth muscle cell of cecum
-CL_1000282|smooth muscle fiber of ascending colon
-CL_1000283|smooth muscle fiber of transverse colon
-CL_1000284|smooth muscle fiber of descending colon
-CL_1000285|smooth muscle cell of sigmoid colon
-CL_1000286|smooth muscle cell of rectum
-CL_1000313|gastric goblet cell
-CL_1000314|gastric cardiac gland goblet cell
-CL_1000315|principal gastric gland goblet cell
-CL_1000317|intestinal villus goblet cell
-CL_1000320|large intestine goblet cell
-CL_1000321|large intestine crypt goblet cell
-CL_1000322|pancreatic goblet cell
-CL_1000323|pylroric gastric gland goblet cell
-CL_1000324|duodenal goblet cell
-CL_1000325|jejunal goblet cell
-CL_1000326|ileal goblet cell
-CL_1000327|appendix goblet cell
-CL_1000334|enterocyte of epithelium of small intestine
-CL_1000335|enterocyte of epithelium of intestinal villus
-CL_1000337|enterocyte of epithelium of duodenal gland
-CL_1000338|enterocyte of epithelium of crypt of Lieberkuhn of small intestine
-CL_1000339|enterocyte of epithelium proper of small intestine
-CL_1000340|enterocyte of epithelium proper of duodenum
-CL_1000341|enterocyte of epithelium proper of jejunum
-CL_1000342|enterocyte of epithelium proper of ileum
-CL_1000343|paneth cell of epithelium of small intestine
-CL_1000344|paneth cell of epithelium proper of small intestine
-CL_1000345|paneth cell of epithelium of crypt of Lieberkuhn of small intestine
-CL_1000346|vacuolar absorptive cell of epithelium proper of large intestine
-CL_1000347|vacuolar absorptive cell of epithelium of colon
-CL_1000353|microfold cell of epithelium of small intestine
-CL_1000354|microfold cell of epithelium of intestinal villus
-CL_1000355|microfold cell of epithelium proper of small intestine
-CL_1000356|microfold cell of epithelium proper of duodenum
-CL_1000357|microfold cell of epithelium proper of jejunum
-CL_1000358|microfold cell of epithelium proper of ileum
-CL_1000359|microfold cell of epithelium proper of appendix
-CL_1000360|microfold cell of epithelium proper of large intestine
-CL_1000397|endothelial cell of venous sinus of red pulp of spleen
-CL_1000398|endothelial cell of hepatic sinusoid
-CL_1000405|epithelial cell of appendix
-CL_1000411|endothelial cell of Peyer's patch
-CL_1000415|epithelial cell of gall bladder
-CL_1000438|epithelial cell of wall of inferior part of anal canal
-CL_1000447|epithelial cell of stratum germinativum of esophagus
-CL_1000488|cholangiocyte
-CL_1000489|reticular cell of splenic cord
-CL_1000495|small intestine goblet cell
-CL_1001516|intestinal enteroendocrine cell
-CL_1001517|stomach enteroendocrine cell
-CL_1001572|colon endothelial cell
-CL_1001573|nasopharyngeal epithelial cell
-CL_1001576|oral mucosa squamous cell
-CL_1001577|tonsil squamous cell
-CL_1001585|appendix glandular cell
-CL_1001588|colon glandular cell
-CL_1001589|duodenum glandular cell
-CL_1001592|gall bladder glandular cell
-CL_1001595|rectum glandular cell
-CL_1001596|salivary gland glandular cell
-CL_1001598|small intestine glandular cell
-CL_2000006|tonsil germinal center B cell
-CL_2000051|splenic fibroblast
-CL_2000053|splenic endothelial cell
-CL_2000055|liver dendritic cell
-CL_2000069|gallbladder fibroblast
-CL_2000074|splenocyte
 UBERON_0000059|large intestine
 UBERON_0000159|anal canal
 UBERON_0000160|intestine
@@ -155,7 +6,6 @@ UBERON_0000163|embryonic cloaca
 UBERON_0000164|primitive urogenital sinus
 UBERON_0000165|mouth
 UBERON_0000166|oral opening
-UBERON_0000167|oral cavity
 UBERON_0000168|proximal-distal subdivision of colon
 UBERON_0000314|cecum mucosa
 UBERON_0000317|colonic mucosa
@@ -174,10 +24,7 @@ UBERON_0000400|jejunal epithelium
 UBERON_0000401|mandibular ramus
 UBERON_0000424|gastric pit
 UBERON_0000569|ileocecal valve
-UBERON_0000910|chyme
-UBERON_0000911|chyle
 UBERON_0000945|stomach
-UBERON_0001035|dento-alveolar joint
 UBERON_0001041|foregut
 UBERON_0001042|chordate pharynx
 UBERON_0001043|esophagus
@@ -244,7 +91,6 @@ UBERON_0001240|muscularis mucosae of intestine
 UBERON_0001241|crypt of Lieberkuhn of small intestine
 UBERON_0001242|intestinal mucosa
 UBERON_0001243|serosa of intestine
-UBERON_0001245|anus
 UBERON_0001246|interlobular bile duct
 UBERON_0001247|falciform ligament
 UBERON_0001248|hilum of spleen
@@ -272,10 +118,8 @@ UBERON_0001574|palatoglossus muscle
 UBERON_0001575|extrinsic muscle of tongue
 UBERON_0001576|intrinsic muscle of tongue
 UBERON_0001581|depressor labii inferioris
-UBERON_0001617|mental artery
 UBERON_0001655|submental vein
 UBERON_0001684|mandible
-UBERON_0001708|jaw skeleton
 UBERON_0001709|upper jaw region
 UBERON_0001710|lower jaw region
 UBERON_0001716|secondary palate
@@ -363,7 +207,6 @@ UBERON_0003260|endoderm of hindgut
 UBERON_0003261|thyroid primordium endoderm
 UBERON_0003267|tooth of upper jaw
 UBERON_0003268|tooth of lower jaw
-UBERON_0003277|skeleton of upper jaw
 UBERON_0003278|skeleton of lower jaw
 UBERON_0003281|mesentery of stomach
 UBERON_0003283|mesentery of oesophagus
@@ -421,7 +264,6 @@ UBERON_0003666|upper jaw molar
 UBERON_0003667|lower jaw molar
 UBERON_0003679|mouth floor
 UBERON_0003682|palatal muscle
-UBERON_0003686|tooth socket
 UBERON_0003703|extrahepatic bile duct
 UBERON_0003704|intrahepatic bile duct
 UBERON_0003705|Meckel's diverticulum
@@ -441,7 +283,6 @@ UBERON_0004041|spleen primary B follicle
 UBERON_0004042|spleen secondary B follicle
 UBERON_0004045|tailgut
 UBERON_0004058|biliary ductule
-UBERON_0004103|alveolar ridge
 UBERON_0004117|pharyngeal pouch
 UBERON_0004163|anterior ectodermal midgut
 UBERON_0004185|endodermal part of digestive tract
@@ -566,7 +407,6 @@ UBERON_0005597|lung primordium
 UBERON_0005602|dorsal mesogastrium
 UBERON_0005604|extrahepatic part of hepatic duct
 UBERON_0005605|intrahepatic part of hepatic duct
-UBERON_0005619|secondary palatal shelf
 UBERON_0005620|primary palate
 UBERON_0005626|ventral mesogastrium
 UBERON_0005636|caecum epithelium
@@ -647,7 +487,6 @@ UBERON_0006866|terminal part of digestive tract
 UBERON_0006870|endostyle
 UBERON_0006877|vasculature of liver
 UBERON_0006905|mandibular process mesenchyme
-UBERON_0006909|lumen of digestive tract
 UBERON_0006912|urinary bladder muscularis mucosa
 UBERON_0006913|lip epithelium
 UBERON_0006916|non-keratinized epithelium of tongue
@@ -667,10 +506,6 @@ UBERON_0007124|pharyngeal pouch 3
 UBERON_0007125|pharyngeal pouch 4
 UBERON_0007126|pharyngeal pouch 5
 UBERON_0007127|pharyngeal pouch 6
-UBERON_0007147|lumen of midgut
-UBERON_0007148|lumen of hindgut
-UBERON_0007158|lumen of anal canal
-UBERON_0007159|lumen of colon
 UBERON_0007177|lamina propria of mucosa of colon
 UBERON_0007178|muscularis mucosae of colon
 UBERON_0007237|1st arch mandibular component
@@ -689,9 +524,6 @@ UBERON_0007362|omasum
 UBERON_0007364|reticulorumen
 UBERON_0007365|rumen
 UBERON_0007366|ruminant stomach
-UBERON_0007367|surface of tongue
-UBERON_0007371|superior surface of tongue
-UBERON_0007373|inferior surface of tongue
 UBERON_0007652|esophageal sphincter
 UBERON_0007689|thyroid diverticulum
 UBERON_0007690|early pharyngeal endoderm
@@ -740,10 +572,8 @@ UBERON_0008896|post-hyoid pharyngeal arch
 UBERON_0008947|respiratory primordium
 UBERON_0008971|left colon
 UBERON_0008972|right colon
-UBERON_0008978|anal sac
 UBERON_0008989|submocosal esophageal gland
 UBERON_0008994|equine glandular stomach
-UBERON_0009034|stomach region
 UBERON_0009099|typhlosole
 UBERON_0009116|thymoid
 UBERON_0009119|branchial basket
@@ -774,16 +604,12 @@ UBERON_0009550|endoderm of foregut-midgut junction
 UBERON_0009566|intestinal submucosa
 UBERON_0009584|1st arch mandibular mesenchyme
 UBERON_0009654|alveolar artery
-UBERON_0009669|embryonic cloacal lumen
-UBERON_0009670|rectal lumen
 UBERON_0009671|nasal fin
 UBERON_0009672|oronasal membrane
 UBERON_0009679|set of lower jaw teeth
-UBERON_0009680|set of upper jaw teeth
 UBERON_0009695|epithelium of laryngopharynx
 UBERON_0009697|epithelium of appendix
 UBERON_0009722|entire pharyngeal arch endoderm
-UBERON_0009844|urogenital sinus lumen
 UBERON_0009846|embryonic cloacal epithelium
 UBERON_0009847|prostate field
 UBERON_0009854|digestive tract diverticulum
@@ -885,7 +711,6 @@ UBERON_0010706|parenchyma of caudate lobe of liver
 UBERON_0010756|spleen follicular dendritic cell network
 UBERON_0010937|salpingopharyngeus muscle
 UBERON_0011079|angular bone
-UBERON_0011085|palatoquadrate arch
 UBERON_0011087|pharyngeal arch 7
 UBERON_0011184|epithelium of crypt of Lieberkuhn
 UBERON_0011185|gastrointestinal sphincter
@@ -903,9 +728,6 @@ UBERON_0011310|masseteric fossa
 UBERON_0011318|capsule of temporomandibular joint
 UBERON_0011319|disk of temporomandibular joint
 UBERON_0011320|ligament of temporomandibular joint
-UBERON_0011342|surface of mandible
-UBERON_0011343|medial surface of mandible
-UBERON_0011344|lateral surface of mandible
 UBERON_0011345|pharyngeal raphe
 UBERON_0011346|palatine raphe
 UBERON_0011347|raphe of hard palate
@@ -936,8 +758,6 @@ UBERON_0011698|midgut loop
 UBERON_0011737|caudate lobe hepatic sinusoids
 UBERON_0011738|quadrate lobe hepatic sinusoids
 UBERON_0011770|mentomeckelian
-UBERON_0011772|lower jaw opening
-UBERON_0011773|upper jaw opening
 UBERON_0011847|acinus of parotid gland
 UBERON_0011850|acinus of salivary gland
 UBERON_0011876|body of tongue
@@ -956,9 +776,6 @@ UBERON_0012074|bony part of hard palate
 UBERON_0012102|buccal salivary gland
 UBERON_0012105|baleen plate
 UBERON_0012106|baleen plate bristle
-UBERON_0012111|diastema
-UBERON_0012112|ingested food
-UBERON_0012113|bolus of food
 UBERON_0012172|stomach primordium
 UBERON_0012181|tonsil crypt
 UBERON_0012256|digestive syncytial vacuole
@@ -981,9 +798,7 @@ UBERON_0012419|taenia coli
 UBERON_0012421|urodeum
 UBERON_0012425|striated border microvillus layer
 UBERON_0012427|intestinal brush border layer
-UBERON_0012463|cloacal lumen
 UBERON_0012464|cloacal vent
-UBERON_0012465|lumen of terminal part of digestive tract
 UBERON_0012471|hepatogastric ligament
 UBERON_0012472|hepatoduodenal ligament
 UBERON_0012474|hepatic cecum
@@ -1009,7 +824,6 @@ UBERON_0012651|mucosa of gastroduodenal junction
 UBERON_0012652|colorectum
 UBERON_0013067|colorectal mucosa
 UBERON_0013132|penicillar arteriole
-UBERON_0013135|interdental plate
 UBERON_0013138|coronary ligament of liver
 UBERON_0013139|ligament of liver
 UBERON_0013154|1st arch maxillary endoderm
@@ -1107,16 +921,13 @@ UBERON_0016453|lower secondary premolar tooth
 UBERON_0016454|upper central secondary incisor tooth
 UBERON_0016455|upper lateral secondary incisor tooth
 UBERON_0016478|liver stroma
-UBERON_0016479|capsule of liver
 UBERON_0016480|interlobular stroma of liver
 UBERON_0016482|dental plaque
 UBERON_0016484|subgingival dental plaque
 UBERON_0016485|supragingival dental plaque
-UBERON_0016498|intestinal-cloacal junction
 UBERON_0016499|esophageal-pneumatic duct sphincter
 UBERON_0016500|muscularis mucosa of fundus of urinary bladder
 UBERON_0016501|muscularis mucosae of fundus of stomach
-UBERON_0016502|stomach fundus lumen
 UBERON_0016505|Mullerian tubercle
 UBERON_0016511|lamina propria of fundus of stomach
 UBERON_0016512|lumen of duodenum
@@ -1152,8 +963,6 @@ UBERON_0017312|cingulum of upper canine tooth
 UBERON_0017313|cingulum of lower canine tooth
 UBERON_0017612|cingulum of lower jaw molar
 UBERON_0017613|cingulum of upper jaw molar
-UBERON_0017616|afferent spiracular artery
-UBERON_0017617|efferent spiracular artery
 UBERON_0017626|transverse folds of rectum
 UBERON_0017627|rectal valve
 UBERON_0017653|intermaxillary salivary gland
@@ -1173,7 +982,6 @@ UBERON_0018282|lower molar 3
 UBERON_0018283|lower pharyngobranchial toothplate
 UBERON_0018284|lower premolar 1
 UBERON_0018285|lower premolar 2
-UBERON_0018297|resorption pit
 UBERON_0018299|mandibular symphyseal tooth
 UBERON_0018300|upper canine 1
 UBERON_0018301|upper deciduous premolar 5
@@ -1190,7 +998,6 @@ UBERON_0018407|infra-orbital foramen of maxilla
 UBERON_0018409|infra-orbital groove of maxilla
 UBERON_0018410|lacteal
 UBERON_0018542|mandibular symphyseal region
-UBERON_0018543|lumen of intestine
 UBERON_0018561|upper secondary canine tooth
 UBERON_0018562|lower secondary canine tooth
 UBERON_0018568|lower central secondary incisor tooth
@@ -1261,11 +1068,6 @@ UBERON_0035049|excretory duct of salivary gland
 UBERON_0035053|interlobular duct of salivary gland
 UBERON_0035076|parotid gland myoepithelium
 UBERON_0035078|parotid gland interlobular duct
-UBERON_0035115|diastema between central incisors
-UBERON_0035116|diastema between upper central incisors
-UBERON_0035117|diastema between lower central incisors
-UBERON_0035118|material entity in digestive tract
-UBERON_0035119|diastema between incisors
 UBERON_0035120|fauces
 UBERON_0035126|transverse palatine suture
 UBERON_0035127|suture of hard palate
@@ -1295,7 +1097,6 @@ UBERON_0035840|esophagogastric junction muscularis mucosa
 UBERON_0035843|lower esophagus submucosa
 UBERON_0035844|lower esophagus muscularis mucosa
 UBERON_0035942|space between upper and lower jaws
-UBERON_0036019|castor sac
 UBERON_0036072|respiratory primordium epithelium
 UBERON_0036073|respiratory primordium mesenchyme
 UBERON_0036144|incisive duct
@@ -1303,7 +1104,6 @@ UBERON_1000000|chin ventral margin
 UBERON_1000011|labial commissure
 UBERON_1000023|spleen pulp
 UBERON_1000024|parenchyma of spleen
-UBERON_2000202|efferent portion of pharyngeal arch artery
 UBERON_2000224|quadrate ventral process
 UBERON_2000233|lower oral valve
 UBERON_2000240|metapterygoid
@@ -1314,7 +1114,6 @@ UBERON_2000657|entopterygoid
 UBERON_2000666|filamental artery
 UBERON_2000695|labial cavities
 UBERON_2000699|entopterygoid vertical strut
-UBERON_2000716|afferent portion of pharyngeal arch artery
 UBERON_2001076|intestinal bulb
 UBERON_2001129|pharyngeal pouches 2-6
 UBERON_2001274|coronomeckelian
@@ -1338,8 +1137,6 @@ UBERON_2002108|buccal papilla
 UBERON_2002116|epibranchial organ
 UBERON_2002257|premaxilla dentigerous process
 UBERON_2005012|afferent filamental artery
-UBERON_2005013|concurrent branch afferent branchial artery
-UBERON_2005014|recurrent branch afferent branchial artery
 UBERON_2005015|afferent lamellar arteriole
 UBERON_2005018|efferent filamental artery
 UBERON_2005019|efferent lamellar arteriole
@@ -1351,7 +1148,6 @@ UBERON_2005273|intestinal mucosal muscle
 UBERON_2005279|enteric circular muscle
 UBERON_2005346|extrapancreatic duct
 UBERON_3000003|alary process of premaxilla
-UBERON_3000006|alveolar foramen
 UBERON_3000012|angulosplenial coronoid process
 UBERON_3000017|anterior process of pars palatina of maxilla
 UBERON_3000022|antorbital process
@@ -1399,7 +1195,6 @@ UBERON_3000581|sulcus dentalis of maxilla
 UBERON_3000582|sulcus dentalis of premaxilla
 UBERON_3000583|sulcus for Meckels cartilage
 UBERON_3000597|symphysis maxillaris
-UBERON_3000605|tentacular foramen
 UBERON_3000642|maxillopalatine tooth
 UBERON_3000645|corpus
 UBERON_3000646|margo libera
@@ -1434,8 +1229,6 @@ UBERON_4200243|surangular pit line
 UBERON_4200245|parasymphysial plate
 UBERON_4200246|mesial parasymphysial foramen
 UBERON_4200247|lateral parasymphysial foramen
-UBERON_4200250|meckelian bone
-UBERON_4200251|meckelian foramen
 UBERON_4300129|dorsal pelvic gland
 UBERON_4300130|lateral pelvic gland
 UBERON_4300133|upper jaw symphyseal region
