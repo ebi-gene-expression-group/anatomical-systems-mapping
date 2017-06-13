@@ -13,7 +13,6 @@ UBERON_0002465	lymphoid system	CL_0000084	CD8-positive T cell
 UBERON_0000990	reproductive system	UBERON_0000002	cervix, uterine
 UBERON_0001016	nervous system	UBERON_0001894	diencephalon and midbrain
 UBERON_0001016	nervous system	UBERON_0002363	dura mater
-UBERON_0001016	nervous system	UBERON_0002363	dura mater
 UBERON_0002193	hemolymphoid system	CL_0000542	EBV-transformed lymphocyte
 UBERON_0002405	immune system	CL_0000542	EBV-transformed lymphocyte
 UBERON_0002465	lymphoid system	CL_0000542	EBV-transformed lymphocyte
