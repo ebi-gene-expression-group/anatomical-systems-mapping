@@ -3,6 +3,7 @@ UBERON_0002193	hemolymphoid system	CL_0000236	B cell
 UBERON_0002405	immune system	CL_0000236	B cell
 UBERON_0002465	lymphoid system	CL_0000236	B cell
 UBERON_0034929	external soft tissue zone	UBERON_0000310	breast
+UBERON_0001016	nervous system	UBERON_0000955	brain fragment
 UBERON_0002193	hemolymphoid system	CL_0000084	CD4-positive T cell
 UBERON_0002405	immune system	CL_0000084	CD4-positive T cell
 UBERON_0002465	lymphoid system	CL_0000084	CD4-positive T cell
