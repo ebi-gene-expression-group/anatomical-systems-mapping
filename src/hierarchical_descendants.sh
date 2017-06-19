@@ -34,7 +34,6 @@ paged_descendants(){
     done
   fi
 }
-
 if [[ $# -lt 1 ]] ; then
   echo "Fetch hierarchical descendants from OLS"
   echo "Usage: $0 id_1 id_2 ... id_n"

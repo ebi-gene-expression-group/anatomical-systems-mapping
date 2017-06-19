@@ -22,8 +22,17 @@ out/anatomical_systems.txt: curated/anatomical_systems/atlas_systems.tsv curated
 	> out/anatomical_systems.txt
 	echo
 
+data/anatomical_systems_mapped_ids.txt: out/anatomical_systems.txt
+	cut -f 3 out/anatomical_systems.txt | sort -u > data/anatomical_systems_mapped_ids.txt
+
+out/curation/anatomical_systems_unmapped_ids.tsv: data/anatomical_systems_mapped_ids.txt out/ontology_ids_per_experiment.tsv
+	grep -oe "UBERON.*" out/ontology_ids_per_experiment.tsv \
+	| sort -k 1 \
+	| join -t '	' -v 1 -1 1 -2 1 - data/anatomical_systems_mapped_ids.txt \
+	> out/curation/anatomical_systems_unmapped_ids.tsv
+
 .PHONY: clean all
 
 clean:
-	rm data/*
-	rm out/*
+	rm -rf data/*
+	rm -rf out/*
