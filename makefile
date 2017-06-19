@@ -15,7 +15,7 @@ data/anatomical_systems_ids.tsv: curated/anatomical_systems/atlas_systems.tsv
 		> data/anatomical_systems_ids.tsv
 
 out/anatomical_systems.txt: curated/anatomical_systems/atlas_systems.tsv curated/anatomical_systems/atlas_extra_mappings.tsv curated/anatomical_systems/header.tsv data/anatomical_systems_ids.tsv
-	join -1 1 -2 1 curated/anatomical_systems/atlas_systems.tsv data/anatomical_systems_ids.tsv \
+	amm -s src/Annotate.sc curated/anatomical_systems/atlas_systems.tsv data/anatomical_systems_ids.tsv \
 	| cat - curated/anatomical_systems/atlas_extra_mappings.tsv \
 	| sort -u \
 	| cat curated/anatomical_systems/header.tsv - \

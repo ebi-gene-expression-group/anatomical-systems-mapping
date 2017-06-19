@@ -35,13 +35,6 @@ paged_descendants(){
   fi
 }
 
-get_mappings(){
-  while read -r system_id_and_name; do
-    read system_id system_name <<< $system_id_and_name
-    paged_descendants $system_id | awk -F '\t' -v ID="$system_id" -v NAME="$system_name" '{print ID "\t" NAME "\t" $0}'
-  done  < "$1"
-}
-
 if [[ $# -lt 1 ]] ; then
   echo "Fetch hierarchical descendants from OLS"
   echo "Usage: $0 id_1 id_2 ... id_n"
