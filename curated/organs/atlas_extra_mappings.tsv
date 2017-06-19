@@ -1,2 +1,18 @@
 UBERON_0000955	brain	UBERON_0000955	brain
 UBERON_0001987	placenta	UBERON_0001987	placenta
+UBERON_0001016	brain	UBERON_0000955	brain fragment
+UBERON_0001016	brain	UBERON_0001894	diencephalon and midbrain
+UBERON_0001016	brain	UBERON_0002363	dura mater
+UBERON_0001016	brain	UBERON_0001890	forebrain and midbrain
+UBERON_0001016	brain	UBERON_0001890	forebrain fragment
+UBERON_0001016	brain	UBERON_0016525	frontal lobe
+UBERON_0001016	brain	UBERON_0002028	hindbrain fragment
+UBERON_0001016	brain	UBERON_0002028	hindbrain without cerebellum
+UBERON_0001016	brain	UBERON_0002421	hippocampus
+UBERON_0001016	brain	UBERON_0001954	hippocampus proper
+UBERON_0001016	brain	UBERON_0002771	middle temporal gyrus
+UBERON_0001016	brain	CL_0000540	neuron
+UBERON_0001016	brain	UBERON_0002021	occipital lobe
+UBERON_0001016	brain	UBERON_0001872	parietal lobe
+UBERON_0001016	brain	UBERON_0001894	pituitary and diencephalon
+UBERON_0001016	brain	UBERON_0001871	temporal lobe
