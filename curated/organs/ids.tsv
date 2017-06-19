@@ -4,9 +4,7 @@ UBERON_0000094	membrane organ
 UBERON_0000171	respiration organ
 UBERON_0000211	ligament
 UBERON_0000407	sympathetic trunk
-UBERON_0000472	simple organ
 UBERON_0000955	brain
-UBERON_0000994	spermathecum
 UBERON_0000997	mammalian vulva
 UBERON_0001630	muscle organ
 UBERON_0001849	membranous labyrinth
@@ -22,7 +20,6 @@ UBERON_0003133	reproductive organ
 UBERON_0003668	synovial bursa
 UBERON_0003917	arthropod fat body
 UBERON_0004177	hemopoietic organ
-UBERON_0004289	radula
 UBERON_0004765	skeletal element
 UBERON_0005057	immune organ
 UBERON_0005174	dorsal region element
@@ -31,23 +28,8 @@ UBERON_0005906	serous sac
 UBERON_0006585	vestibular organ
 UBERON_0006869	electric organ
 UBERON_0007196	tracheobronchial tree
-UBERON_0008252	tube foot ampulla
-UBERON_0009756	spermaceti organ
-UBERON_0009866	Hatschek's nephridium
 UBERON_0010001	cell cluster organ
 UBERON_0010053	echolocation organ
-UBERON_0012473	oral cirrus
-UBERON_0012643	plume
-UBERON_0012644	trophosome
-UBERON_0012645	opisthosome
-UBERON_0012646	tubeworm tube
-UBERON_0013189	junk chamber
 UBERON_0013642	ring of oral cilia
-UBERON_0013675	toxactinium
 UBERON_0013765	digestive system element
-UBERON_0014732	compound cell cluster organ
-UBERON_0015119	scolex
 UBERON_0034681	vocal organ
-UBERON_0035960	velum feeding organ
-UBERON_3010007	pit organ
-UBERON_4300152	accessory nasal sac
