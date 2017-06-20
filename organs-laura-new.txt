@@ -31,4 +31,4 @@ UBERON_0005156	reproductive structure
 UBERON_0006562	pharynx
 UBERON_0007650	esophagogastric junction
 UBERON_0010047	oral gland
-UBERON_0018707	bladder organ
+UBERON_0018707  bladder organ

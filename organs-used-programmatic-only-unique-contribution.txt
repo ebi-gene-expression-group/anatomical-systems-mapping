@@ -1,0 +1,25 @@
+UBERON_0013765	digestive system element	UBERON_0000945	stomach
+UBERON_0003103	compound organ	UBERON_0000948	heart
+UBERON_0005177	trunk region element	UBERON_0000948	heart
+UBERON_0003103	compound organ	UBERON_0000977	pleura
+UBERON_0005906	serous sac	UBERON_0000977	pleura
+UBERON_0005177	trunk region element	UBERON_0001043	esophagus
+UBERON_0013765	digestive system element	UBERON_0001043	esophagus
+UBERON_0005177	trunk region element	UBERON_0001264	pancreas
+UBERON_0013765	digestive system element	UBERON_0001723	tongue
+UBERON_0000171	respiration organ	UBERON_0002048	lung
+UBERON_0003103	compound organ	UBERON_0002048	lung
+UBERON_0005177	trunk region element	UBERON_0002048	lung
+UBERON_0004177	hemopoietic organ	UBERON_0002106	spleen
+UBERON_0005177	trunk region element	UBERON_0002106	spleen
+UBERON_0013765	digestive system element	UBERON_0002106	spleen
+UBERON_0003103	compound organ	UBERON_0002113	kidney
+UBERON_0005177	trunk region element	UBERON_0002113	kidney
+UBERON_0003103	compound organ	UBERON_0002185	bronchus
+UBERON_0003103	compound organ	UBERON_0002240	spinal cord
+UBERON_0005174	dorsal region element	UBERON_0002240	spinal cord
+UBERON_0013765	digestive system element	UBERON_0002394	bile duct
+UBERON_0013765	digestive system element	UBERON_0002397	maxilla
+UBERON_0005177	trunk region element	UBERON_0002509	mesenteric lymph node
+UBERON_0003103	compound organ	UBERON_0003126	trachea
+UBERON_0000211	ligament	UBERON_0008266	periodontal ligament

@@ -1,0 +1,271 @@
+UBERON_0000020	sense organ	UBERON_0000004	nose
+UBERON_0000020	sense organ	UBERON_0000964	cornea
+UBERON_0000020	sense organ	UBERON_0000966	retina
+UBERON_0000020	sense organ	UBERON_0000970	eye
+UBERON_0000020	sense organ	UBERON_0001601	extra-ocular muscle
+UBERON_0000020	sense organ	UBERON_0001690	ear
+UBERON_0000020	sense organ	UBERON_0001706	nasal septum
+UBERON_0000020	sense organ	UBERON_0001723	tongue
+UBERON_0000020	sense organ	UBERON_0001997	olfactory epithelium
+UBERON_0000020	sense organ	UBERON_0002255	vomeronasal organ
+UBERON_0000020	sense organ	UBERON_0005870	olfactory pit
+UBERON_0000020	sense organ	UBERON_0006533	rectus extraocular muscle
+UBERON_0000020	sense organ	UBERON_0010230	eyeball of camera-type eye
+UBERON_0000094	membrane organ	UBERON_0002363	dura mater
+UBERON_0000094	membrane organ	UBERON_0003547	brain meninx
+UBERON_0000171	respiration organ	UBERON_0002048	lung
+UBERON_0000211	ligament	UBERON_0008266	periodontal ligament
+UBERON_0000955	brain	UBERON_0000007	pituitary gland
+UBERON_0000955	brain	UBERON_0000369	corpus striatum
+UBERON_0000955	brain	UBERON_0000451	prefrontal cortex
+UBERON_0000955	brain	UBERON_0000955	brain
+UBERON_0000955	brain	UBERON_0000956	cerebral cortex
+UBERON_0000955	brain	UBERON_0000988	pons
+UBERON_0000955	brain	UBERON_0001870	frontal cortex
+UBERON_0000955	brain	UBERON_0001873	caudate nucleus
+UBERON_0000955	brain	UBERON_0001874	putamen
+UBERON_0000955	brain	UBERON_0001875	globus pallidus
+UBERON_0000955	brain	UBERON_0001876	amygdala
+UBERON_0000955	brain	UBERON_0001882	nucleus accumbens
+UBERON_0000955	brain	UBERON_0001885	dentate gyrus of hippocampal formation
+UBERON_0000955	brain	UBERON_0001886	choroid plexus
+UBERON_0000955	brain	UBERON_0001890	forebrain
+UBERON_0000955	brain	UBERON_0001891	midbrain
+UBERON_0000955	brain	UBERON_0001893	telencephalon
+UBERON_0000955	brain	UBERON_0001894	diencephalon
+UBERON_0000955	brain	UBERON_0001896	medulla oblongata
+UBERON_0000955	brain	UBERON_0001897	dorsal plus ventral thalamus
+UBERON_0000955	brain	UBERON_0001898	hypothalamus
+UBERON_0000955	brain	UBERON_0001905	pineal body
+UBERON_0000955	brain	UBERON_0001928	preoptic area
+UBERON_0000955	brain	UBERON_0001932	arcuate nucleus of hypothalamus
+UBERON_0000955	brain	UBERON_0001954	Ammon's horn
+UBERON_0000955	brain	UBERON_0002028	hindbrain
+UBERON_0000955	brain	UBERON_0002037	cerebellum
+UBERON_0000955	brain	UBERON_0002038	substantia nigra
+UBERON_0000955	brain	UBERON_0002043	dorsal raphe nucleus
+UBERON_0000955	brain	UBERON_0002148	locus ceruleus
+UBERON_0000955	brain	UBERON_0002245	cerebellar hemisphere
+UBERON_0000955	brain	UBERON_0002259	corpora quadrigemina
+UBERON_0000955	brain	UBERON_0002264	olfactory bulb
+UBERON_0000955	brain	UBERON_0002285	telencephalic ventricle
+UBERON_0000955	brain	UBERON_0002298	brainstem
+UBERON_0000955	brain	UBERON_0002336	corpus callosum
+UBERON_0000955	brain	UBERON_0002420	basal ganglion
+UBERON_0000955	brain	UBERON_0002421	hippocampal formation
+UBERON_0000955	brain	UBERON_0002435	striatum
+UBERON_0000955	brain	UBERON_0002691	ventral tegmental area
+UBERON_0000955	brain	UBERON_0002702	middle frontal gyrus
+UBERON_0000955	brain	UBERON_0003547	brain meninx
+UBERON_0000955	brain	UBERON_0003881	CA1 field of hippocampus
+UBERON_0000955	brain	UBERON_0003883	CA3 field of hippocampus
+UBERON_0000955	brain	UBERON_0004703	dorsal thalamus
+UBERON_0000955	brain	UBERON_0004922	postnatal subventricular zone
+UBERON_0000955	brain	UBERON_0005383	caudate-putamen
+UBERON_0000955	brain	UBERON_0006101	Brodmann (1909) area 24
+UBERON_0000955	brain	UBERON_0008881	rostral migratory stream
+UBERON_0000955	brain	UBERON_0013540	Brodmann (1909) area 9
+UBERON_0000955	brain	UBERON_0016540	occipital cortex
+UBERON_0001016	brain	UBERON_0000955	brain fragment
+UBERON_0001016	brain	UBERON_0001871	temporal lobe
+UBERON_0001016	brain	UBERON_0001872	parietal lobe
+UBERON_0001016	brain	UBERON_0001890	forebrain and midbrain
+UBERON_0001016	brain	UBERON_0001890	forebrain fragment
+UBERON_0001016	brain	UBERON_0001894	diencephalon and midbrain
+UBERON_0001016	brain	UBERON_0001894	pituitary and diencephalon
+UBERON_0001016	brain	UBERON_0001954	hippocampus proper
+UBERON_0001016	brain	UBERON_0002021	occipital lobe
+UBERON_0001016	brain	UBERON_0002028	hindbrain fragment
+UBERON_0001016	brain	UBERON_0002028	hindbrain without cerebellum
+UBERON_0001016	brain	UBERON_0002363	dura mater
+UBERON_0001016	brain	UBERON_0002421	hippocampus
+UBERON_0001016	brain	UBERON_0002771	middle temporal gyrus
+UBERON_0001016	brain	UBERON_0016525	frontal lobe
+UBERON_0001630	muscle organ	UBERON_0001103	diaphragm
+UBERON_0001630	muscle organ	UBERON_0001107	sternohyoid muscle
+UBERON_0001630	muscle organ	UBERON_0001134	skeletal muscle tissue
+UBERON_0001630	muscle organ	UBERON_0001374	biceps femoris
+UBERON_0001630	muscle organ	UBERON_0001377	quadriceps femoris
+UBERON_0001630	muscle organ	UBERON_0001379	vastus lateralis
+UBERON_0001630	muscle organ	UBERON_0001383	muscle of leg
+UBERON_0001630	muscle organ	UBERON_0001385	tibialis anterior
+UBERON_0001630	muscle organ	UBERON_0001388	gastrocnemius
+UBERON_0001630	muscle organ	UBERON_0001389	soleus muscle
+UBERON_0001630	muscle organ	UBERON_0001401	longissimus thoracis muscle
+UBERON_0001630	muscle organ	UBERON_0001499	muscle of arm
+UBERON_0001630	muscle organ	UBERON_0001509	triceps brachii
+UBERON_0001630	muscle organ	UBERON_0001597	masseter muscle
+UBERON_0001630	muscle organ	UBERON_0001601	extra-ocular muscle
+UBERON_0001630	muscle organ	UBERON_0001774	skeletal muscle of trunk
+UBERON_0001630	muscle organ	UBERON_0003663	hindlimb muscle
+UBERON_0001630	muscle organ	UBERON_0004648	esophagus muscularis mucosa
+UBERON_0001630	muscle organ	UBERON_0006533	rectus extraocular muscle
+UBERON_0001630	muscle organ	UBERON_0014892	skeletal muscle organ
+UBERON_0001987	placenta	UBERON_0001987	placenta
+UBERON_0002097	skin of body	UBERON_0000014	zone of skin
+UBERON_0002097	skin of body	UBERON_0001003	skin epidermis
+UBERON_0002097	skin of body	UBERON_0001068	skin of back
+UBERON_0002097	skin of body	UBERON_0004264	lower leg skin
+UBERON_0002097	skin of body	UBERON_0036149	suprapubic skin
+UBERON_0002530	gland	UBERON_0000007	pituitary gland
+UBERON_0002530	gland	UBERON_0000998	seminal vesicle
+UBERON_0002530	gland	UBERON_0001044	saliva-secreting gland
+UBERON_0002530	gland	UBERON_0001132	parathyroid gland
+UBERON_0002530	gland	UBERON_0001236	adrenal medulla
+UBERON_0002530	gland	UBERON_0001736	submandibular gland
+UBERON_0002530	gland	UBERON_0001830	minor salivary gland
+UBERON_0002530	gland	UBERON_0001831	parotid gland
+UBERON_0002530	gland	UBERON_0001905	pineal body
+UBERON_0002530	gland	UBERON_0001911	mammary gland
+UBERON_0002530	gland	UBERON_0002046	thyroid gland
+UBERON_0002530	gland	UBERON_0002107	liver
+UBERON_0002530	gland	UBERON_0002367	prostate gland
+UBERON_0002530	gland	UBERON_0002369	adrenal gland
+UBERON_0002530	gland	UBERON_0002370	thymus
+UBERON_0002530	gland	UBERON_0002512	corpus luteum
+UBERON_0003103	compound organ	UBERON_0000006	islet of Langerhans
+UBERON_0003103	compound organ	UBERON_0000084	ureteric bud
+UBERON_0003103	compound organ	UBERON_0000362	renal medulla
+UBERON_0003103	compound organ	UBERON_0000948	heart
+UBERON_0003103	compound organ	UBERON_0000977	pleura
+UBERON_0003103	compound organ	UBERON_0001083	myocardium of ventricle
+UBERON_0003103	compound organ	UBERON_0001224	renal pelvis
+UBERON_0003103	compound organ	UBERON_0001225	cortex of kidney
+UBERON_0003103	compound organ	UBERON_0001236	adrenal medulla
+UBERON_0003103	compound organ	UBERON_0001255	urinary bladder
+UBERON_0003103	compound organ	UBERON_0001621	coronary artery
+UBERON_0003103	compound organ	UBERON_0001728	nasopharynx
+UBERON_0003103	compound organ	UBERON_0001997	olfactory epithelium
+UBERON_0003103	compound organ	UBERON_0002048	lung
+UBERON_0003103	compound organ	UBERON_0002079	left cardiac atrium
+UBERON_0003103	compound organ	UBERON_0002080	heart right ventricle
+UBERON_0003103	compound organ	UBERON_0002082	cardiac ventricle
+UBERON_0003103	compound organ	UBERON_0002084	heart left ventricle
+UBERON_0003103	compound organ	UBERON_0002110	gall bladder
+UBERON_0003103	compound organ	UBERON_0002113	kidney
+UBERON_0003103	compound organ	UBERON_0002134	tricuspid valve
+UBERON_0003103	compound organ	UBERON_0002135	mitral valve
+UBERON_0003103	compound organ	UBERON_0002146	pulmonary valve
+UBERON_0003103	compound organ	UBERON_0002185	bronchus
+UBERON_0003103	compound organ	UBERON_0002240	spinal cord
+UBERON_0003103	compound organ	UBERON_0002302	myocardium of atrium
+UBERON_0003103	compound organ	UBERON_0002349	myocardium
+UBERON_0003103	compound organ	UBERON_0003126	trachea
+UBERON_0003103	compound organ	UBERON_0003382	cardiac muscle of left ventricle
+UBERON_0003103	compound organ	UBERON_0004538	left kidney
+UBERON_0003103	compound organ	UBERON_0005440	ductus arteriosus
+UBERON_0003103	compound organ	UBERON_0006469	C1 segment of cervical spinal cord
+UBERON_0003103	compound organ	UBERON_0006618	atrium auricular region
+UBERON_0003103	compound organ	UBERON_0018115	left renal pelvis
+UBERON_0003103	compound organ	UBERON_0018116	right renal pelvis
+UBERON_0003133	reproductive organ	UBERON_0000002	uterine cervix
+UBERON_0003133	reproductive organ	UBERON_0000473	testis
+UBERON_0003133	reproductive organ	UBERON_0000989	penis
+UBERON_0003133	reproductive organ	UBERON_0000991	gonad
+UBERON_0003133	reproductive organ	UBERON_0000992	female gonad
+UBERON_0003133	reproductive organ	UBERON_0000995	uterus
+UBERON_0003133	reproductive organ	UBERON_0000996	vagina
+UBERON_0003133	reproductive organ	UBERON_0000997	mammalian vulva
+UBERON_0003133	reproductive organ	UBERON_0000998	seminal vesicle
+UBERON_0003133	reproductive organ	UBERON_0001000	vas deferens
+UBERON_0003133	reproductive organ	UBERON_0001295	endometrium
+UBERON_0003133	reproductive organ	UBERON_0001296	myometrium
+UBERON_0003133	reproductive organ	UBERON_0001305	ovarian follicle
+UBERON_0003133	reproductive organ	UBERON_0002512	corpus luteum
+UBERON_0003133	reproductive organ	UBERON_0012249	ectocervix
+UBERON_0004177	hemopoietic organ	UBERON_0002106	spleen
+UBERON_0004177	hemopoietic organ	UBERON_0002370	thymus
+UBERON_0004765	skeletal element	UBERON_0000981	femur
+UBERON_0004765	skeletal element	UBERON_0002371	bone marrow
+UBERON_0004765	skeletal element	UBERON_0002397	maxilla
+UBERON_0004765	skeletal element	UBERON_0002418	cartilage tissue
+UBERON_0004765	skeletal element	UBERON_0002481	bone tissue
+UBERON_0004765	skeletal element	UBERON_0006862	diaphysis of femur
+UBERON_0004765	skeletal element	UBERON_0006865	metaphysis of femur
+UBERON_0004765	skeletal element	UBERON_0010996	articular cartilage of joint
+UBERON_0005057	immune organ	UBERON_0000029	lymph node
+UBERON_0005057	immune organ	UBERON_0001097	axillary lymph node
+UBERON_0005057	immune organ	UBERON_0002106	spleen
+UBERON_0005057	immune organ	UBERON_0002370	thymus
+UBERON_0005057	immune organ	UBERON_0002509	mesenteric lymph node
+UBERON_0005057	immune organ	UBERON_0015872	mandibular lymph node
+UBERON_0005057	immune organ	UBERON_0016382	prescapular lymph node
+UBERON_0005174	dorsal region element	UBERON_0002240	spinal cord
+UBERON_0005174	dorsal region element	UBERON_0006469	C1 segment of cervical spinal cord
+UBERON_0005177	trunk region element	UBERON_0000006	islet of Langerhans
+UBERON_0005177	trunk region element	UBERON_0000084	ureteric bud
+UBERON_0005177	trunk region element	UBERON_0000362	renal medulla
+UBERON_0005177	trunk region element	UBERON_0000948	heart
+UBERON_0005177	trunk region element	UBERON_0001043	esophagus
+UBERON_0005177	trunk region element	UBERON_0001083	myocardium of ventricle
+UBERON_0005177	trunk region element	UBERON_0001103	diaphragm
+UBERON_0005177	trunk region element	UBERON_0001224	renal pelvis
+UBERON_0005177	trunk region element	UBERON_0001225	cortex of kidney
+UBERON_0005177	trunk region element	UBERON_0001236	adrenal medulla
+UBERON_0005177	trunk region element	UBERON_0001255	urinary bladder
+UBERON_0005177	trunk region element	UBERON_0001264	pancreas
+UBERON_0005177	trunk region element	UBERON_0001621	coronary artery
+UBERON_0005177	trunk region element	UBERON_0001774	skeletal muscle of trunk
+UBERON_0005177	trunk region element	UBERON_0002048	lung
+UBERON_0005177	trunk region element	UBERON_0002079	left cardiac atrium
+UBERON_0005177	trunk region element	UBERON_0002080	heart right ventricle
+UBERON_0005177	trunk region element	UBERON_0002082	cardiac ventricle
+UBERON_0005177	trunk region element	UBERON_0002084	heart left ventricle
+UBERON_0005177	trunk region element	UBERON_0002106	spleen
+UBERON_0005177	trunk region element	UBERON_0002107	liver
+UBERON_0005177	trunk region element	UBERON_0002110	gall bladder
+UBERON_0005177	trunk region element	UBERON_0002113	kidney
+UBERON_0005177	trunk region element	UBERON_0002134	tricuspid valve
+UBERON_0005177	trunk region element	UBERON_0002135	mitral valve
+UBERON_0005177	trunk region element	UBERON_0002146	pulmonary valve
+UBERON_0005177	trunk region element	UBERON_0002302	myocardium of atrium
+UBERON_0005177	trunk region element	UBERON_0002349	myocardium
+UBERON_0005177	trunk region element	UBERON_0002369	adrenal gland
+UBERON_0005177	trunk region element	UBERON_0002469	esophagus mucosa
+UBERON_0005177	trunk region element	UBERON_0002509	mesenteric lymph node
+UBERON_0005177	trunk region element	UBERON_0003382	cardiac muscle of left ventricle
+UBERON_0005177	trunk region element	UBERON_0004538	left kidney
+UBERON_0005177	trunk region element	UBERON_0004648	esophagus muscularis mucosa
+UBERON_0005177	trunk region element	UBERON_0005440	ductus arteriosus
+UBERON_0005177	trunk region element	UBERON_0006618	atrium auricular region
+UBERON_0005177	trunk region element	UBERON_0018115	left renal pelvis
+UBERON_0005177	trunk region element	UBERON_0018116	right renal pelvis
+UBERON_0005906	serous sac	UBERON_0000977	pleura
+UBERON_0005906	serous sac	UBERON_0003688	omentum
+UBERON_0005906	serous sac	UBERON_0005448	greater omentum
+UBERON_0005906	serous sac	UBERON_0010411	retroperitoneal fat pad
+UBERON_0005906	serous sac	UBERON_0010414	omental fat pad
+UBERON_0007196	tracheobronchial tree	UBERON_0002185	bronchus
+UBERON_0007196	tracheobronchial tree	UBERON_0003126	trachea
+UBERON_0010001	cell cluster organ	UBERON_0001629	carotid body
+UBERON_0013765	digestive system element	UBERON_0000059	large intestine
+UBERON_0013765	digestive system element	UBERON_0000317	colonic mucosa
+UBERON_0013765	digestive system element	UBERON_0000399	jejunal mucosa
+UBERON_0013765	digestive system element	UBERON_0000945	stomach
+UBERON_0013765	digestive system element	UBERON_0001043	esophagus
+UBERON_0013765	digestive system element	UBERON_0001044	saliva-secreting gland
+UBERON_0013765	digestive system element	UBERON_0001052	rectum
+UBERON_0013765	digestive system element	UBERON_0001153	caecum
+UBERON_0013765	digestive system element	UBERON_0001154	vermiform appendix
+UBERON_0013765	digestive system element	UBERON_0001155	colon
+UBERON_0013765	digestive system element	UBERON_0001157	transverse colon
+UBERON_0013765	digestive system element	UBERON_0001159	sigmoid colon
+UBERON_0013765	digestive system element	UBERON_0001723	tongue
+UBERON_0013765	digestive system element	UBERON_0001736	submandibular gland
+UBERON_0013765	digestive system element	UBERON_0001830	minor salivary gland
+UBERON_0013765	digestive system element	UBERON_0001831	parotid gland
+UBERON_0013765	digestive system element	UBERON_0002106	spleen
+UBERON_0013765	digestive system element	UBERON_0002107	liver
+UBERON_0013765	digestive system element	UBERON_0002108	small intestine
+UBERON_0013765	digestive system element	UBERON_0002110	gall bladder
+UBERON_0013765	digestive system element	UBERON_0002115	jejunum
+UBERON_0013765	digestive system element	UBERON_0002116	ileum
+UBERON_0013765	digestive system element	UBERON_0002394	bile duct
+UBERON_0013765	digestive system element	UBERON_0002397	maxilla
+UBERON_0013765	digestive system element	UBERON_0002469	esophagus mucosa
+UBERON_0013765	digestive system element	UBERON_0003454	small intestine Peyer's patch
+UBERON_0013765	digestive system element	UBERON_0004648	esophagus muscularis mucosa
+UBERON_0013765	digestive system element	UBERON_0007358	abomasum
+UBERON_0013765	digestive system element	UBERON_0007365	rumen
+UBERON_0013765	digestive system element	UBERON_0008972	right colon
+UBERON_0013765	digestive system element	UBERON_0010154	inner lining mucosa of the abomasum
