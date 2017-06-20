@@ -14,3 +14,40 @@ UBERON_0001016	brain	UBERON_0002021	occipital lobe
 UBERON_0001016	brain	UBERON_0001872	parietal lobe
 UBERON_0001016	brain	UBERON_0001894	pituitary and diencephalon
 UBERON_0001016	brain	UBERON_0001871	temporal lobe
+UBERON_0000020	sense organ	UBERON_0000004	olfactory apparatus
+UBERON_0000160	intestine	UBERON_0002114	duodenum
+UBERON_0000178	blood	CL_0000233	platelet
+UBERON_0000344	mucosa	UBERON_0003729	oral mucosa
+UBERON_0000948	heart	UBERON_0002349	heart muscle
+UBERON_0000955	brain	CL_0000127	forebrain and midbrain
+UBERON_0000955	brain	CL_0000540	neuron
+UBERON_0000955	brain	UBERON_0000955	brain fragment
+UBERON_0000955	brain	UBERON_0001871	temporal lobe
+UBERON_0000955	brain	UBERON_0001872	parietal lobe
+UBERON_0000955	brain	UBERON_0001890	forebrain fragment
+UBERON_0000955	brain	UBERON_0001894	diencephalon and midbrain
+UBERON_0000955	brain	UBERON_0001894	pituitary and diencephalon
+UBERON_0000955	brain	UBERON_0001954	hippocampus proper
+UBERON_0000955	brain	UBERON_0002021	occipital lobe
+UBERON_0000955	brain	UBERON_0002028	hindbrain fragment
+UBERON_0000955	brain	UBERON_0002028	hindbrain without cerebellum
+UBERON_0000955	brain	UBERON_0002421	hippocampus
+UBERON_0000955	brain	UBERON_0002771	middle temporal gyrus
+UBERON_0000955	brain	UBERON_0016525	frontal lobe
+UBERON_0002097	skin of body	UBERON_0001003	epidermis
+UBERON_0002113	kidney	UBERON_0001225	left renal cortex
+UBERON_0002113	kidney	UBERON_0001225	right renal cortex
+UBERON_0002384	connective tissue	CL_0000057	fibroblast
+UBERON_0002384	connective tissue	CL_0000057	transformed skin fibroblast
+UBERON_0003133	reproductive organ	UBERON_0000002	cervix, uterine
+UBERON_0003133	reproductive organ	UBERON_0000992	ovary
+UBERON_0005057	immune organ	CL_0000084	CD4-positive T cell
+UBERON_0005057	immune organ	CL_0000084	CD8-positive T cell
+UBERON_0005057	immune organ	CL_0000236	B cell
+UBERON_0005057	immune organ	CL_0000542	EBV-transformed lymphocyte
+UBERON_0005057	immune organ	CL_0000576	monocyte
+UBERON_0005057	immune organ	CL_0000623	natural killer cell
+UBERON_0005057	immune organ	CL_0000738	leukocyte
+UBERON_0005156	reproductive structure	UBERON_0000998	vesicular gland
+UBERON_0018707	bladder organ	UBERON_0001255	urinary bladder
+UBERON_0018707	bladder organ	UBERON_0002110	gall bladder
