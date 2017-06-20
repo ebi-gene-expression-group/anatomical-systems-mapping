@@ -1,3 +1,4 @@
+#tissue id	tissue name	programmatic organ id	programmatic organ name	Laura organ id	Laura organ name
 UBERON_0000006	islet of Langerhans	UBERON_0003103	compound organ	UBERON_0001264	pancreas
 UBERON_0000006	islet of Langerhans	UBERON_0005177	trunk region element	UBERON_0001264	pancreas
 UBERON_0000007	pituitary gland	UBERON_0002530	gland	UBERON_0002368	endocrine gland

@@ -1,7 +1,0 @@
-UBERON_0000020	sense organ
-UBERON_0000955	brain
-UBERON_0002097	skin of body
-UBERON_0003133	reproductive organ
-UBERON_0004765	skeletal element
-UBERON_0005057	immune organ
-UBERON_0007196	tracheobronchial tree
