@@ -1473,6 +1473,7 @@ UBERON_0000922	embryo	UBERON_6016022	abdominal histoblast primordium
 UBERON_0000922	embryo	UBERON_6017021	abdominal histoblast anlage
 UBERON_0000945	stomach	UBERON_0000325	gastric gland
 UBERON_0000945	stomach	UBERON_0000424	gastric pit
+UBERON_0000945	stomach	UBERON_0000945	stomach
 UBERON_0000945	stomach	UBERON_0001160	fundus of stomach
 UBERON_0000945	stomach	UBERON_0001161	body of stomach
 UBERON_0000945	stomach	UBERON_0001162	cardia of stomach
@@ -1553,6 +1554,7 @@ UBERON_0000945	stomach	UBERON_0015142	falciform fat
 UBERON_0000945	stomach	UBERON_0016501	muscularis mucosae of fundus of stomach
 UBERON_0000945	stomach	UBERON_0016511	lamina propria of fundus of stomach
 UBERON_0000948	heart	UBERON_0000946	cardial valve
+UBERON_0000948	heart	UBERON_0000948	heart
 UBERON_0000948	heart	UBERON_0001081	endocardium of ventricle
 UBERON_0000948	heart	UBERON_0001082	epicardium of ventricle
 UBERON_0000948	heart	UBERON_0001083	myocardium of ventricle
@@ -1786,6 +1788,7 @@ UBERON_0000948	heart	UBERON_2005074	central cardiac conduction system
 UBERON_0000948	heart	UBERON_2005075	peripheral cardiac conduction system
 UBERON_0000948	heart	UBERON_3010243	ventricular musculature
 UBERON_0000955	brain	UBERON_0000955	brain
+UBERON_0000977	pleura	UBERON_0000977	pleura
 UBERON_0000977	pleura	UBERON_0002400	parietal pleura
 UBERON_0000977	pleura	UBERON_0002401	visceral pleura
 UBERON_0000977	pleura	UBERON_0035431	mediastinal pleura
@@ -3016,6 +3019,7 @@ UBERON_0001021	nerve	UBERON_3010798	ramulus suprabranchialis anterior
 UBERON_0001021	nerve	UBERON_3010799	ramulus suprabranchialis posterior
 UBERON_0001021	nerve	UBERON_3010801	ramus lateral
 UBERON_0001021	nerve	UBERON_3010804	ramus ventral
+UBERON_0001043	esophagus	UBERON_0001043	esophagus
 UBERON_0001043	esophagus	UBERON_0001096	wall of esophagus
 UBERON_0001043	esophagus	UBERON_0001972	submucosa of esophagus
 UBERON_0001043	esophagus	UBERON_0001974	lamina propria of esophagus
@@ -3115,6 +3119,7 @@ UBERON_0001264	pancreas	UBERON_0001069	head of pancreas
 UBERON_0001264	pancreas	UBERON_0001150	body of pancreas
 UBERON_0001264	pancreas	UBERON_0001151	tail of pancreas
 UBERON_0001264	pancreas	UBERON_0001263	pancreatic acinus
+UBERON_0001264	pancreas	UBERON_0001264	pancreas
 UBERON_0001264	pancreas	UBERON_0001978	parenchyma of pancreas
 UBERON_0001264	pancreas	UBERON_0002527	pancreatic lymph node
 UBERON_0001264	pancreas	UBERON_0004792	secretion of endocrine pancreas
@@ -3141,6 +3146,7 @@ UBERON_0001264	pancreas	UBERON_0018235	capsule of pancreas
 UBERON_0001264	pancreas	UBERON_2005346	extrapancreatic duct
 UBERON_0001723	tongue	UBERON_0000396	vallate papilla
 UBERON_0001723	tongue	UBERON_0001576	intrinsic muscle of tongue
+UBERON_0001723	tongue	UBERON_0001723	tongue
 UBERON_0001723	tongue	UBERON_0001726	papilla of tongue
 UBERON_0001723	tongue	UBERON_0002448	fungiform papilla
 UBERON_0001723	tongue	UBERON_0002467	filiform papilla
@@ -3187,6 +3193,7 @@ UBERON_0002048	lung	UBERON_0000115	lung epithelium
 UBERON_0002048	lung	UBERON_0000116	lung saccule
 UBERON_0002048	lung	UBERON_0001955	epithelium of respiratory bronchiole
 UBERON_0002048	lung	UBERON_0001958	terminal bronchiole epithelium
+UBERON_0002048	lung	UBERON_0002048	lung
 UBERON_0002048	lung	UBERON_0002051	epithelium of bronchiole
 UBERON_0002048	lung	UBERON_0002167	right lung
 UBERON_0002048	lung	UBERON_0002168	left lung
@@ -4349,6 +4356,7 @@ UBERON_0002106	spleen	UBERON_0001265	trabecula of spleen
 UBERON_0002106	spleen	UBERON_0001266	splenic cord
 UBERON_0002106	spleen	UBERON_0001959	white pulp of spleen
 UBERON_0002106	spleen	UBERON_0001960	periarterial lymphatic sheath
+UBERON_0002106	spleen	UBERON_0002106	spleen
 UBERON_0002106	spleen	UBERON_0003910	splenic sinusoid
 UBERON_0002106	spleen	UBERON_0004041	spleen primary B follicle
 UBERON_0002106	spleen	UBERON_0004042	spleen secondary B follicle
@@ -4453,6 +4461,7 @@ UBERON_0002113	kidney	UBERON_0001292	distal convoluted tubule
 UBERON_0002113	kidney	UBERON_0001293	outer medulla of kidney
 UBERON_0002113	kidney	UBERON_0001294	inner medulla of kidney
 UBERON_0002113	kidney	UBERON_0001552	kidney arcuate artery
+UBERON_0002113	kidney	UBERON_0002113	kidney
 UBERON_0002113	kidney	UBERON_0002120	pronephros
 UBERON_0002113	kidney	UBERON_0002189	outer cortex of kidney
 UBERON_0002113	kidney	UBERON_0002303	juxtaglomerular apparatus
@@ -4707,6 +4716,7 @@ UBERON_0002240	spinal cord	UBERON_0002176	lateral cervical nucleus
 UBERON_0002240	spinal cord	UBERON_0002179	lateral funiculus of spinal cord
 UBERON_0002240	spinal cord	UBERON_0002180	ventral funiculus of spinal cord
 UBERON_0002240	spinal cord	UBERON_0002181	substantia gelatinosa
+UBERON_0002240	spinal cord	UBERON_0002240	spinal cord
 UBERON_0002240	spinal cord	UBERON_0002246	dorsal thoracic nucleus
 UBERON_0002240	spinal cord	UBERON_0002256	dorsal horn of spinal cord
 UBERON_0002240	spinal cord	UBERON_0002257	ventral horn of spinal cord
