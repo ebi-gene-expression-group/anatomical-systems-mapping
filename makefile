@@ -40,12 +40,14 @@ data/organs_ids.tsv: curated/organs/ids.tsv
 		> data/organs_ids.tsv
 
 out/organs.txt: curated/organs/ids.tsv curated/organs/atlas_extra_mappings.tsv curated/organs/header.tsv data/organs_ids.tsv
-	amm -s src/Annotate.sc curated/organs/ids.tsv data/organs_ids.tsv \
-	| cat - curated/organs/atlas_extra_mappings.tsv \
-	| sort -u \
-	| cat curated/organs/header.tsv - \
-	> out/organs.txt
-	echo
+	amm -s src/Annotate.sc curated/organs/ids.tsv data/organs_ids.tsv > data/organs.txt.tmp
+	cat curated/organs/atlas_extra_mappings.tsv >> data/organs.txt.tmp
+	paste curated/organs/ids.tsv curated/organs/ids.tsv  >> data/organs.txt.tmp
+	sort -u data/organs.txt.tmp \
+		| cat curated/organs/header.tsv - \
+		> out/organs.txt
+	rm data/organs.txt.tmp
+
 
 data/organs_mapped_ids.txt: out/organs.txt
 	cut -f 3 out/organs.txt | sort -u > data/organs_mapped_ids.txt

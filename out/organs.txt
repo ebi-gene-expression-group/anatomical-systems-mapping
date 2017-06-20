@@ -1,6 +1,7 @@
 #organ id 	 organ name 	 tissue id 	 tissue name 
 UBERON_0000160	intestine	UBERON_0000059	large intestine
 UBERON_0000160	intestine	UBERON_0000159	anal canal
+UBERON_0000160	intestine	UBERON_0000160	intestine
 UBERON_0000160	intestine	UBERON_0000168	proximal-distal subdivision of colon
 UBERON_0000160	intestine	UBERON_0000314	cecum mucosa
 UBERON_0000160	intestine	UBERON_0000317	colonic mucosa
@@ -178,11 +179,14 @@ UBERON_0000160	intestine	UBERON_2001076	intestinal bulb
 UBERON_0000160	intestine	UBERON_2005126	intestinal bulb epithelium
 UBERON_0000160	intestine	UBERON_2005256	intervillus pockets
 UBERON_0000160	intestine	UBERON_2005273	intestinal mucosal muscle
+UBERON_0000167	oral cavity	UBERON_0000167	oral cavity
+UBERON_0000178	blood	UBERON_0000178	blood
 UBERON_0000178	blood	UBERON_0001969	blood plasma
 UBERON_0000178	blood	UBERON_0012168	umbilical cord blood
 UBERON_0000178	blood	UBERON_0013755	arterial blood
 UBERON_0000178	blood	UBERON_0013756	venous blood
 UBERON_0000178	blood	UBERON_0013757	capillary blood
+UBERON_0000310	breast	UBERON_0000310	breast
 UBERON_0000310	breast	UBERON_0005200	thoracic mammary gland
 UBERON_0000310	breast	UBERON_0008367	breast epithelium
 UBERON_0000310	breast	UBERON_0012103	suspensory ligament of breast
@@ -199,6 +203,7 @@ UBERON_0000310	breast	UBERON_0035635	upper quadrant of breast
 UBERON_0000310	breast	UBERON_0035636	lower quadrant of breast
 UBERON_0000310	breast	UBERON_0035637	inner quadrant of breast
 UBERON_0000310	breast	UBERON_0035638	outer quadrant of breast
+UBERON_0000341	throat	UBERON_0000341	throat
 UBERON_0000341	throat	UBERON_0010854	skin of front of neck
 UBERON_0000341	throat	UBERON_0010880	gular fold
 UBERON_0000341	throat	UBERON_0013165	epiglottic vallecula
@@ -210,6 +215,7 @@ UBERON_0000344	mucosa	UBERON_0000320	duodenal mucosa
 UBERON_0000344	mucosa	UBERON_0000325	gastric gland
 UBERON_0000344	mucosa	UBERON_0000331	ileal mucosa
 UBERON_0000344	mucosa	UBERON_0000333	intestinal gland
+UBERON_0000344	mucosa	UBERON_0000344	mucosa
 UBERON_0000344	mucosa	UBERON_0000355	pharyngeal mucosa
 UBERON_0000344	mucosa	UBERON_0000379	tracheal mucosa
 UBERON_0000344	mucosa	UBERON_0000396	vallate papilla
@@ -504,6 +510,7 @@ UBERON_0000922	embryo	UBERON_0000323	late embryo
 UBERON_0000922	embryo	UBERON_0000358	blastocyst
 UBERON_0000922	embryo	UBERON_0000371	syncytiotrophoblast
 UBERON_0000922	embryo	UBERON_0000426	extravillous trophoblast
+UBERON_0000922	embryo	UBERON_0000922	embryo
 UBERON_0000922	embryo	UBERON_0000923	germ layer
 UBERON_0000922	embryo	UBERON_0000924	ectoderm
 UBERON_0000922	embryo	UBERON_0000925	endoderm
@@ -1787,7 +1794,6 @@ UBERON_0000948	heart	UBERON_2005073	atrioventricular ring
 UBERON_0000948	heart	UBERON_2005074	central cardiac conduction system
 UBERON_0000948	heart	UBERON_2005075	peripheral cardiac conduction system
 UBERON_0000948	heart	UBERON_3010243	ventricular musculature
-UBERON_0000955	brain	UBERON_0000955	brain
 UBERON_0000977	pleura	UBERON_0000977	pleura
 UBERON_0000977	pleura	UBERON_0002400	parietal pleura
 UBERON_0000977	pleura	UBERON_0002401	visceral pleura
@@ -1806,6 +1812,7 @@ UBERON_0001015	musculature	UBERON_0000711	splenius capitis
 UBERON_0001015	musculature	UBERON_0000933	pharyngeal muscle
 UBERON_0001015	musculature	UBERON_0000950	gracilis
 UBERON_0001015	musculature	UBERON_0000951	rotator muscle of the vertebral column
+UBERON_0001015	musculature	UBERON_0001015	musculature
 UBERON_0001015	musculature	UBERON_0001100	pectoralis minor
 UBERON_0001015	musculature	UBERON_0001103	diaphragm
 UBERON_0001015	musculature	UBERON_0001107	sternohyoid muscle
@@ -2798,6 +2805,7 @@ UBERON_0001021	nerve	UBERON_0000377	maxillary nerve
 UBERON_0001021	nerve	UBERON_0000929	pharyngeal branch of vagus nerve
 UBERON_0001021	nerve	UBERON_0000942	frontal nerve (branch of ophthalmic)
 UBERON_0001021	nerve	UBERON_0000962	nerve of cervical vertebra
+UBERON_0001021	nerve	UBERON_0001021	nerve
 UBERON_0001021	nerve	UBERON_0001027	sensory nerve
 UBERON_0001021	nerve	UBERON_0001148	median nerve
 UBERON_0001021	nerve	UBERON_0001267	femoral nerve
@@ -3055,6 +3063,7 @@ UBERON_0001043	esophagus	UBERON_0035834	lower esophagus mucosa
 UBERON_0001043	esophagus	UBERON_0035843	lower esophagus submucosa
 UBERON_0001043	esophagus	UBERON_0035844	lower esophagus muscularis mucosa
 UBERON_0001043	esophagus	UBERON_2001430	pneumatic duct
+UBERON_0001052	rectum	UBERON_0001052	rectum
 UBERON_0001052	rectum	UBERON_0003330	submucosa of rectum
 UBERON_0001052	rectum	UBERON_0003334	serosa of rectum
 UBERON_0001052	rectum	UBERON_0003346	mucosa of rectum
@@ -3073,6 +3082,7 @@ UBERON_0001155	colon	UBERON_0000317	colonic mucosa
 UBERON_0001155	colon	UBERON_0000397	colonic epithelium
 UBERON_0001155	colon	UBERON_0001153	caecum
 UBERON_0001155	colon	UBERON_0001154	vermiform appendix
+UBERON_0001155	colon	UBERON_0001155	colon
 UBERON_0001155	colon	UBERON_0001156	ascending colon
 UBERON_0001155	colon	UBERON_0001157	transverse colon
 UBERON_0001155	colon	UBERON_0001158	descending colon
@@ -3185,7 +3195,6 @@ UBERON_0001723	tongue	UBERON_0015445	anterior lingual gland duct
 UBERON_0001723	tongue	UBERON_0019206	tongue papilla epithelium
 UBERON_0001723	tongue	UBERON_0023541	conical papilla
 UBERON_0001723	tongue	UBERON_0034934	Weber's gland
-UBERON_0001987	placenta	UBERON_0001987	placenta
 UBERON_0002048	lung	UBERON_0000101	lobe of lung
 UBERON_0002048	lung	UBERON_0000102	lung vasculature
 UBERON_0002048	lung	UBERON_0000114	lung connective tissue
@@ -3525,6 +3534,7 @@ UBERON_0002049	vasculature	UBERON_0002017	portal vein
 UBERON_0002049	vasculature	UBERON_0002039	inferior phrenic vein
 UBERON_0002049	vasculature	UBERON_0002040	bronchial artery
 UBERON_0002049	vasculature	UBERON_0002042	lymphatic vessel endothelium
+UBERON_0002049	vasculature	UBERON_0002049	vasculature
 UBERON_0002049	vasculature	UBERON_0002056	inferior suprarenal artery
 UBERON_0002049	vasculature	UBERON_0002057	phrenic artery
 UBERON_0002049	vasculature	UBERON_0002060	femoral artery
@@ -4392,6 +4402,7 @@ UBERON_0002107	liver	UBERON_0001280	liver parenchyma
 UBERON_0002107	liver	UBERON_0001281	hepatic sinusoid
 UBERON_0002107	liver	UBERON_0001282	intralobular bile duct
 UBERON_0002107	liver	UBERON_0001283	bile canaliculus
+UBERON_0002107	liver	UBERON_0002107	liver
 UBERON_0002107	liver	UBERON_0003704	intrahepatic bile duct
 UBERON_0002107	liver	UBERON_0004058	biliary ductule
 UBERON_0002107	liver	UBERON_0004647	liver lobule
@@ -4870,6 +4881,7 @@ UBERON_0002240	spinal cord	UBERON_0033483	lumbar spinal cord gray commissure
 UBERON_0002240	spinal cord	UBERON_0033939	sacral spinal cord dorsal horn
 UBERON_0002240	spinal cord	UBERON_0034771	ventral commissural nucleus of spinal cord
 UBERON_0002240	spinal cord	UBERON_0035024	lateral spinal nucleus
+UBERON_0002331	umbilical cord	UBERON_0002331	umbilical cord
 UBERON_0002331	umbilical cord	UBERON_0003422	mesenchyme of umbilical cord
 UBERON_0002331	umbilical cord	UBERON_0005667	connecting stalk mesoderm
 UBERON_0002331	umbilical cord	UBERON_0011921	connecting stalk blood islands
@@ -4877,6 +4889,7 @@ UBERON_0002331	umbilical cord	UBERON_0012615	umbilical smooth muscle
 UBERON_0002358	peritoneum	UBERON_0001170	mesentery of small intestine
 UBERON_0002358	peritoneum	UBERON_0001178	visceral peritoneum
 UBERON_0002358	peritoneum	UBERON_0001366	parietal peritoneum
+UBERON_0002358	peritoneum	UBERON_0002358	peritoneum
 UBERON_0002358	peritoneum	UBERON_0002399	lesser omentum
 UBERON_0002358	peritoneum	UBERON_0003396	mesentery of colon
 UBERON_0002358	peritoneum	UBERON_0003397	mesentery of duodenum
@@ -4921,6 +4934,7 @@ UBERON_0002360	meninx	UBERON_0000437	arachnoid barrier layer
 UBERON_0002360	meninx	UBERON_0000439	arachnoid trabecula
 UBERON_0002360	meninx	UBERON_0002092	brain dura mater
 UBERON_0002360	meninx	UBERON_0002093	spinal dura mater
+UBERON_0002360	meninx	UBERON_0002360	meninx
 UBERON_0002360	meninx	UBERON_0002361	pia mater
 UBERON_0002360	meninx	UBERON_0002362	arachnoid mater
 UBERON_0002360	meninx	UBERON_0002363	dura mater
@@ -5007,6 +5021,7 @@ UBERON_0002365	exocrine gland	UBERON_0002032	areola
 UBERON_0002365	exocrine gland	UBERON_0002107	liver
 UBERON_0002365	exocrine gland	UBERON_0002232	olfactory gland
 UBERON_0002365	exocrine gland	UBERON_0002334	submandibular duct
+UBERON_0002365	exocrine gland	UBERON_0002365	exocrine gland
 UBERON_0002365	exocrine gland	UBERON_0002366	bulbo-urethral gland
 UBERON_0002365	exocrine gland	UBERON_0002447	palatine gland
 UBERON_0002365	exocrine gland	UBERON_0002451	endometrial gland
@@ -5256,6 +5271,7 @@ UBERON_0002368	endocrine gland	UBERON_0002196	adenohypophysis
 UBERON_0002368	endocrine gland	UBERON_0002197	median eminence of neurohypophysis
 UBERON_0002368	endocrine gland	UBERON_0002198	neurohypophysis
 UBERON_0002368	endocrine gland	UBERON_0002254	thyroglossal duct
+UBERON_0002368	endocrine gland	UBERON_0002368	endocrine gland
 UBERON_0002368	endocrine gland	UBERON_0002369	adrenal gland
 UBERON_0002368	endocrine gland	UBERON_0002370	thymus
 UBERON_0002368	endocrine gland	UBERON_0002432	pars intermedia of adenohypophysis
@@ -5398,6 +5414,7 @@ UBERON_0002384	connective tissue	UBERON_0002202	submucosa of trachea
 UBERON_0002384	connective tissue	UBERON_0002222	perichondrium
 UBERON_0002384	connective tissue	UBERON_0002242	nucleus pulposus
 UBERON_0002384	connective tissue	UBERON_0002338	lamina propria of bronchus
+UBERON_0002384	connective tissue	UBERON_0002384	connective tissue
 UBERON_0002384	connective tissue	UBERON_0002418	cartilage tissue
 UBERON_0002384	connective tissue	UBERON_0002481	bone tissue
 UBERON_0002384	connective tissue	UBERON_0002482	lamellar bone
@@ -5874,6 +5891,7 @@ UBERON_0005156	reproductive structure	UBERON_0005048	mucosa of uterine tube
 UBERON_0005156	reproductive structure	UBERON_0005049	mucosa of infundibulum of uterine tube
 UBERON_0005156	reproductive structure	UBERON_0005051	mediastinum testis
 UBERON_0005156	reproductive structure	UBERON_0005056	external female genitalia
+UBERON_0005156	reproductive structure	UBERON_0005156	reproductive structure
 UBERON_0005156	reproductive structure	UBERON_0005170	granulosa cell layer
 UBERON_0005156	reproductive structure	UBERON_0005192	deferent duct artery
 UBERON_0005156	reproductive structure	UBERON_0005195	deferent duct vein
@@ -6195,6 +6213,7 @@ UBERON_0006562	pharynx	UBERON_0005873	2nd arch pharyngeal cleft
 UBERON_0006562	pharynx	UBERON_0005874	3rd arch pharyngeal cleft
 UBERON_0006562	pharynx	UBERON_0005875	4th arch pharyngeal cleft
 UBERON_0006562	pharynx	UBERON_0005879	pharyngeal cleft
+UBERON_0006562	pharynx	UBERON_0006562	pharynx
 UBERON_0006562	pharynx	UBERON_0006685	pharyngeal tubercle
 UBERON_0006562	pharynx	UBERON_0006870	endostyle
 UBERON_0006562	pharynx	UBERON_0007250	lingual tonsil
@@ -6237,6 +6256,7 @@ UBERON_0006562	pharynx	UBERON_2005012	afferent filamental artery
 UBERON_0006562	pharynx	UBERON_2005015	afferent lamellar arteriole
 UBERON_0006562	pharynx	UBERON_2005018	efferent filamental artery
 UBERON_0006562	pharynx	UBERON_2005019	efferent lamellar arteriole
+UBERON_0007650	esophagogastric junction	UBERON_0007650	esophagogastric junction
 UBERON_0007650	esophagogastric junction	UBERON_0035838	esophagogastric junction mucosa
 UBERON_0007650	esophagogastric junction	UBERON_0035839	esophagogastric junction submucosa
 UBERON_0007650	esophagogastric junction	UBERON_0035840	esophagogastric junction muscularis mucosa
@@ -6263,6 +6283,7 @@ UBERON_0010047	oral gland	UBERON_0003985	major sublingual duct
 UBERON_0010047	oral gland	UBERON_0003986	minor sublingual duct
 UBERON_0010047	oral gland	UBERON_0004809	salivary gland epithelium
 UBERON_0010047	oral gland	UBERON_0006330	anterior lingual gland
+UBERON_0010047	oral gland	UBERON_0010047	oral gland
 UBERON_0010047	oral gland	UBERON_0010048	Duvernoy's gland
 UBERON_0010047	oral gland	UBERON_0010049	supralabial gland
 UBERON_0010047	oral gland	UBERON_0010050	infralabial gland
@@ -6326,6 +6347,7 @@ UBERON_0018707	bladder organ	UBERON_0012378	muscle layer of urinary bladder
 UBERON_0018707	bladder organ	UBERON_0015139	infundibulum of gallbladder
 UBERON_0018707	bladder organ	UBERON_0016500	muscularis mucosa of fundus of urinary bladder
 UBERON_0018707	bladder organ	UBERON_0017628	swim bladder gas gland
+UBERON_0018707	bladder organ	UBERON_0018707	bladder organ
 UBERON_0018707	bladder organ	UBERON_0035267	neck of gallbladder
 UBERON_0018707	bladder organ	UBERON_0035536	body of gallbladder
 UBERON_0018707	bladder organ	UBERON_2001277	anterior chamber swim bladder
