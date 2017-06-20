@@ -811,54 +811,6 @@ UBERON_0000020	sense organ	UBERON_6007240	embryonic/larval sensillum
 UBERON_0000020	sense organ	UBERON_6007242	embryonic/larval head sensillum
 UBERON_0000020	sense organ	UBERON_6007280	embryonic/larval head sense organ
 UBERON_0000020	sense organ	UBERON_6007373	internal sense organ
-UBERON_0000057	urethra	UBERON_0000461	minor vestibular gland
-UBERON_0000057	urethra	UBERON_0001333	male urethra
-UBERON_0000057	urethra	UBERON_0001334	female urethra
-UBERON_0000057	urethra	UBERON_0001335	prostatic urethra
-UBERON_0000057	urethra	UBERON_0001336	membranous urethra of male or female
-UBERON_0000057	urethra	UBERON_0001337	spongiose part of urethra
-UBERON_0000057	urethra	UBERON_0001338	urethral gland
-UBERON_0000057	urethra	UBERON_0002325	epithelium of urethra
-UBERON_0000057	urethra	UBERON_0002326	lamina propria of urethra
-UBERON_0000057	urethra	UBERON_0002366	bulbo-urethral gland
-UBERON_0000057	urethra	UBERON_0003829	urethra muscle tissue
-UBERON_0000057	urethra	UBERON_0004219	urethra smooth muscle layer
-UBERON_0000057	urethra	UBERON_0004787	urethra urothelium
-UBERON_0000057	urethra	UBERON_0004829	urethra skeletal muscle tissue
-UBERON_0000057	urethra	UBERON_0004917	urethral sphincter
-UBERON_0000057	urethra	UBERON_0004918	internal urethral sphincter
-UBERON_0000057	urethra	UBERON_0004919	external urethral sphincter
-UBERON_0000057	urethra	UBERON_0005013	mucosa of male urethra
-UBERON_0000057	urethra	UBERON_0005014	mucosa of female urethra
-UBERON_0000057	urethra	UBERON_0005015	mucosa of prostatic urethra
-UBERON_0000057	urethra	UBERON_0005016	mucosa of intermediate urethra
-UBERON_0000057	urethra	UBERON_0006565	female urethral meatus
-UBERON_0000057	urethra	UBERON_0010151	duct of bulbourethral gland
-UBERON_0000057	urethra	UBERON_0010186	male urethral gland
-UBERON_0000057	urethra	UBERON_0010187	female urethral gland
-UBERON_0000057	urethra	UBERON_0011199	prostatic utricle
-UBERON_0000057	urethra	UBERON_0011379	male external urethral sphincter
-UBERON_0000057	urethra	UBERON_0011380	female external urethral sphincter
-UBERON_0000057	urethra	UBERON_0011830	duct of lesser vestibular gland
-UBERON_0000057	urethra	UBERON_0012240	urethral meatus
-UBERON_0000057	urethra	UBERON_0012241	male urethral meatus
-UBERON_0000057	urethra	UBERON_0012242	internal urethral orifice
-UBERON_0000057	urethra	UBERON_0012294	navicular fossa of spongiose part of urethra
-UBERON_0000057	urethra	UBERON_0012295	Guérin's valve
-UBERON_0000057	urethra	UBERON_0012296	urethral crest
-UBERON_0000057	urethra	UBERON_0012297	male urethral crest
-UBERON_0000057	urethra	UBERON_0012298	female urethral crest
-UBERON_0000057	urethra	UBERON_0012299	mucosa of urethra
-UBERON_0000057	urethra	UBERON_0012301	female membranous urethra
-UBERON_0000057	urethra	UBERON_0012302	male membranous urethra
-UBERON_0000057	urethra	UBERON_0015418	urethra mesenchymal layer
-UBERON_0000057	urethra	UBERON_0015777	transitional epithelium of prostatic urethra
-UBERON_0000057	urethra	UBERON_0016510	epithelium of male urethra
-UBERON_0000057	urethra	UBERON_0016515	muscular layer of prostatic urethra
-UBERON_0000057	urethra	UBERON_0016516	lamina propria of prostatic urethra
-UBERON_0000057	urethra	UBERON_0016520	epithelium of female urethra
-UBERON_0000057	urethra	UBERON_0016524	muscle layer of spongiose part of urethra
-UBERON_0000057	urethra	UBERON_0034770	bulbourethral gland epithelium
 UBERON_0000094	membrane organ	UBERON_0000391	leptomeninx
 UBERON_0000094	membrane organ	UBERON_0000437	arachnoid barrier layer
 UBERON_0000094	membrane organ	UBERON_0000439	arachnoid trabecula
@@ -1193,29 +1145,6 @@ UBERON_0000211	ligament	UBERON_2001972	intercostal ligament
 UBERON_0000211	ligament	UBERON_2002141	annular ligament
 UBERON_0000211	ligament	UBERON_3000363	otic ligament
 UBERON_0000211	ligament	UBERON_4200049	cartilago sesamoides
-UBERON_0000407	sympathetic trunk	UBERON_0000408	vertebral ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0000961	thoracic ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0001807	paravertebral ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0001989	superior cervical ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0001990	middle cervical ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0001991	cervical ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002440	inferior cervical ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002441	cervicothoracic ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002835	thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002845	first thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002846	second thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002847	third thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002848	fifth thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002849	sixth thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002850	seventh thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002851	eighth thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002852	ninth thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002853	tenth thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002854	eleventh thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0002855	twelfth thoracic dorsal root ganglion
-UBERON_0000407	sympathetic trunk	UBERON_0007712	fourth thoracic spinal ganglion
-UBERON_0000407	sympathetic trunk	UBERON_3010770	dorsal sympathetic chain
-UBERON_0000407	sympathetic trunk	UBERON_3010771	ventral sympathetic chain
 UBERON_0000955	brain	UBERON_0000007	pituitary gland
 UBERON_0000955	brain	UBERON_0000052	fornix of brain
 UBERON_0000955	brain	UBERON_0000126	cranial nerve nucleus
@@ -3918,104 +3847,6 @@ UBERON_0001630	muscle organ	UBERON_4200122	pubotibialis
 UBERON_0001630	muscle organ	UBERON_4200218	musculotendinous bundle
 UBERON_0001630	muscle organ	UBERON_4200225	scapulohumeralis muscle
 UBERON_0001630	muscle organ	UBERON_4300030	flexor caudalis muscle
-UBERON_0001849	membranous labyrinth	UBERON_0001840	semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0001841	anterior semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0001842	posterior semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0001843	lateral semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0001853	utricle of membranous labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0001854	saccule of membranous labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0001855	cochlear duct of membranous labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0001856	semicircular duct
-UBERON_0001849	membranous labyrinth	UBERON_0001857	anterior semicircular duct
-UBERON_0001849	membranous labyrinth	UBERON_0001858	posterior semicircular duct
-UBERON_0001849	membranous labyrinth	UBERON_0001859	lateral semicircular duct
-UBERON_0001849	membranous labyrinth	UBERON_0001860	endolymphatic duct
-UBERON_0001849	membranous labyrinth	UBERON_0001861	ductus reuniens
-UBERON_0001849	membranous labyrinth	UBERON_0001862	vestibular labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0002212	macula of saccule of membranous labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0002214	macula of utricle of membranous labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0002226	basilar membrane of cochlea
-UBERON_0001849	membranous labyrinth	UBERON_0002227	spiral organ of cochlea
-UBERON_0001849	membranous labyrinth	UBERON_0002233	tectorial membrane of cochlea
-UBERON_0001849	membranous labyrinth	UBERON_0002276	lamina of spiral limbus
-UBERON_0001849	membranous labyrinth	UBERON_0002277	spiral sulcus
-UBERON_0001849	membranous labyrinth	UBERON_0002280	otolith
-UBERON_0001849	membranous labyrinth	UBERON_0002281	vestibular membrane of cochlear duct
-UBERON_0001849	membranous labyrinth	UBERON_0002282	stria vascularis of cochlear duct
-UBERON_0001849	membranous labyrinth	UBERON_0002499	cochlear labyrinth
-UBERON_0001849	membranous labyrinth	UBERON_0002518	otolith organ
-UBERON_0001849	membranous labyrinth	UBERON_0002519	otolithic part of statoconial membrane
-UBERON_0001849	membranous labyrinth	UBERON_0002820	zona arcuata of basilar membrane of cochlea
-UBERON_0001849	membranous labyrinth	UBERON_0002824	vestibular ganglion
-UBERON_0001849	membranous labyrinth	UBERON_0002825	superior part of vestibular ganglion
-UBERON_0001849	membranous labyrinth	UBERON_0002826	inferior part of vestibular ganglion
-UBERON_0001849	membranous labyrinth	UBERON_0003238	epithelium of superior semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0003239	epithelium of posterior semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0003240	epithelium of lateral semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0003241	epithelium of utricle
-UBERON_0001849	membranous labyrinth	UBERON_0003242	epithelium of saccule
-UBERON_0001849	membranous labyrinth	UBERON_0003243	epithelium of cochlear duct
-UBERON_0001849	membranous labyrinth	UBERON_0003362	epithelium of endolymphatic duct
-UBERON_0001849	membranous labyrinth	UBERON_0003363	epithelium of ductus reuniens
-UBERON_0001849	membranous labyrinth	UBERON_0003976	saccule duct
-UBERON_0001849	membranous labyrinth	UBERON_0003977	utricle duct
-UBERON_0001849	membranous labyrinth	UBERON_0003979	utricle valve
-UBERON_0001849	membranous labyrinth	UBERON_0004043	semicircular canal ampulla
-UBERON_0001849	membranous labyrinth	UBERON_0004721	crista ampullaris
-UBERON_0001849	membranous labyrinth	UBERON_0005600	crus commune
-UBERON_0001849	membranous labyrinth	UBERON_0005657	crus commune epithelium
-UBERON_0001849	membranous labyrinth	UBERON_0005972	tunnel of Corti
-UBERON_0001849	membranous labyrinth	UBERON_0006725	spiral ligament
-UBERON_0001849	membranous labyrinth	UBERON_0006932	vestibular epithelium
-UBERON_0001849	membranous labyrinth	UBERON_0006935	crista ampullaris neuroepithelium
-UBERON_0001849	membranous labyrinth	UBERON_0007274	crista of ampulla of anterior semicircular duct of membranous laybrinth
-UBERON_0001849	membranous labyrinth	UBERON_0007275	crista of ampulla of posterior semicircular duct of membranous laybrinth
-UBERON_0001849	membranous labyrinth	UBERON_0007276	crista of ampulla of lateral semicircular duct of membranous laybrinth
-UBERON_0001849	membranous labyrinth	UBERON_0007352	stria vascularis vasculature
-UBERON_0001849	membranous labyrinth	UBERON_0007825	reticular membrane of spiral organ
-UBERON_0001849	membranous labyrinth	UBERON_0007833	osseus semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_0008813	helicotrema
-UBERON_0001849	membranous labyrinth	UBERON_0008831	inner spiral sulcus
-UBERON_0001849	membranous labyrinth	UBERON_0008832	outer spiral sulcus
-UBERON_0001849	membranous labyrinth	UBERON_0009038	sulcus ampullaris
-UBERON_0001849	membranous labyrinth	UBERON_0011774	utriculosaccular duct
-UBERON_0001849	membranous labyrinth	UBERON_0011922	cochlear basement membrane
-UBERON_0001849	membranous labyrinth	UBERON_0013731	basilar papilla
-UBERON_0001849	membranous labyrinth	UBERON_0013764	common crus of semicircular duct
-UBERON_0001849	membranous labyrinth	UBERON_0016567	statoconial membrane
-UBERON_0001849	membranous labyrinth	UBERON_0016568	gelatinous layer of statoconial membrane
-UBERON_0001849	membranous labyrinth	UBERON_0016569	subcupular meshwork of statoconial membrane
-UBERON_0001849	membranous labyrinth	UBERON_0018374	sallet
-UBERON_0001849	membranous labyrinth	UBERON_0028194	spiral prominence of cochlear duct
-UBERON_0001849	membranous labyrinth	UBERON_0035806	Hensen stripe
-UBERON_0001849	membranous labyrinth	UBERON_0035941	Kimura membrane
-UBERON_0001849	membranous labyrinth	UBERON_2000116	macula lagena
-UBERON_0001849	membranous labyrinth	UBERON_2000168	anterior macula
-UBERON_0001849	membranous labyrinth	UBERON_2000225	lateral crista primordium
-UBERON_0001849	membranous labyrinth	UBERON_2000232	lateral semicircular canal primordium
-UBERON_0001849	membranous labyrinth	UBERON_2000234	macula neglecta
-UBERON_0001849	membranous labyrinth	UBERON_2000315	asteriscus
-UBERON_0001849	membranous labyrinth	UBERON_2000411	posterior crista primordium
-UBERON_0001849	membranous labyrinth	UBERON_2000412	posterior semicircular canal primordium
-UBERON_0001849	membranous labyrinth	UBERON_2000469	anterior semicircular canal primordium
-UBERON_0001849	membranous labyrinth	UBERON_2000530	lapillus
-UBERON_0001849	membranous labyrinth	UBERON_2000676	sagitta
-UBERON_0001849	membranous labyrinth	UBERON_2002193	dorsolateral septum
-UBERON_0001849	membranous labyrinth	UBERON_2002223	pillar of the semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_2007054	pillar of the anterior semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_2007055	pillar of the lateral semicircular canal
-UBERON_0001849	membranous labyrinth	UBERON_3000057	canalis semicircularis anterior
-UBERON_0001849	membranous labyrinth	UBERON_3000393	pars amphibiorum
-UBERON_0001849	membranous labyrinth	UBERON_3000395	pars basilaris
-UBERON_0001850	lacrimal drainage system	UBERON_0001351	lacrimal sac
-UBERON_0001850	lacrimal drainage system	UBERON_0001770	lacrimal canaliculus
-UBERON_0001850	lacrimal drainage system	UBERON_0002392	nasolacrimal duct
-UBERON_0001850	lacrimal drainage system	UBERON_0005017	mucosa of lacrimal sac
-UBERON_0001850	lacrimal drainage system	UBERON_0005029	mucosa of lacrimal canaliculus
-UBERON_0001850	lacrimal drainage system	UBERON_0005043	mucosa of nasolacrimal duct
-UBERON_0001850	lacrimal drainage system	UBERON_0010284	lacrimal punctum
-UBERON_0001850	lacrimal drainage system	UBERON_0011186	Krause's gland
-UBERON_0001850	lacrimal drainage system	UBERON_0022274	lacrimal papilla
 UBERON_0001987	placenta	UBERON_0000453	decidua basalis
 UBERON_0001987	placenta	UBERON_0001987	placenta
 UBERON_0001987	placenta	UBERON_0002450	decidua
@@ -4352,25 +4183,6 @@ UBERON_0002097	skin of body	UBERON_4200179	manual claw
 UBERON_0002097	skin of body	UBERON_4300031	fin web
 UBERON_0002097	skin of body	UBERON_4300102	postcleithral scale
 UBERON_0002097	skin of body	UBERON_4500003	predorsal scale
-UBERON_0002393	pharyngotympanic tube	UBERON_0005044	mucosa of pharyngotympanic tube
-UBERON_0002393	pharyngotympanic tube	UBERON_0007354	cartilage of pharyngotympanic tube
-UBERON_0002393	pharyngotympanic tube	UBERON_0007355	bony part of pharyngotympanic tube
-UBERON_0002393	pharyngotympanic tube	UBERON_0009692	lumen of pharyngotympanic tube
-UBERON_0002393	pharyngotympanic tube	UBERON_0010062	pharyngotympanic tube epithelium
-UBERON_0002411	clitoris	UBERON_0003480	vein of clitoris
-UBERON_0002411	clitoris	UBERON_0005298	skin of clitoris
-UBERON_0002411	clitoris	UBERON_0005299	prepuce of clitoris
-UBERON_0002411	clitoris	UBERON_0006440	os clitoris
-UBERON_0002411	clitoris	UBERON_0006608	corpus cavernosum clitoridis
-UBERON_0002411	clitoris	UBERON_0006640	crus of clitoris
-UBERON_0002411	clitoris	UBERON_0006653	glans clitoris
-UBERON_0002411	clitoris	UBERON_0006690	deep dorsal vein of clitoris
-UBERON_0002411	clitoris	UBERON_0008322	deep artery of clitoris
-UBERON_0002411	clitoris	UBERON_0008323	dorsal artery of clitoris
-UBERON_0002411	clitoris	UBERON_0008331	clitoral smooth muscle
-UBERON_0002411	clitoris	UBERON_0011375	skin of prepuce of clitoris
-UBERON_0002411	clitoris	UBERON_0019198	dorsal nerve of clitoris
-UBERON_0002411	clitoris	UBERON_0035143	preputial space of female
 UBERON_0002530	gland	UBERON_0000007	pituitary gland
 UBERON_0002530	gland	UBERON_0000017	exocrine pancreas
 UBERON_0002530	gland	UBERON_0000325	gastric gland
@@ -4835,20 +4647,6 @@ UBERON_0002530	gland	UBERON_3010590	amphibian cloacal gland
 UBERON_0002530	gland	UBERON_3010602	granular gland
 UBERON_0002530	gland	UBERON_4300129	dorsal pelvic gland
 UBERON_0002530	gland	UBERON_4300130	lateral pelvic gland
-UBERON_0002535	gill	UBERON_0000205	papula
-UBERON_0002535	gill	UBERON_0000206	pharyngeal gill
-UBERON_0002535	gill	UBERON_0008891	external gill
-UBERON_0002535	gill	UBERON_0008892	internal gill
-UBERON_0002535	gill	UBERON_0009120	gill filament
-UBERON_0002535	gill	UBERON_0011150	pharyngeal arch derived gill
-UBERON_0002535	gill	UBERON_2000211	gill lamella
-UBERON_0002535	gill	UBERON_2000319	branchiostegal membrane
-UBERON_0002535	gill	UBERON_2000666	filamental artery
-UBERON_0002535	gill	UBERON_2001857	hyoidean artery
-UBERON_0002535	gill	UBERON_2005012	afferent filamental artery
-UBERON_0002535	gill	UBERON_2005015	afferent lamellar arteriole
-UBERON_0002535	gill	UBERON_2005018	efferent filamental artery
-UBERON_0002535	gill	UBERON_2005019	efferent lamellar arteriole
 UBERON_0003103	compound organ	UBERON_0000006	islet of Langerhans
 UBERON_0003103	compound organ	UBERON_0000016	endocrine pancreas
 UBERON_0003103	compound organ	UBERON_0000031	lamina propria of trachea
@@ -6236,10 +6034,6 @@ UBERON_0003133	reproductive organ	UBERON_3010260	intromittent organ (Ascaphus ty
 UBERON_0003133	reproductive organ	UBERON_3010529	ovisac
 UBERON_0003133	reproductive organ	UBERON_4100111	hemipenal sheath
 UBERON_0003133	reproductive organ	UBERON_4300018	ventral marginal cartilage
-UBERON_0003668	synovial bursa	UBERON_0012334	navicular bursa
-UBERON_0003668	synovial bursa	UBERON_0012335	navicular bursa of manus
-UBERON_0003668	synovial bursa	UBERON_0012343	navicular bursa of pes
-UBERON_0003917	arthropod fat body	UBERON_0013730	mycetome
 UBERON_0004177	hemopoietic organ	UBERON_0000040	Leydig's organ
 UBERON_0004177	hemopoietic organ	UBERON_0001248	hilum of spleen
 UBERON_0004177	hemopoietic organ	UBERON_0001249	spleen lymphoid follicle
@@ -11098,26 +10892,6 @@ UBERON_0005906	serous sac	UBERON_0035498	gastrophrenic ligament
 UBERON_0005906	serous sac	UBERON_0035820	peritoneal sac
 UBERON_0005906	serous sac	UBERON_3010818	hepatic peritoneum
 UBERON_0005906	serous sac	UBERON_3010819	gastrointestinal peritoneum
-UBERON_0006585	vestibular organ	UBERON_0001853	utricle of membranous labyrinth
-UBERON_0006585	vestibular organ	UBERON_0001854	saccule of membranous labyrinth
-UBERON_0006585	vestibular organ	UBERON_0002212	macula of saccule of membranous labyrinth
-UBERON_0006585	vestibular organ	UBERON_0002214	macula of utricle of membranous labyrinth
-UBERON_0006585	vestibular organ	UBERON_0002518	otolith organ
-UBERON_0006585	vestibular organ	UBERON_0002824	vestibular ganglion
-UBERON_0006585	vestibular organ	UBERON_0002825	superior part of vestibular ganglion
-UBERON_0006585	vestibular organ	UBERON_0002826	inferior part of vestibular ganglion
-UBERON_0006585	vestibular organ	UBERON_0003241	epithelium of utricle
-UBERON_0006585	vestibular organ	UBERON_0003242	epithelium of saccule
-UBERON_0006585	vestibular organ	UBERON_0003979	utricle valve
-UBERON_0006585	vestibular organ	UBERON_2000116	macula lagena
-UBERON_0006585	vestibular organ	UBERON_2000168	anterior macula
-UBERON_0006585	vestibular organ	UBERON_2000234	macula neglecta
-UBERON_0006585	vestibular organ	UBERON_2000530	lapillus
-UBERON_0006585	vestibular organ	UBERON_2000676	sagitta
-UBERON_0006585	vestibular organ	UBERON_3000393	pars amphibiorum
-UBERON_0006585	vestibular organ	UBERON_3000395	pars basilaris
-UBERON_0006869	electric organ	UBERON_0010519	tail electric organ
-UBERON_0006869	electric organ	UBERON_0010520	head electric organ
 UBERON_0007196	tracheobronchial tree	UBERON_0000410	bronchial mucosa
 UBERON_0007196	tracheobronchial tree	UBERON_0001102	cartilage of main bronchus
 UBERON_0007196	tracheobronchial tree	UBERON_0001212	duodenal gland
@@ -11377,9 +11151,6 @@ UBERON_0010001	cell cluster organ	UBERON_6003632	adult central complex
 UBERON_0010001	cell cluster organ	UBERON_6007070	centro-posterior medial synaptic neuropil domain
 UBERON_0010001	cell cluster organ	UBERON_6007145	adult protocerebrum
 UBERON_0010001	cell cluster organ	UBERON_6110636	adult cerebral ganglion
-UBERON_0010053	echolocation organ	UBERON_0008960	melon organ
-UBERON_0010053	echolocation organ	UBERON_0013182	core of melon organ
-UBERON_0013642	ring of oral cilia	UBERON_0013643	lophophore
 UBERON_0013765	digestive system element	UBERON_0000059	large intestine
 UBERON_0013765	digestive system element	UBERON_0000159	anal canal
 UBERON_0013765	digestive system element	UBERON_0000168	proximal-distal subdivision of colon
@@ -12174,12 +11945,3 @@ UBERON_0013765	digestive system element	UBERON_4200246	mesial parasymphysial for
 UBERON_0013765	digestive system element	UBERON_4200247	lateral parasymphysial foramen
 UBERON_0013765	digestive system element	UBERON_4300129	dorsal pelvic gland
 UBERON_0013765	digestive system element	UBERON_4300130	lateral pelvic gland
-UBERON_0034681	vocal organ	UBERON_0003706	laryngeal vocal fold
-UBERON_0034681	vocal organ	UBERON_0005047	mucosa of vocal fold
-UBERON_0034681	vocal organ	UBERON_0008577	vocalis muscle
-UBERON_0034681	vocal organ	UBERON_0009074	syrinx organ
-UBERON_0034681	vocal organ	UBERON_0009075	membrana tympaniformis
-UBERON_0034681	vocal organ	UBERON_0009076	membrana tympaniformis lateralis
-UBERON_0034681	vocal organ	UBERON_0009077	membrana tympaniformis medialis
-UBERON_0034681	vocal organ	UBERON_0009078	pessulus
-UBERON_0034681	vocal organ	UBERON_0014916	velar vocal fold

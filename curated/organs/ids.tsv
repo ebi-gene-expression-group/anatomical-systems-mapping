@@ -1,35 +1,21 @@
 UBERON_0000020	sense organ
-UBERON_0000057	urethra
 UBERON_0000094	membrane organ
 UBERON_0000171	respiration organ
 UBERON_0000211	ligament
-UBERON_0000407	sympathetic trunk
 UBERON_0000955	brain
 UBERON_0000997	mammalian vulva
 UBERON_0001630	muscle organ
-UBERON_0001849	membranous labyrinth
-UBERON_0001850	lacrimal drainage system
 UBERON_0001987	placenta
 UBERON_0002097	skin of body
-UBERON_0002393	pharyngotympanic tube
-UBERON_0002411	clitoris
 UBERON_0002530	gland
-UBERON_0002535	gill
 UBERON_0003103	compound organ
 UBERON_0003133	reproductive organ
-UBERON_0003668	synovial bursa
-UBERON_0003917	arthropod fat body
 UBERON_0004177	hemopoietic organ
 UBERON_0004765	skeletal element
 UBERON_0005057	immune organ
 UBERON_0005174	dorsal region element
 UBERON_0005177	trunk region element
 UBERON_0005906	serous sac
-UBERON_0006585	vestibular organ
-UBERON_0006869	electric organ
 UBERON_0007196	tracheobronchial tree
 UBERON_0010001	cell cluster organ
-UBERON_0010053	echolocation organ
-UBERON_0013642	ring of oral cilia
 UBERON_0013765	digestive system element
-UBERON_0034681	vocal organ
