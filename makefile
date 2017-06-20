@@ -1,4 +1,4 @@
-all: out/ontology_ids_per_experiment.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv
+all: out/ontology_ids_per_experiment.tsv out/ontology_ids_per_experiment-human.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv
 
 data/all-organism-parts.tsv:
 	find -L "${ATLAS_EXPS}" -maxdepth 2 -name '*condensed-sdrf.tsv' \
@@ -8,6 +8,20 @@ data/all-organism-parts.tsv:
 out/ontology_ids_per_experiment.tsv: data/all-organism-parts.tsv
 	amm -s src/JoinByThirdColumn.sc data/all-organism-parts.tsv \
 		> out/ontology_ids_per_experiment.tsv
+
+data/all-public-human-experiments.txt:
+	curl 'https://www.ebi.ac.uk/gxa/json/experiments' \
+		| jq -r '.aaData | map(select(.species | contains ("sapiens")) | .experimentAccession)[]' \
+		| sort \
+		> data/all-public-human-experiments.txt
+
+data/all-organism-parts-human.tsv: data/all-organism-parts.tsv data/all-public-human-experiments.txt
+	join -o '1.1 1.2 1.3' -t '	' -1 1 -2 1 data/all-organism-parts.tsv data/all-public-human-experiments.txt \
+	> data/all-organism-parts-human.tsv
+
+out/ontology_ids_per_experiment-human.tsv: data/all-organism-parts-human.tsv
+	amm -s src/JoinByThirdColumn.sc data/all-organism-parts-human.tsv \
+		> out/ontology_ids_per_experiment-human.tsv
 
 ### anatomical systems specific
 data/anatomical_systems_ids.tsv: curated/anatomical_systems/ids.tsv
@@ -26,8 +40,8 @@ out/anatomical_systems.txt: curated/anatomical_systems/ids.tsv curated/anatomica
 data/anatomical_systems_mapped_ids.txt: out/anatomical_systems.txt
 	cut -f 3 out/anatomical_systems.txt | sort -u > data/anatomical_systems_mapped_ids.txt
 
-out/curation/anatomical_systems_unmapped_ids.tsv: data/anatomical_systems_mapped_ids.txt out/ontology_ids_per_experiment.tsv
-	grep -oe "UBERON.*" out/ontology_ids_per_experiment.tsv \
+out/curation/anatomical_systems_unmapped_ids.tsv: data/anatomical_systems_mapped_ids.txt out/ontology_ids_per_experiment-human.tsv
+	grep -oe "UBERON.*" out/ontology_ids_per_experiment-human.tsv \
 	| sort -k 1 \
 	| join -t '	' -v 1 -1 1 -2 1 - data/anatomical_systems_mapped_ids.txt \
 	> out/curation/anatomical_systems_unmapped_ids.tsv
@@ -52,8 +66,8 @@ out/organs.txt: curated/organs/ids.tsv curated/organs/atlas_extra_mappings.tsv c
 data/organs_mapped_ids.txt: out/organs.txt
 	cut -f 3 out/organs.txt | sort -u > data/organs_mapped_ids.txt
 
-out/curation/organs_unmapped_ids.tsv: data/organs_mapped_ids.txt out/ontology_ids_per_experiment.tsv
-	grep -oe "UBERON.*" out/ontology_ids_per_experiment.tsv \
+out/curation/organs_unmapped_ids.tsv: data/organs_mapped_ids.txt out/ontology_ids_per_experiment-human.tsv
+	grep -oe "UBERON.*" out/ontology_ids_per_experiment-human.tsv \
 	| sort -k 1 \
 	| join -t '	' -v 1 -1 1 -2 1 - data/organs_mapped_ids.txt \
 	> out/curation/organs_unmapped_ids.tsv
@@ -62,4 +76,6 @@ out/curation/organs_unmapped_ids.tsv: data/organs_mapped_ids.txt out/ontology_id
 
 clean:
 	rm -rf data/*
+	git checkout data
 	rm -rf out/*
+	mkdir out/curation
