@@ -1,4 +1,137 @@
 #organ id 	 organ name 	 tissue id 	 tissue name 
+UBERON_0000004	nose	UBERON_0000004	nose
+UBERON_0000004	nose	UBERON_0000402	nasal vestibule
+UBERON_0000004	nose	UBERON_0001681	nasal bone
+UBERON_0000004	nose	UBERON_0001706	nasal septum
+UBERON_0000004	nose	UBERON_0001707	nasal cavity
+UBERON_0000004	nose	UBERON_0001823	nasal cartilage
+UBERON_0000004	nose	UBERON_0001997	olfactory epithelium
+UBERON_0000004	nose	UBERON_0002109	pair of nares
+UBERON_0000004	nose	UBERON_0002255	vomeronasal organ
+UBERON_0000004	nose	UBERON_0003356	epithelium of nasal septum
+UBERON_0000004	nose	UBERON_0003367	epithelium of vomeronasal organ
+UBERON_0000004	nose	UBERON_0003407	cartilage of nasal septum
+UBERON_0000004	nose	UBERON_0003415	mesenchyme of nasal septum
+UBERON_0000004	nose	UBERON_0003421	mesenchyme of vomeronasal organ
+UBERON_0000004	nose	UBERON_0004101	nasolabial region
+UBERON_0000004	nose	UBERON_0004110	midnasal cavity
+UBERON_0000004	nose	UBERON_0004692	external naris epithelium
+UBERON_0000004	nose	UBERON_0005018	mucosa of nasal septum
+UBERON_0000004	nose	UBERON_0005384	nasal cavity epithelium
+UBERON_0000004	nose	UBERON_0005385	nasal cavity respiratory epithelium
+UBERON_0000004	nose	UBERON_0005870	olfactory pit
+UBERON_0000004	nose	UBERON_0005928	external naris
+UBERON_0000004	nose	UBERON_0005931	primary choana
+UBERON_0000004	nose	UBERON_0006266	nasolacrimal groove
+UBERON_0000004	nose	UBERON_0006332	nasal capsule
+UBERON_0000004	nose	UBERON_0006813	nasal skeleton
+UBERON_0000004	nose	UBERON_0007163	superior nasal meatus
+UBERON_0000004	nose	UBERON_0007818	major alar cartilage
+UBERON_0000004	nose	UBERON_0007819	minor alar cartilage
+UBERON_0000004	nose	UBERON_0007820	accessory nasal cartilage
+UBERON_0000004	nose	UBERON_0007821	lateral nasal cartilage
+UBERON_0000004	nose	UBERON_0007822	vomeronasal cartilage
+UBERON_0000004	nose	UBERON_0007827	external nose
+UBERON_0000004	nose	UBERON_0008340	nasal bridge
+UBERON_0000004	nose	UBERON_0008341	columella nasi
+UBERON_0000004	nose	UBERON_0008522	nasal muscle
+UBERON_0000004	nose	UBERON_0008588	procerus
+UBERON_0000004	nose	UBERON_0008589	depressor septi nasi
+UBERON_0000004	nose	UBERON_0009671	nasal fin
+UBERON_0000004	nose	UBERON_0009672	oronasal membrane
+UBERON_0000004	nose	UBERON_0010893	median external naris
+UBERON_0000004	nose	UBERON_0010953	nasalis muscle
+UBERON_0000004	nose	UBERON_0011167	septomaxilla bone
+UBERON_0000004	nose	UBERON_0011256	rhinarium
+UBERON_0000004	nose	UBERON_0011931	nasal hair
+UBERON_0000004	nose	UBERON_0012128	nose tip
+UBERON_0000004	nose	UBERON_0012304	nasal diverticulum
+UBERON_0000004	nose	UBERON_0013175	nasal air sac
+UBERON_0000004	nose	UBERON_0013208	Grueneberg ganglion
+UBERON_0000004	nose	UBERON_0013477	blowhole
+UBERON_0000004	nose	UBERON_0015216	nasal meatus
+UBERON_0000004	nose	UBERON_0015219	middle nasal meatus
+UBERON_0000004	nose	UBERON_0015220	inferior nasal meatus
+UBERON_0000004	nose	UBERON_0015221	common nasal meatus
+UBERON_0000004	nose	UBERON_0015222	ventral nasal meatus
+UBERON_0000004	nose	UBERON_0015223	dorsal nasal meatus
+UBERON_0000004	nose	UBERON_0015245	septal olfactory organ
+UBERON_0000004	nose	UBERON_0015246	septal organ of Masera
+UBERON_0000004	nose	UBERON_0015476	nose skin
+UBERON_0000004	nose	UBERON_0015788	olfactory apparatus chamber
+UBERON_0000004	nose	UBERON_0016464	dorsum of nose
+UBERON_0000004	nose	UBERON_0018508	foramen of nasal bone
+UBERON_0000004	nose	UBERON_0019306	nose epithelium
+UBERON_0000004	nose	UBERON_0019307	epithelium of external nose
+UBERON_0000004	nose	UBERON_1000012	nose anterior margin
+UBERON_0000004	nose	UBERON_1000013	nose vertex
+UBERON_0000004	nose	UBERON_2001426	posterior naris
+UBERON_0000004	nose	UBERON_2001427	anterior naris
+UBERON_0000004	nose	UBERON_2001428	olfactory rosette
+UBERON_0000004	nose	UBERON_3000002	alary cartilage
+UBERON_0000004	nose	UBERON_3000015	anterior maxillary process
+UBERON_0000004	nose	UBERON_3000016	anterior nasal wall
+UBERON_0000004	nose	UBERON_3000059	capsular process
+UBERON_0000004	nose	UBERON_3000068	cartilago ectochoanalis
+UBERON_0000004	nose	UBERON_3000069	cartilago infranarina
+UBERON_0000004	nose	UBERON_3000079	cartilago retronarina
+UBERON_0000004	nose	UBERON_3000085	cavum inferius
+UBERON_0000004	nose	UBERON_3000086	cavum internasale
+UBERON_0000004	nose	UBERON_3000087	cavum medius
+UBERON_0000004	nose	UBERON_3000088	cavum praenasale
+UBERON_0000004	nose	UBERON_3000089	cavum principale
+UBERON_0000004	nose	UBERON_3000110	crista contacta
+UBERON_0000004	nose	UBERON_3000113	crista intermedia
+UBERON_0000004	nose	UBERON_3000117	crista subnasalis
+UBERON_0000004	nose	UBERON_3000118	crista supraorbitalis
+UBERON_0000004	nose	UBERON_3000155	extremitas anterior
+UBERON_0000004	nose	UBERON_3000160	fenestra dorsalis nasi
+UBERON_0000004	nose	UBERON_3000161	fenestra endochoanalis
+UBERON_0000004	nose	UBERON_3000162	fenestra endonarina communis
+UBERON_0000004	nose	UBERON_3000164	fenestra lateralis nasi
+UBERON_0000004	nose	UBERON_3000166	fenestra nasobasalis
+UBERON_0000004	nose	UBERON_3000167	fenestra nasolateralis
+UBERON_0000004	nose	UBERON_3000170	fenestra precerebralis
+UBERON_0000004	nose	UBERON_3000171	fenestra prechoanalis
+UBERON_0000004	nose	UBERON_3000189	foramen orbitonasale laterale
+UBERON_0000004	nose	UBERON_3000190	foramen orbitonasale mediale
+UBERON_0000004	nose	UBERON_3000234	inferior prenasal cartilage
+UBERON_0000004	nose	UBERON_3000259	lamina inferior
+UBERON_0000004	nose	UBERON_3000260	lamina nariochoanalis
+UBERON_0000004	nose	UBERON_3000263	lamina precerebralis
+UBERON_0000004	nose	UBERON_3000264	lamina superior
+UBERON_0000004	nose	UBERON_3000290	medial inferior prenasal cartilage
+UBERON_0000004	nose	UBERON_3000291	medial orbitonasal foramen
+UBERON_0000004	nose	UBERON_3000294	median prenasal process
+UBERON_0000004	nose	UBERON_3000316	nasal opening
+UBERON_0000004	nose	UBERON_3000329	oblique cartilage
+UBERON_0000004	nose	UBERON_3000333	olfactory foramen
+UBERON_0000004	nose	UBERON_3000381	paranasal commissure
+UBERON_0000004	nose	UBERON_3000389	paries nasi
+UBERON_0000004	nose	UBERON_3000434	planum antorbitale
+UBERON_0000004	nose	UBERON_3000437	planum conchale
+UBERON_0000004	nose	UBERON_3000438	planum internasale
+UBERON_0000004	nose	UBERON_3000440	planum terminale
+UBERON_0000004	nose	UBERON_3000441	planum triangulare
+UBERON_0000004	nose	UBERON_3000448	posterior maxillary process
+UBERON_0000004	nose	UBERON_3000449	posterior maxillary process dorsal process
+UBERON_0000004	nose	UBERON_3000454	postnasal wall
+UBERON_0000004	nose	UBERON_3000492	processus infrafenestralis
+UBERON_0000004	nose	UBERON_3000509	processus suprafenestralis
+UBERON_0000004	nose	UBERON_3000547	rostral process
+UBERON_0000004	nose	UBERON_3000563	seydels palatal process
+UBERON_0000004	nose	UBERON_3000565	skeletal support for eminentia olfactoria
+UBERON_0000004	nose	UBERON_3000569	solum nasi
+UBERON_0000004	nose	UBERON_3000586	superior prenasal cartilage
+UBERON_0000004	nose	UBERON_3000601	tectum nasi
+UBERON_0000004	nose	UBERON_3000644	processus lingularis of nasal skeleton
+UBERON_0000004	nose	UBERON_3000645	corpus
+UBERON_0000004	nose	UBERON_3000646	margo libera
+UBERON_0000004	nose	UBERON_3000647	crista interna
+UBERON_0000004	nose	UBERON_3010146	lacrimal
+UBERON_0000004	nose	UBERON_3010195	lateral appendix
+UBERON_0000004	nose	UBERON_3010197	lateral recess
+UBERON_0000004	nose	UBERON_3010827	anterior prenasal cartilage
 UBERON_0000160	intestine	UBERON_0000059	large intestine
 UBERON_0000160	intestine	UBERON_0000159	anal canal
 UBERON_0000160	intestine	UBERON_0000160	intestine
@@ -5296,6 +5429,286 @@ UBERON_0001264	pancreas	UBERON_0015454	pancreatic fat pad
 UBERON_0001264	pancreas	UBERON_0018234	stroma of pancreas
 UBERON_0001264	pancreas	UBERON_0018235	capsule of pancreas
 UBERON_0001264	pancreas	UBERON_2005346	extrapancreatic duct
+UBERON_0001690	ear	UBERON_0000054	macula
+UBERON_0001690	ear	UBERON_0001352	external acoustic meatus
+UBERON_0001690	ear	UBERON_0001459	skin of external ear
+UBERON_0001690	ear	UBERON_0001583	extrinsic auricular muscle
+UBERON_0001690	ear	UBERON_0001595	auricular muscle
+UBERON_0001690	ear	UBERON_0001596	intrinsic auricular muscle
+UBERON_0001690	ear	UBERON_0001599	stapedius muscle
+UBERON_0001690	ear	UBERON_0001600	tensor tympani
+UBERON_0001690	ear	UBERON_0001686	auditory ossicle bone
+UBERON_0001690	ear	UBERON_0001687	stapes bone
+UBERON_0001690	ear	UBERON_0001688	incus bone
+UBERON_0001690	ear	UBERON_0001689	malleus bone
+UBERON_0001690	ear	UBERON_0001690	ear
+UBERON_0001690	ear	UBERON_0001691	external ear
+UBERON_0001690	ear	UBERON_0001756	middle ear
+UBERON_0001690	ear	UBERON_0001757	pinna
+UBERON_0001690	ear	UBERON_0001839	bony labyrinth
+UBERON_0001690	ear	UBERON_0001840	semicircular canal
+UBERON_0001690	ear	UBERON_0001841	anterior semicircular canal
+UBERON_0001690	ear	UBERON_0001842	posterior semicircular canal
+UBERON_0001690	ear	UBERON_0001843	lateral semicircular canal
+UBERON_0001690	ear	UBERON_0001844	cochlea
+UBERON_0001690	ear	UBERON_0001845	perilymph
+UBERON_0001690	ear	UBERON_0001846	internal ear
+UBERON_0001690	ear	UBERON_0001847	lobule of pinna
+UBERON_0001690	ear	UBERON_0001848	auricular cartilage
+UBERON_0001690	ear	UBERON_0001849	membranous labyrinth
+UBERON_0001690	ear	UBERON_0001852	endolymph
+UBERON_0001690	ear	UBERON_0001853	utricle of membranous labyrinth
+UBERON_0001690	ear	UBERON_0001854	saccule of membranous labyrinth
+UBERON_0001690	ear	UBERON_0001855	cochlear duct of membranous labyrinth
+UBERON_0001690	ear	UBERON_0001856	semicircular duct
+UBERON_0001690	ear	UBERON_0001857	anterior semicircular duct
+UBERON_0001690	ear	UBERON_0001858	posterior semicircular duct
+UBERON_0001690	ear	UBERON_0001859	lateral semicircular duct
+UBERON_0001690	ear	UBERON_0001860	endolymphatic duct
+UBERON_0001690	ear	UBERON_0001861	ductus reuniens
+UBERON_0001690	ear	UBERON_0001862	vestibular labyrinth
+UBERON_0001690	ear	UBERON_0001863	scala vestibuli
+UBERON_0001690	ear	UBERON_0001864	scala tympani
+UBERON_0001690	ear	UBERON_0001865	cartilaginous external acoustic tube
+UBERON_0001690	ear	UBERON_0001867	cartilage of external ear
+UBERON_0001690	ear	UBERON_0002212	macula of saccule of membranous labyrinth
+UBERON_0001690	ear	UBERON_0002214	macula of utricle of membranous labyrinth
+UBERON_0001690	ear	UBERON_0002218	tympanic ring
+UBERON_0001690	ear	UBERON_0002223	endolymphatic sac
+UBERON_0001690	ear	UBERON_0002226	basilar membrane of cochlea
+UBERON_0001690	ear	UBERON_0002227	spiral organ of cochlea
+UBERON_0001690	ear	UBERON_0002233	tectorial membrane of cochlea
+UBERON_0001690	ear	UBERON_0002276	lamina of spiral limbus
+UBERON_0001690	ear	UBERON_0002277	spiral sulcus
+UBERON_0001690	ear	UBERON_0002278	perilymphatic space
+UBERON_0001690	ear	UBERON_0002279	vestibular aqueduct
+UBERON_0001690	ear	UBERON_0002280	otolith
+UBERON_0001690	ear	UBERON_0002281	vestibular membrane of cochlear duct
+UBERON_0001690	ear	UBERON_0002282	stria vascularis of cochlear duct
+UBERON_0001690	ear	UBERON_0002295	scala media
+UBERON_0001690	ear	UBERON_0002364	tympanic membrane
+UBERON_0001690	ear	UBERON_0002393	pharyngotympanic tube
+UBERON_0001690	ear	UBERON_0002488	helix
+UBERON_0001690	ear	UBERON_0002496	stapes base
+UBERON_0001690	ear	UBERON_0002499	cochlear labyrinth
+UBERON_0001690	ear	UBERON_0002518	otolith organ
+UBERON_0001690	ear	UBERON_0002519	otolithic part of statoconial membrane
+UBERON_0001690	ear	UBERON_0002819	apex of cochlea
+UBERON_0001690	ear	UBERON_0002820	zona arcuata of basilar membrane of cochlea
+UBERON_0001690	ear	UBERON_0002824	vestibular ganglion
+UBERON_0001690	ear	UBERON_0002825	superior part of vestibular ganglion
+UBERON_0001690	ear	UBERON_0002826	inferior part of vestibular ganglion
+UBERON_0001690	ear	UBERON_0003069	otic placode
+UBERON_0001690	ear	UBERON_0003238	epithelium of superior semicircular canal
+UBERON_0001690	ear	UBERON_0003239	epithelium of posterior semicircular canal
+UBERON_0001690	ear	UBERON_0003240	epithelium of lateral semicircular canal
+UBERON_0001690	ear	UBERON_0003241	epithelium of utricle
+UBERON_0001690	ear	UBERON_0003242	epithelium of saccule
+UBERON_0001690	ear	UBERON_0003243	epithelium of cochlear duct
+UBERON_0001690	ear	UBERON_0003246	epithelium of endolymphatic sac
+UBERON_0001690	ear	UBERON_0003249	epithelium of otic placode
+UBERON_0001690	ear	UBERON_0003325	mesenchyme of pinna
+UBERON_0001690	ear	UBERON_0003362	epithelium of endolymphatic duct
+UBERON_0001690	ear	UBERON_0003363	epithelium of ductus reuniens
+UBERON_0001690	ear	UBERON_0003950	inner ear canal
+UBERON_0001690	ear	UBERON_0003966	gonial bone
+UBERON_0001690	ear	UBERON_0003976	saccule duct
+UBERON_0001690	ear	UBERON_0003977	utricle duct
+UBERON_0001690	ear	UBERON_0003979	utricle valve
+UBERON_0001690	ear	UBERON_0004043	semicircular canal ampulla
+UBERON_0001690	ear	UBERON_0004106	crus of ear
+UBERON_0001690	ear	UBERON_0004113	muscle of auditory ossicle
+UBERON_0001690	ear	UBERON_0004115	blood vessel of tympanic cavity
+UBERON_0001690	ear	UBERON_0004116	nerve of tympanic cavity
+UBERON_0001690	ear	UBERON_0004637	otic capsule
+UBERON_0001690	ear	UBERON_0004721	crista ampullaris
+UBERON_0001690	ear	UBERON_0005026	mucosa of middle ear
+UBERON_0001690	ear	UBERON_0005042	inner epithelial layer of tympanic membrane
+UBERON_0001690	ear	UBERON_0005044	mucosa of pharyngotympanic tube
+UBERON_0001690	ear	UBERON_0005236	osseus labyrinth vestibule
+UBERON_0001690	ear	UBERON_0005342	malleus head
+UBERON_0001690	ear	UBERON_0005354	malleus processus brevis
+UBERON_0001690	ear	UBERON_0005355	malleus neck
+UBERON_0001690	ear	UBERON_0005410	cartilaginous otic capsule
+UBERON_0001690	ear	UBERON_0005411	bony otic capsule
+UBERON_0001690	ear	UBERON_0005600	crus commune
+UBERON_0001690	ear	UBERON_0005625	tubotympanic recess lumen
+UBERON_0001690	ear	UBERON_0005657	crus commune epithelium
+UBERON_0001690	ear	UBERON_0005972	tunnel of Corti
+UBERON_0001690	ear	UBERON_0005973	blood-inner ear barrier
+UBERON_0001690	ear	UBERON_0006106	cochlear canal
+UBERON_0001690	ear	UBERON_0006203	conchal part of pinna
+UBERON_0001690	ear	UBERON_0006208	auditory hillocks
+UBERON_0001690	ear	UBERON_0006248	incus pre-cartilage condensation
+UBERON_0001690	ear	UBERON_0006262	malleus pre-cartilage condensation
+UBERON_0001690	ear	UBERON_0006273	otic pit
+UBERON_0001690	ear	UBERON_0006294	stapes pre-cartilage condensation
+UBERON_0001690	ear	UBERON_0006345	stapedial artery
+UBERON_0001690	ear	UBERON_0006495	osseus cochlear canal
+UBERON_0001690	ear	UBERON_0006496	external acoustic meatus osseus part
+UBERON_0001690	ear	UBERON_0006586	otolymph
+UBERON_0001690	ear	UBERON_0006616	right external ear
+UBERON_0001690	ear	UBERON_0006617	left external ear
+UBERON_0001690	ear	UBERON_0006722	manubrium of malleus
+UBERON_0001690	ear	UBERON_0006723	cochlear modiolus
+UBERON_0001690	ear	UBERON_0006724	osseus spiral lamina
+UBERON_0001690	ear	UBERON_0006725	spiral ligament
+UBERON_0001690	ear	UBERON_0006837	tegmen tympani
+UBERON_0001690	ear	UBERON_0006932	vestibular epithelium
+UBERON_0001690	ear	UBERON_0006935	crista ampullaris neuroepithelium
+UBERON_0001690	ear	UBERON_0006937	inner ear epithelium
+UBERON_0001690	ear	UBERON_0006938	pinna surface epithelium
+UBERON_0001690	ear	UBERON_0007223	osseus cochlea
+UBERON_0001690	ear	UBERON_0007274	crista of ampulla of anterior semicircular duct of membranous laybrinth
+UBERON_0001690	ear	UBERON_0007275	crista of ampulla of posterior semicircular duct of membranous laybrinth
+UBERON_0001690	ear	UBERON_0007276	crista of ampulla of lateral semicircular duct of membranous laybrinth
+UBERON_0001690	ear	UBERON_0007352	stria vascularis vasculature
+UBERON_0001690	ear	UBERON_0007354	cartilage of pharyngotympanic tube
+UBERON_0001690	ear	UBERON_0007355	bony part of pharyngotympanic tube
+UBERON_0001690	ear	UBERON_0007374	incus cartilage element
+UBERON_0001690	ear	UBERON_0007825	reticular membrane of spiral organ
+UBERON_0001690	ear	UBERON_0007833	osseus semicircular canal
+UBERON_0001690	ear	UBERON_0008603	helicis major
+UBERON_0001690	ear	UBERON_0008604	helicis minor
+UBERON_0001690	ear	UBERON_0008605	tragicus muscle
+UBERON_0001690	ear	UBERON_0008606	antitragicus muscle
+UBERON_0001690	ear	UBERON_0008607	transverse muscle of auricle
+UBERON_0001690	ear	UBERON_0008608	oblique muscle of auricle
+UBERON_0001690	ear	UBERON_0008813	helicotrema
+UBERON_0001690	ear	UBERON_0008831	inner spiral sulcus
+UBERON_0001690	ear	UBERON_0008832	outer spiral sulcus
+UBERON_0001690	ear	UBERON_0008879	ligament of pinna
+UBERON_0001690	ear	UBERON_0008959	auditory bulla
+UBERON_0001690	ear	UBERON_0009038	sulcus ampullaris
+UBERON_0001690	ear	UBERON_0009477	associated mesenchyme of otic placode
+UBERON_0001690	ear	UBERON_0009506	mesenchyme of middle ear
+UBERON_0001690	ear	UBERON_0009647	tympanic membrane epithelium
+UBERON_0001690	ear	UBERON_0009692	lumen of pharyngotympanic tube
+UBERON_0001690	ear	UBERON_0010020	tubotympanic recess epithelium
+UBERON_0001690	ear	UBERON_0010054	malleus cartilage element
+UBERON_0001690	ear	UBERON_0010055	stapes cartilage element
+UBERON_0001690	ear	UBERON_0010062	pharyngotympanic tube epithelium
+UBERON_0001690	ear	UBERON_0010063	tympanic cavity epithelium
+UBERON_0001690	ear	UBERON_0010065	auditory meatus epithelium
+UBERON_0001690	ear	UBERON_0010069	outer epithelial layer of tympanic membrane
+UBERON_0001690	ear	UBERON_0010070	intermediate layer of tympanic membrane
+UBERON_0001690	ear	UBERON_0010071	layer of tympanic membrane
+UBERON_0001690	ear	UBERON_0010349	otic capsule pre-cartilage condensation
+UBERON_0001690	ear	UBERON_0010887	tragus
+UBERON_0001690	ear	UBERON_0010910	opisthotic
+UBERON_0001690	ear	UBERON_0010929	stapedius pre-muscle condensation
+UBERON_0001690	ear	UBERON_0010935	tensor tympani pre-muscle condensation
+UBERON_0001690	ear	UBERON_0011060	perilymphatic channel
+UBERON_0001690	ear	UBERON_0011078	endolymphatic space
+UBERON_0001690	ear	UBERON_0011385	parotidoauricular muscle
+UBERON_0001690	ear	UBERON_0011599	lenticular process of incus bone
+UBERON_0001690	ear	UBERON_0011774	utriculosaccular duct
+UBERON_0001690	ear	UBERON_0011859	internal acoustic meatus
+UBERON_0001690	ear	UBERON_0011922	cochlear basement membrane
+UBERON_0001690	ear	UBERON_0012305	marginal cutaneous pouch of ear
+UBERON_0001690	ear	UBERON_0013174	sigmoid process of tympanic bone
+UBERON_0001690	ear	UBERON_0013190	entotympanic bone
+UBERON_0001690	ear	UBERON_0013211	cerumen gland
+UBERON_0001690	ear	UBERON_0013731	basilar papilla
+UBERON_0001690	ear	UBERON_0013764	common crus of semicircular duct
+UBERON_0001690	ear	UBERON_0014397	lateral process of malleus
+UBERON_0001690	ear	UBERON_0014624	basis modioli
+UBERON_0001690	ear	UBERON_0014626	base of cochlear canal
+UBERON_0001690	ear	UBERON_0014628	vestibular fissure of the cochlear canal
+UBERON_0001690	ear	UBERON_0014629	terminal part of the cochlear canal
+UBERON_0001690	ear	UBERON_0015016	stapes endochondral element
+UBERON_0001690	ear	UBERON_0015017	incus endochondral element
+UBERON_0001690	ear	UBERON_0015018	malleus endochondral element
+UBERON_0001690	ear	UBERON_0015147	pinna hair
+UBERON_0001690	ear	UBERON_0015430	levator auris longus muscle
+UBERON_0001690	ear	UBERON_0015807	ear epithelium
+UBERON_0001690	ear	UBERON_0015813	middle ear epithelium
+UBERON_0001690	ear	UBERON_0015814	outer ear epithelium
+UBERON_0001690	ear	UBERON_0015885	cymba conchae of pinna
+UBERON_0001690	ear	UBERON_0016466	antihelix
+UBERON_0001690	ear	UBERON_0016467	antitragus
+UBERON_0001690	ear	UBERON_0016567	statoconial membrane
+UBERON_0001690	ear	UBERON_0016568	gelatinous layer of statoconial membrane
+UBERON_0001690	ear	UBERON_0016569	subcupular meshwork of statoconial membrane
+UBERON_0001690	ear	UBERON_0016611	auditory hillocks, pharyngeal arch 1 derived
+UBERON_0001690	ear	UBERON_0016612	auditory hillocks, pharyngeal arch 2 derived
+UBERON_0001690	ear	UBERON_0018108	superior auricular muscle
+UBERON_0001690	ear	UBERON_0018109	anterior auricular muscle
+UBERON_0001690	ear	UBERON_0018110	posterior auricular muscle
+UBERON_0001690	ear	UBERON_0018152	pars flaccida of tympanic membrane
+UBERON_0001690	ear	UBERON_0018153	pars tensa of tympanic membrane
+UBERON_0001690	ear	UBERON_0018154	ligament of middle ear
+UBERON_0001690	ear	UBERON_0018155	posterior incudal ligament
+UBERON_0001690	ear	UBERON_0018156	malleal ligament
+UBERON_0001690	ear	UBERON_0018157	lateral malleal ligament
+UBERON_0001690	ear	UBERON_0018158	superior malleal ligament
+UBERON_0001690	ear	UBERON_0018159	anterior malleal ligament
+UBERON_0001690	ear	UBERON_0018160	anterior process of malleus
+UBERON_0001690	ear	UBERON_0018231	labyrinthine artery
+UBERON_0001690	ear	UBERON_0018323	hyoid articular area
+UBERON_0001690	ear	UBERON_0018339	metotic fissure
+UBERON_0001690	ear	UBERON_0018356	rostral entotympanic element
+UBERON_0001690	ear	UBERON_0018374	sallet
+UBERON_0001690	ear	UBERON_0018655	pars endotympanica
+UBERON_0001690	ear	UBERON_0018663	recessus basilaris
+UBERON_0001690	ear	UBERON_0022279	strand of hair on external ear
+UBERON_0001690	ear	UBERON_0028194	spiral prominence of cochlear duct
+UBERON_0001690	ear	UBERON_0035130	auditory ossicle endochondral element
+UBERON_0001690	ear	UBERON_0035131	auditory ossicle cartilage element
+UBERON_0001690	ear	UBERON_0035132	auditory ossicle pre-cartilage element
+UBERON_0001690	ear	UBERON_0035174	right ear
+UBERON_0001690	ear	UBERON_0035295	left ear
+UBERON_0001690	ear	UBERON_0035606	cartilage of external acoustic meatus
+UBERON_0001690	ear	UBERON_0035806	Hensen stripe
+UBERON_0001690	ear	UBERON_0035941	Kimura membrane
+UBERON_0001690	ear	UBERON_0035964	promontory of tympanic cavity
+UBERON_0001690	ear	UBERON_1000004	collection of hair on external ear
+UBERON_0001690	ear	UBERON_1000005	external ear margin
+UBERON_0001690	ear	UBERON_1000017	tip of external ear
+UBERON_0001690	ear	UBERON_1000022	Zymbal's gland
+UBERON_0001690	ear	UBERON_2000116	macula lagena
+UBERON_0001690	ear	UBERON_2000168	anterior macula
+UBERON_0001690	ear	UBERON_2000225	lateral crista primordium
+UBERON_0001690	ear	UBERON_2000232	lateral semicircular canal primordium
+UBERON_0001690	ear	UBERON_2000234	macula neglecta
+UBERON_0001690	ear	UBERON_2000315	asteriscus
+UBERON_0001690	ear	UBERON_2000411	posterior crista primordium
+UBERON_0001690	ear	UBERON_2000412	posterior semicircular canal primordium
+UBERON_0001690	ear	UBERON_2000469	anterior semicircular canal primordium
+UBERON_0001690	ear	UBERON_2000530	lapillus
+UBERON_0001690	ear	UBERON_2000558	posterior macula
+UBERON_0001690	ear	UBERON_2000676	sagitta
+UBERON_0001690	ear	UBERON_2002193	dorsolateral septum
+UBERON_0001690	ear	UBERON_2002206	macula communis
+UBERON_0001690	ear	UBERON_2002223	pillar of the semicircular canal
+UBERON_0001690	ear	UBERON_2005409	pars superior ear
+UBERON_0001690	ear	UBERON_2005410	pars inferior ear
+UBERON_0001690	ear	UBERON_2005411	common crus
+UBERON_0001690	ear	UBERON_2005415	inner ear foramen
+UBERON_0001690	ear	UBERON_2005416	sacculoagenar foramen
+UBERON_0001690	ear	UBERON_2007054	pillar of the anterior semicircular canal
+UBERON_0001690	ear	UBERON_2007055	pillar of the lateral semicircular canal
+UBERON_0001690	ear	UBERON_3000057	canalis semicircularis anterior
+UBERON_0001690	ear	UBERON_3000141	endolymphatic system
+UBERON_0001690	ear	UBERON_3000178	footplate of pars media plectri
+UBERON_0001690	ear	UBERON_3000393	pars amphibiorum
+UBERON_0001690	ear	UBERON_3000395	pars basilaris
+UBERON_0001690	ear	UBERON_3000399	pars externa plectri
+UBERON_0001690	ear	UBERON_3000405	pars inferior of labyrinth
+UBERON_0001690	ear	UBERON_3000406	pars interna plectri
+UBERON_0001690	ear	UBERON_3000408	pars media plectri
+UBERON_0001690	ear	UBERON_3000428	perilymphatic system
+UBERON_0001690	ear	UBERON_3000443	plectral apparatus
+UBERON_0001690	ear	UBERON_3000486	processus ascendens plectri
+UBERON_0001690	ear	UBERON_3000538	recessus fenestrae ovalis
+UBERON_0001690	ear	UBERON_3000560	septum semicircularium anterior
+UBERON_0001690	ear	UBERON_3000561	septum semicircularium laterale
+UBERON_0001690	ear	UBERON_3000562	septum semircularium posterior
+UBERON_0001690	ear	UBERON_3000570	spatium sacculare
+UBERON_0001690	ear	UBERON_3000580	stylus of pars media plectri
+UBERON_0001690	ear	UBERON_3000648	crista praeopercularis
+UBERON_0001690	ear	UBERON_3010728	otic opercular element
+UBERON_0001690	ear	UBERON_4300126	tectorial restraint system
 UBERON_0001723	tongue	UBERON_0000396	vallate papilla
 UBERON_0001723	tongue	UBERON_0001576	intrinsic muscle of tongue
 UBERON_0001723	tongue	UBERON_0001723	tongue
