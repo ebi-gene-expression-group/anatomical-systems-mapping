@@ -6500,6 +6500,315 @@ UBERON_0002049	vasculature	UBERON_3010516	cutaneus magnus
 UBERON_0002049	vasculature	UBERON_3010517	ventral abdominal vein
 UBERON_0002049	vasculature	UBERON_3010519	Jacobson's vein
 UBERON_0002049	vasculature	UBERON_3010520	oviducal vein
+UBERON_0002097	skin	UBERON_0000014	zone of skin
+UBERON_0002097	skin	UBERON_0000041	odontode scale
+UBERON_0002097	skin	UBERON_0000212	toilet claw
+UBERON_0002097	skin	UBERON_0000329	hair root
+UBERON_0002097	skin	UBERON_0000359	preputial gland
+UBERON_0002097	skin	UBERON_0000382	apocrine sweat gland
+UBERON_0002097	skin	UBERON_0000412	dermal papilla
+UBERON_0002097	skin	UBERON_0000423	eccrine sweat gland
+UBERON_0002097	skin	UBERON_0001003	skin epidermis
+UBERON_0002097	skin	UBERON_0001037	strand of hair
+UBERON_0002097	skin	UBERON_0001068	skin of back
+UBERON_0002097	skin	UBERON_0001084	skin of head
+UBERON_0002097	skin	UBERON_0001085	skin of trunk
+UBERON_0002097	skin	UBERON_0001331	skin of penis
+UBERON_0002097	skin	UBERON_0001415	skin of pelvis
+UBERON_0002097	skin	UBERON_0001416	skin of abdomen
+UBERON_0002097	skin	UBERON_0001417	skin of neck
+UBERON_0002097	skin	UBERON_0001418	skin of thorax
+UBERON_0002097	skin	UBERON_0001419	skin of limb
+UBERON_0002097	skin	UBERON_0001457	skin of eyelid
+UBERON_0002097	skin	UBERON_0001458	skin of lip
+UBERON_0002097	skin	UBERON_0001459	skin of external ear
+UBERON_0002097	skin	UBERON_0001471	skin of prepuce of penis
+UBERON_0002097	skin	UBERON_0001483	skin of shoulder
+UBERON_0002097	skin	UBERON_0001510	skin of knee
+UBERON_0002097	skin	UBERON_0001511	skin of leg
+UBERON_0002097	skin	UBERON_0001512	skin of ankle
+UBERON_0002097	skin	UBERON_0001513	skin of pes
+UBERON_0002097	skin	UBERON_0001517	skin of elbow
+UBERON_0002097	skin	UBERON_0001518	skin of wrist
+UBERON_0002097	skin	UBERON_0001519	skin of manus
+UBERON_0002097	skin	UBERON_0001554	skin of hip
+UBERON_0002097	skin	UBERON_0001702	eyelash
+UBERON_0002097	skin	UBERON_0001705	nail
+UBERON_0002097	skin	UBERON_0001818	tarsal gland
+UBERON_0002097	skin	UBERON_0001820	sweat gland
+UBERON_0002097	skin	UBERON_0001821	sebaceous gland
+UBERON_0002097	skin	UBERON_0001868	skin of chest
+UBERON_0002097	skin	UBERON_0001992	papillary layer of dermis
+UBERON_0002097	skin	UBERON_0001993	reticular layer of dermis
+UBERON_0002097	skin	UBERON_0002025	stratum basale of epidermis
+UBERON_0002097	skin	UBERON_0002026	stratum spinosum of epidermis
+UBERON_0002097	skin	UBERON_0002067	dermis
+UBERON_0002097	skin	UBERON_0002069	stratum granulosum of epidermis
+UBERON_0002097	skin	UBERON_0002071	stratum lucidum of epidermis
+UBERON_0002097	skin	UBERON_0002073	hair follicle
+UBERON_0002097	skin	UBERON_0002074	hair shaft
+UBERON_0002097	skin	UBERON_0002077	cortex of hair
+UBERON_0002097	skin	UBERON_0002097	skin
+UBERON_0002097	skin	UBERON_0002283	nail matrix
+UBERON_0002097	skin	UBERON_0002284	hyponychium
+UBERON_0002097	skin	UBERON_0002419	skin gland
+UBERON_0002097	skin	UBERON_0002427	arm skin
+UBERON_0002097	skin	UBERON_0003403	skin of forearm
+UBERON_0002097	skin	UBERON_0003426	dermis adipose tissue
+UBERON_0002097	skin	UBERON_0003484	eye sebaceous gland
+UBERON_0002097	skin	UBERON_0003485	vagina sebaceous gland
+UBERON_0002097	skin	UBERON_0003487	skin sebaceous gland
+UBERON_0002097	skin	UBERON_0003530	pedal digit skin
+UBERON_0002097	skin	UBERON_0003531	forelimb skin
+UBERON_0002097	skin	UBERON_0003532	hindlimb skin
+UBERON_0002097	skin	UBERON_0003533	manual digit skin
+UBERON_0002097	skin	UBERON_0003534	tail skin
+UBERON_0002097	skin	UBERON_0003585	dermis connective tissue
+UBERON_0002097	skin	UBERON_0003605	eye skin gland
+UBERON_0002097	skin	UBERON_0003719	Pacinian corpuscle
+UBERON_0002097	skin	UBERON_0003836	abdominal segment skin
+UBERON_0002097	skin	UBERON_0003967	cutaneous elastic tissue
+UBERON_0002097	skin	UBERON_0004000	tarsal gland acinus
+UBERON_0002097	skin	UBERON_0004014	labium minora
+UBERON_0002097	skin	UBERON_0004034	cutaneous microfibril
+UBERON_0002097	skin	UBERON_0004084	genital labium
+UBERON_0002097	skin	UBERON_0004085	labium majora
+UBERON_0002097	skin	UBERON_0004105	subungual region
+UBERON_0002097	skin	UBERON_0004262	upper leg skin
+UBERON_0002097	skin	UBERON_0004263	upper arm skin
+UBERON_0002097	skin	UBERON_0004264	lower leg skin
+UBERON_0002097	skin	UBERON_0004790	skin mucous gland
+UBERON_0002097	skin	UBERON_0004882	eponychium
+UBERON_0002097	skin	UBERON_0005083	nipple sheath
+UBERON_0002097	skin	UBERON_0005184	hair medulla
+UBERON_0002097	skin	UBERON_0005273	nail bed
+UBERON_0002097	skin	UBERON_0005274	proximal nail bed
+UBERON_0002097	skin	UBERON_0005275	dorsal skin of digit
+UBERON_0002097	skin	UBERON_0005276	dorsal skin of finger
+UBERON_0002097	skin	UBERON_0005277	dorsal skin of toe
+UBERON_0002097	skin	UBERON_0005278	nail bed of finger
+UBERON_0002097	skin	UBERON_0005279	nail bed of toe
+UBERON_0002097	skin	UBERON_0005298	skin of clitoris
+UBERON_0002097	skin	UBERON_0005301	male preputial gland
+UBERON_0002097	skin	UBERON_0005302	female preputial gland
+UBERON_0002097	skin	UBERON_0005932	bulb of hair follicle
+UBERON_0002097	skin	UBERON_0005933	hair root sheath
+UBERON_0002097	skin	UBERON_0005941	hair inner root sheath
+UBERON_0002097	skin	UBERON_0005942	hair outer root sheath
+UBERON_0002097	skin	UBERON_0005943	hair root sheath matrix
+UBERON_0002097	skin	UBERON_0005968	infundibulum of hair follicle
+UBERON_0002097	skin	UBERON_0005975	hair follicle bulge
+UBERON_0002097	skin	UBERON_0006004	hair follicle matrix region
+UBERON_0002097	skin	UBERON_0006005	hair follicle isthmus
+UBERON_0002097	skin	UBERON_0006378	strand of vibrissa hair
+UBERON_0002097	skin	UBERON_0007121	skin nerve field
+UBERON_0002097	skin	UBERON_0007330	rhamphotheca
+UBERON_0002097	skin	UBERON_0007331	maxillary rhamphotheca
+UBERON_0002097	skin	UBERON_0007332	mandibular rhamphotheca
+UBERON_0002097	skin	UBERON_0007377	stratum compactum of dermis
+UBERON_0002097	skin	UBERON_0007380	dermal scale
+UBERON_0002097	skin	UBERON_0007381	epidermal scale
+UBERON_0002097	skin	UBERON_0007771	epidermis gland
+UBERON_0002097	skin	UBERON_0007773	scrotal sweat gland
+UBERON_0002097	skin	UBERON_0008198	nail plate
+UBERON_0002097	skin	UBERON_0008201	scute
+UBERON_0002097	skin	UBERON_0008802	cheek pouch
+UBERON_0002097	skin	UBERON_0008803	skin of cheek
+UBERON_0002097	skin	UBERON_0008838	metapodial pad
+UBERON_0002097	skin	UBERON_0008839	palmar pad
+UBERON_0002097	skin	UBERON_0008840	plantar pad
+UBERON_0002097	skin	UBERON_0008877	epidermal-dermal junction
+UBERON_0002097	skin	UBERON_0008963	hoof
+UBERON_0002097	skin	UBERON_0008999	hoof lamina
+UBERON_0002097	skin	UBERON_0009014	lower back skin
+UBERON_0002097	skin	UBERON_0009015	upper back skin
+UBERON_0002097	skin	UBERON_0009200	limb epidermis
+UBERON_0002097	skin	UBERON_0009564	distal limb integumentary appendage
+UBERON_0002097	skin	UBERON_0009565	nail of manual digit
+UBERON_0002097	skin	UBERON_0009567	nail of pedal digit
+UBERON_0002097	skin	UBERON_0010171	strand of hair of face
+UBERON_0002097	skin	UBERON_0010402	epidermis suprabasal layer
+UBERON_0002097	skin	UBERON_0010419	vibrissa follicle
+UBERON_0002097	skin	UBERON_0010509	strand of pelage hair
+UBERON_0002097	skin	UBERON_0010510	strand of auchene hair
+UBERON_0002097	skin	UBERON_0010511	strand of awl hair
+UBERON_0002097	skin	UBERON_0010512	strand of guard hair
+UBERON_0002097	skin	UBERON_0010513	strand of zigzag hair
+UBERON_0002097	skin	UBERON_0010514	strand of duvet hair
+UBERON_0002097	skin	UBERON_0010515	brille
+UBERON_0002097	skin	UBERON_0010854	skin of front of neck
+UBERON_0002097	skin	UBERON_0010855	skin of forelimb wing
+UBERON_0002097	skin	UBERON_0010878	humeral patagium
+UBERON_0002097	skin	UBERON_0010880	gular fold
+UBERON_0002097	skin	UBERON_0011190	lunule of nail
+UBERON_0002097	skin	UBERON_0011255	Eimer's organ
+UBERON_0002097	skin	UBERON_0011273	nail of manual digit 1
+UBERON_0002097	skin	UBERON_0011274	nail of manual digit 2
+UBERON_0002097	skin	UBERON_0011275	nail of manual digit 3
+UBERON_0002097	skin	UBERON_0011276	nail of manual digit 4
+UBERON_0002097	skin	UBERON_0011277	nail of manual digit 5
+UBERON_0002097	skin	UBERON_0011278	nail of pedal digit 1
+UBERON_0002097	skin	UBERON_0011279	nail of pedal digit 2
+UBERON_0002097	skin	UBERON_0011280	nail of pedal digit 3
+UBERON_0002097	skin	UBERON_0011281	nail of pedal digit 4
+UBERON_0002097	skin	UBERON_0011282	nail of pedal digit 5
+UBERON_0002097	skin	UBERON_0011375	skin of prepuce of clitoris
+UBERON_0002097	skin	UBERON_0011673	plastron scute
+UBERON_0002097	skin	UBERON_0011674	carapace scute
+UBERON_0002097	skin	UBERON_0011782	feather follicle
+UBERON_0002097	skin	UBERON_0011783	feather follicle placode
+UBERON_0002097	skin	UBERON_0011801	dermal condensation of feather follicle
+UBERON_0002097	skin	UBERON_0011806	dermis of feather follicle
+UBERON_0002097	skin	UBERON_0011807	epidermis of feather follicle
+UBERON_0002097	skin	UBERON_0011808	outer epidermal layer of feather follicle
+UBERON_0002097	skin	UBERON_0011809	inner epidermal layer of feather follicle
+UBERON_0002097	skin	UBERON_0011827	areolar gland
+UBERON_0002097	skin	UBERON_0011844	duct of areolar gland
+UBERON_0002097	skin	UBERON_0011845	duct of sebaceous gland
+UBERON_0002097	skin	UBERON_0011846	acinus of sebaceous gland
+UBERON_0002097	skin	UBERON_0011854	acinus of areolar gland
+UBERON_0002097	skin	UBERON_0011901	hair matrix
+UBERON_0002097	skin	UBERON_0011931	nasal hair
+UBERON_0002097	skin	UBERON_0011936	vibrissa hair bulb
+UBERON_0002097	skin	UBERON_0011937	vibrissa root sheath
+UBERON_0002097	skin	UBERON_0011938	vibrissa inner root sheath
+UBERON_0002097	skin	UBERON_0011939	vibrissa outer root sheath
+UBERON_0002097	skin	UBERON_0011940	arrector pili muscle of vibrissa
+UBERON_0002097	skin	UBERON_0012177	skin apocrine gland
+UBERON_0002097	skin	UBERON_0012180	head or neck skin
+UBERON_0002097	skin	UBERON_0012243	nuptial pad
+UBERON_0002097	skin	UBERON_0012244	stratum intermedium of epidermis
+UBERON_0002097	skin	UBERON_0012281	perianal sebaceous gland
+UBERON_0002097	skin	UBERON_0012304	nasal diverticulum
+UBERON_0002097	skin	UBERON_0012305	marginal cutaneous pouch of ear
+UBERON_0002097	skin	UBERON_0012336	perianal skin
+UBERON_0002097	skin	UBERON_0012348	autopod pad
+UBERON_0002097	skin	UBERON_0012349	digital pad
+UBERON_0002097	skin	UBERON_0012350	carpal pad
+UBERON_0002097	skin	UBERON_0012447	podotheca
+UBERON_0002097	skin	UBERON_0012458	antler velvet
+UBERON_0002097	skin	UBERON_0013196	strand of wool
+UBERON_0002097	skin	UBERON_0013206	nasal tentacle
+UBERON_0002097	skin	UBERON_0013211	cerumen gland
+UBERON_0002097	skin	UBERON_0013228	sweat gland of eyelid
+UBERON_0002097	skin	UBERON_0013231	sebaceous gland of eyelid
+UBERON_0002097	skin	UBERON_0013487	epidermal ridge of digit
+UBERON_0002097	skin	UBERON_0013494	keratin-coated spine
+UBERON_0002097	skin	UBERON_0013495	barbed keratin-coated spine
+UBERON_0002097	skin	UBERON_0013496	unbarbed keratin-coated spine
+UBERON_0002097	skin	UBERON_0013622	manual autopod pad
+UBERON_0002097	skin	UBERON_0013623	pedal autopod pad
+UBERON_0002097	skin	UBERON_0013626	medial metatarsal pad
+UBERON_0002097	skin	UBERON_0013627	lateral metatarsal pad
+UBERON_0002097	skin	UBERON_0013628	pollical pad
+UBERON_0002097	skin	UBERON_0013629	hallical pad
+UBERON_0002097	skin	UBERON_0013640	internal cheek pouch
+UBERON_0002097	skin	UBERON_0013641	external cheek pouch
+UBERON_0002097	skin	UBERON_0013698	strand of pubic hair
+UBERON_0002097	skin	UBERON_0013699	strand of axillary hair
+UBERON_0002097	skin	UBERON_0013720	dartos muscle of labia majora
+UBERON_0002097	skin	UBERON_0013766	epicanthal fold
+UBERON_0002097	skin	UBERON_0013776	skin of palmar/plantar part of autopod
+UBERON_0002097	skin	UBERON_0013777	skin of palm of manus
+UBERON_0002097	skin	UBERON_0013778	skin of sole of pes
+UBERON_0002097	skin	UBERON_0014391	palmar/plantar sweat gland
+UBERON_0002097	skin	UBERON_0014481	sex skin
+UBERON_0002097	skin	UBERON_0014482	ischial callosity
+UBERON_0002097	skin	UBERON_0014931	periungual skin
+UBERON_0002097	skin	UBERON_0015144	autopod hair
+UBERON_0002097	skin	UBERON_0015145	pes hair
+UBERON_0002097	skin	UBERON_0015146	manus hair
+UBERON_0002097	skin	UBERON_0015147	pinna hair
+UBERON_0002097	skin	UBERON_0015148	tail hair
+UBERON_0002097	skin	UBERON_0015149	ventral hair
+UBERON_0002097	skin	UBERON_0015150	dorsal hair
+UBERON_0002097	skin	UBERON_0015249	digit skin
+UBERON_0002097	skin	UBERON_0015251	modified sebaceous gland
+UBERON_0002097	skin	UBERON_0015252	coat hair follicle
+UBERON_0002097	skin	UBERON_0015474	axilla skin
+UBERON_0002097	skin	UBERON_0015476	nose skin
+UBERON_0002097	skin	UBERON_0015479	scrotum skin
+UBERON_0002097	skin	UBERON_0015484	epidermis of metapodial pad
+UBERON_0002097	skin	UBERON_0015790	autopod skin
+UBERON_0002097	skin	UBERON_0015873	heel skin
+UBERON_0002097	skin	UBERON_0015886	root of nail
+UBERON_0002097	skin	UBERON_0016446	hair of head
+UBERON_0002097	skin	UBERON_0016447	hair of trunk
+UBERON_0002097	skin	UBERON_0016462	periorbital skin
+UBERON_0002097	skin	UBERON_0016475	skin of forehead
+UBERON_0002097	skin	UBERON_0016852	skin scent gland
+UBERON_0002097	skin	UBERON_0016853	interdigital gland
+UBERON_0002097	skin	UBERON_0016915	vermilion
+UBERON_0002097	skin	UBERON_0016918	upper vermilion
+UBERON_0002097	skin	UBERON_0016919	lower vermilion
+UBERON_0002097	skin	UBERON_0018134	rugal fold of scrotum
+UBERON_0002097	skin	UBERON_0018150	skin of lower lip
+UBERON_0002097	skin	UBERON_0018151	skin of upper lip
+UBERON_0002097	skin	UBERON_0018232	axillary sweat gland
+UBERON_0002097	skin	UBERON_0018233	gland of Zeis
+UBERON_0002097	skin	UBERON_0018278	epidermal egg tooth
+UBERON_0002097	skin	UBERON_0018309	central figure of scute
+UBERON_0002097	skin	UBERON_0018310	cephalic dermal scale
+UBERON_0002097	skin	UBERON_0018317	dorsal osteoderm
+UBERON_0002097	skin	UBERON_0019200	skin of anterior chest
+UBERON_0002097	skin	UBERON_0019204	skin epithelium
+UBERON_0002097	skin	UBERON_0019243	skin crease
+UBERON_0002097	skin	UBERON_0019246	palmar skin crease
+UBERON_0002097	skin	UBERON_0019247	plantar skin crease
+UBERON_0002097	skin	UBERON_0019254	upper eyelash
+UBERON_0002097	skin	UBERON_0019255	lower eyelash
+UBERON_0002097	skin	UBERON_0022279	strand of hair on external ear
+UBERON_0002097	skin	UBERON_0022285	strand of tylotrich hair
+UBERON_0002097	skin	UBERON_0034720	head taste bud
+UBERON_0002097	skin	UBERON_0034726	trunk taste bud
+UBERON_0002097	skin	UBERON_0034762	areolar sweat gland
+UBERON_0002097	skin	UBERON_0034765	glabella skin
+UBERON_0002097	skin	UBERON_0035073	duct of eccrine sweat gland
+UBERON_0002097	skin	UBERON_0035074	duct of apocrine sweat gland
+UBERON_0002097	skin	UBERON_0035501	unencapsulated tactile receptor
+UBERON_0002097	skin	UBERON_0035609	outer root sheath companion layer
+UBERON_0002097	skin	UBERON_0035610	hair canal
+UBERON_0002097	skin	UBERON_0035611	hair peg
+UBERON_0002097	skin	UBERON_0036149	suprapubic skin
+UBERON_0002097	skin	UBERON_0036150	skin appendage follicle
+UBERON_0002097	skin	UBERON_1000003	dewlap
+UBERON_0002097	skin	UBERON_1000010	mole
+UBERON_0002097	skin	UBERON_1000015	skin of snout
+UBERON_0002097	skin	UBERON_1000021	skin of face
+UBERON_0002097	skin	UBERON_1000022	Zymbal's gland
+UBERON_0002097	skin	UBERON_2001179	epidermal superficial stratum
+UBERON_0002097	skin	UBERON_2001181	epidermal intermediate stratum
+UBERON_0002097	skin	UBERON_2001183	dermal superficial region
+UBERON_0002097	skin	UBERON_2001186	collagenous dermal stroma
+UBERON_0002097	skin	UBERON_2001824	lateral line scale
+UBERON_0002097	skin	UBERON_2002051	scale circulus
+UBERON_0002097	skin	UBERON_2002118	scale radius
+UBERON_0002097	skin	UBERON_2002119	dermal scale focus
+UBERON_0002097	skin	UBERON_2002122	pouch scale
+UBERON_0002097	skin	UBERON_2002195	epidermal placode
+UBERON_0002097	skin	UBERON_2002242	scale primordium
+UBERON_0002097	skin	UBERON_2002249	ctenius
+UBERON_0002097	skin	UBERON_2002273	ctenoid scale
+UBERON_0002097	skin	UBERON_2002274	transforming ctenoid scale
+UBERON_0002097	skin	UBERON_2002285	cycloid scale
+UBERON_0002097	skin	UBERON_3010599	stratum spongiosum
+UBERON_0002097	skin	UBERON_3010802	courtship gland
+UBERON_0002097	skin	UBERON_4000051	lepidosteoid scale
+UBERON_0002097	skin	UBERON_4000052	ganoid scale
+UBERON_0002097	skin	UBERON_4000055	polypteroid scale
+UBERON_0002097	skin	UBERON_4000070	elasmoid scale
+UBERON_0002097	skin	UBERON_4000074	palaeoniscoid scale
+UBERON_0002097	skin	UBERON_4000080	keratin-based scale
+UBERON_0002097	skin	UBERON_4000081	cosmoid scale
+UBERON_0002097	skin	UBERON_4000104	ganoine
+UBERON_0002097	skin	UBERON_4000105	limiting layer of elasmoid scale
+UBERON_0002097	skin	UBERON_4000107	elasmodine
+UBERON_0002097	skin	UBERON_4100008	pedal claws
+UBERON_0002097	skin	UBERON_4200165	basal scute
+UBERON_0002097	skin	UBERON_4200179	manual claw
+UBERON_0002097	skin	UBERON_4300031	fin web
+UBERON_0002097	skin	UBERON_4300102	postcleithral scale
+UBERON_0002097	skin	UBERON_4500003	predorsal scale
 UBERON_0002106	spleen	UBERON_0001248	hilum of spleen
 UBERON_0002106	spleen	UBERON_0001249	spleen lymphoid follicle
 UBERON_0002106	spleen	UBERON_0001250	red pulp of spleen
