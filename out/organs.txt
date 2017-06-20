@@ -3642,6 +3642,300 @@ UBERON_0000955	brain	UBERON_6003632	adult central complex
 UBERON_0000955	brain	UBERON_6007070	centro-posterior medial synaptic neuropil domain
 UBERON_0000955	brain	UBERON_6007145	adult protocerebrum
 UBERON_0000955	brain	UBERON_6110636	adult cerebral ganglion
+UBERON_0000970	eye	UBERON_0000018	compound eye
+UBERON_0000970	eye	UBERON_0000019	camera-type eye
+UBERON_0000970	eye	UBERON_0000046	stemma
+UBERON_0000970	eye	UBERON_0000047	simple eye
+UBERON_0000970	eye	UBERON_0000048	pinhole eye
+UBERON_0000970	eye	UBERON_0000049	spherical lensed eye
+UBERON_0000970	eye	UBERON_0000050	simple eye with multiple lenses
+UBERON_0000970	eye	UBERON_0000053	macula lutea
+UBERON_0000970	eye	UBERON_0000207	compound eye corneal lens
+UBERON_0000970	eye	UBERON_0000389	lens cortex
+UBERON_0000970	eye	UBERON_0000390	lens nucleus
+UBERON_0000970	eye	UBERON_0000964	cornea
+UBERON_0000970	eye	UBERON_0000965	lens of camera-type eye
+UBERON_0000970	eye	UBERON_0000966	retina
+UBERON_0000970	eye	UBERON_0000970	eye
+UBERON_0000970	eye	UBERON_0000971	ommatidium
+UBERON_0000970	eye	UBERON_0001351	lacrimal sac
+UBERON_0000970	eye	UBERON_0001457	skin of eyelid
+UBERON_0000970	eye	UBERON_0001578	orbicularis oculi muscle
+UBERON_0000970	eye	UBERON_0001601	extra-ocular muscle
+UBERON_0000970	eye	UBERON_0001602	medial rectus extraocular muscle
+UBERON_0000970	eye	UBERON_0001603	lateral rectus extra-ocular muscle
+UBERON_0000970	eye	UBERON_0001604	levator palpebrae superioris
+UBERON_0000970	eye	UBERON_0001605	ciliary muscle
+UBERON_0000970	eye	UBERON_0001606	muscle of iris
+UBERON_0000970	eye	UBERON_0001607	sphincter pupillae
+UBERON_0000970	eye	UBERON_0001608	dilatator pupillae
+UBERON_0000970	eye	UBERON_0001620	central retinal artery
+UBERON_0000970	eye	UBERON_0001673	central retinal vein
+UBERON_0000970	eye	UBERON_0001711	eyelid
+UBERON_0000970	eye	UBERON_0001712	upper eyelid
+UBERON_0000970	eye	UBERON_0001713	lower eyelid
+UBERON_0000970	eye	UBERON_0001750	lacrimal apparatus
+UBERON_0000970	eye	UBERON_0001766	anterior chamber of eyeball
+UBERON_0000970	eye	UBERON_0001767	posterior chamber of eyeball
+UBERON_0000970	eye	UBERON_0001768	uvea
+UBERON_0000970	eye	UBERON_0001769	iris
+UBERON_0000970	eye	UBERON_0001770	lacrimal canaliculus
+UBERON_0000970	eye	UBERON_0001771	pupil
+UBERON_0000970	eye	UBERON_0001772	corneal epithelium
+UBERON_0000970	eye	UBERON_0001773	sclera
+UBERON_0000970	eye	UBERON_0001775	ciliary body
+UBERON_0000970	eye	UBERON_0001776	optic choroid
+UBERON_0000970	eye	UBERON_0001777	substantia propria of cornea
+UBERON_0000970	eye	UBERON_0001778	ciliary epithelium
+UBERON_0000970	eye	UBERON_0001779	iris stroma
+UBERON_0000970	eye	UBERON_0001781	layer of retina
+UBERON_0000970	eye	UBERON_0001782	pigmented layer of retina
+UBERON_0000970	eye	UBERON_0001783	optic disc
+UBERON_0000970	eye	UBERON_0001786	fovea centralis
+UBERON_0000970	eye	UBERON_0001787	photoreceptor layer of retina
+UBERON_0000970	eye	UBERON_0001788	outer limiting layer of retina
+UBERON_0000970	eye	UBERON_0001789	outer nuclear layer of retina
+UBERON_0000970	eye	UBERON_0001790	outer plexiform layer of retina
+UBERON_0000970	eye	UBERON_0001791	inner nuclear layer of retina
+UBERON_0000970	eye	UBERON_0001792	ganglionic layer of retina
+UBERON_0000970	eye	UBERON_0001793	nerve fiber layer of retina
+UBERON_0000970	eye	UBERON_0001794	inner limiting layer of retina
+UBERON_0000970	eye	UBERON_0001795	inner plexiform layer of retina
+UBERON_0000970	eye	UBERON_0001796	aqueous humor of eyeball
+UBERON_0000970	eye	UBERON_0001797	vitreous humor
+UBERON_0000970	eye	UBERON_0001798	vitreous body
+UBERON_0000970	eye	UBERON_0001799	vitreous chamber of eyeball
+UBERON_0000970	eye	UBERON_0001801	anterior segment of eyeball
+UBERON_0000970	eye	UBERON_0001802	posterior segment of eyeball
+UBERON_0000970	eye	UBERON_0001803	epithelium of lens
+UBERON_0000970	eye	UBERON_0001811	conjunctiva
+UBERON_0000970	eye	UBERON_0001812	palpebral conjunctiva
+UBERON_0000970	eye	UBERON_0001817	lacrimal gland
+UBERON_0000970	eye	UBERON_0001818	tarsal gland
+UBERON_0000970	eye	UBERON_0001819	palpebral fissure
+UBERON_0000970	eye	UBERON_0001822	orbital septum
+UBERON_0000970	eye	UBERON_0001850	lacrimal drainage system
+UBERON_0000970	eye	UBERON_0001985	corneal endothelium
+UBERON_0000970	eye	UBERON_0002203	vasculature of eye
+UBERON_0000970	eye	UBERON_0002269	pupillary membrane
+UBERON_0000970	eye	UBERON_0002270	hyaloid artery
+UBERON_0000970	eye	UBERON_0002392	nasolacrimal duct
+UBERON_0000970	eye	UBERON_0002443	choroidal blood vessel
+UBERON_0000970	eye	UBERON_0002444	lens fiber
+UBERON_0000970	eye	UBERON_0002506	iris epithelium
+UBERON_0000970	eye	UBERON_0002822	macula lutea proper
+UBERON_0000970	eye	UBERON_0002823	clivus of fovea centralis
+UBERON_0000970	eye	UBERON_0003065	ciliary marginal zone
+UBERON_0000970	eye	UBERON_0003211	median eye
+UBERON_0000970	eye	UBERON_0003269	skeletal muscle tissue of eye
+UBERON_0000970	eye	UBERON_0003314	eye mesenchyme
+UBERON_0000970	eye	UBERON_0003386	smooth muscle of eye
+UBERON_0000970	eye	UBERON_0003484	eye sebaceous gland
+UBERON_0000970	eye	UBERON_0003500	corneal blood vessel
+UBERON_0000970	eye	UBERON_0003501	retina blood vessel
+UBERON_0000970	eye	UBERON_0003510	eyelid blood vessel
+UBERON_0000970	eye	UBERON_0003511	iris blood vessel
+UBERON_0000970	eye	UBERON_0003581	eyelid connective tissue
+UBERON_0000970	eye	UBERON_0003605	eye skin gland
+UBERON_0000970	eye	UBERON_0003844	upper eyelid epithelium
+UBERON_0000970	eye	UBERON_0003845	lower eyelid epithelium
+UBERON_0000970	eye	UBERON_0003857	upper eyelid mesenchyme
+UBERON_0000970	eye	UBERON_0003858	lower eyelid mesenchyme
+UBERON_0000970	eye	UBERON_0003902	retinal neural layer
+UBERON_0000970	eye	UBERON_0003925	photoreceptor inner segment layer
+UBERON_0000970	eye	UBERON_0003926	photoreceptor outer segment layer
+UBERON_0000970	eye	UBERON_0003951	ocular fundus
+UBERON_0000970	eye	UBERON_0003956	aqueous drainage system
+UBERON_0000970	eye	UBERON_0003957	Bruch's membrane
+UBERON_0000970	eye	UBERON_0004000	tarsal gland acinus
+UBERON_0000970	eye	UBERON_0004029	canal of Schlemm
+UBERON_0000970	eye	UBERON_0004030	aqueous vein
+UBERON_0000970	eye	UBERON_0004118	vasculature of iris
+UBERON_0000970	eye	UBERON_0004187	Harderian gland
+UBERON_0000970	eye	UBERON_0004234	iris smooth muscle
+UBERON_0000970	eye	UBERON_0004277	eye muscle
+UBERON_0000970	eye	UBERON_0004367	Descemet's membrane
+UBERON_0000970	eye	UBERON_0004370	anterior limiting lamina of cornea
+UBERON_0000970	eye	UBERON_0004505	skeletal muscle tissue of orbicularis oculi
+UBERON_0000970	eye	UBERON_0004508	skeletal muscle tissue of levator palpebrae superioris
+UBERON_0000970	eye	UBERON_0004548	left eye
+UBERON_0000970	eye	UBERON_0004549	right eye
+UBERON_0000970	eye	UBERON_0004694	Harderian gland epithelium
+UBERON_0000970	eye	UBERON_0004724	medial palpebral ligament
+UBERON_0000970	eye	UBERON_0004772	eyelid tarsus
+UBERON_0000970	eye	UBERON_0004773	superior eyelid tarsus
+UBERON_0000970	eye	UBERON_0004774	inferior eyelid tarsus
+UBERON_0000970	eye	UBERON_0004817	lacrimal gland epithelium
+UBERON_0000970	eye	UBERON_0004859	eye gland
+UBERON_0000970	eye	UBERON_0004864	vasculature of retina
+UBERON_0000970	eye	UBERON_0004868	tapetum lucidum of camera-type eye
+UBERON_0000970	eye	UBERON_0005017	mucosa of lacrimal sac
+UBERON_0000970	eye	UBERON_0005029	mucosa of lacrimal canaliculus
+UBERON_0000970	eye	UBERON_0005043	mucosa of nasolacrimal duct
+UBERON_0000970	eye	UBERON_0005336	capillary layer of choroid
+UBERON_0000970	eye	UBERON_0005388	photoreceptor array
+UBERON_0000970	eye	UBERON_0005389	transparent eye structure
+UBERON_0000970	eye	UBERON_0005427	corneal primordium
+UBERON_0000970	eye	UBERON_0005492	hyaloid vessel
+UBERON_0000970	eye	UBERON_0005606	hyaloid cavity
+UBERON_0000970	eye	UBERON_0005611	inner canthus
+UBERON_0000970	eye	UBERON_0005614	lens anterior epithelium
+UBERON_0000970	eye	UBERON_0005615	lens equatorial epithelium
+UBERON_0000970	eye	UBERON_0005638	anterior chamber epithelium
+UBERON_0000970	eye	UBERON_0005908	conjunctival sac
+UBERON_0000970	eye	UBERON_0005969	eye trabecular meshwork
+UBERON_0000970	eye	UBERON_0006010	hyaloid canal
+UBERON_0000970	eye	UBERON_0006011	hyaloid vein
+UBERON_0000970	eye	UBERON_0006206	iridocorneal angle
+UBERON_0000970	eye	UBERON_0006230	extrinsic ocular pre-muscle mass
+UBERON_0000970	eye	UBERON_0006253	embryonic intraretinal space
+UBERON_0000970	eye	UBERON_0006259	lens pit
+UBERON_0000970	eye	UBERON_0006276	perioptic mesenchyme
+UBERON_0000970	eye	UBERON_0006311	chamber of eyeball
+UBERON_0000970	eye	UBERON_0006312	ocular refractive media
+UBERON_0000970	eye	UBERON_0006318	orbitalis muscle
+UBERON_0000970	eye	UBERON_0006320	inferior oblique extraocular muscle
+UBERON_0000970	eye	UBERON_0006321	superior oblique extraocular muscle
+UBERON_0000970	eye	UBERON_0006322	inferior rectus extraocular muscle
+UBERON_0000970	eye	UBERON_0006323	superior rectus extraocular muscle
+UBERON_0000970	eye	UBERON_0006531	oculomotor muscle
+UBERON_0000970	eye	UBERON_0006532	oblique extraocular muscle
+UBERON_0000970	eye	UBERON_0006533	rectus extraocular muscle
+UBERON_0000970	eye	UBERON_0006726	outer canthus
+UBERON_0000970	eye	UBERON_0006742	canthus
+UBERON_0000970	eye	UBERON_0006761	corneo-scleral junction
+UBERON_0000970	eye	UBERON_0006762	suspensory ligament of lens
+UBERON_0000970	eye	UBERON_0006763	epithelium of conjunctiva
+UBERON_0000970	eye	UBERON_0007619	limiting membrane of retina
+UBERON_0000970	eye	UBERON_0007622	pecten oculi
+UBERON_0000970	eye	UBERON_0007625	pigment epithelium of eye
+UBERON_0000970	eye	UBERON_0007804	sclerotic ring
+UBERON_0000970	eye	UBERON_0008921	substratum of layer of retina
+UBERON_0000970	eye	UBERON_0008922	sublaminar layer S1
+UBERON_0000970	eye	UBERON_0008923	sublaminar layer S2
+UBERON_0000970	eye	UBERON_0008924	sublaminar layer S3
+UBERON_0000970	eye	UBERON_0008925	sublaminar layer S4
+UBERON_0000970	eye	UBERON_0008926	sublaminar layer S5
+UBERON_0000970	eye	UBERON_0008927	sublaminar layers S1 or S2
+UBERON_0000970	eye	UBERON_0008928	sublaminar layers S2 or S3
+UBERON_0000970	eye	UBERON_0008929	sublaminar layers S4 or S5
+UBERON_0000970	eye	UBERON_0009016	ciliary stroma
+UBERON_0000970	eye	UBERON_0009648	eyelid subcutaneous connective tissue
+UBERON_0000970	eye	UBERON_0009731	sublaminar layers S3 or S4
+UBERON_0000970	eye	UBERON_0009732	sublaminar layers S1 or S2 or S5
+UBERON_0000970	eye	UBERON_0009733	sublaminar layers S1 or S2 or S3
+UBERON_0000970	eye	UBERON_0009734	sublaminar layers S2 or S3 or S4
+UBERON_0000970	eye	UBERON_0009735	sublaminar layers S1 or S3 or S4
+UBERON_0000970	eye	UBERON_0009736	sublaminar layers S3 or S4 or S5
+UBERON_0000970	eye	UBERON_0009737	sublaminar layers S1 or S2 or S3 or S4
+UBERON_0000970	eye	UBERON_0009738	border of sublaminar layers S1 and S2
+UBERON_0000970	eye	UBERON_0009739	border of sublaminar layers S3 and S4
+UBERON_0000970	eye	UBERON_0009740	border between sublaminar layers
+UBERON_0000970	eye	UBERON_0009851	border of sublaminar layers S4 and S5
+UBERON_0000970	eye	UBERON_0009852	border of sublaminar layers S2 and S3
+UBERON_0000970	eye	UBERON_0010078	optic choroid vascular plexus
+UBERON_0000970	eye	UBERON_0010207	nictitating membrane
+UBERON_0000970	eye	UBERON_0010209	plica semilunaris of conjunctiva
+UBERON_0000970	eye	UBERON_0010223	left pupil
+UBERON_0000970	eye	UBERON_0010224	right pupil
+UBERON_0000970	eye	UBERON_0010230	eyeball of camera-type eye
+UBERON_0000970	eye	UBERON_0010244	choroid tapetum lucidum
+UBERON_0000970	eye	UBERON_0010245	retinal tapetum lucidum
+UBERON_0000970	eye	UBERON_0010246	choroidal guanine tapetum
+UBERON_0000970	eye	UBERON_0010247	choroidal tapetum cellulosum
+UBERON_0000970	eye	UBERON_0010248	choroidal tapetum fibrosum
+UBERON_0000970	eye	UBERON_0010271	musculus retractor bulbi
+UBERON_0000970	eye	UBERON_0010284	lacrimal punctum
+UBERON_0000970	eye	UBERON_0010289	scleral cartilage
+UBERON_0000970	eye	UBERON_0010290	scleral ossicle
+UBERON_0000970	eye	UBERON_0010291	layer of sclera
+UBERON_0000970	eye	UBERON_0010292	episcleral layer of eyeball
+UBERON_0000970	eye	UBERON_0010293	suprachoroid lamina
+UBERON_0000970	eye	UBERON_0010294	scleral endothelium
+UBERON_0000970	eye	UBERON_0010295	substantia propria of sclera
+UBERON_0000970	eye	UBERON_0010296	scleral skeletal element
+UBERON_0000970	eye	UBERON_0010297	endochondral scleral ossicle
+UBERON_0000970	eye	UBERON_0010298	intramembranous scleral ossicle
+UBERON_0000970	eye	UBERON_0010305	subdivision of conjunctiva
+UBERON_0000970	eye	UBERON_0010306	bulbar conjunctiva
+UBERON_0000970	eye	UBERON_0010307	conjunctival fornix
+UBERON_0000970	eye	UBERON_0010308	os opticus
+UBERON_0000970	eye	UBERON_0010309	palpebral bone
+UBERON_0000970	eye	UBERON_0010310	nictitating membrane lamina
+UBERON_0000970	eye	UBERON_0010311	scleral sesamoid bone
+UBERON_0000970	eye	UBERON_0010330	eyelid mesenchyme
+UBERON_0000970	eye	UBERON_0010366	conjunctival vasculature
+UBERON_0000970	eye	UBERON_0010367	conjunctival vein
+UBERON_0000970	eye	UBERON_0010379	superior tarsal muscle
+UBERON_0000970	eye	UBERON_0010409	ocular surface region
+UBERON_0000970	eye	UBERON_0010427	ciliary processes
+UBERON_0000970	eye	UBERON_0010515	brille
+UBERON_0000970	eye	UBERON_0011186	Krause's gland
+UBERON_0000970	eye	UBERON_0011221	ora serrata of retina
+UBERON_0000970	eye	UBERON_0011222	intra-ocular muscle
+UBERON_0000970	eye	UBERON_0011857	acinus of lacrimal gland
+UBERON_0000970	eye	UBERON_0011865	corneal stroma collagen fibril
+UBERON_0000970	eye	UBERON_0011892	anterior uvea
+UBERON_0000970	eye	UBERON_0011918	line of Schwalbe
+UBERON_0000970	eye	UBERON_0012430	tunica fibrosa of eyeball
+UBERON_0000970	eye	UBERON_0013120	eyelid submuscular connective tissue
+UBERON_0000970	eye	UBERON_0013224	Ciaccio's gland
+UBERON_0000970	eye	UBERON_0013226	accessory lacrimal gland
+UBERON_0000970	eye	UBERON_0013227	crypt of Henle
+UBERON_0000970	eye	UBERON_0013228	sweat gland of eyelid
+UBERON_0000970	eye	UBERON_0013229	eyelid gland
+UBERON_0000970	eye	UBERON_0013230	nictitans gland
+UBERON_0000970	eye	UBERON_0013231	sebaceous gland of eyelid
+UBERON_0000970	eye	UBERON_0013397	stratum argenteum of choroid
+UBERON_0000970	eye	UBERON_0013398	choroidal gland
+UBERON_0000970	eye	UBERON_0013399	blood vessel layer of choroid
+UBERON_0000970	eye	UBERON_0013679	inner canthus of right eye
+UBERON_0000970	eye	UBERON_0013680	inner canthus of left eye
+UBERON_0000970	eye	UBERON_0013682	peripheral region of retina
+UBERON_0000970	eye	UBERON_0013766	epicanthal fold
+UBERON_0000970	eye	UBERON_0014698	lacrimal caruncle
+UBERON_0000970	eye	UBERON_0015120	right outer canthus
+UBERON_0000970	eye	UBERON_0015121	left outer canthus
+UBERON_0000970	eye	UBERON_0015151	Harderian gland duct
+UBERON_0000970	eye	UBERON_0015155	conjunctival space
+UBERON_0000970	eye	UBERON_0015165	multi-unit eye
+UBERON_0000970	eye	UBERON_0015169	tapetum
+UBERON_0000970	eye	UBERON_0015170	nauplius eye
+UBERON_0000970	eye	UBERON_0015751	inferior tarsal muscle
+UBERON_0000970	eye	UBERON_0015808	eye epithelium
+UBERON_0000970	eye	UBERON_0016459	posterior pole of lens
+UBERON_0000970	eye	UBERON_0018104	parafoveal part of retina
+UBERON_0000970	eye	UBERON_0018105	perifoveal part of retina
+UBERON_0000970	eye	UBERON_0018107	foveola of retina
+UBERON_0000970	eye	UBERON_0018233	gland of Zeis
+UBERON_0000970	eye	UBERON_0019207	chorioretinal region
+UBERON_0000970	eye	UBERON_0019208	anterior pole of lens
+UBERON_0000970	eye	UBERON_0019210	pole of lens
+UBERON_0000970	eye	UBERON_0019211	supcapsular region of anterior region of lens
+UBERON_0000970	eye	UBERON_0019212	supcapsular region of posterior region of lens
+UBERON_0000970	eye	UBERON_0019254	upper eyelash
+UBERON_0000970	eye	UBERON_0019255	lower eyelash
+UBERON_0000970	eye	UBERON_0019315	meibum
+UBERON_0000970	eye	UBERON_0019324	intraorbital lacrimal gland
+UBERON_0000970	eye	UBERON_0019325	exorbital lacrimal gland
+UBERON_0000970	eye	UBERON_0022273	lacrimal lake
+UBERON_0000970	eye	UBERON_0022274	lacrimal papilla
+UBERON_0000970	eye	UBERON_0022284	lacrimal gland bud
+UBERON_0000970	eye	UBERON_0022287	tear film
+UBERON_0000970	eye	UBERON_0034772	margin of eyelid
+UBERON_0000970	eye	UBERON_0034935	pars plicata of ciliary body
+UBERON_0000970	eye	UBERON_0034936	pars plana of ciliary body
+UBERON_0000970	eye	UBERON_0035034	eyelid epithelium
+UBERON_0000970	eye	UBERON_0035966	scleral lamina cribrosa
+UBERON_0000970	eye	UBERON_0036167	Sattler's layer
+UBERON_0000970	eye	UBERON_0036168	Haller's layer
+UBERON_0000970	eye	UBERON_2001432	anterior sclerotic bone
+UBERON_0000970	eye	UBERON_2001433	posterior sclerotic bone
+UBERON_0000970	eye	UBERON_2005054	inner optic circle
+UBERON_0000970	eye	UBERON_3010079	upper eyelid protuberances
+UBERON_0000970	eye	UBERON_3010125	musculus levator bulbi
+UBERON_0000970	eye	UBERON_4300005	aphakic space
+UBERON_0000970	eye	UBERON_6005805	Bolwig organ
 UBERON_0000977	pleura	UBERON_0000977	pleura
 UBERON_0000977	pleura	UBERON_0002400	parietal pleura
 UBERON_0000977	pleura	UBERON_0002401	visceral pleura
