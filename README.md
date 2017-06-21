@@ -5,7 +5,7 @@ Aggregated information about the (Expression Atlas)[www.ebi.ac.uk/gxa] dataset.
 #### Requires:
   `make`
   [jq](https://stedolan.github.io/jq/download/)
-  [ammonite](ammonite.io)
+  [ammonite](http://ammonite.io)
 
 ### Setup
 Add an environmental variable ATLAS_EXPS to wherever you have Expression Atlas experiments.
@@ -24,10 +24,11 @@ We curate a list of anatomical systems and organs in human.
 - Commit and run something like `git diff HEAD~ HEAD out/anatomical_systems.txt` to see the changes look like they can be attributed to progress of science and not bad code
 - Push the new files to repo
 - On the cluster, do something like
-```
-curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/anatomical_systems.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/anatomical_systems.txt
-curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/organs.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/organs.txt
-```
+	```
+	curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/anatomical_systems.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/anatomical_systems.txt
+	curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/organs.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/organs.txt
+	```
+
 This workflow could be made more convenient.
 
 #### Curation workflow
