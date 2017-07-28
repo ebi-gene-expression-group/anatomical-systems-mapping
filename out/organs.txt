@@ -1,4 +1,4 @@
-#organ id 	 organ name 	 tissue id 	 tissue name 
+#organ id	organ name	tissue id	tissue name
 UBERON_0000020	sense organ	UBERON_0000004	nose
 UBERON_0000020	sense organ	UBERON_0000004	olfactory apparatus
 UBERON_0000020	sense organ	UBERON_0000005	chemosensory organ

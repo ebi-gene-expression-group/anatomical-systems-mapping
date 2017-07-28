@@ -1,4 +1,4 @@
-#system id 	 system name 	 tissue id 	 tissue name 
+#system id	system name	tissue id	tissue name
 UBERON_0000060	anatomical wall	UBERON_0003688	omentum
 UBERON_0000060	anatomical wall	UBERON_0005448	greater omentum
 UBERON_0000061	anatomical structure	UBERON_0000922	embryo
@@ -13264,6 +13264,7 @@ UBERON_0002416	integumental system	UBERON_0000964	cornea
 UBERON_0002416	integumental system	UBERON_0001001	chitin-based cuticle
 UBERON_0002416	integumental system	UBERON_0001003	epidermis
 UBERON_0002416	integumental system	UBERON_0001003	skin epidermis
+UBERON_0002416	integumental system	UBERON_0001013	adipose tissue
 UBERON_0002416	integumental system	UBERON_0001037	strand of hair
 UBERON_0002416	integumental system	UBERON_0001068	skin of back
 UBERON_0002416	integumental system	UBERON_0001084	skin of head
@@ -14027,7 +14028,6 @@ UBERON_0002416	integumental system	UBERON_6007284	insect region of integument
 UBERON_0002416	integumental system	UBERON_6007285	segmental subdivision of integument
 UBERON_0002416	integumental system	UBERON_6007288	insect integumentary specialisation
 UBERON_0002416	integumental system	UBERON_6007289	tagmatic subdivision of integument
-UBERON_0002416	integumental system 	UBERON_0001013	adipose tissue
 UBERON_0002465	lymphoid system	CL_0000084	CD4-positive T cell
 UBERON_0002465	lymphoid system	CL_0000084	CD8-positive T cell
 UBERON_0002465	lymphoid system	CL_0000236	B cell
