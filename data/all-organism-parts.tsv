@@ -158,6 +158,9 @@ E-GEOD-36765	lymph node	http://purl.obolibrary.org/obo/UBERON_0000029
 E-GEOD-36765	peripheral blood	http://purl.obolibrary.org/obo/UBERON_0000178
 E-GEOD-36789	leaf	http://purl.obolibrary.org/obo/PO_0025034
 E-GEOD-36789	root	http://purl.obolibrary.org/obo/PO_0009005
+E-GEOD-36980	frontal cortex	http://purl.obolibrary.org/obo/UBERON_0001870
+E-GEOD-36980	hippocampus	http://purl.obolibrary.org/obo/UBERON_0002421
+E-GEOD-36980	temporal cortex
 E-GEOD-3822	metanephric mesenchyme	http://purl.obolibrary.org/obo/UBERON_0003220
 E-GEOD-3822	ureteric bud	http://purl.obolibrary.org/obo/UBERON_0000084
 E-GEOD-38612	flower	http://purl.obolibrary.org/obo/PO_0009046
@@ -217,7 +220,7 @@ E-GEOD-4494	hippocampus	http://purl.obolibrary.org/obo/UBERON_0002421
 E-GEOD-45278	dentate gyrus of hippocampal formation	http://purl.obolibrary.org/obo/UBERON_0001885
 E-GEOD-45278	olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0002264
 E-GEOD-45278	striatum	http://purl.obolibrary.org/obo/UBERON_0002435
-E-GEOD-45278	subventricular zone	http://purl.obolibrary.org/obo/UBERON_0004922
+E-GEOD-45278	subventricular zone
 E-GEOD-46686	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
 E-GEOD-46686	brain	http://purl.obolibrary.org/obo/UBERON_0000955
 E-GEOD-46858	articular cartilage	http://purl.obolibrary.org/obo/UBERON_0010996
@@ -237,6 +240,10 @@ E-GEOD-47577	Fibroid	http://www.ebi.ac.uk/efo/EFO_0000731
 E-GEOD-47577	myometrium	http://purl.obolibrary.org/obo/UBERON_0001296
 E-GEOD-48125	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
 E-GEOD-48125	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-48350	entorhinal cortex	http://purl.obolibrary.org/obo/UBERON_0002728
+E-GEOD-48350	hippocampus	http://purl.obolibrary.org/obo/UBERON_0002421
+E-GEOD-48350	postcentral gyrus	http://purl.obolibrary.org/obo/UBERON_0002581
+E-GEOD-48350	superior frontal gyrus	http://purl.obolibrary.org/obo/UBERON_0002661
 E-GEOD-48549	root	http://purl.obolibrary.org/obo/PO_0009005
 E-GEOD-48549	shoot	http://purl.obolibrary.org/obo/PO_0009006
 E-GEOD-48805	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
@@ -284,6 +291,12 @@ E-GEOD-51786	liver	http://purl.obolibrary.org/obo/UBERON_0002107
 E-GEOD-51786	not specified
 E-GEOD-52298	leaf	http://purl.obolibrary.org/obo/PO_0025034
 E-GEOD-52298	whole organism	http://purl.obolibrary.org/obo/UBERON_0000468
+E-GEOD-5281	entorhinal cortex	http://purl.obolibrary.org/obo/UBERON_0002728
+E-GEOD-5281	hippocampus	http://purl.obolibrary.org/obo/UBERON_0002421
+E-GEOD-5281	middle temporal gyrus	http://purl.obolibrary.org/obo/UBERON_0002771
+E-GEOD-5281	posterior cingulate cortex	http://purl.obolibrary.org/obo/UBERON_0022353
+E-GEOD-5281	primary visual cortex	http://purl.obolibrary.org/obo/UBERON_0002436
+E-GEOD-5281	superior frontal gyrus	http://purl.obolibrary.org/obo/UBERON_0002661
 E-GEOD-52879	seedling	http://purl.obolibrary.org/obo/PO_0007131
 E-GEOD-52879	tassel primordia
 E-GEOD-53105	femur diaphysis	http://purl.obolibrary.org/obo/UBERON_0006862
@@ -466,6 +479,9 @@ E-GEOD-7631	stele	http://purl.obolibrary.org/obo/PO_0025197
 E-GEOD-7631	whole root	http://purl.obolibrary.org/obo/PO_0009005
 E-GEOD-77720	brain	http://purl.obolibrary.org/obo/UBERON_0000955
 E-GEOD-77720	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240
+E-GEOD-78936	Brodmann (1909) area 11	http://purl.obolibrary.org/obo/UBERON_0013528
+E-GEOD-78936	Brodmann (1909) area 24	http://purl.obolibrary.org/obo/UBERON_0006101
+E-GEOD-78936	Brodmann (1909) area 9	http://purl.obolibrary.org/obo/UBERON_0013540
 E-GEOD-9996	root early differentiation region	http://purl.obolibrary.org/obo/PO_0020135
 E-GEOD-9996	root meristematic region	http://purl.obolibrary.org/obo/PO_0006085
 E-GEOD-9996	root promeristem and cap	http://purl.obolibrary.org/obo/PO_0020147
@@ -493,7 +509,7 @@ E-MEXP-1778	lymph node	http://purl.obolibrary.org/obo/UBERON_0000029
 E-MEXP-1778	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
 E-MEXP-1921	capitellum	http://purl.obolibrary.org/obo/FBbt_00004784
 E-MEXP-1921	neuronal	http://purl.obolibrary.org/obo/CL_0000540
-E-MEXP-1921	pedicel
+E-MEXP-1921	pedicel	http://purl.obolibrary.org/obo/UBERON_3000692
 E-MEXP-1993	epididymal fat	http://purl.obolibrary.org/obo/UBERON_0010412
 E-MEXP-1993	retroperitoneal fat	http://purl.obolibrary.org/obo/UBERON_0010411
 E-MEXP-2311	internode	http://purl.obolibrary.org/obo/PO_0020142
@@ -833,7 +849,7 @@ E-MTAB-3579	tongue	http://purl.obolibrary.org/obo/UBERON_0001723
 E-MTAB-3579	urinary bladder	http://purl.obolibrary.org/obo/UBERON_0001255
 E-MTAB-3579	uterus	http://purl.obolibrary.org/obo/UBERON_0000995
 E-MTAB-3579	vagina	http://purl.obolibrary.org/obo/UBERON_0000996
-E-MTAB-3579	vesicular gland	http://purl.obolibrary.org/obo/UBERON_0000998
+E-MTAB-3579	vesicular gland	http://purl.obolibrary.org/obo/UBERON_0007194
 E-MTAB-3579	whole body
 E-MTAB-3579	whole organism	http://purl.obolibrary.org/obo/UBERON_0000468
 E-MTAB-3579	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014
@@ -1219,6 +1235,8 @@ E-MTAB-4840	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240
 E-MTAB-4840	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
 E-MTAB-4840	telencephalon	http://purl.obolibrary.org/obo/UBERON_0001893
 E-MTAB-4840	temporal lobe	http://purl.obolibrary.org/obo/UBERON_0001871
+E-MTAB-5037	root	http://purl.obolibrary.org/obo/PO_0009005
+E-MTAB-5037	shoot	http://purl.obolibrary.org/obo/PO_0009006
 E-MTAB-5066	distal leaf abscission zone
 E-MTAB-5066	petiole without abscission zone
 E-MTAB-5072	flower bud	http://purl.obolibrary.org/obo/PO_0000056
@@ -1352,6 +1370,49 @@ E-MTAB-552	tuber sprout	http://purl.obolibrary.org/obo/PO_0025081
 E-MTAB-552	water-stressed leaf
 E-MTAB-552	whole in vitro plant
 E-MTAB-552	young tuber	http://purl.obolibrary.org/obo/PO_0025522
+E-MTAB-5540	root	http://purl.obolibrary.org/obo/PO_0009005
+E-MTAB-5540	stem xylem
+E-MTAB-5540	vascular leaf	http://purl.obolibrary.org/obo/PO_0009025
+E-MTAB-5555	bone	http://purl.obolibrary.org/obo/UBERON_0002481
+E-MTAB-5555	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-MTAB-5891	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-5891	root	http://purl.obolibrary.org/obo/PO_0009005
+E-MTAB-5895	alveolus of lung	http://purl.obolibrary.org/obo/UBERON_0002299
+E-MTAB-5895	amygdala	http://purl.obolibrary.org/obo/UBERON_0001876
+E-MTAB-5895	brainstem	http://purl.obolibrary.org/obo/UBERON_0002298
+E-MTAB-5895	caecum	http://purl.obolibrary.org/obo/UBERON_0001153
+E-MTAB-5895	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037
+E-MTAB-5895	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-5895	corpus callosum	http://purl.obolibrary.org/obo/UBERON_0002336
+E-MTAB-5895	cortex of kidney	http://purl.obolibrary.org/obo/UBERON_0001225
+E-MTAB-5895	dorsal plus ventral thalamus	http://purl.obolibrary.org/obo/UBERON_0001897
+E-MTAB-5895	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-5895	epididymis	http://purl.obolibrary.org/obo/UBERON_0001301
+E-MTAB-5895	frontal cortex	http://purl.obolibrary.org/obo/UBERON_0001870
+E-MTAB-5895	heart left ventricle	http://purl.obolibrary.org/obo/UBERON_0002084
+E-MTAB-5895	hippocampal formation	http://purl.obolibrary.org/obo/UBERON_0002421
+E-MTAB-5895	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-5895	medulla oblongata	http://purl.obolibrary.org/obo/UBERON_0001896
+E-MTAB-5895	mesenteric lymph node	http://purl.obolibrary.org/obo/UBERON_0002509
+E-MTAB-5895	occipital cortex	http://purl.obolibrary.org/obo/UBERON_0016540
+E-MTAB-5895	omentum	http://purl.obolibrary.org/obo/UBERON_0003688
+E-MTAB-5895	penis	http://purl.obolibrary.org/obo/UBERON_0000989
+E-MTAB-5895	pituitary gland	http://purl.obolibrary.org/obo/UBERON_0000007
+E-MTAB-5895	pons	http://purl.obolibrary.org/obo/UBERON_0000988
+E-MTAB-5895	skeletal muscle tissue	http://purl.obolibrary.org/obo/UBERON_0001134
+E-MTAB-5895	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+E-MTAB-5895	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-MTAB-5895	tonsil	http://purl.obolibrary.org/obo/UBERON_0002372
+E-MTAB-5895	uterus	http://purl.obolibrary.org/obo/UBERON_0000995
+E-MTAB-5898	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-5898	root	http://purl.obolibrary.org/obo/PO_0009005
+E-MTAB-5933	buccal mucosa	http://purl.obolibrary.org/obo/UBERON_0006956
+E-MTAB-5933	gingiva	http://purl.obolibrary.org/obo/UBERON_0001828
+E-MTAB-5933	hard palate	http://purl.obolibrary.org/obo/UBERON_0003216
+E-MTAB-5933	mouth floor	http://purl.obolibrary.org/obo/UBERON_0003679
+E-MTAB-5933	tongue	http://purl.obolibrary.org/obo/UBERON_0001723
+E-MTAB-5954	eye disc	http://purl.obolibrary.org/obo/FBbt_00001768
+E-MTAB-5954	retina	http://purl.obolibrary.org/obo/UBERON_0000966
 E-MTAB-599	heart	http://purl.obolibrary.org/obo/UBERON_0000948
 E-MTAB-599	hippocampal formation	http://purl.obolibrary.org/obo/UBERON_0002421
 E-MTAB-599	liver	http://purl.obolibrary.org/obo/UBERON_0002107
@@ -1365,6 +1426,57 @@ E-MTAB-964	plant ovary	http://purl.obolibrary.org/obo/PO_0009072
 E-MTAB-964	pollen	http://purl.obolibrary.org/obo/PO_0025281
 E-MTAB-964	style	http://purl.obolibrary.org/obo/PO_0009074
 E-MTAB-964	whole organism	http://purl.obolibrary.org/obo/UBERON_0000468
+E-PROT-10	muscle of leg	http://purl.obolibrary.org/obo/UBERON_0001383
+E-PROT-10	triceps brachii	http://purl.obolibrary.org/obo/UBERON_0001509
+E-PROT-11	adrenal gland	http://purl.obolibrary.org/obo/UBERON_0002369
+E-PROT-11	brown adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001348
+E-PROT-11	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037
+E-PROT-11	cerebral cortex	http://purl.obolibrary.org/obo/UBERON_0000956
+E-PROT-11	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-PROT-11	cortex of kidney	http://purl.obolibrary.org/obo/UBERON_0001225
+E-PROT-11	diaphragm	http://purl.obolibrary.org/obo/UBERON_0001103
+E-PROT-11	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-PROT-11	embryonic tissue
+E-PROT-11	eye	http://purl.obolibrary.org/obo/UBERON_0000970
+E-PROT-11	heart	http://purl.obolibrary.org/obo/UBERON_0000948
+E-PROT-11	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-PROT-11	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-PROT-11	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-PROT-11	medulla oblongata	http://purl.obolibrary.org/obo/UBERON_0001896
+E-PROT-11	midbrain	http://purl.obolibrary.org/obo/UBERON_0001891
+E-PROT-11	olfactory bulb	http://purl.obolibrary.org/obo/UBERON_0002264
+E-PROT-11	ovary	http://purl.obolibrary.org/obo/UBERON_0000992
+E-PROT-11	pancreas	http://purl.obolibrary.org/obo/UBERON_0001264
+E-PROT-11	renal medulla	http://purl.obolibrary.org/obo/UBERON_0000362
+E-PROT-11	saliva-secreting gland	http://purl.obolibrary.org/obo/UBERON_0001044
+E-PROT-11	skeletal muscle	http://purl.obolibrary.org/obo/UBERON_0001134
+E-PROT-11	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+E-PROT-11	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-PROT-11	thymus	http://purl.obolibrary.org/obo/UBERON_0002370
+E-PROT-11	uterus	http://purl.obolibrary.org/obo/UBERON_0000995
+E-PROT-11	white adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001347
+E-PROT-12	brain	http://purl.obolibrary.org/obo/UBERON_0000955
+E-PROT-12	embryo	http://purl.obolibrary.org/obo/UBERON_0000922
+E-PROT-12	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-PROT-12	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240
+E-PROT-13	brain	http://purl.obolibrary.org/obo/UBERON_0000955
+E-PROT-13	brown adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001348
+E-PROT-13	heart	http://purl.obolibrary.org/obo/UBERON_0000948
+E-PROT-13	kidney	http://purl.obolibrary.org/obo/UBERON_0002113
+E-PROT-13	ling
+E-PROT-13	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-PROT-13	pancreas	http://purl.obolibrary.org/obo/UBERON_0001264
+E-PROT-13	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+E-PROT-13	testis	http://purl.obolibrary.org/obo/UBERON_0000473
+E-PROT-15	aorta	http://purl.obolibrary.org/obo/UBERON_0000947
+E-PROT-15	blood plasma
+E-PROT-15	heart	http://purl.obolibrary.org/obo/UBERON_0000948
+E-PROT-15	kidney	http://purl.obolibrary.org/obo/UBERON_0002113
+E-PROT-15	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-PROT-15	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-PROT-15	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+E-PROT-16	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037
+E-PROT-16	liver	http://purl.obolibrary.org/obo/UBERON_0002107
 E-PROT-1	adrenal gland	http://purl.obolibrary.org/obo/UBERON_0002369
 E-PROT-1	B cell	http://purl.obolibrary.org/obo/CL_0000236
 E-PROT-1	brain	http://purl.obolibrary.org/obo/UBERON_0000955
@@ -1435,5 +1547,11 @@ E-PROT-3	urinary bladder	http://purl.obolibrary.org/obo/UBERON_0001255
 E-PROT-3	vagina	http://purl.obolibrary.org/obo/UBERON_0000996
 E-PROT-3	vermiform appendix	http://purl.obolibrary.org/obo/UBERON_0001154
 E-PROT-3	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014
+E-PROT-7	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-PROT-7	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-PROT-8	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037
+E-PROT-8	embryo	http://purl.obolibrary.org/obo/UBERON_0000922
+E-PROT-8	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-PROT-8	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240
 E-TABM-865	liver	http://purl.obolibrary.org/obo/UBERON_0002107
 E-TABM-865	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
