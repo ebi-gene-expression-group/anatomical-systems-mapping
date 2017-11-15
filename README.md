@@ -13,23 +13,20 @@ Add an environmental variable ATLAS_EXPS to wherever you have Expression Atlas e
 export ATLAS_EXPS=~/ATLAS3.TEST/integration-test-data/magetab/
 ```
 
-
 ## Anatomical systems and organs mapping from OLS
 
 We curate a list of anatomical systems and organs in human.
 
 #### Expression Atlas per-release workflow
-- `make data/all-organism-parts.tsv && git commit -m "New organism part stats"` if any human baseline organism part experiments added and we want to have up-to-date aggregation of unmapped ids
 - `make clean && make`
 - Commit and run something like `git diff HEAD~ HEAD out/anatomical_systems.txt` to see the changes look like they can be attributed to progress of science and not bad code
-- Push the new files to repo
+- If the changes look incorrect or there were errors, delete the bad files and `make` again
+- Push the new files to repository
 - On the cluster, do something like
 	```
 	curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/anatomical_systems.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/anatomical_systems.txt
 	curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/organs.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/organs.txt
 	```
-
-This workflow could be made more convenient.
 
 #### Curation workflow
 The files to curate are **curated/anatomical_systems/ids.tsv** and  **curated/organs/ids.tsv** .

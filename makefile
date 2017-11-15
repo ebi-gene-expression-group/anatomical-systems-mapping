@@ -1,16 +1,8 @@
-all: out/ontology_ids_per_experiment.tsv out/ontology_ids_per_experiment-human-baseline.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv
+all: out/ontology_ids_per_human_baseline_experiment.tsv out/ontology_ids_per_experiment-human-baseline.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv
 
-data/all-organism-parts.tsv.unsorted:
-	find -L "${ATLAS_EXPS}" -maxdepth 2 -name '*condensed-sdrf.tsv' \
-		| xargs -n 1 grep "factor[[:space:]]organism part" \
-		| cut -f 1,6,7 > data/all-organism-parts.tsv.unsorted
-		
-data/all-organism-parts.tsv: data/all-organism-parts.tsv.unsorted
-		 sort -u data/all-organism-parts.tsv.unsorted -o data/all-organism-parts.tsv
-
-out/ontology_ids_per_experiment.tsv: data/all-organism-parts.tsv
-	amm -s src/JoinByThirdColumn.sc data/all-organism-parts.tsv \
-		> out/ontology_ids_per_experiment.tsv
+out/ontology_ids_per_human_baseline_experiment.tsv: data/all-organism-parts-human-baseline.tsv
+	amm -s src/JoinByThirdColumn.sc data/all-organism-parts-human-baseline.tsv \
+		> out/ontology_ids_per_human_baseline_experiment.tsv
 
 data/all-public-human-baseline-experiments.txt:
 	curl 'https://www.ebi.ac.uk/gxa/json/experiments' \
@@ -18,9 +10,11 @@ data/all-public-human-baseline-experiments.txt:
 		| sort \
 		> data/all-public-human-baseline-experiments.txt
 
-data/all-organism-parts-human-baseline.tsv: data/all-organism-parts.tsv data/all-public-human-baseline-experiments.txt
-	join -o '1.1 1.2 1.3' -t '	' -1 1 -2 1 data/all-organism-parts.tsv data/all-public-human-baseline-experiments.txt \
-	> data/all-organism-parts-human-baseline.tsv
+data/all-organism-parts-human-baseline.tsv: data/all-public-human-baseline-experiments.txt
+	cat data/all-public-human-baseline-experiments.txt | while read -r experimentAccession ; do
+		grep "factor[[:space:]]organism part" "${ATLAS_EXPS}/$experimentAccession/$experimentAccession.condensed-sdrf.tsv" \
+		| cut -f 1,6,7
+	done > data/all-organism-parts-human-baseline.tsv
 
 out/ontology_ids_per_experiment-human-baseline.tsv: data/all-organism-parts-human-baseline.tsv
 	amm -s src/JoinByThirdColumn.sc data/all-organism-parts-human-baseline.tsv \
@@ -50,7 +44,8 @@ out/curation/anatomical_systems_unmapped_ids.tsv: data/anatomical_systems_mapped
 	> out/curation/anatomical_systems_unmapped_ids.tsv
 
 
-### s/anatomical_systems/organs/g
+### organs specific
+### Keep it in sync with above! s/anatomical_systems/organs/g
 data/organs_ids.tsv: curated/organs/ids.tsv
 	cut -f 1 curated/organs/ids.tsv \
 		| xargs src/hierarchical_descendants.sh \
@@ -65,7 +60,6 @@ out/organs.txt: curated/organs/ids.tsv curated/organs/atlas_extra_mappings.tsv c
 		> out/organs.txt
 	rm data/organs.txt.tmp
 
-
 data/organs_mapped_ids.txt: out/organs.txt
 	cut -f 3 out/organs.txt | sort -u > data/organs_mapped_ids.txt
 
@@ -79,6 +73,6 @@ out/curation/organs_unmapped_ids.tsv: data/organs_mapped_ids.txt out/ontology_id
 
 clean:
 	rm -rf data/*
-	git checkout data
 	rm -rf out/*
-	mkdir out/curation
+	mkdir -p data
+	mkdir -p out/curation
