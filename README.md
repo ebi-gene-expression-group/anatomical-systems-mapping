@@ -3,15 +3,19 @@ Aggregated information about the (Expression Atlas)[www.ebi.ac.uk/gxa] dataset.
 (Get the dataset here)[http://www.ebi.ac.uk/gxa/download.html]
 
 #### Requires:
-  `make`
-  [jq](https://stedolan.github.io/jq/download/)
-  [ammonite](http://ammonite.io)
+- Unix utilities, like `cut`, `join`, `sort` - tested on OSX and RHEL6
+- `make`
+- [jq](https://stedolan.github.io/jq/download/)
+- [ammonite](http://ammonite.io)
 
 ### Setup
 Add an environmental variable ATLAS_EXPS to wherever you have Expression Atlas experiments.
 ```
 export ATLAS_EXPS=~/ATLAS3.TEST/integration-test-data/magetab/
 ```
+
+### Setup - Expression Atlas team
+The production user `fg_atlas` will already have these programs and the right environmental variable
 
 ## Anatomical systems and organs mapping from OLS
 
