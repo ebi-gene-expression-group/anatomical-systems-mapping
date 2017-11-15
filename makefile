@@ -4,7 +4,8 @@ data/all-organism-parts.tsv.unsorted:
 	find -L "${ATLAS_EXPS}" -maxdepth 2 -name '*condensed-sdrf.tsv' \
 		| xargs -n 1 grep "factor[[:space:]]organism part" \
 		| cut -f 1,6,7 > data/all-organism-parts.tsv.unsorted
-data/all-organism-parts.tsv:
+		
+data/all-organism-parts.tsv: data/all-organism-parts.tsv.unsorted
 		 sort -u data/all-organism-parts.tsv.unsorted -o data/all-organism-parts.tsv
 
 out/ontology_ids_per_experiment.tsv: data/all-organism-parts.tsv
