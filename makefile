@@ -14,6 +14,7 @@ data/all-organism-parts-human-baseline.tsv: data/all-public-human-baseline-exper
 	cat data/all-public-human-baseline-experiments.txt \
 	| xargs -I {} grep "factor[[:space:]]organism part" "${ATLAS_EXPS}/{}/{}.condensed-sdrf.tsv" \
 	| cut -f 1,6,7 \
+	| sort -u \
 	> data/all-organism-parts-human-baseline.tsv
 
 out/ontology_ids_per_experiment-human-baseline.tsv: data/all-organism-parts-human-baseline.tsv
