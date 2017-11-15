@@ -11,10 +11,10 @@ data/all-public-human-baseline-experiments.txt:
 		> data/all-public-human-baseline-experiments.txt
 
 data/all-organism-parts-human-baseline.tsv: data/all-public-human-baseline-experiments.txt
-	cat data/all-public-human-baseline-experiments.txt | while read -r experimentAccession ; do
-		grep "factor[[:space:]]organism part" "${ATLAS_EXPS}/$experimentAccession/$experimentAccession.condensed-sdrf.tsv" \
-		| cut -f 1,6,7
-	done > data/all-organism-parts-human-baseline.tsv
+	cat data/all-public-human-baseline-experiments.txt \
+	| xargs -I {} grep "factor[[:space:]]organism part" "${ATLAS_EXPS}/{}/{}.condensed-sdrf.tsv" \
+	| cut -f 1,6,7 \
+	> data/all-organism-parts-human-baseline.tsv
 
 out/ontology_ids_per_experiment-human-baseline.tsv: data/all-organism-parts-human-baseline.tsv
 	amm -s src/JoinByThirdColumn.sc data/all-organism-parts-human-baseline.tsv \
