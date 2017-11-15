@@ -6,7 +6,7 @@ ols_url(){
   what="$1"
   uberon_id="$2"
   pageParam="${3:+page=$3}"
-  echo "http://www.ebi.ac.uk/ols/api/ontologies/uberon/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252F$uberon_id/$what?size=$PAGE_SIZE&$pageParam"
+  echo "https://www.ebi.ac.uk/ols/api/ontologies/uberon/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252F$uberon_id/$what?size=$PAGE_SIZE&$pageParam"
 }
 
 get_terms(){
