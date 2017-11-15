@@ -161,7 +161,7 @@ UBERON_0000020	sense organ	UBERON_0002444	lens fiber
 UBERON_0000020	sense organ	UBERON_0002448	fungiform papilla
 UBERON_0000020	sense organ	UBERON_0002467	filiform papilla
 UBERON_0000020	sense organ	UBERON_0002468	foliate papilla
-UBERON_0000020	sense organ	UBERON_0002488	helix
+UBERON_0000020	sense organ	UBERON_0002488	helix of outer ear
 UBERON_0000020	sense organ	UBERON_0002496	stapes base
 UBERON_0000020	sense organ	UBERON_0002499	cochlear labyrinth
 UBERON_0000020	sense organ	UBERON_0002506	iris epithelium
@@ -518,7 +518,6 @@ UBERON_0000020	sense organ	UBERON_0012305	marginal cutaneous pouch of ear
 UBERON_0000020	sense organ	UBERON_0012430	tunica fibrosa of eyeball
 UBERON_0000020	sense organ	UBERON_0013120	eyelid submuscular connective tissue
 UBERON_0000020	sense organ	UBERON_0013174	sigmoid process of tympanic bone
-UBERON_0000020	sense organ	UBERON_0013175	nasal air sac
 UBERON_0000020	sense organ	UBERON_0013190	entotympanic bone
 UBERON_0000020	sense organ	UBERON_0013208	Grueneberg ganglion
 UBERON_0000020	sense organ	UBERON_0013211	cerumen gland
@@ -668,6 +667,10 @@ UBERON_0000020	sense organ	UBERON_0035964	promontory of tympanic cavity
 UBERON_0000020	sense organ	UBERON_0035966	scleral lamina cribrosa
 UBERON_0000020	sense organ	UBERON_0036167	Sattler's layer
 UBERON_0000020	sense organ	UBERON_0036168	Haller's layer
+UBERON_0000020	sense organ	UBERON_0036212	intertragic incisure
+UBERON_0000020	sense organ	UBERON_0036249	zona pectinata of basilar membrane of cochlea
+UBERON_0000020	sense organ	UBERON_0036250	zone of basilar membrane of cochlea
+UBERON_0000020	sense organ	UBERON_0036254	piriform aperture
 UBERON_0000020	sense organ	UBERON_1000004	collection of hair on external ear
 UBERON_0000020	sense organ	UBERON_1000005	external ear margin
 UBERON_0000020	sense organ	UBERON_1000012	nose anterior margin
@@ -801,7 +804,7 @@ UBERON_0000020	sense organ	UBERON_3010728	otic opercular element
 UBERON_0000020	sense organ	UBERON_3010827	anterior prenasal cartilage
 UBERON_0000020	sense organ	UBERON_4300005	aphakic space
 UBERON_0000020	sense organ	UBERON_4300126	tectorial restraint system
-UBERON_0000020	sense organ	UBERON_6002639	embryonic/larval sense organ
+UBERON_0000020	sense organ	UBERON_6002639	larval sense organ
 UBERON_0000020	sense organ	UBERON_6002642	embryonic/larval ocular segment sensillum
 UBERON_0000020	sense organ	UBERON_6005168	external sensory organ
 UBERON_0000020	sense organ	UBERON_6005177	chaeta
@@ -998,6 +1001,7 @@ UBERON_0000167	oral cavity	UBERON_0000167	oral cavity
 UBERON_0000178	blood	CL_0000233	platelet
 UBERON_0000178	blood	UBERON_0000178	blood
 UBERON_0000178	blood	UBERON_0001969	blood plasma
+UBERON_0000178	blood	UBERON_0001977	blood serum
 UBERON_0000178	blood	UBERON_0012168	umbilical cord blood
 UBERON_0000178	blood	UBERON_0013755	arterial blood
 UBERON_0000178	blood	UBERON_0013756	venous blood
@@ -1177,6 +1181,7 @@ UBERON_0000344	mucosa	UBERON_0005046	mucosa of hard palate
 UBERON_0000344	mucosa	UBERON_0005047	mucosa of vocal fold
 UBERON_0000344	mucosa	UBERON_0005048	mucosa of uterine tube
 UBERON_0000344	mucosa	UBERON_0005049	mucosa of infundibulum of uterine tube
+UBERON_0000344	mucosa	UBERON_0005205	lamina propria of vagina
 UBERON_0000344	mucosa	UBERON_0005334	oral lamina propria
 UBERON_0000344	mucosa	UBERON_0005384	nasal cavity epithelium
 UBERON_0000344	mucosa	UBERON_0005385	nasal cavity respiratory epithelium
@@ -1444,6 +1449,7 @@ UBERON_0000922	embryo	UBERON_0003856	uncondensed odontogenic mesenchyme
 UBERON_0000922	embryo	UBERON_0003857	upper eyelid mesenchyme
 UBERON_0000922	embryo	UBERON_0003858	lower eyelid mesenchyme
 UBERON_0000922	embryo	UBERON_0003869	presumptive ganglion
+UBERON_0000922	embryo	UBERON_0003886	future coelemic cavity lumen
 UBERON_0000922	embryo	UBERON_0003887	intraembryonic coelom
 UBERON_0000922	embryo	UBERON_0003894	liver primordium
 UBERON_0000922	embryo	UBERON_0003907	left atrioventricular canal
@@ -2041,6 +2047,7 @@ UBERON_0000922	embryo	UBERON_0013244	vaginal plate
 UBERON_0000922	embryo	UBERON_0013245	sinovaginal bulb
 UBERON_0000922	embryo	UBERON_0013499	glossopharyngeal-vagus IX-X preganglion complex
 UBERON_0000922	embryo	UBERON_0013502	5th arch mesenchyme
+UBERON_0000922	embryo	UBERON_0013526	otocyst lumen
 UBERON_0000922	embryo	UBERON_0014371	future telencephalon
 UBERON_0000922	embryo	UBERON_0014374	embryoid body
 UBERON_0000922	embryo	UBERON_0014702	frontonasal process epithelium
@@ -2105,6 +2112,8 @@ UBERON_0000922	embryo	UBERON_0036066	inferior endocardial cushion
 UBERON_0000922	embryo	UBERON_0036067	superior endocardial cushion
 UBERON_0000922	embryo	UBERON_0036069	tracheoesophageal fold
 UBERON_0000922	embryo	UBERON_0036146	cardiopharyngeal field
+UBERON_0000922	embryo	UBERON_0036256	iliac lymph sac
+UBERON_0000922	embryo	UBERON_0036260	embryonic cisterna chyli
 UBERON_0000922	embryo	UBERON_2000000	Brachet's cleft
 UBERON_0000922	embryo	UBERON_2000001	Kupffer's vesicle
 UBERON_0000922	embryo	UBERON_2000004	anterior axial hypoblast
@@ -3550,6 +3559,7 @@ UBERON_0000955	brain	UBERON_0009643	central tegmental tract
 UBERON_0000955	brain	UBERON_0009661	midbrain nucleus
 UBERON_0000955	brain	UBERON_0009662	hindbrain nucleus
 UBERON_0000955	brain	UBERON_0009663	telencephalic nucleus
+UBERON_0000955	brain	UBERON_0009676	early telencephalic vesicle
 UBERON_0000955	brain	UBERON_0009775	lateral medullary reticular complex
 UBERON_0000955	brain	UBERON_0009776	intermediate reticular formation
 UBERON_0000955	brain	UBERON_0009777	intermediate reticular nucleus
@@ -4320,6 +4330,7 @@ UBERON_0000955	brain	UBERON_0036063	quadrangular lobule
 UBERON_0000955	brain	UBERON_0036065	cerebellum vermis lobule VIIAt
 UBERON_0000955	brain	UBERON_0036164	ambient gyrus
 UBERON_0000955	brain	UBERON_0036177	nucleus recessus
+UBERON_0000955	brain	UBERON_0036218	secondary prosencephalon
 UBERON_0000955	brain	UBERON_2000165	inferior lobe
 UBERON_0000955	brain	UBERON_2000176	lateral entopeduncular nucleus
 UBERON_0000955	brain	UBERON_2000182	central caudal thalamic nucleus
@@ -4434,6 +4445,7 @@ UBERON_0000955	brain	UBERON_2001352	stratum periventriculare
 UBERON_0000955	brain	UBERON_2001357	alar plate midbrain
 UBERON_0000955	brain	UBERON_2001366	tract of the postoptic commissure
 UBERON_0000955	brain	UBERON_2002105	electrosensory lateral line lobe
+UBERON_0000955	brain	UBERON_2002106	eminentia granularis
 UBERON_0000955	brain	UBERON_2002107	medullary command nucleus
 UBERON_0000955	brain	UBERON_2002174	octaval nerve motor nucleus
 UBERON_0000955	brain	UBERON_2002175	rostral octaval nerve motor nucleus
@@ -5668,6 +5680,7 @@ UBERON_0001021	nerve	UBERON_0035652	fibular nerve
 UBERON_0001021	nerve	UBERON_0035968	bulboid corpuscle
 UBERON_0001021	nerve	UBERON_0035969	encapsulated tactile receptor
 UBERON_0001021	nerve	UBERON_0036143	meningeal branch of mandibular nerve
+UBERON_0001021	nerve	UBERON_0036216	tympanic nerve
 UBERON_0001021	nerve	UBERON_2000175	posterior lateral line nerve
 UBERON_0001021	nerve	UBERON_2000425	anterior lateral line nerve
 UBERON_0001021	nerve	UBERON_2001480	dorsal anterior lateral line nerve
@@ -6430,7 +6443,7 @@ UBERON_0002049	vasculature	UBERON_0005338	outflow tract aortic component
 UBERON_0002049	vasculature	UBERON_0005396	carotid artery segment
 UBERON_0002049	vasculature	UBERON_0005431	anterior spinal artery
 UBERON_0002049	vasculature	UBERON_0005432	aortic sac
-UBERON_0002049	vasculature	UBERON_0005435	cisterna chyli
+UBERON_0002049	vasculature	UBERON_0005435	upper part of cisterna chyli
 UBERON_0002049	vasculature	UBERON_0005436	common hepatic artery
 UBERON_0002049	vasculature	UBERON_0005438	coronary sinus
 UBERON_0002049	vasculature	UBERON_0005440	ductus arteriosus
@@ -6695,8 +6708,8 @@ UBERON_0002049	vasculature	UBERON_0011693	extraembryonic portion of umbilical ar
 UBERON_0002049	vasculature	UBERON_0011694	embryo portion of umbilical artery
 UBERON_0002049	vasculature	UBERON_0011696	left extraembryonic umbilical artery
 UBERON_0002049	vasculature	UBERON_0011697	right extraembryonic umbilical artery
-UBERON_0002049	vasculature	UBERON_0011737	caudate lobe hepatic sinusoids
-UBERON_0002049	vasculature	UBERON_0011738	quadrate lobe hepatic sinusoids
+UBERON_0002049	vasculature	UBERON_0011737	caudate lobe hepatic sinusoid
+UBERON_0002049	vasculature	UBERON_0011738	quadrate lobe hepatic sinusoid
 UBERON_0002049	vasculature	UBERON_0011742	aortic valve leaflet
 UBERON_0002049	vasculature	UBERON_0011861	aorta collagen fibril
 UBERON_0002049	vasculature	UBERON_0011944	subintestinal vein
@@ -6851,7 +6864,7 @@ UBERON_0002049	vasculature	UBERON_0034727	vestibular bulb artery
 UBERON_0002049	vasculature	UBERON_0034884	juxtaglomerular arteriole
 UBERON_0002049	vasculature	UBERON_0034927	arcuate artery of foot
 UBERON_0002049	vasculature	UBERON_0034949	lymphatic valve
-UBERON_0002049	vasculature	UBERON_0034950	lymph sac
+UBERON_0002049	vasculature	UBERON_0034950	lymph sac of lymph heart
 UBERON_0002049	vasculature	UBERON_0034951	subcutaneous lymph sac
 UBERON_0002049	vasculature	UBERON_0034952	intrapleuroperitoneal lymph sac
 UBERON_0002049	vasculature	UBERON_0034964	superficial epigastric artery
@@ -7311,6 +7324,7 @@ UBERON_0002097	skin of body	UBERON_0035610	hair canal
 UBERON_0002097	skin of body	UBERON_0035611	hair peg
 UBERON_0002097	skin of body	UBERON_0036149	suprapubic skin
 UBERON_0002097	skin of body	UBERON_0036150	skin appendage follicle
+UBERON_0002097	skin of body	UBERON_0036219	ungulate coronary band
 UBERON_0002097	skin of body	UBERON_1000003	dewlap
 UBERON_0002097	skin of body	UBERON_1000010	mole
 UBERON_0002097	skin of body	UBERON_1000015	skin of snout
@@ -7414,8 +7428,8 @@ UBERON_0002107	liver	UBERON_0009549	hepatic sinusoid of right of lobe of liver
 UBERON_0002107	liver	UBERON_0010183	liver trabecula
 UBERON_0002107	liver	UBERON_0010704	parenchyma of quadrate lobe of liver
 UBERON_0002107	liver	UBERON_0010706	parenchyma of caudate lobe of liver
-UBERON_0002107	liver	UBERON_0011737	caudate lobe hepatic sinusoids
-UBERON_0002107	liver	UBERON_0011738	quadrate lobe hepatic sinusoids
+UBERON_0002107	liver	UBERON_0011737	caudate lobe hepatic sinusoid
+UBERON_0002107	liver	UBERON_0011738	quadrate lobe hepatic sinusoid
 UBERON_0002107	liver	UBERON_0011955	left hepatic vein
 UBERON_0002107	liver	UBERON_0011956	right hepatic vein
 UBERON_0002107	liver	UBERON_0011957	middle hepatic vein
@@ -8114,8 +8128,8 @@ UBERON_0002365	exocrine gland	UBERON_0011263	femoral gland
 UBERON_0002365	exocrine gland	UBERON_0011264	femoral pore
 UBERON_0002365	exocrine gland	UBERON_0011579	venom gland
 UBERON_0002365	exocrine gland	UBERON_0011580	platypus crural gland
-UBERON_0002365	exocrine gland	UBERON_0011737	caudate lobe hepatic sinusoids
-UBERON_0002365	exocrine gland	UBERON_0011738	quadrate lobe hepatic sinusoids
+UBERON_0002365	exocrine gland	UBERON_0011737	caudate lobe hepatic sinusoid
+UBERON_0002365	exocrine gland	UBERON_0011738	quadrate lobe hepatic sinusoid
 UBERON_0002365	exocrine gland	UBERON_0011827	areolar gland
 UBERON_0002365	exocrine gland	UBERON_0011830	duct of lesser vestibular gland
 UBERON_0002365	exocrine gland	UBERON_0011844	duct of areolar gland
@@ -8213,6 +8227,7 @@ UBERON_0002365	exocrine gland	UBERON_0035077	lateral nasal gland
 UBERON_0002365	exocrine gland	UBERON_0035078	parotid gland interlobular duct
 UBERON_0002365	exocrine gland	UBERON_0035444	triangular ligament of liver
 UBERON_0002365	exocrine gland	UBERON_0035756	capillary network of liver
+UBERON_0002365	exocrine gland	UBERON_0036245	parenchyma of mammary gland
 UBERON_0002365	exocrine gland	UBERON_1000022	Zymbal's gland
 UBERON_0002365	exocrine gland	UBERON_2005174	ventral liver lobe
 UBERON_0002365	exocrine gland	UBERON_2005346	extrapancreatic duct
@@ -8303,7 +8318,7 @@ UBERON_0002368	endocrine gland	UBERON_0006841	central vein of liver
 UBERON_0002368	endocrine gland	UBERON_0006856	interrenal gland
 UBERON_0002368	endocrine gland	UBERON_0006858	adrenal/interrenal gland
 UBERON_0002368	endocrine gland	UBERON_0006877	vasculature of liver
-UBERON_0002368	endocrine gland	UBERON_0006925	digestive gland
+UBERON_0002368	endocrine gland	UBERON_0006925	digestive system gland
 UBERON_0002368	endocrine gland	UBERON_0006936	thymus subcapsular epithelium
 UBERON_0002368	endocrine gland	UBERON_0006964	pars distalis of adenohypophysis
 UBERON_0002368	endocrine gland	UBERON_0009024	adrenal gland X zone
@@ -8328,8 +8343,8 @@ UBERON_0002368	endocrine gland	UBERON_0011195	inferior parathyroid epithelium
 UBERON_0002368	endocrine gland	UBERON_0011196	superior parathyroid epithelium
 UBERON_0002368	endocrine gland	UBERON_0011197	parathyroid epithelium
 UBERON_0002368	endocrine gland	UBERON_0011359	urophysis
-UBERON_0002368	endocrine gland	UBERON_0011737	caudate lobe hepatic sinusoids
-UBERON_0002368	endocrine gland	UBERON_0011738	quadrate lobe hepatic sinusoids
+UBERON_0002368	endocrine gland	UBERON_0011737	caudate lobe hepatic sinusoid
+UBERON_0002368	endocrine gland	UBERON_0011738	quadrate lobe hepatic sinusoid
 UBERON_0002368	endocrine gland	UBERON_0011768	pineal gland stalk
 UBERON_0002368	endocrine gland	UBERON_0011955	left hepatic vein
 UBERON_0002368	endocrine gland	UBERON_0011956	right hepatic vein
@@ -8760,7 +8775,6 @@ UBERON_0003133	reproductive organ	UBERON_0000461	minor vestibular gland
 UBERON_0003133	reproductive organ	UBERON_0000473	testis
 UBERON_0003133	reproductive organ	UBERON_0000989	penis
 UBERON_0003133	reproductive organ	UBERON_0000991	gonad
-UBERON_0003133	reproductive organ	UBERON_0000992	female gonad
 UBERON_0003133	reproductive organ	UBERON_0000992	ovary
 UBERON_0003133	reproductive organ	UBERON_0000994	spermathecum
 UBERON_0003133	reproductive organ	UBERON_0000995	uterus
@@ -8844,7 +8858,7 @@ UBERON_0003133	reproductive organ	UBERON_0005056	external female genitalia
 UBERON_0003133	reproductive organ	UBERON_0005170	granulosa cell layer
 UBERON_0003133	reproductive organ	UBERON_0005192	deferent duct artery
 UBERON_0003133	reproductive organ	UBERON_0005195	deferent duct vein
-UBERON_0003133	reproductive organ	UBERON_0005205	vagina stroma
+UBERON_0003133	reproductive organ	UBERON_0005205	lamina propria of vagina
 UBERON_0003133	reproductive organ	UBERON_0005212	Leydig cell region of testis
 UBERON_0003133	reproductive organ	UBERON_0005296	ovary sex cord
 UBERON_0003133	reproductive organ	UBERON_0005297	testis sex cord
@@ -9940,9 +9954,6 @@ UBERON_0004765	skeletal element	UBERON_0011301	manubrium sternum pre-cartilage c
 UBERON_0004765	skeletal element	UBERON_0011309	body of mandible
 UBERON_0004765	skeletal element	UBERON_0011310	masseteric fossa
 UBERON_0004765	skeletal element	UBERON_0011319	disk of temporomandibular joint
-UBERON_0004765	skeletal element	UBERON_0011342	surface of mandible
-UBERON_0004765	skeletal element	UBERON_0011343	medial surface of mandible
-UBERON_0004765	skeletal element	UBERON_0011344	lateral surface of mandible
 UBERON_0004765	skeletal element	UBERON_0011370	transverse process of atlas
 UBERON_0004765	skeletal element	UBERON_0011575	styloid process of ulna
 UBERON_0004765	skeletal element	UBERON_0011576	supraorbital ridge
@@ -10536,6 +10547,8 @@ UBERON_0004765	skeletal element	UBERON_0018664	neck of bone element
 UBERON_0004765	skeletal element	UBERON_0018667	neck of scapula
 UBERON_0004765	skeletal element	UBERON_0018673	neck of fibula
 UBERON_0004765	skeletal element	UBERON_0019253	upper secondary incisor tooth
+UBERON_0004765	skeletal element	UBERON_0026584	tympanic canal
+UBERON_0004765	skeletal element	UBERON_0026586	vestibular canal
 UBERON_0004765	skeletal element	UBERON_0034680	laryngeal prominence
 UBERON_0004765	skeletal element	UBERON_0034712	yellow fibrocartilage
 UBERON_0004765	skeletal element	UBERON_0034898	alveolar ridge of premaxilla
@@ -12093,7 +12106,7 @@ UBERON_0005156	reproductive structure	UBERON_0000461	minor vestibular gland
 UBERON_0005156	reproductive structure	UBERON_0000473	testis
 UBERON_0005156	reproductive structure	UBERON_0000989	penis
 UBERON_0005156	reproductive structure	UBERON_0000991	gonad
-UBERON_0005156	reproductive structure	UBERON_0000992	female gonad
+UBERON_0005156	reproductive structure	UBERON_0000992	ovary
 UBERON_0005156	reproductive structure	UBERON_0000993	oviduct
 UBERON_0005156	reproductive structure	UBERON_0000994	spermathecum
 UBERON_0005156	reproductive structure	UBERON_0000995	uterus
@@ -12155,7 +12168,7 @@ UBERON_0005156	reproductive structure	UBERON_0003485	vagina sebaceous gland
 UBERON_0005156	reproductive structure	UBERON_0003855	gonad mesenchyme
 UBERON_0005156	reproductive structure	UBERON_0003885	mesometrium
 UBERON_0005156	reproductive structure	UBERON_0003889	fallopian tube
-UBERON_0005156	reproductive structure	UBERON_0003937	sex gland
+UBERON_0005156	reproductive structure	UBERON_0003937	reproductive gland
 UBERON_0005156	reproductive structure	UBERON_0003946	placenta labyrinth
 UBERON_0005156	reproductive structure	UBERON_0003959	rete testis
 UBERON_0005156	reproductive structure	UBERON_0003970	placental labyrinth vasculature
@@ -12220,7 +12233,7 @@ UBERON_0005156	reproductive structure	UBERON_0005156	reproductive structure
 UBERON_0005156	reproductive structure	UBERON_0005170	granulosa cell layer
 UBERON_0005156	reproductive structure	UBERON_0005192	deferent duct artery
 UBERON_0005156	reproductive structure	UBERON_0005195	deferent duct vein
-UBERON_0005156	reproductive structure	UBERON_0005205	vagina stroma
+UBERON_0005156	reproductive structure	UBERON_0005205	lamina propria of vagina
 UBERON_0005156	reproductive structure	UBERON_0005212	Leydig cell region of testis
 UBERON_0005156	reproductive structure	UBERON_0005296	ovary sex cord
 UBERON_0005156	reproductive structure	UBERON_0005297	testis sex cord
