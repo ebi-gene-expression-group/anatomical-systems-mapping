@@ -1,9 +1,11 @@
 all: out/ontology_ids_per_experiment.tsv out/ontology_ids_per_experiment-human-baseline.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv
 
-data/all-organism-parts.tsv:
+data/all-organism-parts.tsv.unsorted:
 	find -L "${ATLAS_EXPS}" -maxdepth 2 -name '*condensed-sdrf.tsv' \
 		| xargs -n 1 grep "factor[[:space:]]organism part" \
-		| cut -f 1,6,7 | sort -u > data/all-organism-parts.tsv
+		| cut -f 1,6,7 > data/all-organism-parts.tsv.unsorted
+data/all-organism-parts.tsv:
+		 sort -u data/all-organism-parts.tsv.unsorted -o data/all-organism-parts.tsv
 
 out/ontology_ids_per_experiment.tsv: data/all-organism-parts.tsv
 	amm -s src/JoinByThirdColumn.sc data/all-organism-parts.tsv \
