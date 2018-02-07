@@ -5,7 +5,7 @@ out/ontology_ids_per_human_baseline_experiment.tsv: data/all-organism-parts-huma
 		> out/ontology_ids_per_human_baseline_experiment.tsv
 
 data/all-public-human-baseline-experiments.txt:
-	curl 'https://www.ebi.ac.uk/gxa/json/experiments' \
+	curl 'https://wwwdev.ebi.ac.uk/gxa/json/experiments' \
 		| jq -r '.aaData | map(select(.species | contains ("sapiens")) | select(.experimentType | contains("BASELINE")) | .experimentAccession)[]' \
 		| sort \
 		> data/all-public-human-baseline-experiments.txt
