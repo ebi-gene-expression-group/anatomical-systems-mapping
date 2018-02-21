@@ -1105,12 +1105,10 @@ UBERON_0001004	respiratory system	UBERON_3000678	esophageal process
 UBERON_0001004	respiratory system	UBERON_3000688	prominentia apicalis dorsalis
 UBERON_0001004	respiratory system	UBERON_3000689	prominentia apicalis ventralis
 UBERON_0001004	respiratory system	UBERON_3000948	articular process
-UBERON_0001004	respiratory system	UBERON_3010195	lateral appendix
 UBERON_0001004	respiratory system	UBERON_3010197	lateral recess
 UBERON_0001004	respiratory system	UBERON_3010200	vasculature of respiratory integument
 UBERON_0001004	respiratory system	UBERON_3010524	bronchial tube
 UBERON_0001004	respiratory system	UBERON_3010613	laryngo-tracheal chamber
-UBERON_0001004	respiratory system	UBERON_3010614	cartilago lateralis of aryngo-tracheal chamber
 UBERON_0001004	respiratory system	UBERON_6005054	spiracle
 UBERON_0001007	digestive system	UBERON_0000059	large intestine
 UBERON_0001007	digestive system	UBERON_0000159	anal canal
@@ -2222,10 +2220,8 @@ UBERON_0001007	digestive system	UBERON_1000011	labial commissure
 UBERON_0001007	digestive system	UBERON_1000023	spleen pulp
 UBERON_0001007	digestive system	UBERON_1000024	parenchyma of spleen
 UBERON_0001007	digestive system	UBERON_2000224	quadrate ventral process
-UBERON_0001007	digestive system	UBERON_2000233	lower oral valve
 UBERON_0001007	digestive system	UBERON_2000240	metapterygoid
 UBERON_0001007	digestive system	UBERON_2000422	retroarticular
-UBERON_0001007	digestive system	UBERON_2000451	upper oral valve
 UBERON_0001007	digestive system	UBERON_2000620	autopalatine
 UBERON_0001007	digestive system	UBERON_2000657	entopterygoid
 UBERON_0001007	digestive system	UBERON_2000666	filamental artery
@@ -7764,7 +7760,6 @@ UBERON_0001032	sensory system	UBERON_3010115	posterior lateral line nerve (PLLN)
 UBERON_0001032	sensory system	UBERON_3010125	musculus levator bulbi
 UBERON_0001032	sensory system	UBERON_3010126	middle lateral line nerve (MLLN)
 UBERON_0001032	sensory system	UBERON_3010146	lacrimal
-UBERON_0001032	sensory system	UBERON_3010195	lateral appendix
 UBERON_0001032	sensory system	UBERON_3010197	lateral recess
 UBERON_0001032	sensory system	UBERON_3010706	lateral line nucleus
 UBERON_0001032	sensory system	UBERON_3010728	otic opercular element
@@ -7785,6 +7780,7 @@ UBERON_0001032	sensory system	UBERON_3010827	anterior prenasal cartilage
 UBERON_0001032	sensory system	UBERON_4200199	sallet sensory system
 UBERON_0001032	sensory system	UBERON_4300005	aphakic space
 UBERON_0001032	sensory system	UBERON_4300126	tectorial restraint system
+UBERON_0001032	sensory system	UBERON_4300176	parietal branch of the supraorbital canal
 UBERON_0001032	sensory system	UBERON_6002639	larval sense organ
 UBERON_0001032	sensory system	UBERON_6002642	embryonic/larval ocular segment sensillum
 UBERON_0001032	sensory system	UBERON_6005168	external sensory organ
@@ -12654,6 +12650,10 @@ UBERON_0002204	musculoskeletal system	UBERON_4300155	pectoral splint
 UBERON_0002204	musculoskeletal system	UBERON_4300156	anterodorsal crest
 UBERON_0002204	musculoskeletal system	UBERON_4300157	midshaft
 UBERON_0002204	musculoskeletal system	UBERON_4300158	ectepicondylar depression
+UBERON_0002204	musculoskeletal system	UBERON_4300175	procumbent dorsal fin spine
+UBERON_0002204	musculoskeletal system	UBERON_4300177	replacement tooth row
+UBERON_0002204	musculoskeletal system	UBERON_4300178	inner tooth row of dentary
+UBERON_0002204	musculoskeletal system	UBERON_4300179	inner tooth row of premaxilla
 UBERON_0002204	musculoskeletal system	UBERON_4400000	metapterygium cartilage
 UBERON_0002204	musculoskeletal system	UBERON_4400001	ceratotrichium
 UBERON_0002204	musculoskeletal system	UBERON_4400005	fin ray

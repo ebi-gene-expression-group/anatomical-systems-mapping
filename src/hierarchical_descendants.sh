@@ -26,7 +26,7 @@ paged_descendants(){
   PAGES=$(get_total_pages "hierarchicalDescendants" "$uberon_id" )
   if [[ $PAGES -eq 0 ]]
   then
-    >&2 echo "[$uberon_id]Found no data!"
+    >&2 echo "[$uberon_id]Found no data"
   else
     for page in $( seq 0 $[PAGES-1] ); do
       >&2 echo "[$uberon_id] retrieving page $[page+1]/$[PAGES]"

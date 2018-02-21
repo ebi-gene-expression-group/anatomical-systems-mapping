@@ -798,7 +798,6 @@ UBERON_0000020	sense organ	UBERON_3000648	crista praeopercularis
 UBERON_0000020	sense organ	UBERON_3010079	upper eyelid protuberances
 UBERON_0000020	sense organ	UBERON_3010125	musculus levator bulbi
 UBERON_0000020	sense organ	UBERON_3010146	lacrimal
-UBERON_0000020	sense organ	UBERON_3010195	lateral appendix
 UBERON_0000020	sense organ	UBERON_3010197	lateral recess
 UBERON_0000020	sense organ	UBERON_3010728	otic opercular element
 UBERON_0000020	sense organ	UBERON_3010827	anterior prenasal cartilage
@@ -11912,6 +11911,7 @@ UBERON_0004765	skeletal element	UBERON_4300155	pectoral splint
 UBERON_0004765	skeletal element	UBERON_4300156	anterodorsal crest
 UBERON_0004765	skeletal element	UBERON_4300157	midshaft
 UBERON_0004765	skeletal element	UBERON_4300158	ectepicondylar depression
+UBERON_0004765	skeletal element	UBERON_4300175	procumbent dorsal fin spine
 UBERON_0004765	skeletal element	UBERON_4400000	metapterygium cartilage
 UBERON_0004765	skeletal element	UBERON_4400001	ceratotrichium
 UBERON_0004765	skeletal element	UBERON_4400005	fin ray
