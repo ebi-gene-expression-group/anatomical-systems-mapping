@@ -1,4 +1,4 @@
-all: out/ontology_ids_per_experiment-human-baseline.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv
+all: out/ontology_ids_per_experiment-human-baseline.tsv out/anatomical_systems.txt out/curation/anatomical_systems_unmapped_ids.tsv out/organs.txt out/curation/organs_unmapped_ids.tsv out/cell_anatomical_systems.txt out/cell_organ.txt out/curation/cell_organ_unmapped_ids.tsv
 
 # get all human basline experiments from gxa/API call and sort experiment accessions.
 data/all-public-human-baseline-experiments.txt:
@@ -136,7 +136,7 @@ out/cell_organ.txt: curated/cell_types/ids.tsv curated/cell_types/header2.tsv da
 	echo
 
 ## extracting mapped cell ids to anatomical system
-data/cell_anatomical_systems_mapped_ids.txt: out/cell_organ.txt
+data/ell_organ_mapped_ids.txt: out/cell_organ.txt
 	cut -f 3 out/cell_organ.txt | sort -u > data/cell_organ_mapped_ids.txt
 
 
