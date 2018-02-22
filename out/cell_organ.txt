@@ -1,0 +1,108 @@
+#organ id	organ name	cell id	cell name
+UBERON_0002405	immune system	CL_0000041	mature eosinophil
+UBERON_0002405	immune system	CL_0000096	mature neutrophil
+UBERON_0002405	immune system	CL_0000235	macrophage
+UBERON_0000062	organ	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0000479	tissue	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0001434	skeletal system	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0001474	bone element	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0002193	hemolymphoid system	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0002204	musculoskeletal system	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0002371	bone marrow	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0002390	hematopoietic system	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0002405	immune system	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0004765	skeletal element	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0011216	organ system subdivision	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0012429	hematopoietic tissue	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0015757	heterogeneous tissue	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0034769	lymphomyeloid tissue	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0002405	immune system	CL_0000582	neutrophilic metamyelocyte
+UBERON_0002405	immune system	CL_0000624	CD4-positive, alpha-beta T cell
+UBERON_0002405	immune system	CL_0000625	CD8-positive, alpha-beta T cell
+UBERON_0002405	immune system	CL_0000786	plasma cell
+UBERON_0002405	immune system	CL_0000787	memory B cell
+UBERON_0000062	organ	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0000153	anterior region of body	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0000949	endocrine system	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0002193	hemolymphoid system	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0002368	endocrine gland	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0002370	thymus	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0002390	hematopoietic system	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0002405	immune system	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0002530	gland	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0004177	hemopoietic organ	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0005057	immune organ	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0005058	hemolymphoid system gland	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0000062	organ	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0000153	anterior region of body	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0000949	endocrine system	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002193	hemolymphoid system	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002368	endocrine gland	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002370	thymus	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002390	hematopoietic system	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002405	immune system	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002530	gland	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0004177	hemopoietic organ	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0005057	immune organ	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0005058	hemolymphoid system gland	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0002405	immune system	CL_0000815	regulatory T cell
+UBERON_0002405	immune system	CL_0000863	inflammatory macrophage
+UBERON_0002405	immune system	CL_0000890	alternatively activated macrophage
+UBERON_0002405	immune system	CL_0000904	central memory CD4-positive, alpha-beta T cell
+UBERON_0002405	immune system	CL_0000905	effector memory CD4-positive, alpha-beta T cell
+UBERON_0002405	immune system	CL_0000907	central memory CD8-positive, alpha-beta T cell
+UBERON_0002405	immune system	CL_0000913	effector memory CD8-positive, alpha-beta T cell
+UBERON_0002405	immune system	CL_0000939	cytotoxic CD56-dim natural killer cell
+UBERON_0002405	immune system	CL_0000972	class switched memory B cell
+UBERON_0002405	immune system	CL_0000990	conventional dendritic cell
+UBERON_0000062	organ	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0000479	tissue	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0001434	skeletal system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0001474	bone element	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0002193	hemolymphoid system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0002204	musculoskeletal system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0002371	bone marrow	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0002390	hematopoietic system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0002405	immune system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0004765	skeletal element	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0011216	organ system subdivision	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0012429	hematopoietic tissue	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0015757	heterogeneous tissue	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0034769	lymphomyeloid tissue	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0002405	immune system	CL_0002057	CD14-positive, CD16-negative classical monocyte
+UBERON_0002405	immune system	CL_0002102	CD38-negative naive B cell
+UBERON_0000055	vessel	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0000479	tissue	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0000483	epithelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0000487	simple squamous epithelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0000490	unilaminar epithelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0001009	circulatory system	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0001638	vein	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0001981	blood vessel	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0001986	endothelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0002049	vasculature	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0002066	umbilical vein	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0003920	venous blood vessel	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0004535	cardiovascular system	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0004537	blood vasculature	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0004582	venous system	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0004638	blood vessel endothelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0004852	cardiovascular system endothelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0006914	squamous epithelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0007798	vascular system	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0010260	umbilical blood vessel	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0012275	meso-epithelium	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0000062	organ	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0000479	tissue	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0001434	skeletal system	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0001474	bone element	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0002193	hemolymphoid system	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0002204	musculoskeletal system	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0002371	bone marrow	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0002390	hematopoietic system	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0002405	immune system	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0004765	skeletal element	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0011216	organ system subdivision	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0012429	hematopoietic tissue	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0015757	heterogeneous tissue	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0034769	lymphomyeloid tissue	CL_0011114	segmented neutrophil of bone marrow

@@ -1,0 +1,39 @@
+CL_0000037	hematopoietic stem cell	E-MTAB-3819
+CL_0000049	common myeloid progenitor	E-MTAB-3819
+CL_0000050	megakaryocyte-erythroid progenitor cell	E-MTAB-3819
+CL_0000051	common lymphoid progenitor	E-MTAB-3819
+CL_0000057	fibroblast	E-GEOD-26284,E-MTAB-4748
+CL_0000066	epithelial cell	E-MTAB-4729
+CL_0000066	epithelial	E-GEOD-26284,E-PROT-6
+CL_0000076	squamous epithelial cells	E-PROT-3
+CL_0000111	peripheral nerve	E-PROT-3
+CL_0000115	endothelial cells	E-PROT-3
+CL_0000121	Purkinje cells	E-PROT-3
+CL_0000182	hepatocytes	E-PROT-3
+CL_0000185	myoepithelial cells	E-PROT-3
+CL_0000187	myocytes	E-PROT-3
+CL_0000192	smooth muscle cells	E-PROT-3
+CL_0000236	B cell	E-GEOD-26284
+CL_0000236	CD20-positive B cell	E-GEOD-26284
+CL_0000312	normal human epidermal keratinocyte (NHEK)	E-GEOD-26284
+CL_0000322	pneumocytes	E-PROT-3
+CL_0000346	hair follicle dermal papilla cell (HFDPC)(mesenchyme cell)	E-GEOD-26284
+CL_0000351	trophoblastic cells	E-PROT-3
+CL_0000362	epidermal cells	E-PROT-3
+CL_0000451	conventional dendritic cell	E-MTAB-3827
+CL_0000453	Langerhans	E-PROT-3
+CL_0000515	human skeletal muscle myoblast (HSMM)	E-GEOD-26284
+CL_0000553	megakaryoblast	E-MTAB-4101
+CL_0000560	band form neutrophil	E-MTAB-3827
+CL_0000580	neutrophilic myelocyte	E-MTAB-3827
+CL_0000584	enterocyte	E-PROT-6
+CL_0000765	erythroblast	E-MTAB-3819,E-MTAB-3827,E-MTAB-4101
+CL_0000835	myeloblast	E-MTAB-4101
+CL_0000837	hematopoietic multipotent progenitor cell	E-MTAB-3819
+CL_0000842	mononuclear cell	E-MTAB-4748
+CL_0000988	hematopoietic cells	E-PROT-3
+CL_0001054	CD14-positive monocyte	E-GEOD-26284
+CL_0002322	embryonic stem cell	E-GEOD-26284
+CL_0002368	respiratory epithelial cells	E-PROT-3
+CL_0002553	normal human lung fibroblast (NHLF)	E-GEOD-26284
+CL_0002563	intestinal epithelial cell	E-MTAB-5015
