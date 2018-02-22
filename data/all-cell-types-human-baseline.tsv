@@ -1,0 +1,110 @@
+E-GEOD-26284	B cell	http://purl.obolibrary.org/obo/CL_0000236
+E-GEOD-26284	CD14-positive monocyte	http://purl.obolibrary.org/obo/CL_0001054
+E-GEOD-26284	CD20-positive B cell	http://purl.obolibrary.org/obo/CL_0000236
+E-GEOD-26284	CD34-positive mobilized cell
+E-GEOD-26284	embryonic stem cell	http://purl.obolibrary.org/obo/CL_0002322
+E-GEOD-26284	epithelial	http://purl.obolibrary.org/obo/CL_0000066
+E-GEOD-26284	fibroblast	http://purl.obolibrary.org/obo/CL_0000057
+E-GEOD-26284	hair follicle dermal papilla cell (HFDPC)(mesenchyme cell)	http://purl.obolibrary.org/obo/CL_0000346
+E-GEOD-26284	human mammary epithelial cell (HMEC)	http://purl.obolibrary.org/obo/BTO_0002178
+E-GEOD-26284	human mesenchymal stem cell from adipose tissue (hMSC-AT)	http://www.ebi.ac.uk/efo/EFO_0005023
+E-GEOD-26284	human pericytes from placenta (hPC-PL)	http://www.ebi.ac.uk/efo/EFO_0005024
+E-GEOD-26284	human skeletal muscle myoblast (HSMM)	http://purl.obolibrary.org/obo/CL_0000515
+E-GEOD-26284	human umblical vein endothelial cells (HUVEC)	http://www.ebi.ac.uk/efo/EFO_0002451
+E-GEOD-26284	normal human epidermal keratinocyte (NHEK)	http://purl.obolibrary.org/obo/CL_0000312
+E-GEOD-26284	normal human lung fibroblast (NHLF)	http://purl.obolibrary.org/obo/CL_0002553
+E-MTAB-3819	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell	http://purl.obolibrary.org/obo/CL_0002026
+E-MTAB-3819	common lymphoid progenitor	http://purl.obolibrary.org/obo/CL_0000051
+E-MTAB-3819	common myeloid progenitor	http://purl.obolibrary.org/obo/CL_0000049
+E-MTAB-3819	erythroblast	http://purl.obolibrary.org/obo/CL_0000765
+E-MTAB-3819	granulocyte monocyte progenitor cell	http://purl.obolibrary.org/obo/CL_0000557
+E-MTAB-3819	hematopoietic multipotent progenitor cell	http://purl.obolibrary.org/obo/CL_0000837
+E-MTAB-3819	hematopoietic stem cell	http://purl.obolibrary.org/obo/CL_0000037
+E-MTAB-3819	megakaryocyte-erythroid progenitor cell	http://purl.obolibrary.org/obo/CL_0000050
+E-MTAB-3827	alternatively activated macrophage	http://purl.obolibrary.org/obo/CL_0000890
+E-MTAB-3827	band form neutrophil	http://purl.obolibrary.org/obo/CL_0000560
+E-MTAB-3827	CD14-positive, CD16-negative classical monocyte	http://purl.obolibrary.org/obo/CL_0002057
+E-MTAB-3827	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell	http://purl.obolibrary.org/obo/CL_0002026
+E-MTAB-3827	CD38-negative naive B cell	http://purl.obolibrary.org/obo/CL_0002102
+E-MTAB-3827	CD3-negative, CD4-positive, CD8-positive, double positive thymocyte
+E-MTAB-3827	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+E-MTAB-3827	CD4-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000624
+E-MTAB-3827	CD4-positive, alpha-beta thymocyte	http://purl.obolibrary.org/obo/CL_0000810
+E-MTAB-3827	CD8-positive, alpha-beta T cell
+E-MTAB-3827	CD8-positive, alpha-beta thymocyte	http://purl.obolibrary.org/obo/CL_0000811
+E-MTAB-3827	central memory CD4-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000904
+E-MTAB-3827	central memory CD8-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000907
+E-MTAB-3827	class switched memory B cell	http://purl.obolibrary.org/obo/CL_0000972
+E-MTAB-3827	conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0000451
+E-MTAB-3827	cytotoxic CD56-dim natural killer cell	http://purl.obolibrary.org/obo/CL_0000939
+E-MTAB-3827	effector memory CD4-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000905
+E-MTAB-3827	effector memory CD8-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000913
+E-MTAB-3827	endothelial cell of umbilical vein (proliferating)
+E-MTAB-3827	endothelial cell of umbilical vein (resting)
+E-MTAB-3827	erythroblast	http://purl.obolibrary.org/obo/CL_0000765
+E-MTAB-3827	inflammatory macrophage	http://purl.obolibrary.org/obo/CL_0000863
+E-MTAB-3827	macrophage	http://purl.obolibrary.org/obo/CL_0000235
+E-MTAB-3827	mature eosinophil	http://purl.obolibrary.org/obo/CL_0000041
+E-MTAB-3827	mature neutrophil	http://purl.obolibrary.org/obo/CL_0000096
+E-MTAB-3827	memory B cell	http://purl.obolibrary.org/obo/CL_0000787
+E-MTAB-3827	neutrophilic metamyelocyte	http://purl.obolibrary.org/obo/CL_0000582
+E-MTAB-3827	neutrophilic myelocyte	http://purl.obolibrary.org/obo/CL_0000580
+E-MTAB-3827	regulatory T cell	http://purl.obolibrary.org/obo/CL_0000815
+E-MTAB-3827	segmented neutrophil of bone marrow	http://purl.obolibrary.org/obo/CL_0011114
+E-MTAB-4101	erythroblast	http://purl.obolibrary.org/obo/CL_0000765
+E-MTAB-4101	megakaryoblast	http://purl.obolibrary.org/obo/CL_0000553
+E-MTAB-4101	myeloblast	http://purl.obolibrary.org/obo/CL_0000835
+E-MTAB-4729	epithelial cell	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-4748	fibroblast	http://purl.obolibrary.org/obo/CL_0000057
+E-MTAB-4748	induced pluripotent stem cell	http://www.ebi.ac.uk/efo/EFO_0004905
+E-MTAB-4748	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-MTAB-4754	plasma cell	http://purl.obolibrary.org/obo/CL_0000786
+E-MTAB-5015	intestinal epithelial cell	http://purl.obolibrary.org/obo/CL_0002563
+E-MTAB-5015	intestinal epithelial organoid
+E-PROT-3	adipocytes
+E-PROT-3	bile duct cells
+E-PROT-3	cells in endometrial stroma
+E-PROT-3	cells in glomeruli
+E-PROT-3	cells in granular layer
+E-PROT-3	cells in molecular layer
+E-PROT-3	cells in red pulp
+E-PROT-3	cells in seminiferous ducts
+E-PROT-3	cells in tubules
+E-PROT-3	cells in white pulp
+E-PROT-3	chondrocytes
+E-PROT-3	decidual cells
+E-PROT-3	endothelial cells	http://purl.obolibrary.org/obo/CL_0000115
+E-PROT-3	epidermal cells	http://purl.obolibrary.org/obo/CL_0000362
+E-PROT-3	exocrine glandular cells
+E-PROT-3	fibroblasts
+E-PROT-3	follicle cells
+E-PROT-3	germinal center cells
+E-PROT-3	glandular cells
+E-PROT-3	glial cells
+E-PROT-3	hematopoietic cells	http://purl.obolibrary.org/obo/CL_0000988
+E-PROT-3	hepatocytes	http://purl.obolibrary.org/obo/CL_0000182
+E-PROT-3	islets of Langerhans	http://purl.obolibrary.org/obo/UBERON_0000006
+E-PROT-3	keratinocytes
+E-PROT-3	Langerhans	http://purl.obolibrary.org/obo/CL_0000453
+E-PROT-3	Leydig cells
+E-PROT-3	lymphoid tissue	http://purl.obolibrary.org/obo/UBERON_0001744
+E-PROT-3	macrophages
+E-PROT-3	melanocytes
+E-PROT-3	myocytes	http://purl.obolibrary.org/obo/CL_0000187
+E-PROT-3	myoepithelial cells	http://purl.obolibrary.org/obo/CL_0000185
+E-PROT-3	neuronal cells
+E-PROT-3	neurophil
+E-PROT-3	non-germinal center cells
+E-PROT-3	ovarian stroma cells
+E-PROT-3	peripheral nerve/ganglion
+E-PROT-3	peripheral nerve	http://purl.obolibrary.org/obo/CL_0000111
+E-PROT-3	pneumocytes	http://purl.obolibrary.org/obo/CL_0000322
+E-PROT-3	Purkinje cells	http://purl.obolibrary.org/obo/CL_0000121
+E-PROT-3	respiratory epithelial cells	http://purl.obolibrary.org/obo/CL_0002368
+E-PROT-3	smooth muscle cells	http://purl.obolibrary.org/obo/CL_0000192
+E-PROT-3	squamous epithelial cells	http://purl.obolibrary.org/obo/CL_0000076
+E-PROT-3	trophoblastic cells	http://purl.obolibrary.org/obo/CL_0000351
+E-PROT-3	urothelial cells	http://www.ebi.ac.uk/efo/EFO_0005913
+E-PROT-5	induced pluripotent stem cell	http://www.ebi.ac.uk/efo/EFO_0004905
+E-PROT-6	enterocyte	http://purl.obolibrary.org/obo/CL_0000584
+E-PROT-6	epithelial	http://purl.obolibrary.org/obo/CL_0000066
