@@ -1,6 +1,6 @@
 # Atlas Metadata
-Aggregated information about the (Expression Atlas)[www.ebi.ac.uk/gxa] dataset.
-(Get the dataset here)[http://www.ebi.ac.uk/gxa/download.html]
+Aggregated information about the [Expression Atlas](https://www.ebi.ac.uk/gxa) dataset.
+[Get the dataset here](http://www.ebi.ac.uk/gxa/download.html).
 
 ### Introduction
 Based on a curated selection of tissue groupings - organs, and anatomical systems - produce mapping files based on OLS:
