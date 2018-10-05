@@ -13,7 +13,7 @@ CL_0000182	hepatocytes	E-PROT-3
 CL_0000185	myoepithelial cells	E-PROT-3
 CL_0000187	myocytes	E-PROT-3
 CL_0000192	smooth muscle cells	E-PROT-3
-CL_0000236	B cell	E-GEOD-26284
+CL_0000236	B cell	E-GEOD-26284,E-MTAB-6867
 CL_0000236	CD20-positive B cell	E-GEOD-26284
 CL_0000312	normal human epidermal keratinocyte (NHEK)	E-GEOD-26284
 CL_0000322	pneumocytes	E-PROT-3
