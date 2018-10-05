@@ -40,6 +40,8 @@ UBERON_0000020	UBERON_0001605	ciliary muscle
 UBERON_0000020	UBERON_0001606	muscle of iris
 UBERON_0000020	UBERON_0001607	sphincter pupillae
 UBERON_0000020	UBERON_0001608	dilatator pupillae
+UBERON_0000020	UBERON_0001610	lingual artery
+UBERON_0000020	UBERON_0001611	sublingual artery
 UBERON_0000020	UBERON_0001620	central retinal artery
 UBERON_0000020	UBERON_0001673	central retinal vein
 UBERON_0000020	UBERON_0001681	nasal bone
@@ -93,6 +95,7 @@ UBERON_0000020	UBERON_0001799	vitreous chamber of eyeball
 UBERON_0000020	UBERON_0001801	anterior segment of eyeball
 UBERON_0000020	UBERON_0001802	posterior segment of eyeball
 UBERON_0000020	UBERON_0001803	epithelium of lens
+UBERON_0000020	UBERON_0001804	capsule of lens
 UBERON_0000020	UBERON_0001811	conjunctiva
 UBERON_0000020	UBERON_0001812	palpebral conjunctiva
 UBERON_0000020	UBERON_0001817	lacrimal gland
@@ -100,6 +103,7 @@ UBERON_0000020	UBERON_0001818	tarsal gland
 UBERON_0000020	UBERON_0001819	palpebral fissure
 UBERON_0000020	UBERON_0001822	orbital septum
 UBERON_0000020	UBERON_0001823	nasal cartilage
+UBERON_0000020	UBERON_0001826	nasal cavity mucosa
 UBERON_0000020	UBERON_0001839	bony labyrinth
 UBERON_0000020	UBERON_0001840	semicircular canal
 UBERON_0000020	UBERON_0001841	anterior semicircular canal
@@ -137,6 +141,7 @@ UBERON_0000020	UBERON_0002218	tympanic ring
 UBERON_0000020	UBERON_0002223	endolymphatic sac
 UBERON_0000020	UBERON_0002226	basilar membrane of cochlea
 UBERON_0000020	UBERON_0002227	spiral organ of cochlea
+UBERON_0000020	UBERON_0002232	olfactory gland
 UBERON_0000020	UBERON_0002233	tectorial membrane of cochlea
 UBERON_0000020	UBERON_0002255	vomeronasal organ
 UBERON_0000020	UBERON_0002268	olfactory organ
@@ -161,6 +166,7 @@ UBERON_0000020	UBERON_0002468	foliate papilla
 UBERON_0000020	UBERON_0002488	helix of outer ear
 UBERON_0000020	UBERON_0002496	stapes base
 UBERON_0000020	UBERON_0002499	cochlear labyrinth
+UBERON_0000020	UBERON_0002505	spiral modiolar artery
 UBERON_0000020	UBERON_0002506	iris epithelium
 UBERON_0000020	UBERON_0002518	otolith organ
 UBERON_0000020	UBERON_0002519	otolithic part of statoconial membrane
@@ -216,6 +222,8 @@ UBERON_0000020	UBERON_0003925	photoreceptor inner segment layer
 UBERON_0000020	UBERON_0003926	photoreceptor outer segment layer
 UBERON_0000020	UBERON_0003950	inner ear canal
 UBERON_0000020	UBERON_0003951	ocular fundus
+UBERON_0000020	UBERON_0003952	anterior stroma of cornea
+UBERON_0000020	UBERON_0003953	posterior stroma of cornea
 UBERON_0000020	UBERON_0003956	aqueous drainage system
 UBERON_0000020	UBERON_0003957	Bruch's membrane
 UBERON_0000020	UBERON_0003966	gonial bone
@@ -231,6 +239,7 @@ UBERON_0000020	UBERON_0004101	nasolabial region
 UBERON_0000020	UBERON_0004106	crus of ear
 UBERON_0000020	UBERON_0004110	midnasal cavity
 UBERON_0000020	UBERON_0004113	muscle of auditory ossicle
+UBERON_0000020	UBERON_0004114	tympanic cavity
 UBERON_0000020	UBERON_0004115	blood vessel of tympanic cavity
 UBERON_0000020	UBERON_0004116	nerve of tympanic cavity
 UBERON_0000020	UBERON_0004118	vasculature of iris
@@ -272,6 +281,7 @@ UBERON_0000020	UBERON_0005354	malleus processus brevis
 UBERON_0000020	UBERON_0005355	malleus neck
 UBERON_0000020	UBERON_0005384	nasal cavity epithelium
 UBERON_0000020	UBERON_0005385	nasal cavity respiratory epithelium
+UBERON_0000020	UBERON_0005386	olfactory segment of nasal mucosa
 UBERON_0000020	UBERON_0005388	photoreceptor array
 UBERON_0000020	UBERON_0005389	transparent eye structure
 UBERON_0000020	UBERON_0005410	cartilaginous otic capsule
@@ -343,6 +353,7 @@ UBERON_0000020	UBERON_0006762	suspensory ligament of lens
 UBERON_0000020	UBERON_0006763	epithelium of conjunctiva
 UBERON_0000020	UBERON_0006813	nasal skeleton
 UBERON_0000020	UBERON_0006837	tegmen tympani
+UBERON_0000020	UBERON_0006906	ala of nose
 UBERON_0000020	UBERON_0006916	non-keratinized epithelium of tongue
 UBERON_0000020	UBERON_0006918	parakeratinized epithelium of tongue
 UBERON_0000020	UBERON_0006919	tongue squamous epithelium
@@ -352,12 +363,16 @@ UBERON_0000020	UBERON_0006937	inner ear epithelium
 UBERON_0000020	UBERON_0006938	pinna surface epithelium
 UBERON_0000020	UBERON_0007163	superior nasal meatus
 UBERON_0000020	UBERON_0007223	osseus cochlea
+UBERON_0000020	UBERON_0007250	lingual tonsil
 UBERON_0000020	UBERON_0007274	crista of ampulla of anterior semicircular duct of membranous laybrinth
 UBERON_0000020	UBERON_0007275	crista of ampulla of posterior semicircular duct of membranous laybrinth
 UBERON_0000020	UBERON_0007276	crista of ampulla of lateral semicircular duct of membranous laybrinth
 UBERON_0000020	UBERON_0007352	stria vascularis vasculature
 UBERON_0000020	UBERON_0007354	cartilage of pharyngotympanic tube
 UBERON_0000020	UBERON_0007355	bony part of pharyngotympanic tube
+UBERON_0000020	UBERON_0007367	surface of tongue
+UBERON_0000020	UBERON_0007371	superior surface of tongue
+UBERON_0000020	UBERON_0007373	inferior surface of tongue
 UBERON_0000020	UBERON_0007374	incus cartilage element
 UBERON_0000020	UBERON_0007619	limiting membrane of retina
 UBERON_0000020	UBERON_0007622	pecten oculi
@@ -510,6 +525,7 @@ UBERON_0000020	UBERON_0011918	line of Schwalbe
 UBERON_0000020	UBERON_0011922	cochlear basement membrane
 UBERON_0000020	UBERON_0011931	nasal hair
 UBERON_0000020	UBERON_0012128	nose tip
+UBERON_0000020	UBERON_0012278	gland of nasal mucosa
 UBERON_0000020	UBERON_0012304	nasal diverticulum
 UBERON_0000020	UBERON_0012305	marginal cutaneous pouch of ear
 UBERON_0000020	UBERON_0012430	tunica fibrosa of eyeball
@@ -525,6 +541,7 @@ UBERON_0000020	UBERON_0013228	sweat gland of eyelid
 UBERON_0000020	UBERON_0013229	eyelid gland
 UBERON_0000020	UBERON_0013230	nictitans gland
 UBERON_0000020	UBERON_0013231	sebaceous gland of eyelid
+UBERON_0000020	UBERON_0013233	supraorbital gland
 UBERON_0000020	UBERON_0013397	stratum argenteum of choroid
 UBERON_0000020	UBERON_0013398	choroidal gland
 UBERON_0000020	UBERON_0013399	blood vessel layer of choroid
@@ -573,6 +590,9 @@ UBERON_0000020	UBERON_0015430	levator auris longus muscle
 UBERON_0000020	UBERON_0015445	anterior lingual gland duct
 UBERON_0000020	UBERON_0015476	nose skin
 UBERON_0000020	UBERON_0015751	inferior tarsal muscle
+UBERON_0000020	UBERON_0015784	duct of olfactory gland
+UBERON_0000020	UBERON_0015785	acinus of olfactory gland
+UBERON_0000020	UBERON_0015786	respiratory segment of nasal mucosa
 UBERON_0000020	UBERON_0015788	olfactory apparatus chamber
 UBERON_0000020	UBERON_0015807	ear epithelium
 UBERON_0000020	UBERON_0015808	eye epithelium
@@ -634,6 +654,7 @@ UBERON_0000020	UBERON_0022274	lacrimal papilla
 UBERON_0000020	UBERON_0022279	strand of hair on external ear
 UBERON_0000020	UBERON_0022284	lacrimal gland bud
 UBERON_0000020	UBERON_0022287	tear film
+UBERON_0000020	UBERON_0022288	surface of eyeball
 UBERON_0000020	UBERON_0023541	conical papilla
 UBERON_0000020	UBERON_0028194	spiral prominence of cochlear duct
 UBERON_0000020	UBERON_0034670	palatal taste bud
@@ -651,6 +672,7 @@ UBERON_0000020	UBERON_0034934	Weber's gland
 UBERON_0000020	UBERON_0034935	pars plicata of ciliary body
 UBERON_0000020	UBERON_0034936	pars plana of ciliary body
 UBERON_0000020	UBERON_0035034	eyelid epithelium
+UBERON_0000020	UBERON_0035077	lateral nasal gland
 UBERON_0000020	UBERON_0035130	auditory ossicle endochondral element
 UBERON_0000020	UBERON_0035131	auditory ossicle cartilage element
 UBERON_0000020	UBERON_0035132	auditory ossicle pre-cartilage element
@@ -668,6 +690,7 @@ UBERON_0000020	UBERON_0036212	intertragic incisure
 UBERON_0000020	UBERON_0036249	zona pectinata of basilar membrane of cochlea
 UBERON_0000020	UBERON_0036250	zone of basilar membrane of cochlea
 UBERON_0000020	UBERON_0036254	piriform aperture
+UBERON_0000020	UBERON_0036265	conjunctival papilla
 UBERON_0000020	UBERON_1000004	collection of hair on external ear
 UBERON_0000020	UBERON_1000005	external ear margin
 UBERON_0000020	UBERON_1000012	nose anterior margin
@@ -800,6 +823,8 @@ UBERON_0000020	UBERON_3010728	otic opercular element
 UBERON_0000020	UBERON_3010827	anterior prenasal cartilage
 UBERON_0000020	UBERON_4300005	aphakic space
 UBERON_0000020	UBERON_4300126	tectorial restraint system
+UBERON_0000020	UBERON_4300181	posterior sclerotic cartilage
+UBERON_0000020	UBERON_4300182	anterior sclerotic cartilage
 UBERON_0000020	UBERON_6002639	larval sense organ
 UBERON_0000020	UBERON_6002642	embryonic/larval ocular segment sensillum
 UBERON_0000020	UBERON_6005168	external sensory organ
@@ -844,6 +869,7 @@ UBERON_0000160	UBERON_0001208	submucosa of large intestine
 UBERON_0000160	UBERON_0001209	serosa of large intestine
 UBERON_0000160	UBERON_0001210	muscularis mucosae of small intestine
 UBERON_0000160	UBERON_0001211	Peyer's patch
+UBERON_0000160	UBERON_0001212	duodenal gland
 UBERON_0000160	UBERON_0001213	intestinal villus
 UBERON_0000160	UBERON_0001238	lamina propria of small intestine
 UBERON_0000160	UBERON_0001239	muscularis mucosae of large intestine
@@ -859,9 +885,12 @@ UBERON_0000160	UBERON_0001902	epithelium of small intestine
 UBERON_0000160	UBERON_0001983	crypt of Lieberkuhn
 UBERON_0000160	UBERON_0001984	crypt of Lieberkuhn of large intestine
 UBERON_0000160	UBERON_0002108	small intestine
+UBERON_0000160	UBERON_0002114	duodenum
 UBERON_0000160	UBERON_0002115	jejunum
 UBERON_0000160	UBERON_0002116	ileum
 UBERON_0000160	UBERON_0002439	myenteric nerve plexus
+UBERON_0000160	UBERON_0003286	foregut region of duodenum
+UBERON_0000160	UBERON_0003287	midgut region of duodenum
 UBERON_0000160	UBERON_0003329	submucosa of anal canal
 UBERON_0000160	UBERON_0003330	submucosa of rectum
 UBERON_0000160	UBERON_0003331	submucosa of colon
@@ -912,6 +941,8 @@ UBERON_0000160	UBERON_0005711	foregut duodenum mesentery
 UBERON_0000160	UBERON_0005712	midgut duodenum mesentery
 UBERON_0000160	UBERON_0006359	mesoduodenum
 UBERON_0000160	UBERON_0006574	pectinate line
+UBERON_0000160	UBERON_0007158	lumen of anal canal
+UBERON_0000160	UBERON_0007159	lumen of colon
 UBERON_0000160	UBERON_0007177	lamina propria of mucosa of colon
 UBERON_0000160	UBERON_0007178	muscularis mucosae of colon
 UBERON_0000160	UBERON_0008342	intestinal villus of duodenum
@@ -923,6 +954,7 @@ UBERON_0000160	UBERON_0008971	left colon
 UBERON_0000160	UBERON_0008972	right colon
 UBERON_0000160	UBERON_0009130	dorsal meso-duodenum
 UBERON_0000160	UBERON_0009566	intestinal submucosa
+UBERON_0000160	UBERON_0009670	rectal lumen
 UBERON_0000160	UBERON_0009697	epithelium of appendix
 UBERON_0000160	UBERON_0009882	anal column
 UBERON_0000160	UBERON_0010016	spiral valve of intestine
@@ -935,6 +967,7 @@ UBERON_0000160	UBERON_0011198	muscle layer of large intestine
 UBERON_0000160	UBERON_0011201	muscle layer of small intestine
 UBERON_0000160	UBERON_0012271	major duodenal papilla
 UBERON_0000160	UBERON_0012272	minor duodenal papilla
+UBERON_0000160	UBERON_0012273	periampullary region of duodenum
 UBERON_0000160	UBERON_0012367	muscle layer of intestine
 UBERON_0000160	UBERON_0012377	muscle layer of jejunum
 UBERON_0000160	UBERON_0012398	large intestine smooth muscle circular layer
@@ -960,6 +993,7 @@ UBERON_0000160	UBERON_0013483	crypt of Lieberkuhn of jejunum
 UBERON_0000160	UBERON_0013485	crypt of Lieberkuhn of colon
 UBERON_0000160	UBERON_0013486	crypt of Lieberkuhn of appendix
 UBERON_0000160	UBERON_0013636	epithelium of intestinal villus
+UBERON_0000160	UBERON_0013644	duodenal ampulla
 UBERON_0000160	UBERON_0013689	appendix lymphoid tissue
 UBERON_0000160	UBERON_0013695	colon endothelium
 UBERON_0000160	UBERON_0013739	base of crypt of Lieberkuhn
@@ -971,6 +1005,7 @@ UBERON_0000160	UBERON_0013744	wall of crypt of Lieberkuhn of small intestine
 UBERON_0000160	UBERON_0014390	muscle layer of ileum
 UBERON_0000160	UBERON_0015716	anal canal epithelium
 UBERON_0000160	UBERON_0015834	duodenum lamina propria
+UBERON_0000160	UBERON_0016512	lumen of duodenum
 UBERON_0000160	UBERON_0016517	lumen of jejunum
 UBERON_0000160	UBERON_0016519	muscularis mucosae of jejunum
 UBERON_0000160	UBERON_0017626	transverse folds of rectum
@@ -978,6 +1013,7 @@ UBERON_0000160	UBERON_0017627	rectal valve
 UBERON_0000160	UBERON_0018111	muscle layer of rectum
 UBERON_0000160	UBERON_0018112	rectum smooth muscle tissue
 UBERON_0000160	UBERON_0018410	lacteal
+UBERON_0000160	UBERON_0018543	lumen of intestine
 UBERON_0000160	UBERON_0022275	colic flexure
 UBERON_0000160	UBERON_0022276	splenic flexure of colon
 UBERON_0000160	UBERON_0022277	hepatic flexure of colon
@@ -1304,7 +1340,6 @@ UBERON_0000344	UBERON_0035967	alveolar mucosa
 UBERON_0000344	UBERON_2005126	intestinal bulb epithelium
 UBERON_0000344	UBERON_2005256	intervillus pockets
 UBERON_0000922	UBERON_0000076	external ectoderm
-UBERON_0000922	UBERON_0000085	morula
 UBERON_0000922	UBERON_0000087	inner cell mass
 UBERON_0000922	UBERON_0000088	trophoblast
 UBERON_0000922	UBERON_0000089	hypoblast (generic)
@@ -1313,7 +1348,6 @@ UBERON_0000922	UBERON_0000095	cardiac neural crest
 UBERON_0000922	UBERON_0000100	blastopore
 UBERON_0000922	UBERON_0000163	embryonic cloaca
 UBERON_0000922	UBERON_0000164	primitive urogenital sinus
-UBERON_0000922	UBERON_0000307	blastula
 UBERON_0000922	UBERON_0000319	cytotrophoblast
 UBERON_0000922	UBERON_0000323	late embryo
 UBERON_0000922	UBERON_0000358	blastocyst
@@ -1425,6 +1459,7 @@ UBERON_0000922	UBERON_0003420	mesenchyme of sublingual gland
 UBERON_0000922	UBERON_0003421	mesenchyme of vomeronasal organ
 UBERON_0000922	UBERON_0003424	mesenchyme of hard palate
 UBERON_0000922	UBERON_0003820	prostate bud
+UBERON_0000922	UBERON_0003842	neural tube lumen
 UBERON_0000922	UBERON_0003849	mesencephalic neural crest
 UBERON_0000922	UBERON_0003850	telencephalon neural crest
 UBERON_0000922	UBERON_0003851	diencephalon neural crest
@@ -1437,6 +1472,7 @@ UBERON_0000922	UBERON_0003858	lower eyelid mesenchyme
 UBERON_0000922	UBERON_0003869	presumptive ganglion
 UBERON_0000922	UBERON_0003886	future coelemic cavity lumen
 UBERON_0000922	UBERON_0003887	intraembryonic coelom
+UBERON_0000922	UBERON_0003890	Mullerian duct
 UBERON_0000922	UBERON_0003894	liver primordium
 UBERON_0000922	UBERON_0003907	left atrioventricular canal
 UBERON_0000922	UBERON_0003908	right atrioventricular canal
@@ -1481,10 +1517,8 @@ UBERON_0000922	UBERON_0004362	pharyngeal arch 1
 UBERON_0000922	UBERON_0004363	pharyngeal arch artery
 UBERON_0000922	UBERON_0004364	ectoplacental cone
 UBERON_0000922	UBERON_0004368	Reichert's cartilage
-UBERON_0000922	UBERON_0004455	neurula embryo
 UBERON_0000922	UBERON_0004706	bulbus cordis
 UBERON_0000922	UBERON_0004731	neuromere
-UBERON_0000922	UBERON_0004734	gastrula
 UBERON_0000922	UBERON_0004735	archenteron
 UBERON_0000922	UBERON_0004749	blastodisc
 UBERON_0000922	UBERON_0004750	blastoderm
@@ -1507,6 +1541,7 @@ UBERON_0000922	UBERON_0005070	anterior neuropore
 UBERON_0000922	UBERON_0005071	posterior neuropore
 UBERON_0000922	UBERON_0005077	neuropore
 UBERON_0000922	UBERON_0005078	lamina terminalis of neural tube
+UBERON_0000922	UBERON_0005079	eggshell
 UBERON_0000922	UBERON_0005085	ectodermal placode
 UBERON_0000922	UBERON_0005086	hair follicle placode
 UBERON_0000922	UBERON_0005087	tooth placode
@@ -1531,6 +1566,7 @@ UBERON_0000922	UBERON_0005294	gonadal ridge
 UBERON_0000922	UBERON_0005295	sex cord
 UBERON_0000922	UBERON_0005296	ovary sex cord
 UBERON_0000922	UBERON_0005297	testis sex cord
+UBERON_0000922	UBERON_0005307	chorion-containing eggshell
 UBERON_0000922	UBERON_0005311	mammary placode
 UBERON_0000922	UBERON_0005344	peritoneal vaginal process
 UBERON_0000922	UBERON_0005414	zone of polarizing activity
@@ -1715,7 +1751,6 @@ UBERON_0000922	UBERON_0006307	urogenital membrane
 UBERON_0000922	UBERON_0006309	venous vitelline plexus
 UBERON_0000922	UBERON_0006310	vitelline venous plexus
 UBERON_0000922	UBERON_0006358	vasa hyaloidea propria
-UBERON_0000922	UBERON_0006594	gubernacular cord
 UBERON_0000922	UBERON_0006595	presumptive endoderm
 UBERON_0000922	UBERON_0006596	presumptive blood
 UBERON_0000922	UBERON_0006598	presumptive structure
@@ -1800,8 +1835,8 @@ UBERON_0000922	UBERON_0008816	embryonic head
 UBERON_0000922	UBERON_0008817	thymus primordium endoderm
 UBERON_0000922	UBERON_0008835	hepatic diverticulum
 UBERON_0000922	UBERON_0008842	suspensory ligament of testis
-UBERON_0000922	UBERON_0008843	gubernaculum testis
 UBERON_0000922	UBERON_0008844	gubernaculum (female)
+UBERON_0000922	UBERON_0008851	ectoplacental cavity
 UBERON_0000922	UBERON_0008896	post-hyoid pharyngeal arch
 UBERON_0000922	UBERON_0008944	albumen
 UBERON_0000922	UBERON_0009117	indifferent gonad
@@ -1871,8 +1906,10 @@ UBERON_0000922	UBERON_0009617	head paraxial mesoderm
 UBERON_0000922	UBERON_0009618	trunk paraxial mesoderm
 UBERON_0000922	UBERON_0009620	tail bud paraxial mesoderm
 UBERON_0000922	UBERON_0009668	ventral mesentery
+UBERON_0000922	UBERON_0009669	embryonic cloacal lumen
 UBERON_0000922	UBERON_0009676	early telencephalic vesicle
 UBERON_0000922	UBERON_0009714	intermaxillary process
+UBERON_0000922	UBERON_0009715	stomodeal lumen
 UBERON_0000922	UBERON_0009722	entire pharyngeal arch endoderm
 UBERON_0000922	UBERON_0009742	proamniotic cavity
 UBERON_0000922	UBERON_0009746	head fold of embryonic disc
@@ -1883,6 +1920,7 @@ UBERON_0000922	UBERON_0009771	left anterior cardinal vein
 UBERON_0000922	UBERON_0009772	right anterior cardinal vein
 UBERON_0000922	UBERON_0009840	lower rhombic lip
 UBERON_0000922	UBERON_0009841	upper rhombic lip
+UBERON_0000922	UBERON_0009844	urogenital sinus lumen
 UBERON_0000922	UBERON_0009846	embryonic cloacal epithelium
 UBERON_0000922	UBERON_0009847	prostate field
 UBERON_0000922	UBERON_0009881	anterior lateral plate mesoderm
@@ -2002,6 +2040,7 @@ UBERON_0000922	UBERON_0011765	jugular lymph sac
 UBERON_0000922	UBERON_0011783	feather follicle placode
 UBERON_0000922	UBERON_0011814	non-neurogenic ectodermal placode
 UBERON_0000922	UBERON_0011817	skin appendage placode
+UBERON_0000922	UBERON_0011819	lumen of atrioventricular canal
 UBERON_0000922	UBERON_0011919	yolk sac blood island
 UBERON_0000922	UBERON_0012081	patella pre-cartilage condensation
 UBERON_0000922	UBERON_0012168	umbilical cord blood
@@ -2012,7 +2051,6 @@ UBERON_0000922	UBERON_0012292	embryonic cloacal fold
 UBERON_0000922	UBERON_0012312	maxillary process ectoderm
 UBERON_0000922	UBERON_0012313	1st arch maxillary ectoderm
 UBERON_0000922	UBERON_0012314	embryonic facial prominence
-UBERON_0000922	UBERON_0012326	gubernacular bulb
 UBERON_0000922	UBERON_0012471	hepatogastric ligament
 UBERON_0000922	UBERON_0012472	hepatoduodenal ligament
 UBERON_0000922	UBERON_0013124	left posterior cardinal vein
@@ -2037,6 +2075,7 @@ UBERON_0000922	UBERON_0013526	otocyst lumen
 UBERON_0000922	UBERON_0014371	future telencephalon
 UBERON_0000922	UBERON_0014374	embryoid body
 UBERON_0000922	UBERON_0014702	frontonasal process epithelium
+UBERON_0000922	UBERON_0014704	pleuroperitoneal canal lumen
 UBERON_0000922	UBERON_0014705	median lingual swelling epithelium
 UBERON_0000922	UBERON_0014709	carapace primordium
 UBERON_0000922	UBERON_0014710	carapacial ridge
@@ -2057,23 +2096,18 @@ UBERON_0000922	UBERON_0016611	auditory hillocks, pharyngeal arch 1 derived
 UBERON_0000922	UBERON_0016612	auditory hillocks, pharyngeal arch 2 derived
 UBERON_0000922	UBERON_0016879	future central nervous system
 UBERON_0000922	UBERON_0016880	future nervous system
+UBERON_0000922	UBERON_0017616	afferent spiracular artery
+UBERON_0000922	UBERON_0017617	efferent spiracular artery
 UBERON_0000922	UBERON_0017638	primitive marginal sinus
 UBERON_0000922	UBERON_0017639	sinus of von Szily
 UBERON_0000922	UBERON_0017651	salivary gland primordium
 UBERON_0000922	UBERON_0018239	rhombomere boundary
 UBERON_0000922	UBERON_0018264	dorsal lateral ganglionic eminence
-UBERON_0000922	UBERON_0019248	early embryo
-UBERON_0000922	UBERON_0019249	2-cell stage embryo
-UBERON_0000922	UBERON_0019250	4-8 cell stage embryo
-UBERON_0000922	UBERON_0019251	4-cell stage embryo
-UBERON_0000922	UBERON_0019252	8-cell stage embryo
 UBERON_0000922	UBERON_0019272	mesomere 1
 UBERON_0000922	UBERON_0019274	mesomere 2
 UBERON_0000922	UBERON_0019284	rhombomere 9
 UBERON_0000922	UBERON_0019285	rhombomere 10
 UBERON_0000922	UBERON_0019286	rhombomere 11
-UBERON_0000922	UBERON_0034694	gubernacular bulb, intra-abdominal part
-UBERON_0000922	UBERON_0034695	gubernacular bulb, extra-abdominal part
 UBERON_0000922	UBERON_0034708	cerebellum marginal layer
 UBERON_0000922	UBERON_0034709	hindbrain marginal layer
 UBERON_0000922	UBERON_0034710	spinal cord ventricular layer
@@ -2088,6 +2122,7 @@ UBERON_0000922	UBERON_0034995	jaw mesenchyme
 UBERON_0000922	UBERON_0035004	preputial swelling
 UBERON_0000922	UBERON_0035005	preputial swelling of male
 UBERON_0000922	UBERON_0035006	preputial swelling of female
+UBERON_0000922	UBERON_0035147	axochord
 UBERON_0000922	UBERON_0035148	presumptive axochord
 UBERON_0000922	UBERON_0035186	valve of foramen ovale
 UBERON_0000922	UBERON_0035597	profundal placode
@@ -2112,6 +2147,7 @@ UBERON_0000922	UBERON_2000088	YSL
 UBERON_0000922	UBERON_2000090	apical ectodermal ridge dorsal fin
 UBERON_0000922	UBERON_2000106	extension
 UBERON_0000922	UBERON_2000139	immature otolith
+UBERON_0000922	UBERON_2000202	efferent portion of pharyngeal arch artery
 UBERON_0000922	UBERON_2000225	lateral crista primordium
 UBERON_0000922	UBERON_2000232	lateral semicircular canal primordium
 UBERON_0000922	UBERON_2000309	E-YSL
@@ -2121,6 +2157,7 @@ UBERON_0000922	UBERON_2000414	presumptive cephalic mesoderm
 UBERON_0000922	UBERON_2000469	anterior semicircular canal primordium
 UBERON_0000922	UBERON_2000711	DEL
 UBERON_0000922	UBERON_2000712	I-YSL
+UBERON_0000922	UBERON_2000716	afferent portion of pharyngeal arch artery
 UBERON_0000922	UBERON_2000717	apical ectodermal ridge median fin fold
 UBERON_0000922	UBERON_2000820	presumptive neuron neural tube
 UBERON_0000922	UBERON_2000887	floor plate neural rod
@@ -2153,6 +2190,12 @@ UBERON_0000922	UBERON_2002216	otic vesicle ventral protrusion
 UBERON_0000922	UBERON_2002229	presumptive atrium primitive heart tube
 UBERON_0000922	UBERON_2002232	presumptive cardiac ventricle primitive heart tube
 UBERON_0000922	UBERON_2002235	presumptive ventral mesoderm
+UBERON_0000922	UBERON_2005012	afferent filamental artery
+UBERON_0000922	UBERON_2005013	concurrent branch afferent branchial artery
+UBERON_0000922	UBERON_2005014	recurrent branch afferent branchial artery
+UBERON_0000922	UBERON_2005015	afferent lamellar arteriole
+UBERON_0000922	UBERON_2005018	efferent filamental artery
+UBERON_0000922	UBERON_2005019	efferent lamellar arteriole
 UBERON_0000922	UBERON_2005039	anterior lateral mesoderm
 UBERON_0000922	UBERON_2005066	bulbus arteriosus outer layer
 UBERON_0000922	UBERON_2005067	bulbus arteriosus middle layer
@@ -2210,6 +2253,12 @@ UBERON_0000922	UBERON_4000028	integumentary papilla
 UBERON_0000922	UBERON_4000030	oropharyngeal papilla
 UBERON_0000922	UBERON_4300172	pectoral fin bud
 UBERON_0000922	UBERON_4300173	pelvic fin bud
+UBERON_0000922	UBERON_4300226	forelimb bud mesenchyme
+UBERON_0000922	UBERON_4300227	hindlimb bud mesenchyme
+UBERON_0000922	UBERON_4300228	pectoral fin bud mesenchyme
+UBERON_0000922	UBERON_4300229	pelvic fin bud mesenchyme
+UBERON_0000922	UBERON_4300230	forelimb wing bud
+UBERON_0000922	UBERON_4300231	forelimb wing bud mesenchyme
 UBERON_0000922	UBERON_6000000	germ layer derivative
 UBERON_0000922	UBERON_6000094	clypeo-labral anlage in statu nascendi
 UBERON_0000922	UBERON_6000096	ventral furrow
@@ -2290,6 +2339,20 @@ UBERON_0000922	UBERON_6007070	centro-posterior medial synaptic neuropil domain
 UBERON_0000922	UBERON_6007116	presumptive embryonic/larval system
 UBERON_0000922	UBERON_6016022	abdominal histoblast primordium
 UBERON_0000922	UBERON_6017021	abdominal histoblast anlage
+UBERON_0000922	UBERON_0000085	morula
+UBERON_0000922	UBERON_0000307	blastula
+UBERON_0000922	UBERON_0004455	neurula embryo
+UBERON_0000922	UBERON_0004734	gastrula
+UBERON_0000922	UBERON_0006594	gubernacular cord
+UBERON_0000922	UBERON_0008843	gubernaculum testis
+UBERON_0000922	UBERON_0012326	gubernacular bulb
+UBERON_0000922	UBERON_0019248	early embryo
+UBERON_0000922	UBERON_0019249	2-cell stage embryo
+UBERON_0000922	UBERON_0019250	4-8 cell stage embryo
+UBERON_0000922	UBERON_0019251	4-cell stage embryo
+UBERON_0000922	UBERON_0019252	8-cell stage embryo
+UBERON_0000922	UBERON_0034694	gubernacular bulb, intra-abdominal part
+UBERON_0000922	UBERON_0034695	gubernacular bulb, extra-abdominal part
 UBERON_0000945	UBERON_0000325	gastric gland
 UBERON_0000945	UBERON_0000424	gastric pit
 UBERON_0000945	UBERON_0001160	fundus of stomach
@@ -2367,9 +2430,11 @@ UBERON_0000945	UBERON_0012472	hepatoduodenal ligament
 UBERON_0000945	UBERON_0012503	serosa of fundus of stomach
 UBERON_0000945	UBERON_0012650	gastroduodenal junction
 UBERON_0000945	UBERON_0012651	mucosa of gastroduodenal junction
+UBERON_0000945	UBERON_0013525	stomach lumen
 UBERON_0000945	UBERON_0014510	lamina of omasum
 UBERON_0000945	UBERON_0015142	falciform fat
 UBERON_0000945	UBERON_0016501	muscularis mucosae of fundus of stomach
+UBERON_0000945	UBERON_0016502	stomach fundus lumen
 UBERON_0000945	UBERON_0016511	lamina propria of fundus of stomach
 UBERON_0000948	UBERON_0000946	cardial valve
 UBERON_0000948	UBERON_0001081	endocardium of ventricle
@@ -2469,6 +2534,8 @@ UBERON_0000948	UBERON_0005063	left ventricular compact myocardium
 UBERON_0000948	UBERON_0005064	left ventricular trabecular myocardium
 UBERON_0000948	UBERON_0005065	right ventricular compact myocardium
 UBERON_0000948	UBERON_0005066	right ventricular trabecular myocardium
+UBERON_0000948	UBERON_0005091	left horn of sinus venosus
+UBERON_0000948	UBERON_0005092	right horn of sinus venosus
 UBERON_0000948	UBERON_0005208	right atrium valve
 UBERON_0000948	UBERON_0005243	interventricular septum endocardium
 UBERON_0000948	UBERON_0005248	bulbus cordis myocardium
@@ -2558,6 +2625,7 @@ UBERON_0000948	UBERON_0011007	endocardium of right auricle
 UBERON_0000948	UBERON_0011741	cardiac valve leaflet
 UBERON_0000948	UBERON_0011742	aortic valve leaflet
 UBERON_0000948	UBERON_0011745	pulmonary valve leaflets
+UBERON_0000948	UBERON_0011819	lumen of atrioventricular canal
 UBERON_0000948	UBERON_0011820	atrioventricular region
 UBERON_0000948	UBERON_0011897	cardiac endomysium
 UBERON_0000948	UBERON_0013152	interventricular foramen of heart
@@ -2575,6 +2643,10 @@ UBERON_0000948	UBERON_0015129	epicardial fat
 UBERON_0000948	UBERON_0015224	interventricular foramen intermedium
 UBERON_0000948	UBERON_0015225	atrial foramen intermedium
 UBERON_0000948	UBERON_0015226	bulbar spiral septum
+UBERON_0000948	UBERON_0016509	cavity of right ventricle
+UBERON_0000948	UBERON_0016513	cavity of left atrium
+UBERON_0000948	UBERON_0016514	cavity of left ventricle
+UBERON_0000948	UBERON_0016522	cavity of right atrium
 UBERON_0000948	UBERON_0018649	cardiac muscle tissue of ventricle
 UBERON_0000948	UBERON_0018674	heart vasculature
 UBERON_0000948	UBERON_0034697	inflow tract
@@ -2590,11 +2662,18 @@ UBERON_0000948	UBERON_0035395	branch of left coronary artery
 UBERON_0000948	UBERON_0035422	circumflex branch of left coronary artery
 UBERON_0000948	UBERON_0035553	left cardiac chamber
 UBERON_0000948	UBERON_0035554	right cardiac chamber
+UBERON_0000948	UBERON_0035763	cavity of cardiac chamber
 UBERON_0000948	UBERON_0035835	apical region of left ventricle
 UBERON_0000948	UBERON_0035836	apical region of right ventricle
 UBERON_0000948	UBERON_0035837	apical region of heart ventricle
 UBERON_0000948	UBERON_0036066	inferior endocardial cushion
 UBERON_0000948	UBERON_0036067	superior endocardial cushion
+UBERON_0000948	UBERON_0036285	wall of left ventricle
+UBERON_0000948	UBERON_0036286	wall of right ventricle
+UBERON_0000948	UBERON_0036288	anterior wall of left ventricle
+UBERON_0000948	UBERON_0036289	anterior wall of right ventricle
+UBERON_0000948	UBERON_0036290	myocardium of anterior wall of left ventricle
+UBERON_0000948	UBERON_0036291	myocardium of anterior wall of right ventricle
 UBERON_0000948	UBERON_2000214	hypobranchial vessel
 UBERON_0000948	UBERON_2005066	bulbus arteriosus outer layer
 UBERON_0000948	UBERON_2005067	bulbus arteriosus middle layer
@@ -2623,7 +2702,6 @@ UBERON_0000955	UBERON_0000935	anterior commissure
 UBERON_0000955	UBERON_0000936	posterior commissure
 UBERON_0000955	UBERON_0000956	cerebral cortex
 UBERON_0000955	UBERON_0001063	flocculus
-UBERON_0000955	UBERON_0001384	primary motor cortex
 UBERON_0000955	UBERON_0001663	cerebral vein
 UBERON_0000955	UBERON_0001664	inferior cerebral vein
 UBERON_0000955	UBERON_0001672	anterior cerebral vein
@@ -2679,6 +2757,7 @@ UBERON_0000955	UBERON_0001947	red nucleus
 UBERON_0000955	UBERON_0001950	neocortex
 UBERON_0000955	UBERON_0001965	substantia nigra pars compacta
 UBERON_0000955	UBERON_0001966	substantia nigra pars reticulata
+UBERON_0000955	UBERON_0002022	insula
 UBERON_0000955	UBERON_0002023	claustrum of brain
 UBERON_0000955	UBERON_0002034	suprachiasmatic nucleus
 UBERON_0000955	UBERON_0002035	medial preoptic nucleus
@@ -2801,7 +2880,6 @@ UBERON_0000955	UBERON_0002650	paralaminar part of medial dorsal nucleus
 UBERON_0000955	UBERON_0002651	anterior horn of lateral ventricle
 UBERON_0000955	UBERON_0002654	parvicellular part of medial dorsal nucleus
 UBERON_0000955	UBERON_0002655	body of lateral ventricle
-UBERON_0000955	UBERON_0002661	superior frontal gyrus
 UBERON_0000955	UBERON_0002664	lateral part of medial mammillary nucleus
 UBERON_0000955	UBERON_0002666	mesencephalic tract of trigeminal nerve
 UBERON_0000955	UBERON_0002667	lateral septal nucleus
@@ -2847,6 +2925,7 @@ UBERON_0000955	UBERON_0002719	spino-olivary tract
 UBERON_0000955	UBERON_0002721	lateral sulcus
 UBERON_0000955	UBERON_0002722	trochlear nucleus
 UBERON_0000955	UBERON_0002723	mammillary princeps fasciculus
+UBERON_0000955	UBERON_0002724	limen of insula
 UBERON_0000955	UBERON_0002727	medial medullary lamina of globus pallidus
 UBERON_0000955	UBERON_0002729	claustral amygdaloid area
 UBERON_0000955	UBERON_0002732	longitudinal pontine fibers
@@ -2880,8 +2959,6 @@ UBERON_0000955	UBERON_0002797	dorsal trigeminal tract
 UBERON_0000955	UBERON_0002798	spinothalamic tract of pons
 UBERON_0000955	UBERON_0002799	fronto-orbital sulcus
 UBERON_0000955	UBERON_0002800	spinal trigeminal tract of pons
-UBERON_0000955	UBERON_0002810	right frontal lobe
-UBERON_0000955	UBERON_0002811	left frontal lobe
 UBERON_0000955	UBERON_0002814	posterior superior fissure of cerebellum
 UBERON_0000955	UBERON_0002815	horizontal fissure of cerebellum
 UBERON_0000955	UBERON_0002816	prepyramidal fissure of cerebellum
@@ -3127,6 +3204,7 @@ UBERON_0000955	UBERON_0006795	arthropod optic lobe
 UBERON_0000955	UBERON_0006796	cephalopod optic lobe
 UBERON_0000955	UBERON_0006840	nucleus of lateral lemniscus
 UBERON_0000955	UBERON_0006848	posterior pretectal nucleus
+UBERON_0000955	UBERON_0007225	lateral entorhinal cortex
 UBERON_0000955	UBERON_0007227	superior vestibular nucleus
 UBERON_0000955	UBERON_0007228	vestibular nucleus
 UBERON_0000955	UBERON_0007230	lateral vestibular nucleus
@@ -3179,6 +3257,7 @@ UBERON_0000955	UBERON_0009776	intermediate reticular formation
 UBERON_0000955	UBERON_0009777	intermediate reticular nucleus
 UBERON_0000955	UBERON_0009834	dorsolateral prefrontal cortex
 UBERON_0000955	UBERON_0009836	fronto-orbital gyrus
+UBERON_0000955	UBERON_0009857	cavum septum pellucidum
 UBERON_0000955	UBERON_0009918	retrotrapezoid nucleus
 UBERON_0000955	UBERON_0010009	aggregate regional part of brain
 UBERON_0000955	UBERON_0010010	basal nucleus of telencephalon
@@ -3205,7 +3284,6 @@ UBERON_0000955	UBERON_0012170	core of nucleus accumbens
 UBERON_0000955	UBERON_0012171	shell of nucleus accumbens
 UBERON_0000955	UBERON_0013161	left lateral ventricle
 UBERON_0000955	UBERON_0013162	right lateral ventricle
-UBERON_0000955	UBERON_0013535	Brodmann (1909) area 4
 UBERON_0000955	UBERON_0013540	Brodmann (1909) area 9
 UBERON_0000955	UBERON_0013541	Brodmann (1909) area 10
 UBERON_0000955	UBERON_0013545	Brodmann (1909) area 14
@@ -3270,8 +3348,6 @@ UBERON_0000955	UBERON_0014602	paraventricular nucleus of the hypothalamus descen
 UBERON_0000955	UBERON_0014603	paraventricular nucleus of the hypothalamus magnocellular division
 UBERON_0000955	UBERON_0014604	paraventricular nucleus of the hypothalamus parvicellular division
 UBERON_0000955	UBERON_0014605	fundus striati
-UBERON_0000955	UBERON_0014618	middle frontal sulcus
-UBERON_0000955	UBERON_0014639	frontal sulcus
 UBERON_0000955	UBERON_0014644	cerebrocerebellum
 UBERON_0000955	UBERON_0014645	nucleus H of ventral tegmentum
 UBERON_0000955	UBERON_0014646	nucleus K of ventral tegmentum
@@ -3298,13 +3374,16 @@ UBERON_0000955	UBERON_0015234	nucleus of ventral thalamus
 UBERON_0000955	UBERON_0015250	inferior olivary commissure
 UBERON_0000955	UBERON_0015510	body of corpus callosum
 UBERON_0000955	UBERON_0015593	frontal gyrus
+UBERON_0000955	UBERON_0015599	genu of corpus callosum
 UBERON_0000955	UBERON_0015703	rostrum of corpus callosum
+UBERON_0000955	UBERON_0015708	splenium of the corpus callosum
 UBERON_0000955	UBERON_0015828	cerebellum ventricular layer
 UBERON_0000955	UBERON_0016529	cortex of cerebral lobe
 UBERON_0000955	UBERON_0016559	superficial cerebral vein
 UBERON_0000955	UBERON_0016564	deep cerebral vein
 UBERON_0000955	UBERON_0016565	cerebral blood vessel
 UBERON_0000955	UBERON_0016633	parvocellular reticular nucleus
+UBERON_0000955	UBERON_0016634	premotor cortex
 UBERON_0000955	UBERON_0016635	paragigantocellular nucleus
 UBERON_0000955	UBERON_0016637	lateral periolivary nucleus
 UBERON_0000955	UBERON_0016641	subparafascicular nucleus
@@ -3334,12 +3413,9 @@ UBERON_0000955	UBERON_0022252	precentral sulcus
 UBERON_0000955	UBERON_0022258	endolemniscal nucleus
 UBERON_0000955	UBERON_0022272	corticobulbar tract
 UBERON_0000955	UBERON_0022283	pineal recess of third ventricle
-UBERON_0000955	UBERON_0022315	primary motor cortex layer 5
-UBERON_0000955	UBERON_0022316	primary motor cortex layer 6
 UBERON_0000955	UBERON_0022319	lateral geniculate nucleus parvocellular layer
 UBERON_0000955	UBERON_0022320	dorsal cochlear nucleus pyramidal cell layer
 UBERON_0000955	UBERON_0022326	molecular layer of dorsal cochlear nucleus
-UBERON_0000955	UBERON_0022352	medial orbital frontal cortex
 UBERON_0000955	UBERON_0022367	inferior lateral occipital cortex
 UBERON_0000955	UBERON_0022368	superior lateral occipital cortex
 UBERON_0000955	UBERON_0022398	paracingulate gyrus
@@ -3412,10 +3488,13 @@ UBERON_0000955	UBERON_0029005	striosomal part of putamen
 UBERON_0000955	UBERON_0029009	granular cell layer of dorsal cochlear nucleus
 UBERON_0000955	UBERON_0034672	lateral eminence of fourth ventricle
 UBERON_0000955	UBERON_0034673	amygdalohippocampal area
+UBERON_0000955	UBERON_0034676	forceps major of corpus callosum
 UBERON_0000955	UBERON_0034678	forceps minor of corpus callosum
 UBERON_0000955	UBERON_0034730	olfactory tract linking bulb to ipsilateral dorsal telencephalon
 UBERON_0000955	UBERON_0034763	hindbrain commissure
-UBERON_0000955	UBERON_0034888	primary motor cortex layer 1
+UBERON_0000955	UBERON_0034891	insular cortex
+UBERON_0000955	UBERON_0034892	granular insular cortex
+UBERON_0000955	UBERON_0034893	agranular insular cortex
 UBERON_0000955	UBERON_0034894	lateral nucleus of stria terminalis
 UBERON_0000955	UBERON_0034895	medial nucleus of stria terminalis
 UBERON_0000955	UBERON_0034910	medial pretectal nucleus
@@ -3606,6 +3685,7 @@ UBERON_0000955	UBERON_6007145	adult protocerebrum
 UBERON_0000955	UBERON_6110636	adult cerebral ganglion
 UBERON_0000955	UBERON_0000007	pituitary gland
 UBERON_0000955	UBERON_0000128	olivary body
+UBERON_0000955	UBERON_0000200	gyrus
 UBERON_0000955	UBERON_0000203	pallium
 UBERON_0000955	UBERON_0000204	ventral part of telencephalon
 UBERON_0000955	UBERON_0000349	limbic system
@@ -3616,8 +3696,12 @@ UBERON_0000955	UBERON_0000959	optic chiasma
 UBERON_0000955	UBERON_0000988	pons
 UBERON_0000955	UBERON_0001058	mushroom body
 UBERON_0000955	UBERON_0001059	pars intercerebralis
+UBERON_0000955	UBERON_0001384	primary motor cortex
 UBERON_0000955	UBERON_0001393	auditory cortex
 UBERON_0000955	UBERON_0001699	sensory root of facial nerve
+UBERON_0000955	UBERON_0001869	cerebral hemisphere
+UBERON_0000955	UBERON_0001871	temporal lobe
+UBERON_0000955	UBERON_0001872	parietal lobe
 UBERON_0000955	UBERON_0001885	dentate gyrus of hippocampal formation
 UBERON_0000955	UBERON_0001887	internal capsule of telencephalon
 UBERON_0000955	UBERON_0001890	forebrain
@@ -3640,7 +3724,7 @@ UBERON_0000955	UBERON_0001945	superior colliculus
 UBERON_0000955	UBERON_0001946	inferior colliculus
 UBERON_0000955	UBERON_0001953	presubiculum
 UBERON_0000955	UBERON_0001954	Ammon's horn
-UBERON_0000955	UBERON_0002022	insula
+UBERON_0000955	UBERON_0002021	occipital lobe
 UBERON_0000955	UBERON_0002028	hindbrain
 UBERON_0000955	UBERON_0002037	cerebellum
 UBERON_0000955	UBERON_0002092	brain dura mater
@@ -3681,9 +3765,13 @@ UBERON_0000955	UBERON_0002550	anterior hypothalamic region
 UBERON_0000955	UBERON_0002555	intermediate hypothalamic region
 UBERON_0000955	UBERON_0002560	temporal operculum
 UBERON_0000955	UBERON_0002562	superior frontal sulcus
+UBERON_0000955	UBERON_0002564	lateral orbital gyrus
 UBERON_0000955	UBERON_0002567	basal part of pons
+UBERON_0000955	UBERON_0002570	medial orbital gyrus
+UBERON_0000955	UBERON_0002575	posterior orbital gyrus
 UBERON_0000955	UBERON_0002576	temporal pole
 UBERON_0000955	UBERON_0002580	brachium of superior colliculus
+UBERON_0000955	UBERON_0002581	postcentral gyrus
 UBERON_0000955	UBERON_0002582	anterior calcarine sulcus
 UBERON_0000955	UBERON_0002586	calcarine sulcus
 UBERON_0000955	UBERON_0002588	decussation of superior cerebellar peduncle
@@ -3691,6 +3779,10 @@ UBERON_0000955	UBERON_0002590	prepyriform area
 UBERON_0000955	UBERON_0002592	juxtarestiform body
 UBERON_0000955	UBERON_0002593	orbital operculum
 UBERON_0000955	UBERON_0002598	paracentral sulcus
+UBERON_0000955	UBERON_0002599	medial olfactory gyrus
+UBERON_0000955	UBERON_0002600	limbic lobe
+UBERON_0000955	UBERON_0002601	fasciolar gyrus
+UBERON_0000955	UBERON_0002603	paraterminal gyrus
 UBERON_0000955	UBERON_0002605	precentral operculum
 UBERON_0000955	UBERON_0002607	superior rostral sulcus
 UBERON_0000955	UBERON_0002615	ventral tegmental decussation
@@ -3700,6 +3792,7 @@ UBERON_0000955	UBERON_0002620	tuber cinereum
 UBERON_0000955	UBERON_0002623	cerebral peduncle
 UBERON_0000955	UBERON_0002631	cerebral crus
 UBERON_0000955	UBERON_0002643	decussation of medial lemniscus
+UBERON_0000955	UBERON_0002644	intermediate orbital gyrus
 UBERON_0000955	UBERON_0002646	dorsal longitudinal fasciculus of medulla
 UBERON_0000955	UBERON_0002648	anterior median eminence
 UBERON_0000955	UBERON_0002652	posterior median eminence
@@ -3709,15 +3802,19 @@ UBERON_0000955	UBERON_0002657	posterior parahippocampal gyrus
 UBERON_0000955	UBERON_0002658	medial lemniscus of midbrain
 UBERON_0000955	UBERON_0002659	superior medullary velum
 UBERON_0000955	UBERON_0002660	medial longitudinal fasciculus of midbrain
+UBERON_0000955	UBERON_0002661	superior frontal gyrus
 UBERON_0000955	UBERON_0002662	medial pes lemniscus
 UBERON_0000955	UBERON_0002663	septal nuclear complex
+UBERON_0000955	UBERON_0002665	supracallosal gyrus
 UBERON_0000955	UBERON_0002668	oculomotor nerve root
 UBERON_0000955	UBERON_0002683	rhinal sulcus
+UBERON_0000955	UBERON_0002686	angular gyrus
+UBERON_0000955	UBERON_0002688	supramarginal gyrus
 UBERON_0000955	UBERON_0002689	supraoptic crest
 UBERON_0000955	UBERON_0002691	ventral tegmental area
+UBERON_0000955	UBERON_0002698	preoccipital notch
 UBERON_0000955	UBERON_0002709	posterior nuclear complex of thalamus
 UBERON_0000955	UBERON_0002720	mammillary peduncle
-UBERON_0000955	UBERON_0002724	limen of insula
 UBERON_0000955	UBERON_0002728	entorhinal cortex
 UBERON_0000955	UBERON_0002731	vestibulocochlear nerve root
 UBERON_0000955	UBERON_0002734	superior temporal sulcus
@@ -3727,13 +3824,17 @@ UBERON_0000955	UBERON_0002741	diagonal band of Broca
 UBERON_0000955	UBERON_0002743	basal forebrain
 UBERON_0000955	UBERON_0002748	medial lemniscus of medulla
 UBERON_0000955	UBERON_0002750	medial longitudinal fasciculus of medulla
+UBERON_0000955	UBERON_0002751	inferior temporal gyrus
 UBERON_0000955	UBERON_0002754	predorsal bundle
 UBERON_0000955	UBERON_0002755	pyramidal decussation
 UBERON_0000955	UBERON_0002756	anterior cingulate gyrus
 UBERON_0000955	UBERON_0002761	inferior frontal sulcus
 UBERON_0000955	UBERON_0002762	internal medullary lamina of thalamus
+UBERON_0000955	UBERON_0002766	fusiform gyrus
 UBERON_0000955	UBERON_0002767	inferior rostral sulcus
+UBERON_0000955	UBERON_0002769	superior temporal gyrus
 UBERON_0000955	UBERON_0002770	posterior hypothalamic region
+UBERON_0000955	UBERON_0002771	middle temporal gyrus
 UBERON_0000955	UBERON_0002772	olfactory sulcus
 UBERON_0000955	UBERON_0002773	anterior transverse temporal gyrus
 UBERON_0000955	UBERON_0002774	posterior transverse temporal gyrus
@@ -3745,6 +3846,18 @@ UBERON_0000955	UBERON_0002794	medial longitudinal fasciculus of pons
 UBERON_0000955	UBERON_0002795	frontal pole
 UBERON_0000955	UBERON_0002796	motor root of trigeminal nerve
 UBERON_0000955	UBERON_0002801	stratum zonale of thalamus
+UBERON_0000955	UBERON_0002802	left parietal lobe
+UBERON_0000955	UBERON_0002803	right parietal lobe
+UBERON_0000955	UBERON_0002804	left limbic lobe
+UBERON_0000955	UBERON_0002805	right limbic lobe
+UBERON_0000955	UBERON_0002806	left occipital lobe
+UBERON_0000955	UBERON_0002807	right occipital lobe
+UBERON_0000955	UBERON_0002808	left temporal lobe
+UBERON_0000955	UBERON_0002809	right temporal lobe
+UBERON_0000955	UBERON_0002810	right frontal lobe
+UBERON_0000955	UBERON_0002811	left frontal lobe
+UBERON_0000955	UBERON_0002812	left cerebral hemisphere
+UBERON_0000955	UBERON_0002813	right cerebral hemisphere
 UBERON_0000955	UBERON_0002894	olfactory cortex
 UBERON_0000955	UBERON_0002895	secondary olfactory cortex
 UBERON_0000955	UBERON_0002900	transverse occipital sulcus
@@ -3762,7 +3875,9 @@ UBERON_0000955	UBERON_0002922	olfactory trigone
 UBERON_0000955	UBERON_0002928	dentate gyrus polymorphic layer
 UBERON_0000955	UBERON_0002929	dentate gyrus pyramidal layer
 UBERON_0000955	UBERON_0002932	trapezoid body
+UBERON_0000955	UBERON_0002943	lingual gyrus
 UBERON_0000955	UBERON_0002947	frontal operculum
+UBERON_0000955	UBERON_0002948	superior occipital gyrus
 UBERON_0000955	UBERON_0002952	intermediate acoustic stria
 UBERON_0000955	UBERON_0002954	dorsal hypothalamic area
 UBERON_0000955	UBERON_0002958	medial lemniscus of pons
@@ -3823,6 +3938,7 @@ UBERON_0000955	UBERON_0003882	CA2 field of hippocampus
 UBERON_0000955	UBERON_0003883	CA3 field of hippocampus
 UBERON_0000955	UBERON_0003884	CA4 field of hippocampus
 UBERON_0000955	UBERON_0003931	diencephalic white matter
+UBERON_0000955	UBERON_0003938	sensory dissociation area
 UBERON_0000955	UBERON_0003939	transverse gyrus of Heschl
 UBERON_0000955	UBERON_0003947	brain ventricle/choroid plexus
 UBERON_0000955	UBERON_0003989	medulla oblongata anterior median fissure
@@ -3833,6 +3949,7 @@ UBERON_0000955	UBERON_0004040	cortical intermediate zone
 UBERON_0000955	UBERON_0004069	accessory olfactory bulb
 UBERON_0000955	UBERON_0004186	olfactory bulb mitral cell layer
 UBERON_0000955	UBERON_0004545	external capsule of telencephalon
+UBERON_0000955	UBERON_0004671	gyrus rectus
 UBERON_0000955	UBERON_0004673	trigeminal nerve root
 UBERON_0000955	UBERON_0004674	facial nerve root
 UBERON_0000955	UBERON_0004675	hypoglossal nerve root
@@ -3850,6 +3967,7 @@ UBERON_0000955	UBERON_0004922	postnatal subventricular zone
 UBERON_0000955	UBERON_0005159	pyramid of medulla oblongata
 UBERON_0000955	UBERON_0005290	myelencephalon
 UBERON_0000955	UBERON_0005343	cortical plate
+UBERON_0000955	UBERON_0005366	olfactory lobe
 UBERON_0000955	UBERON_0005367	hippocampus granule cell layer
 UBERON_0000955	UBERON_0005368	hippocampus molecular layer
 UBERON_0000955	UBERON_0005370	hippocampus stratum lacunosum
@@ -3881,8 +3999,11 @@ UBERON_0000955	UBERON_0005978	olfactory bulb outer nerve layer
 UBERON_0000955	UBERON_0006007	pre-Botzinger complex
 UBERON_0000955	UBERON_0006086	stria medullaris
 UBERON_0000955	UBERON_0006087	internal arcuate fiber bundle
+UBERON_0000955	UBERON_0006088	inferior parietal cortex
 UBERON_0000955	UBERON_0006089	dorsal external arcuate fiber bundle
 UBERON_0000955	UBERON_0006090	glossopharyngeal nerve fiber bundle
+UBERON_0000955	UBERON_0006092	cuneus cortex
+UBERON_0000955	UBERON_0006093	precuneus cortex
 UBERON_0000955	UBERON_0006095	anterior transverse temporal area 41
 UBERON_0000955	UBERON_0006096	posterior transverse temporal area 42
 UBERON_0000955	UBERON_0006097	ventral external arcuate fiber bundle
@@ -3929,8 +4050,11 @@ UBERON_0000955	UBERON_0006791	superficial layer of superior colliculus
 UBERON_0000955	UBERON_0006792	intermediate layer of superior colliculus
 UBERON_0000955	UBERON_0006793	deep layer of superior colliculus
 UBERON_0000955	UBERON_0006964	pars distalis of adenohypophysis
+UBERON_0000955	UBERON_0007190	paracentral gyrus
+UBERON_0000955	UBERON_0007191	anterior paracentral gyrus
+UBERON_0000955	UBERON_0007192	posterior paracentral gyrus
+UBERON_0000955	UBERON_0007193	orbital gyrus
 UBERON_0000955	UBERON_0007224	medial entorhinal cortex
-UBERON_0000955	UBERON_0007225	lateral entorhinal cortex
 UBERON_0000955	UBERON_0007334	nidopallium
 UBERON_0000955	UBERON_0007347	hyperpallium
 UBERON_0000955	UBERON_0007349	mesopallium
@@ -3996,6 +4120,7 @@ UBERON_0000955	UBERON_0013528	Brodmann (1909) area 11
 UBERON_0000955	UBERON_0013529	Brodmann area
 UBERON_0000955	UBERON_0013531	retrosplenial region
 UBERON_0000955	UBERON_0013533	Brodmann (1909) area 2
+UBERON_0000955	UBERON_0013535	Brodmann (1909) area 4
 UBERON_0000955	UBERON_0013538	Brodmann (1909) area 7
 UBERON_0000955	UBERON_0013539	Brodmann (1909) area 8
 UBERON_0000955	UBERON_0013543	Brodmann (1909) area 12
@@ -4027,6 +4152,7 @@ UBERON_0000955	UBERON_0014527	posterior limb of internal capsule
 UBERON_0000955	UBERON_0014528	extreme capsule
 UBERON_0000955	UBERON_0014529	lenticular fasciculus
 UBERON_0000955	UBERON_0014531	white matter lamina of diencephalon
+UBERON_0000955	UBERON_0014532	white matter lamina of cerebral hemisphere
 UBERON_0000955	UBERON_0014533	medullary lamina of thalamus
 UBERON_0000955	UBERON_0014534	external medullary lamina of thalamus
 UBERON_0000955	UBERON_0014540	white matter lamina of cerebellum
@@ -4047,6 +4173,10 @@ UBERON_0000955	UBERON_0014560	CA3 stratum lucidum
 UBERON_0000955	UBERON_0014567	layer of hippocampal field
 UBERON_0000955	UBERON_0014570	CA1 alveus
 UBERON_0000955	UBERON_0014571	CA3 alveus
+UBERON_0000955	UBERON_0014608	inferior occipital gyrus
+UBERON_0000955	UBERON_0014618	middle frontal sulcus
+UBERON_0000955	UBERON_0014639	frontal sulcus
+UBERON_0000955	UBERON_0014640	occipital gyrus
 UBERON_0000955	UBERON_0014642	vestibulocerebellum
 UBERON_0000955	UBERON_0014643	spinocerebellum
 UBERON_0000955	UBERON_0014649	white matter of medulla oblongata
@@ -4080,11 +4210,11 @@ UBERON_0000955	UBERON_0015238	pineal complex
 UBERON_0000955	UBERON_0015241	parapineal organ
 UBERON_0000955	UBERON_0015244	accessory olfactory bulb granule cell layer
 UBERON_0000955	UBERON_0015432	accessory olfactory bulb mitral cell layer
-UBERON_0000955	UBERON_0015599	genu of corpus callosum
-UBERON_0000955	UBERON_0015708	splenium of the corpus callosum
 UBERON_0000955	UBERON_0015793	induseum griseum
 UBERON_0000955	UBERON_0015800	taenia tectum of brain
 UBERON_0000955	UBERON_0015829	forebrain ventricular layer
+UBERON_0000955	UBERON_0016525	frontal lobe
+UBERON_0000955	UBERON_0016526	lobe of cerebral hemisphere
 UBERON_0000955	UBERON_0016527	white matter of cerebral lobe
 UBERON_0000955	UBERON_0016528	white matter of frontal lobe
 UBERON_0000955	UBERON_0016530	parietal cortex
@@ -4097,7 +4227,6 @@ UBERON_0000955	UBERON_0016540	occipital cortex
 UBERON_0000955	UBERON_0016542	limbic cortex
 UBERON_0000955	UBERON_0016554	white matter of midbrain
 UBERON_0000955	UBERON_0016555	stria of telencephalon
-UBERON_0000955	UBERON_0016634	premotor cortex
 UBERON_0000955	UBERON_0016636	supplemental motor cortex
 UBERON_0000955	UBERON_0018141	anterior perforated substance
 UBERON_0000955	UBERON_0018262	dorsal zone of medial entorhinal cortex
@@ -4109,6 +4238,7 @@ UBERON_0000955	UBERON_0019269	gray matter of diencephalon
 UBERON_0000955	UBERON_0019275	uncinate fasciculus of the forebrain
 UBERON_0000955	UBERON_0019278	inferior rostral gyrus
 UBERON_0000955	UBERON_0019279	superior rostral gyrus
+UBERON_0000955	UBERON_0019280	rostral gyrus
 UBERON_0000955	UBERON_0019283	lateral longitudinal stria
 UBERON_0000955	UBERON_0019289	accessory olfactory bulb external plexiform layer
 UBERON_0000955	UBERON_0019290	accessory olfactory bulb internal plexiform layer
@@ -4126,6 +4256,7 @@ UBERON_0000955	UBERON_0022237	anterior thalamic peduncle
 UBERON_0000955	UBERON_0022241	superior thalamic peduncle
 UBERON_0000955	UBERON_0022242	inferior thalamic peduncle
 UBERON_0000955	UBERON_0022243	posterior thalamic peduncle
+UBERON_0000955	UBERON_0022244	anterior orbital gyrus
 UBERON_0000955	UBERON_0022246	superior longitudinal fasciculus
 UBERON_0000955	UBERON_0022247	forebrain ipsilateral fiber tracts
 UBERON_0000955	UBERON_0022248	cerebral nerve fasciculus
@@ -4138,6 +4269,8 @@ UBERON_0000955	UBERON_0022264	optic radiation
 UBERON_0000955	UBERON_0022268	planum temporale
 UBERON_0000955	UBERON_0022271	corticopontine fibers
 UBERON_0000955	UBERON_0022314	superior colliculus stratum zonale
+UBERON_0000955	UBERON_0022315	primary motor cortex layer 5
+UBERON_0000955	UBERON_0022316	primary motor cortex layer 6
 UBERON_0000955	UBERON_0022317	olfactory cortex layer 1
 UBERON_0000955	UBERON_0022318	olfactory cortex layer 2
 UBERON_0000955	UBERON_0022323	entorhinal cortex layer 4
@@ -4152,6 +4285,7 @@ UBERON_0000955	UBERON_0022346	dentate gyrus molecular layer middle
 UBERON_0000955	UBERON_0022347	dentate gyrus molecular layer inner
 UBERON_0000955	UBERON_0022348	dentate gyrus granule cell layer inner blade
 UBERON_0000955	UBERON_0022349	dentate gyrus granule cell layer outer blade
+UBERON_0000955	UBERON_0022352	medial orbital frontal cortex
 UBERON_0000955	UBERON_0022353	posterior cingulate cortex
 UBERON_0000955	UBERON_0022364	occipital fusiform gyrus
 UBERON_0000955	UBERON_0022383	anterior parahippocampal gyrus
@@ -4172,6 +4306,7 @@ UBERON_0000955	UBERON_0022695	orbital gyri complex
 UBERON_0000955	UBERON_0022730	transverse frontopolar gyri complex
 UBERON_0000955	UBERON_0022783	paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone
 UBERON_0000955	UBERON_0022791	paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone
+UBERON_0000955	UBERON_0023255	sub-lobar region
 UBERON_0000955	UBERON_0023415	lateral amygdaloid nucleus, dorsolateral part
 UBERON_0000955	UBERON_0023416	lateral amygdaloid nucleus, ventrolateral part
 UBERON_0000955	UBERON_0023417	lateral amygdaloid nucleus, ventromedial part
@@ -4198,6 +4333,8 @@ UBERON_0000955	UBERON_0024110	basis pontis
 UBERON_0000955	UBERON_0024183	inferior transverse frontopolar gyrus
 UBERON_0000955	UBERON_0024193	medial transverse frontopolar gyrus
 UBERON_0000955	UBERON_0024201	superior transverse frontopolar gyrus
+UBERON_0000955	UBERON_0024900	left sub-lobar region
+UBERON_0000955	UBERON_0024901	right sub-lobar region
 UBERON_0000955	UBERON_0025096	superior calcarine sulcus
 UBERON_0000955	UBERON_0025102	inferior occipital sulcus
 UBERON_0000955	UBERON_0025103	inferior calcarine sulcus
@@ -4207,6 +4344,7 @@ UBERON_0000955	UBERON_0025768	posterior middle temporal sulcus
 UBERON_0000955	UBERON_0025772	spur of arcuate sulcus
 UBERON_0000955	UBERON_0025883	superior ramus of arcuate sulcus
 UBERON_0000955	UBERON_0025903	principal sulcus
+UBERON_0000955	UBERON_0026137	annectant gyrus
 UBERON_0000955	UBERON_0026382	inferior ramus of arcuate sulcus
 UBERON_0000955	UBERON_0026384	lateral orbital sulcus
 UBERON_0000955	UBERON_0026391	medial orbital sulcus
@@ -4268,7 +4406,6 @@ UBERON_0000955	UBERON_0028715	caudal anterior cingulate cortex
 UBERON_0000955	UBERON_0030649	cytoarchitecture of entorhinal cortex
 UBERON_0000955	UBERON_0034671	arcuate sulcus
 UBERON_0000955	UBERON_0034674	sulcus of limbic lobe
-UBERON_0000955	UBERON_0034676	forceps major of corpus callosum
 UBERON_0000955	UBERON_0034708	cerebellum marginal layer
 UBERON_0000955	UBERON_0034709	hindbrain marginal layer
 UBERON_0000955	UBERON_0034711	cortical preplate
@@ -4332,10 +4469,8 @@ UBERON_0000955	UBERON_0034870	stratum lucidum of uncal CA3
 UBERON_0000955	UBERON_0034871	stratum pyramidale of uncal CA3
 UBERON_0000955	UBERON_0034872	stratum oriens of uncal CA3
 UBERON_0000955	UBERON_0034876	future neurohypophysis
+UBERON_0000955	UBERON_0034888	primary motor cortex layer 1
 UBERON_0000955	UBERON_0034889	posterior parietal cortex
-UBERON_0000955	UBERON_0034891	insular cortex
-UBERON_0000955	UBERON_0034892	granular insular cortex
-UBERON_0000955	UBERON_0034893	agranular insular cortex
 UBERON_0000955	UBERON_0034896	ansa peduncularis
 UBERON_0000955	UBERON_0034907	pineal parenchyma
 UBERON_0000955	UBERON_0034943	saccus vasculosus
@@ -4710,7 +4845,7 @@ UBERON_0001015	UBERON_0004256	hindlimb zeugopod muscle
 UBERON_0001015	UBERON_0004277	eye muscle
 UBERON_0001015	UBERON_0004296	respiratory system lymphatic vessel smooth muscle
 UBERON_0001015	UBERON_0004297	respiratory system blood vessel smooth muscle
-UBERON_0001015	UBERON_0004461	musculature of head
+UBERON_0001015	UBERON_0004461	skeletal musculature of head
 UBERON_0001015	UBERON_0004462	musculature of body wall
 UBERON_0001015	UBERON_0004463	musculature of hindlimb stylopod
 UBERON_0001015	UBERON_0004464	musculature of thorax
@@ -4791,6 +4926,8 @@ UBERON_0001015	UBERON_0005063	left ventricular compact myocardium
 UBERON_0001015	UBERON_0005064	left ventricular trabecular myocardium
 UBERON_0001015	UBERON_0005065	right ventricular compact myocardium
 UBERON_0001015	UBERON_0005066	right ventricular trabecular myocardium
+UBERON_0001015	UBERON_0005091	left horn of sinus venosus
+UBERON_0001015	UBERON_0005092	right horn of sinus venosus
 UBERON_0001015	UBERON_0005109	metanephric smooth muscle tissue
 UBERON_0001015	UBERON_0005321	mesonephric smooth muscle tissue
 UBERON_0001015	UBERON_0005441	external intercostal muscle
@@ -4991,6 +5128,7 @@ UBERON_0001015	UBERON_0010986	serratus ventralis pre-muscle mass
 UBERON_0001015	UBERON_0010987	sterno-mastoid pre-muscle mass
 UBERON_0001015	UBERON_0010988	teres major pre-muscle mass
 UBERON_0001015	UBERON_0010990	transversospinales muscle
+UBERON_0001015	UBERON_0010995	deep part of masseter muscle
 UBERON_0001015	UBERON_0011011	brachioradialis
 UBERON_0001015	UBERON_0011012	flexor pollicis brevis muscle
 UBERON_0001015	UBERON_0011013	spinalis muscle
@@ -5002,6 +5140,7 @@ UBERON_0001015	UBERON_0011024	extrinsic extensor muscle of manus
 UBERON_0001015	UBERON_0011025	aryepiglotticus muscle
 UBERON_0001015	UBERON_0011043	obturator muscle
 UBERON_0001015	UBERON_0011048	obturator internus
+UBERON_0001015	UBERON_0011140	superficial part of masseter muscle
 UBERON_0001015	UBERON_0011144	adductor muscle of hip
 UBERON_0001015	UBERON_0011145	adductor muscle
 UBERON_0001015	UBERON_0011151	jaw depressor muscle
@@ -5013,8 +5152,13 @@ UBERON_0001015	UBERON_0011219	longissimus lumborum muscle
 UBERON_0001015	UBERON_0011222	intra-ocular muscle
 UBERON_0001015	UBERON_0011251	levator claviculae muscle
 UBERON_0001015	UBERON_0011289	pharyngobasilar fascia
+UBERON_0001015	UBERON_0011305	superficial part of temporalis
+UBERON_0001015	UBERON_0011306	deep part of temporalis
 UBERON_0001015	UBERON_0011307	suprazygomatic part of temporalis
+UBERON_0001015	UBERON_0011308	pars reflexa of masseter
 UBERON_0001015	UBERON_0011312	hyoepiglottic muscle
+UBERON_0001015	UBERON_0011313	posterior subdivision of masseter
+UBERON_0001015	UBERON_0011314	anterior subdivision of masseter
 UBERON_0001015	UBERON_0011364	cleidocephalicus muscle
 UBERON_0001015	UBERON_0011366	cleidobrachialis muscle
 UBERON_0001015	UBERON_0011368	brachiocephalic muscle
@@ -5211,6 +5355,7 @@ UBERON_0001015	UBERON_0036172	palmaris brevis
 UBERON_0001015	UBERON_0036173	abductor digiti minimi of hand
 UBERON_0001015	UBERON_0036174	flexor digiti minimi brevis of hand
 UBERON_0001015	UBERON_0036176	opponens digiti minimi of hand
+UBERON_0001015	UBERON_0036274	tonsillar pillar
 UBERON_0001015	UBERON_2000177	caudal oblique
 UBERON_0001015	UBERON_2000195	dorsal depressor muscle
 UBERON_0001015	UBERON_2000201	dorsal transverse
@@ -5441,11 +5586,13 @@ UBERON_0001015	UBERON_4200122	pubotibialis
 UBERON_0001015	UBERON_4200218	musculotendinous bundle
 UBERON_0001015	UBERON_4200225	scapulohumeralis muscle
 UBERON_0001015	UBERON_4300030	flexor caudalis muscle
+UBERON_0001015	UBERON_4300210	transversus epibranchialis 2
 UBERON_0001021	UBERON_0000348	ophthalmic nerve
 UBERON_0001021	UBERON_0000375	mandibular nerve
 UBERON_0001021	UBERON_0000377	maxillary nerve
 UBERON_0001021	UBERON_0000929	pharyngeal branch of vagus nerve
 UBERON_0001021	UBERON_0000942	frontal nerve (branch of ophthalmic)
+UBERON_0001021	UBERON_0000961	thoracic ganglion
 UBERON_0001021	UBERON_0000962	nerve of cervical vertebra
 UBERON_0001021	UBERON_0001027	sensory nerve
 UBERON_0001021	UBERON_0001148	median nerve
@@ -5472,10 +5619,24 @@ UBERON_0001021	UBERON_0001884	phrenic nerve
 UBERON_0001021	UBERON_0001889	trunk of phrenic nerve
 UBERON_0001021	UBERON_0001964	least splanchnic nerve
 UBERON_0001021	UBERON_0002004	trunk of sciatic nerve
+UBERON_0001021	UBERON_0002009	pulmonary nerve plexus
 UBERON_0001021	UBERON_0002019	accessory XI nerve
 UBERON_0001021	UBERON_0002327	trunk of intercostal nerve
 UBERON_0001021	UBERON_0002442	axillary nerve trunk
+UBERON_0001021	UBERON_0002464	nerve trunk
 UBERON_0001021	UBERON_0002475	saphenous nerve
+UBERON_0001021	UBERON_0002835	thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002845	first thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002846	second thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002847	third thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002848	fifth thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002849	sixth thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002850	seventh thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002851	eighth thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002852	ninth thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002853	tenth thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002854	eleventh thoracic dorsal root ganglion
+UBERON_0001021	UBERON_0002855	twelfth thoracic dorsal root ganglion
 UBERON_0001021	UBERON_0002924	terminal nerve
 UBERON_0001021	UBERON_0003041	trigeminal nerve fibers
 UBERON_0001021	UBERON_0003429	abdomen nerve
@@ -5517,7 +5678,9 @@ UBERON_0001021	UBERON_0004216	lower arm nerve
 UBERON_0001021	UBERON_0004217	upper arm nerve
 UBERON_0001021	UBERON_0004218	lower leg nerve
 UBERON_0001021	UBERON_0004293	parasympathetic nerve
+UBERON_0001021	UBERON_0004295	sympathetic nerve trunk
 UBERON_0001021	UBERON_0004727	cochlear nerve
+UBERON_0001021	UBERON_0004863	thoracic sympathetic nerve trunk
 UBERON_0001021	UBERON_0005197	segmental spinal nerve
 UBERON_0001021	UBERON_0005430	ansa cervicalis
 UBERON_0001021	UBERON_0005465	obturator nerve
@@ -5525,6 +5688,7 @@ UBERON_0001021	UBERON_0005476	spinal nerve trunk
 UBERON_0001021	UBERON_0006798	efferent nerve
 UBERON_0001021	UBERON_0006838	ventral ramus of spinal nerve
 UBERON_0001021	UBERON_0006839	dorsal ramus of spinal nerve
+UBERON_0001021	UBERON_0007712	fourth thoracic spinal ganglion
 UBERON_0001021	UBERON_0008810	nasopalatine nerve
 UBERON_0001021	UBERON_0008833	great auricular nerve
 UBERON_0001021	UBERON_0008906	lateral line nerve
@@ -5533,6 +5697,7 @@ UBERON_0001021	UBERON_0009121	vomeronasal nerve
 UBERON_0001021	UBERON_0009624	lumbar nerve
 UBERON_0001021	UBERON_0009625	sacral nerve
 UBERON_0001021	UBERON_0009629	coccygeal nerve
+UBERON_0001021	UBERON_0009646	lumbar sympathetic nerve trunk
 UBERON_0001021	UBERON_0009673	accessory XI nerve cranial component
 UBERON_0001021	UBERON_0009674	accessory XI nerve spinal component
 UBERON_0001021	UBERON_0009675	chorda tympani branch of facial nerve
@@ -5604,6 +5769,8 @@ UBERON_0001021	UBERON_0022302	short ciliary nerve
 UBERON_0001021	UBERON_0034725	pterygopalatine nerve
 UBERON_0001021	UBERON_0034728	autonomic nerve
 UBERON_0001021	UBERON_0034729	sympathetic nerve
+UBERON_0001021	UBERON_0034901	cervical sympathetic nerve trunk
+UBERON_0001021	UBERON_0034902	sacral sympathetic nerve trunk
 UBERON_0001021	UBERON_0034942	vibrissal follicle-sinus complex
 UBERON_0001021	UBERON_0034984	nerve to quadratus femoris
 UBERON_0001021	UBERON_0035016	tactile mechanoreceptor
@@ -5629,6 +5796,7 @@ UBERON_0001021	UBERON_0035968	bulboid corpuscle
 UBERON_0001021	UBERON_0035969	encapsulated tactile receptor
 UBERON_0001021	UBERON_0036143	meningeal branch of mandibular nerve
 UBERON_0001021	UBERON_0036216	tympanic nerve
+UBERON_0001021	UBERON_0036264	zygomaticotemporal nerve
 UBERON_0001021	UBERON_2000175	posterior lateral line nerve
 UBERON_0001021	UBERON_2000425	anterior lateral line nerve
 UBERON_0001021	UBERON_2001480	dorsal anterior lateral line nerve
@@ -5689,6 +5857,7 @@ UBERON_0001043	UBERON_0007652	esophageal sphincter
 UBERON_0001043	UBERON_0008989	submocosal esophageal gland
 UBERON_0001043	UBERON_0009960	esophagus smooth muscle circular layer
 UBERON_0001043	UBERON_0009961	esophagus smooth muscle longitudinal layer
+UBERON_0001043	UBERON_0011566	lumen of esophagus
 UBERON_0001043	UBERON_0011878	muscle layer of esophagus
 UBERON_0001043	UBERON_0012504	adventitia of esophagus
 UBERON_0001043	UBERON_0013472	upper esophagus
@@ -5710,6 +5879,7 @@ UBERON_0001052	UBERON_0003346	mucosa of rectum
 UBERON_0001052	UBERON_0003354	epithelium of rectum
 UBERON_0001052	UBERON_0003395	mesentery of rectum
 UBERON_0001052	UBERON_0004757	rectal salt gland
+UBERON_0001052	UBERON_0009670	rectal lumen
 UBERON_0001052	UBERON_0012497	muscularis mucosae of rectum
 UBERON_0001052	UBERON_0017626	transverse folds of rectum
 UBERON_0001052	UBERON_0017627	rectal valve
@@ -5743,6 +5913,7 @@ UBERON_0001155	UBERON_0004993	mucosa of sigmoid colon
 UBERON_0001155	UBERON_0005636	caecum epithelium
 UBERON_0001155	UBERON_0005677	caecum mesentery
 UBERON_0001155	UBERON_0005686	caecum dorsal mesentery
+UBERON_0001155	UBERON_0007159	lumen of colon
 UBERON_0001155	UBERON_0007177	lamina propria of mucosa of colon
 UBERON_0001155	UBERON_0007178	muscularis mucosae of colon
 UBERON_0001155	UBERON_0008971	left colon
@@ -5794,6 +5965,8 @@ UBERON_0001264	UBERON_0018235	capsule of pancreas
 UBERON_0001264	UBERON_2005346	extrapancreatic duct
 UBERON_0001723	UBERON_0000396	vallate papilla
 UBERON_0001723	UBERON_0001576	intrinsic muscle of tongue
+UBERON_0001723	UBERON_0001610	lingual artery
+UBERON_0001723	UBERON_0001611	sublingual artery
 UBERON_0001723	UBERON_0001726	papilla of tongue
 UBERON_0001723	UBERON_0002448	fungiform papilla
 UBERON_0001723	UBERON_0002467	filiform papilla
@@ -5811,6 +5984,10 @@ UBERON_0001723	UBERON_0006699	foramen cecum of tongue
 UBERON_0001723	UBERON_0006916	non-keratinized epithelium of tongue
 UBERON_0001723	UBERON_0006918	parakeratinized epithelium of tongue
 UBERON_0001723	UBERON_0006919	tongue squamous epithelium
+UBERON_0001723	UBERON_0007250	lingual tonsil
+UBERON_0001723	UBERON_0007367	surface of tongue
+UBERON_0001723	UBERON_0007371	superior surface of tongue
+UBERON_0001723	UBERON_0007373	inferior surface of tongue
 UBERON_0001723	UBERON_0008582	superior longitudinal muscle of tongue
 UBERON_0001723	UBERON_0008583	transverse muscle of tongue
 UBERON_0001723	UBERON_0008584	vertical muscle of tongue
@@ -5958,6 +6135,9 @@ UBERON_0002048	UBERON_0012065	lobar bronchus of left lung upper lobe
 UBERON_0002048	UBERON_0012066	lobar bronchus of left lung lower lobe
 UBERON_0002048	UBERON_0012067	primary bronchiole
 UBERON_0002048	UBERON_0012068	right lung middle lobe bronchiole
+UBERON_0002048	UBERON_0012084	lumen of secondary bronchus
+UBERON_0002048	UBERON_0012085	lumen of tertiary bronchus
+UBERON_0002048	UBERON_0012086	lumen of parabronchus
 UBERON_0002048	UBERON_0013479	lung endothelium
 UBERON_0002048	UBERON_0015794	left lung lobar bronchus epithelium
 UBERON_0002048	UBERON_0015795	right lung lobar bronchus epitheium
@@ -6013,6 +6193,8 @@ UBERON_0002049	UBERON_0001216	jejunal vein
 UBERON_0002049	UBERON_0001217	ileal vein
 UBERON_0002049	UBERON_0001218	middle colic vein
 UBERON_0002049	UBERON_0001219	ileocolic vein
+UBERON_0002049	UBERON_0001226	major calyx
+UBERON_0002049	UBERON_0001227	minor calyx
 UBERON_0002049	UBERON_0001281	hepatic sinusoid
 UBERON_0002049	UBERON_0001308	external iliac artery
 UBERON_0002049	UBERON_0001309	internal iliac artery
@@ -6149,7 +6331,9 @@ UBERON_0002049	UBERON_0001672	anterior cerebral vein
 UBERON_0002049	UBERON_0001673	central retinal vein
 UBERON_0002049	UBERON_0001674	masseteric vein
 UBERON_0002049	UBERON_0001776	optic choroid
+UBERON_0002049	UBERON_0001884	phrenic nerve
 UBERON_0002049	UBERON_0001886	choroid plexus
+UBERON_0002049	UBERON_0001889	trunk of phrenic nerve
 UBERON_0002049	UBERON_0001915	endothelium of capillary
 UBERON_0002049	UBERON_0001916	endothelium of arteriole
 UBERON_0002049	UBERON_0001917	endothelium of artery
@@ -6237,11 +6421,9 @@ UBERON_0002049	UBERON_0003498	heart blood vessel
 UBERON_0002049	UBERON_0003499	brain blood vessel
 UBERON_0002049	UBERON_0003500	corneal blood vessel
 UBERON_0002049	UBERON_0003501	retina blood vessel
-UBERON_0002049	UBERON_0003502	neck blood vessel
 UBERON_0002049	UBERON_0003503	leg blood vessel
 UBERON_0002049	UBERON_0003504	respiratory system blood vessel
 UBERON_0002049	UBERON_0003505	trachea blood vessel
-UBERON_0002049	UBERON_0003506	chest blood vessel
 UBERON_0002049	UBERON_0003507	arm blood vessel
 UBERON_0002049	UBERON_0003508	pedal digit blood vessel
 UBERON_0002049	UBERON_0003509	arterial blood vessel
@@ -6275,7 +6457,6 @@ UBERON_0002049	UBERON_0003710	vasa vasorum
 UBERON_0002049	UBERON_0003711	brachiocephalic vein
 UBERON_0002049	UBERON_0003712	cavernous sinus
 UBERON_0002049	UBERON_0003713	splenic vein
-UBERON_0002049	UBERON_0003834	thoracic segment blood vessel
 UBERON_0002049	UBERON_0003835	abdominal segment blood vessel
 UBERON_0002049	UBERON_0003847	thyroid artery
 UBERON_0002049	UBERON_0003848	gonadal vein
@@ -6300,7 +6481,6 @@ UBERON_0002049	UBERON_0004212	glomerular capillary
 UBERON_0002049	UBERON_0004236	arteriole smooth muscle
 UBERON_0002049	UBERON_0004237	blood vessel smooth muscle
 UBERON_0002049	UBERON_0004257	upper leg blood vessel
-UBERON_0002049	UBERON_0004258	back blood vessel
 UBERON_0002049	UBERON_0004259	lower arm blood vessel
 UBERON_0002049	UBERON_0004260	upper arm blood vessel
 UBERON_0002049	UBERON_0004261	lower leg blood vessel
@@ -6354,6 +6534,8 @@ UBERON_0002049	UBERON_0004851	aorta endothelium
 UBERON_0002049	UBERON_0004864	vasculature of retina
 UBERON_0002049	UBERON_0004870	superficial cervical lymph node
 UBERON_0002049	UBERON_0004889	lobar bronchus vasculature
+UBERON_0002049	UBERON_0005007	mucosa of major calyx
+UBERON_0002049	UBERON_0005008	mucosa of minor calyx
 UBERON_0002049	UBERON_0005119	metanephric glomerular mesangium
 UBERON_0002049	UBERON_0005133	metanephric glomerulus vasculature
 UBERON_0002049	UBERON_0005136	metanephric glomerular endothelium
@@ -6409,6 +6591,7 @@ UBERON_0002049	UBERON_0005740	tunica intima of artery
 UBERON_0002049	UBERON_0005800	section of aorta
 UBERON_0002049	UBERON_0005805	dorsal aorta
 UBERON_0002049	UBERON_0005806	portal system
+UBERON_0002049	UBERON_0005912	transitional epithelium of major calyx
 UBERON_0002049	UBERON_0005973	blood-inner ear barrier
 UBERON_0002049	UBERON_0006002	vitelline artery
 UBERON_0002049	UBERON_0006011	hyaloid vein
@@ -6592,6 +6775,7 @@ UBERON_0002049	UBERON_0009968	primitive superior sagittal sinus
 UBERON_0002049	UBERON_0009976	hypothalamo-hypophyseal system
 UBERON_0002049	UBERON_0010078	optic choroid vascular plexus
 UBERON_0002049	UBERON_0010132	gastroduodenal artery
+UBERON_0002049	UBERON_0010161	lumen of blood vessel
 UBERON_0002049	UBERON_0010172	bulb of aorta
 UBERON_0002049	UBERON_0010173	sinotubular junction
 UBERON_0002049	UBERON_0010174	Schweigger-Seidel sheath
@@ -6614,7 +6798,6 @@ UBERON_0002049	UBERON_0010248	choroidal tapetum fibrosum
 UBERON_0002049	UBERON_0010249	posterior meningeal artery
 UBERON_0002049	UBERON_0010250	middle meningeal artery
 UBERON_0002049	UBERON_0010251	anterior meningeal artery
-UBERON_0002049	UBERON_0010260	umbilical blood vessel
 UBERON_0002049	UBERON_0010293	suprachoroid lamina
 UBERON_0002049	UBERON_0010366	conjunctival vasculature
 UBERON_0002049	UBERON_0010367	conjunctival vein
@@ -6692,7 +6875,7 @@ UBERON_0002049	UBERON_0013648	masseteric artery
 UBERON_0002049	UBERON_0013755	arterial blood
 UBERON_0002049	UBERON_0013756	venous blood
 UBERON_0002049	UBERON_0013757	capillary blood
-UBERON_0002049	UBERON_0013768	great vessel of heart
+UBERON_0002049	UBERON_0014399	sinusoidal space
 UBERON_0002049	UBERON_0014400	hepatic sinusoidal space
 UBERON_0002049	UBERON_0014401	renal venous blood vessel
 UBERON_0002049	UBERON_0014685	pterygoid plexus
@@ -6715,13 +6898,13 @@ UBERON_0002049	UBERON_0014787	left extraembryonic umbilical vein
 UBERON_0002049	UBERON_0014788	right extraembryonic umbilical vein
 UBERON_0002049	UBERON_0014789	embryo portion of umbilical vein
 UBERON_0002049	UBERON_0014904	intersegmental pulmonary vein
-UBERON_0002049	UBERON_0014907	intersomitic vessel
 UBERON_0002049	UBERON_0015156	terminal branch of ophthalmic artery
 UBERON_0002049	UBERON_0015157	zygomatico-orbital artery
 UBERON_0002049	UBERON_0015158	ophthalmotemporal branch of external ophthalmic artery
 UBERON_0002049	UBERON_0015160	supraorbital artery
+UBERON_0002049	UBERON_0015161	inferior branch of oculomotor nerve
+UBERON_0002049	UBERON_0015162	superior branch of oculomotor nerve
 UBERON_0002049	UBERON_0015171	uterine spiral artery
-UBERON_0002049	UBERON_0015172	endometrial blood vessel
 UBERON_0002049	UBERON_0015173	helicine branch of uterine artery
 UBERON_0002049	UBERON_0015174	helicine artery of penis
 UBERON_0002049	UBERON_0015177	helicine artery
@@ -6733,7 +6916,6 @@ UBERON_0002049	UBERON_0015480	proper hepatic artery
 UBERON_0002049	UBERON_0015481	left hepatic artery
 UBERON_0002049	UBERON_0015482	right hepatic artery
 UBERON_0002049	UBERON_0015704	sagittal sinus
-UBERON_0002049	UBERON_0015796	liver blood vessel
 UBERON_0002049	UBERON_0015869	retropharyngeal lymph node
 UBERON_0002049	UBERON_0015917	superficial lymph node
 UBERON_0002049	UBERON_0015918	deep lymph node
@@ -6781,13 +6963,12 @@ UBERON_0002049	UBERON_0018549	ventral wall of dorsal aorta
 UBERON_0002049	UBERON_0018674	heart vasculature
 UBERON_0002049	UBERON_0019189	carotid artery endothelium
 UBERON_0002049	UBERON_0019196	iliac artery endothelium
-UBERON_0002049	UBERON_0020550	auricular blood vessel
 UBERON_0002049	UBERON_0022292	splenic arteriole
-UBERON_0002049	UBERON_0022358	placenta blood vessel
 UBERON_0002049	UBERON_0034693	cremasteric artery
 UBERON_0002049	UBERON_0034727	vestibular bulb artery
 UBERON_0002049	UBERON_0034884	juxtaglomerular arteriole
 UBERON_0002049	UBERON_0034927	arcuate artery of foot
+UBERON_0002049	UBERON_0034940	venous sinus cavity
 UBERON_0002049	UBERON_0034964	superficial epigastric artery
 UBERON_0002049	UBERON_0034965	middle thyroid vein
 UBERON_0002049	UBERON_0034971	aortic body
@@ -6849,7 +7030,7 @@ UBERON_0002049	UBERON_0035545	deep lymphatic vessel
 UBERON_0002049	UBERON_0035546	uveal vein
 UBERON_0002049	UBERON_0035547	posterior ciliary vein
 UBERON_0002049	UBERON_0035548	colic artery
-UBERON_0002049	UBERON_0035549	superficial vasculature
+UBERON_0002049	UBERON_0035549	vasculature of integument
 UBERON_0002049	UBERON_0035550	superficial vein
 UBERON_0002049	UBERON_0035551	deep vasculature
 UBERON_0002049	UBERON_0035552	deep vein
@@ -6858,7 +7039,6 @@ UBERON_0002049	UBERON_0035655	paraumbilical vein
 UBERON_0002049	UBERON_0035659	deep facial vein
 UBERON_0002049	UBERON_0035662	parotid vein
 UBERON_0002049	UBERON_0035675	anterior facial vein
-UBERON_0002049	UBERON_0035753	capillary plexus
 UBERON_0002049	UBERON_0035755	systemic capillary plexus
 UBERON_0002049	UBERON_0035756	capillary network of liver
 UBERON_0002049	UBERON_0035758	peritubular capillary plexus of kidney
@@ -6869,8 +7049,9 @@ UBERON_0002049	UBERON_0035965	wall of blood vessel
 UBERON_0002049	UBERON_0036074	vein of vestibular aqueduct
 UBERON_0002049	UBERON_0036167	Sattler's layer
 UBERON_0002049	UBERON_0036168	Haller's layer
+UBERON_0002049	UBERON_0036267	vulval vein
+UBERON_0002049	UBERON_0036268	pelvic vein
 UBERON_0002049	UBERON_2000039	median axial vein
-UBERON_0002049	UBERON_2000096	cardinal system
 UBERON_0002049	UBERON_2000202	efferent portion of pharyngeal arch artery
 UBERON_0002049	UBERON_2000214	hypobranchial vessel
 UBERON_0002049	UBERON_2000484	celiacomesenteric artery
@@ -6945,7 +7126,6 @@ UBERON_0002049	UBERON_2005295	axial blood vessel
 UBERON_0002049	UBERON_2005303	caudal fin lymph vessel
 UBERON_0002049	UBERON_2005304	caudal fin blood vessel
 UBERON_0002049	UBERON_3010200	vasculature of respiratory integument
-UBERON_0002049	UBERON_3010224	vertebral
 UBERON_0002049	UBERON_3010404	capillary system of liver
 UBERON_0002049	UBERON_3010413	left channel of ventral aorta
 UBERON_0002049	UBERON_3010417	posterior palatine artery
@@ -6973,23 +7153,38 @@ UBERON_0002049	UBERON_0001473	lymphatic vessel
 UBERON_0002049	UBERON_0001631	thoracic duct
 UBERON_0002049	UBERON_0002042	lymphatic vessel endothelium
 UBERON_0002049	UBERON_0003456	respiratory system lymphatic vessel
+UBERON_0002049	UBERON_0003502	neck blood vessel
+UBERON_0002049	UBERON_0003506	chest blood vessel
 UBERON_0002049	UBERON_0003529	respiratory system lymphatic vessel endothelium
+UBERON_0002049	UBERON_0003834	thoracic segment blood vessel
 UBERON_0002049	UBERON_0004232	lymphatic vessel smooth muscle
+UBERON_0002049	UBERON_0004258	back blood vessel
 UBERON_0002049	UBERON_0004296	respiratory system lymphatic vessel smooth muscle
 UBERON_0002049	UBERON_0004536	lymph vasculature
 UBERON_0002049	UBERON_0005435	upper part of cisterna chyli
+UBERON_0002049	UBERON_0010160	lumen of lymphatic vessel
+UBERON_0002049	UBERON_0010260	umbilical blood vessel
 UBERON_0002049	UBERON_0010396	afferent lymphatic vessel
 UBERON_0002049	UBERON_0010397	efferent lymphatic vessel
 UBERON_0002049	UBERON_0013127	pulmonary venous system
 UBERON_0002049	UBERON_0013218	rete mirabile
+UBERON_0002049	UBERON_0013768	great vessel of heart
+UBERON_0002049	UBERON_0014907	intersomitic vessel
+UBERON_0002049	UBERON_0015172	endometrial blood vessel
+UBERON_0002049	UBERON_0015796	liver blood vessel
 UBERON_0002049	UBERON_0018227	pulmonary lymphatic vessel
+UBERON_0002049	UBERON_0020550	auricular blood vessel
+UBERON_0002049	UBERON_0022358	placenta blood vessel
 UBERON_0002049	UBERON_0034949	lymphatic valve
 UBERON_0002049	UBERON_0034950	lymph sac of lymph heart
 UBERON_0002049	UBERON_0034951	subcutaneous lymph sac
 UBERON_0002049	UBERON_0034952	intrapleuroperitoneal lymph sac
 UBERON_0002049	UBERON_0035608	dura mater lymph vessel
+UBERON_0002049	UBERON_0035753	capillary plexus
 UBERON_0002049	UBERON_0035754	pulmonary capillary plexus
 UBERON_0002049	UBERON_0035757	embryonic capillary plexus
+UBERON_0002049	UBERON_0036269	penis blood vessel
+UBERON_0002049	UBERON_2000096	cardinal system
 UBERON_0002049	UBERON_2005106	longitudinal lateral lymphatic vessel
 UBERON_0002049	UBERON_2005319	intersegmental lymph vessel
 UBERON_0002049	UBERON_2005320	dorsal longitudinal lymphatic vessel
@@ -7040,6 +7235,7 @@ UBERON_0002097	UBERON_0002069	stratum granulosum of epidermis
 UBERON_0002097	UBERON_0002071	stratum lucidum of epidermis
 UBERON_0002097	UBERON_0002073	hair follicle
 UBERON_0002097	UBERON_0002074	hair shaft
+UBERON_0002097	UBERON_0002076	cuticle of hair
 UBERON_0002097	UBERON_0002077	cortex of hair
 UBERON_0002097	UBERON_0002283	nail matrix
 UBERON_0002097	UBERON_0002284	hyponychium
@@ -7150,6 +7346,7 @@ UBERON_0002097	UBERON_0011674	carapace scute
 UBERON_0002097	UBERON_0011782	feather follicle
 UBERON_0002097	UBERON_0011783	feather follicle placode
 UBERON_0002097	UBERON_0011801	dermal condensation of feather follicle
+UBERON_0002097	UBERON_0011805	cavity of feather follicle
 UBERON_0002097	UBERON_0011806	dermis of feather follicle
 UBERON_0002097	UBERON_0011807	epidermis of feather follicle
 UBERON_0002097	UBERON_0011808	outer epidermal layer of feather follicle
@@ -7301,6 +7498,10 @@ UBERON_0002097	UBERON_4200165	basal scute
 UBERON_0002097	UBERON_4200179	manual claw
 UBERON_0002097	UBERON_4300031	fin web
 UBERON_0002097	UBERON_4300102	postcleithral scale
+UBERON_0002097	UBERON_4300188	terminal scale
+UBERON_0002097	UBERON_4300222	axilar scale
+UBERON_0002097	UBERON_4300235	spinoid scale
+UBERON_0002097	UBERON_4300238	pored lateral line scale
 UBERON_0002097	UBERON_4500003	predorsal scale
 UBERON_0002106	UBERON_0001248	hilum of spleen
 UBERON_0002106	UBERON_0001249	spleen lymphoid follicle
@@ -7380,6 +7581,7 @@ UBERON_0002107	UBERON_0015481	left hepatic artery
 UBERON_0002107	UBERON_0015482	right hepatic artery
 UBERON_0002107	UBERON_0015796	liver blood vessel
 UBERON_0002107	UBERON_0016478	liver stroma
+UBERON_0002107	UBERON_0016479	capsule of liver
 UBERON_0002107	UBERON_0016480	interlobular stroma of liver
 UBERON_0002107	UBERON_0016890	intrahepatic branch of portal vein
 UBERON_0002107	UBERON_0035444	triangular ligament of liver
@@ -7414,6 +7616,7 @@ UBERON_0002113	UBERON_0001292	distal convoluted tubule
 UBERON_0002113	UBERON_0001293	outer medulla of kidney
 UBERON_0002113	UBERON_0001294	inner medulla of kidney
 UBERON_0002113	UBERON_0001552	kidney arcuate artery
+UBERON_0002113	UBERON_0002015	kidney capsule
 UBERON_0002113	UBERON_0002120	pronephros
 UBERON_0002113	UBERON_0002189	outer cortex of kidney
 UBERON_0002113	UBERON_0002303	juxtaglomerular apparatus
@@ -7629,6 +7832,7 @@ UBERON_0002113	UBERON_0010533	metanephros cortex
 UBERON_0002113	UBERON_0010534	primitive mesonephric nephron
 UBERON_0002113	UBERON_0010535	primitive metanephric nephron
 UBERON_0002113	UBERON_0010537	mesonephric nephron progenitor
+UBERON_0002113	UBERON_0011574	mesonephric duct lumen
 UBERON_0002113	UBERON_0012238	ureteric bud trunk
 UBERON_0002113	UBERON_0012352	mesangial matrix
 UBERON_0002113	UBERON_0012428	proximal convoluted tubule brush border
@@ -7648,6 +7852,7 @@ UBERON_0002113	UBERON_0034884	juxtaglomerular arteriole
 UBERON_0002113	UBERON_0034996	outer renal medulla loop of Henle
 UBERON_0002113	UBERON_0034997	renal medulla loop of Henle
 UBERON_0002113	UBERON_0035368	anterior surface of kidney
+UBERON_0002113	UBERON_0035471	posterior surface of kidney
 UBERON_0002113	UBERON_0035758	peritubular capillary plexus of kidney
 UBERON_0002113	UBERON_0035762	capillary network of kidney
 UBERON_0002113	UBERON_2001055	pronephric duct opening
@@ -7760,6 +7965,7 @@ UBERON_0002240	UBERON_0007837	thoracic spinal cord ventral commissure
 UBERON_0002240	UBERON_0007838	spinal cord white commissure
 UBERON_0002240	UBERON_0007840	spinal cord dorsal white commissure
 UBERON_0002240	UBERON_0008882	spinal cord commissure
+UBERON_0002240	UBERON_0009572	lumen of central canal of spinal cord
 UBERON_0002240	UBERON_0009582	spinal cord lateral wall
 UBERON_0002240	UBERON_0010269	filum terminale internum
 UBERON_0002240	UBERON_0010270	filum terminale externum
@@ -8124,6 +8330,7 @@ UBERON_0002365	UBERON_0015784	duct of olfactory gland
 UBERON_0002365	UBERON_0015785	acinus of olfactory gland
 UBERON_0002365	UBERON_0015796	liver blood vessel
 UBERON_0002365	UBERON_0016478	liver stroma
+UBERON_0002365	UBERON_0016479	capsule of liver
 UBERON_0002365	UBERON_0016480	interlobular stroma of liver
 UBERON_0002365	UBERON_0016852	skin scent gland
 UBERON_0002365	UBERON_0016853	interdigital gland
@@ -8196,10 +8403,12 @@ UBERON_0002368	UBERON_0001748	capsule of parathyroid gland
 UBERON_0002368	UBERON_0001749	parenchyma of parathyroid gland
 UBERON_0002368	UBERON_0001905	pineal body
 UBERON_0002368	UBERON_0002046	thyroid gland
+UBERON_0002368	UBERON_0002052	adrenal gland capsule
 UBERON_0002368	UBERON_0002053	zona glomerulosa of adrenal gland
 UBERON_0002368	UBERON_0002054	zona fasciculata of adrenal gland
 UBERON_0002368	UBERON_0002055	zona reticularis of adrenal gland
 UBERON_0002368	UBERON_0002107	liver
+UBERON_0002368	UBERON_0002122	capsule of thymus
 UBERON_0002368	UBERON_0002123	cortex of thymus
 UBERON_0002368	UBERON_0002124	medulla of thymus
 UBERON_0002368	UBERON_0002125	thymus lobule
@@ -8233,6 +8442,9 @@ UBERON_0002368	UBERON_0005221	liver right lobe parenchyma
 UBERON_0002368	UBERON_0005222	liver left lobe parenchyma
 UBERON_0002368	UBERON_0005305	thyroid follicle
 UBERON_0002368	UBERON_0005452	hepatic cord
+UBERON_0002368	UBERON_0005457	left thymus lobe
+UBERON_0002368	UBERON_0005469	right thymus lobe
+UBERON_0002368	UBERON_0005483	thymus lobe
 UBERON_0002368	UBERON_0005605	intrahepatic part of hepatic duct
 UBERON_0002368	UBERON_0005642	ultimobranchial body epithelium
 UBERON_0002368	UBERON_0006377	remnant of Rathke's pouch
@@ -8277,6 +8489,7 @@ UBERON_0002368	UBERON_0011768	pineal gland stalk
 UBERON_0002368	UBERON_0011955	left hepatic vein
 UBERON_0002368	UBERON_0011956	right hepatic vein
 UBERON_0002368	UBERON_0011957	middle hepatic vein
+UBERON_0002368	UBERON_0012246	thyroid follicular lumen
 UBERON_0002368	UBERON_0012325	retrocerebral complex
 UBERON_0002368	UBERON_0012363	thyroid follicle epithelium
 UBERON_0002368	UBERON_0012364	colloid of thyroid follicle
@@ -8291,6 +8504,7 @@ UBERON_0002368	UBERON_0015481	left hepatic artery
 UBERON_0002368	UBERON_0015482	right hepatic artery
 UBERON_0002368	UBERON_0015796	liver blood vessel
 UBERON_0002368	UBERON_0016478	liver stroma
+UBERON_0002368	UBERON_0016479	capsule of liver
 UBERON_0002368	UBERON_0016480	interlobular stroma of liver
 UBERON_0002368	UBERON_0016890	intrahepatic branch of portal vein
 UBERON_0002368	UBERON_0017632	pineal corpora arenacea
@@ -8322,6 +8536,7 @@ UBERON_0002384	UBERON_0000114	lung connective tissue
 UBERON_0002384	UBERON_0000121	perineurium
 UBERON_0002384	UBERON_0000123	endoneurium
 UBERON_0002384	UBERON_0000124	epineurium
+UBERON_0002384	UBERON_0000304	tendon sheath
 UBERON_0002384	UBERON_0000313	portion of cartilage tissue in tibia
 UBERON_0002384	UBERON_0000363	reticuloendothelial system
 UBERON_0002384	UBERON_0000398	cartilage tissue of sternum
@@ -8511,6 +8726,7 @@ UBERON_0002384	UBERON_0009648	eyelid subcutaneous connective tissue
 UBERON_0002384	UBERON_0009652	bronchus basement membrane
 UBERON_0002384	UBERON_0009653	trachea basement membrane
 UBERON_0002384	UBERON_0009754	blubber
+UBERON_0002384	UBERON_0010076	network of trabecular spaces in bone tissue
 UBERON_0002384	UBERON_0010211	granulation tissue
 UBERON_0002384	UBERON_0010365	odontoid tissue
 UBERON_0002384	UBERON_0010379	superior tarsal muscle
@@ -8521,6 +8737,8 @@ UBERON_0002384	UBERON_0010413	parametrial fat pad
 UBERON_0002384	UBERON_0010414	omental fat pad
 UBERON_0002384	UBERON_0010996	articular cartilage of joint
 UBERON_0002384	UBERON_0011157	cuneiform cartilage
+UBERON_0002384	UBERON_0011233	synovial membrane of synovial tendon sheath
+UBERON_0002384	UBERON_0011234	fibrous membrane of synovial tendon sheath
 UBERON_0002384	UBERON_0011236	deep fascia
 UBERON_0002384	UBERON_0011237	visceral fascia
 UBERON_0002384	UBERON_0011345	pharyngeal raphe
@@ -8682,6 +8900,8 @@ UBERON_0002384	UBERON_4000120	mineralized avascular GAG-rich matrix
 UBERON_0002384	UBERON_4000122	acellular bone tissue
 UBERON_0002384	UBERON_4000123	odontode tissue
 UBERON_0002384	UBERON_4300153	Sharpey's fiber
+UBERON_0002384	UBERON_4300197	Westoll line
+UBERON_0002384	UBERON_4300212	acrodin
 UBERON_0003133	UBERON_0000002	uterine cervix
 UBERON_0003133	UBERON_0000035	primary ovarian follicle
 UBERON_0003133	UBERON_0000036	secondary ovarian follicle
@@ -8691,8 +8911,10 @@ UBERON_0003133	UBERON_0000039	follicular antrum
 UBERON_0003133	UBERON_0000051	fornix of vagina
 UBERON_0003133	UBERON_0000086	zona pellucida
 UBERON_0003133	UBERON_0000155	theca cell layer
+UBERON_0003133	UBERON_0000156	theca externa
 UBERON_0003133	UBERON_0000157	theca interna
 UBERON_0003133	UBERON_0000450	corpus albicans
+UBERON_0003133	UBERON_0000458	endocervix
 UBERON_0003133	UBERON_0000459	uterine wall
 UBERON_0003133	UBERON_0000460	major vestibular gland
 UBERON_0003133	UBERON_0000461	minor vestibular gland
@@ -8711,9 +8933,13 @@ UBERON_0003133	UBERON_0001296	myometrium
 UBERON_0003133	UBERON_0001297	serosa of uterus
 UBERON_0003133	UBERON_0001299	glans penis
 UBERON_0003133	UBERON_0001300	scrotum
+UBERON_0003133	UBERON_0001301	epididymis
+UBERON_0003133	UBERON_0001302	right uterine tube
+UBERON_0003133	UBERON_0001303	left uterine tube
 UBERON_0003133	UBERON_0001304	germinal epithelium of ovary
 UBERON_0003133	UBERON_0001305	ovarian follicle
 UBERON_0003133	UBERON_0001306	cumulus oophorus
+UBERON_0003133	UBERON_0001307	capsule of ovary
 UBERON_0003133	UBERON_0001319	vaginal vein
 UBERON_0003133	UBERON_0001331	skin of penis
 UBERON_0003133	UBERON_0001332	prepuce of penis
@@ -8729,8 +8955,10 @@ UBERON_0003133	UBERON_0002118	right ovary
 UBERON_0003133	UBERON_0002119	left ovary
 UBERON_0003133	UBERON_0002247	uterine horn
 UBERON_0003133	UBERON_0002337	endometrial stroma
+UBERON_0003133	UBERON_0002366	bulbo-urethral gland
 UBERON_0003133	UBERON_0002411	clitoris
 UBERON_0003133	UBERON_0002451	endometrial gland
+UBERON_0003133	UBERON_0002493	uterine artery
 UBERON_0003133	UBERON_0002512	corpus luteum
 UBERON_0003133	UBERON_0002537	hermaphrodite gonad
 UBERON_0003133	UBERON_0003134	female reproductive organ
@@ -8744,6 +8972,7 @@ UBERON_0003133	UBERON_0003480	vein of clitoris
 UBERON_0003133	UBERON_0003485	vagina sebaceous gland
 UBERON_0003133	UBERON_0003855	gonad mesenchyme
 UBERON_0003133	UBERON_0003885	mesometrium
+UBERON_0003133	UBERON_0003889	fallopian tube
 UBERON_0003133	UBERON_0003959	rete testis
 UBERON_0003133	UBERON_0003974	upper part of vagina
 UBERON_0003133	UBERON_0003975	internal female genitalia
@@ -8758,17 +8987,24 @@ UBERON_0003133	UBERON_0004175	internal genitalia
 UBERON_0003133	UBERON_0004176	external genitalia
 UBERON_0003133	UBERON_0004223	vagina smooth muscle
 UBERON_0003133	UBERON_0004224	muscular coat of vas deferens
+UBERON_0003133	UBERON_0004245	oviduct smooth muscle
+UBERON_0003133	UBERON_0004358	caput epididymis
+UBERON_0003133	UBERON_0004359	corpus epididymis
+UBERON_0003133	UBERON_0004360	cauda epididymis
 UBERON_0003133	UBERON_0004533	left testis
 UBERON_0003133	UBERON_0004534	right testis
+UBERON_0003133	UBERON_0004544	epididymis epithelium
 UBERON_0003133	UBERON_0004665	muscular coat of seminal vesicle
 UBERON_0003133	UBERON_0004713	corpus cavernosum penis
 UBERON_0003133	UBERON_0004801	cervix epithelium
 UBERON_0003133	UBERON_0004803	penis epithelium
+UBERON_0003133	UBERON_0004804	oviduct epithelium
 UBERON_0003133	UBERON_0004805	seminal vesicle epithelium
 UBERON_0003133	UBERON_0004806	vas deferens epithelium
 UBERON_0003133	UBERON_0004811	endometrium epithelium
 UBERON_0003133	UBERON_0004812	male prepuce epithelium
 UBERON_0003133	UBERON_0004813	seminiferous tubule epithelium
+UBERON_0003133	UBERON_0004835	epididymis smooth muscle
 UBERON_0003133	UBERON_0004876	urogenital fold
 UBERON_0003133	UBERON_0004909	epithelium of gonad
 UBERON_0003133	UBERON_0004910	epithelium of male gonad
@@ -8776,6 +9012,9 @@ UBERON_0003133	UBERON_0004911	epithelium of female gonad
 UBERON_0003133	UBERON_0004983	mucosa of vagina
 UBERON_0003133	UBERON_0004984	mucosa of seminal vesicle
 UBERON_0003133	UBERON_0004986	mucosa of deferent duct
+UBERON_0003133	UBERON_0005011	mucosa of right uterine tube
+UBERON_0003133	UBERON_0005012	mucosa of left uterine tube
+UBERON_0003133	UBERON_0005048	mucosa of uterine tube
 UBERON_0003133	UBERON_0005051	mediastinum testis
 UBERON_0003133	UBERON_0005056	external female genitalia
 UBERON_0003133	UBERON_0005170	granulosa cell layer
@@ -8806,20 +9045,31 @@ UBERON_0003133	UBERON_0006608	corpus cavernosum clitoridis
 UBERON_0003133	UBERON_0006610	tunica albuginea
 UBERON_0003133	UBERON_0006639	crus of penis
 UBERON_0003133	UBERON_0006640	crus of clitoris
+UBERON_0003133	UBERON_0006641	appendix epididymis
+UBERON_0003133	UBERON_0006642	muscle layer of oviduct
 UBERON_0003133	UBERON_0006643	tunica albuginea of testis
 UBERON_0003133	UBERON_0006644	tunica albuginea of ovary
+UBERON_0003133	UBERON_0006645	adventitia of epididymis
+UBERON_0003133	UBERON_0006646	muscle layer of epididymis
 UBERON_0003133	UBERON_0006647	adventitia of ductus deferens
 UBERON_0003133	UBERON_0006648	adventitia of seminal vesicle
 UBERON_0003133	UBERON_0006650	tunica vaginalis testis
 UBERON_0003133	UBERON_0006652	muscular layer of vagina
 UBERON_0003133	UBERON_0006653	glans clitoris
+UBERON_0003133	UBERON_0006655	septum of scrotum
 UBERON_0003133	UBERON_0006656	deep dorsal vein of penis
 UBERON_0003133	UBERON_0006690	deep dorsal vein of clitoris
+UBERON_0003133	UBERON_0006868	seminal fluid secreting gland
 UBERON_0003133	UBERON_0006922	cervix squamous epithelium
 UBERON_0003133	UBERON_0006923	vagina squamous epithelium
+UBERON_0003133	UBERON_0006946	efferent duct
+UBERON_0003133	UBERON_0006947	male genital duct
+UBERON_0003133	UBERON_0006948	efferent duct epithelium
 UBERON_0003133	UBERON_0006955	uterine epithelium
 UBERON_0003133	UBERON_0006960	ovary stroma
 UBERON_0003133	UBERON_0007180	atretic follicle of ovary
+UBERON_0003133	UBERON_0007589	ciliated columnar oviduct epithelium
+UBERON_0003133	UBERON_0007590	cuboidal oviduct epithelium
 UBERON_0003133	UBERON_0007719	bone of reproductive organ
 UBERON_0003133	UBERON_0007773	scrotal sweat gland
 UBERON_0003133	UBERON_0008311	penile bulb artery
@@ -8832,6 +9082,7 @@ UBERON_0003133	UBERON_0008331	clitoral smooth muscle
 UBERON_0003133	UBERON_0008798	rugal fold of vagina
 UBERON_0003133	UBERON_0008811	intromittent organ
 UBERON_0003133	UBERON_0008812	hemipenis
+UBERON_0003133	UBERON_0008824	duct of epididymis
 UBERON_0003133	UBERON_0008842	suspensory ligament of testis
 UBERON_0003133	UBERON_0008848	cranial suspensory ligament
 UBERON_0003133	UBERON_0008855	placenta metrial gland
@@ -8849,13 +9100,16 @@ UBERON_0003133	UBERON_0010141	primitive sex cord of indifferent gonad
 UBERON_0003133	UBERON_0010145	paraurethral gland
 UBERON_0003133	UBERON_0010146	paraurethral duct
 UBERON_0003133	UBERON_0010150	duct of major vestibular gland
+UBERON_0003133	UBERON_0010151	duct of bulbourethral gland
 UBERON_0003133	UBERON_0010185	rete ovarii
 UBERON_0003133	UBERON_0010391	parametrium
+UBERON_0003133	UBERON_0010412	epididymal fat pad
 UBERON_0003133	UBERON_0010413	parametrial fat pad
 UBERON_0003133	UBERON_0010516	clasper
 UBERON_0003133	UBERON_0010517	cephalic clasper
 UBERON_0003133	UBERON_0010518	pelvic fin clasper
 UBERON_0003133	UBERON_0011183	corpus spongiosum of penis
+UBERON_0003133	UBERON_0011298	submucosa of uterine tube
 UBERON_0003133	UBERON_0011374	prepuce
 UBERON_0003133	UBERON_0011375	skin of prepuce of clitoris
 UBERON_0003133	UBERON_0011754	genital swelling
@@ -8884,7 +9138,10 @@ UBERON_0003133	UBERON_0012317	vagina orifice
 UBERON_0003133	UBERON_0012327	pearly penile papule
 UBERON_0003133	UBERON_0012328	penile spine
 UBERON_0003133	UBERON_0012487	vaginal sphincter
+UBERON_0003133	UBERON_0012499	serosa of uterine tube
+UBERON_0003133	UBERON_0012648	ampulla of uterine tube
 UBERON_0003133	UBERON_0013128	bulb of penis
+UBERON_0003133	UBERON_0013129	bulb of vestibule
 UBERON_0003133	UBERON_0013191	ovarian cortex
 UBERON_0003133	UBERON_0013192	ovarian medulla
 UBERON_0003133	UBERON_0013237	genital papilla of vulva
@@ -8897,6 +9154,7 @@ UBERON_0003133	UBERON_0013524	median vaginal canal
 UBERON_0003133	UBERON_0013672	priapium
 UBERON_0003133	UBERON_0013673	os priapium
 UBERON_0003133	UBERON_0013674	ctenactinium
+UBERON_0003133	UBERON_0013675	toxactinium
 UBERON_0003133	UBERON_0013676	aproctal bone of priapium
 UBERON_0003133	UBERON_0013677	serrated projection of ctenactinium
 UBERON_0003133	UBERON_0013719	dartos muscle of scrotum
@@ -8904,6 +9162,7 @@ UBERON_0003133	UBERON_0013720	dartos muscle of labia majora
 UBERON_0003133	UBERON_0013758	cervical os
 UBERON_0003133	UBERON_0013759	internal cervical os
 UBERON_0003133	UBERON_0013760	external cervical os
+UBERON_0003133	UBERON_0013761	cervical cavity
 UBERON_0003133	UBERON_0013769	uterine lumen
 UBERON_0003133	UBERON_0014394	uterine fat pad
 UBERON_0003133	UBERON_0015171	uterine spiral artery
@@ -8917,12 +9176,16 @@ UBERON_0003133	UBERON_0016409	base of glans penis
 UBERON_0003133	UBERON_0016486	posterior fornix of vagina
 UBERON_0003133	UBERON_0016487	anterior fornix of vagina
 UBERON_0003133	UBERON_0016524	muscle layer of spongiose part of urethra
+UBERON_0003133	UBERON_0016632	isthmus of fallopian tube
+UBERON_0003133	UBERON_0017160	lumen of hemipenial sheath
 UBERON_0003133	UBERON_0017161	hemipenial mucuous gland
 UBERON_0003133	UBERON_0017162	hemipenial holocrine gland
 UBERON_0003133	UBERON_0017180	hemipenis keratinized epithelium
 UBERON_0003133	UBERON_0017294	horn of hemipenis
 UBERON_0003133	UBERON_0017623	prepelvic clasper
 UBERON_0003133	UBERON_0017624	pseudoclasper
+UBERON_0003133	UBERON_0017659	ventral surface of penis
+UBERON_0003133	UBERON_0017732	raphe of scrotum
 UBERON_0003133	UBERON_0018131	periovarian fat pad
 UBERON_0003133	UBERON_0018134	rugal fold of scrotum
 UBERON_0003133	UBERON_0018315	clasper plate
@@ -8932,11 +9195,14 @@ UBERON_0003133	UBERON_0022355	basal layer of endometrium
 UBERON_0003133	UBERON_0022356	outer layer of endometrium
 UBERON_0003133	UBERON_0034691	internal spermatic fascia
 UBERON_0003133	UBERON_0034735	oviduct albumen gland
+UBERON_0003133	UBERON_0034770	bulbourethral gland epithelium
+UBERON_0003133	UBERON_0034928	dorsal surface of penis
 UBERON_0003133	UBERON_0034963	lateral fornix of vagina
 UBERON_0003133	UBERON_0035004	preputial swelling
 UBERON_0003133	UBERON_0035005	preputial swelling of male
 UBERON_0003133	UBERON_0035006	preputial swelling of female
 UBERON_0003133	UBERON_0035098	hemipenis transversus muscle
+UBERON_0003133	UBERON_0035104	raphe of penis
 UBERON_0003133	UBERON_0035105	sac of scrotum
 UBERON_0003133	UBERON_0035142	preputial space of male
 UBERON_0003133	UBERON_0035143	preputial space of female
@@ -8944,7 +9210,9 @@ UBERON_0003133	UBERON_0035144	preputial space
 UBERON_0003133	UBERON_0035258	mons pubis
 UBERON_0003133	UBERON_0035465	endometrial cavity
 UBERON_0003133	UBERON_0035651	glans
+UBERON_0003133	UBERON_0035956	epididymal lumen
 UBERON_0003133	UBERON_0035962	supravaginal part of cervix
+UBERON_0003133	UBERON_0036262	uterine ligament
 UBERON_0003133	UBERON_2001263	ovarian follicle stage I
 UBERON_0003133	UBERON_2001265	ovarian follicle stage II
 UBERON_0003133	UBERON_2001266	ovarian follicle stage III
@@ -8953,12 +9221,12 @@ UBERON_0003133	UBERON_3010240	Nobelian rod
 UBERON_0003133	UBERON_3010259	phallodeum
 UBERON_0003133	UBERON_3010260	intromittent organ (Ascaphus type)
 UBERON_0003133	UBERON_3010529	ovisac
+UBERON_0003133	UBERON_3010586	vasa efferentia
 UBERON_0003133	UBERON_4100111	hemipenal sheath
 UBERON_0003133	UBERON_4300018	ventral marginal cartilage
 UBERON_0004765	UBERON_0000130	transverse foramen
 UBERON_0004765	UBERON_0000144	trochlea of humerus
 UBERON_0004765	UBERON_0000199	neck of radius
-UBERON_0004765	UBERON_0000219	vertebral foramen of atlas
 UBERON_0004765	UBERON_0000221	supraauricular point
 UBERON_0004765	UBERON_0000313	portion of cartilage tissue in tibia
 UBERON_0004765	UBERON_0000398	cartilage tissue of sternum
@@ -9024,7 +9292,6 @@ UBERON_0004765	UBERON_0003253	neck of rib
 UBERON_0004765	UBERON_0003407	cartilage of nasal septum
 UBERON_0004765	UBERON_0003482	vein of trabecular bone
 UBERON_0004765	UBERON_0003686	tooth socket
-UBERON_0004765	UBERON_0003687	foramen magnum
 UBERON_0004765	UBERON_0003689	sella turcica
 UBERON_0004765	UBERON_0003699	pubic symphysis
 UBERON_0004765	UBERON_0003720	anterior cranial fossa
@@ -9142,7 +9409,6 @@ UBERON_0004765	UBERON_0005342	malleus head
 UBERON_0004765	UBERON_0005354	malleus processus brevis
 UBERON_0004765	UBERON_0005355	malleus neck
 UBERON_0004765	UBERON_0005411	bony otic capsule
-UBERON_0004765	UBERON_0005446	foramen rotundum
 UBERON_0004765	UBERON_0005456	jugular foramen
 UBERON_0004765	UBERON_0005480	superior orbital fissure
 UBERON_0004765	UBERON_0005744	bone foramen
@@ -9267,6 +9533,7 @@ UBERON_0004765	UBERON_0009989	condyle of tibia
 UBERON_0004765	UBERON_0009990	medial condyle of tibia
 UBERON_0004765	UBERON_0009991	lateral condyle of tibia
 UBERON_0004765	UBERON_0010066	tympanic plate
+UBERON_0004765	UBERON_0010076	network of trabecular spaces in bone tissue
 UBERON_0004765	UBERON_0010273	zone of hyoid bone
 UBERON_0004765	UBERON_0010355	ossification center
 UBERON_0004765	UBERON_0010356	primary ossification center
@@ -9320,7 +9587,6 @@ UBERON_0004765	UBERON_0012078	fovea capitis of femur
 UBERON_0004765	UBERON_0012108	postorbital bar
 UBERON_0004765	UBERON_0012109	zygomatic process of frontal bone
 UBERON_0004765	UBERON_0012110	frontal process of zygomatic bone
-UBERON_0004765	UBERON_0012116	nutrient foramen conduit
 UBERON_0004765	UBERON_0012129	radial head of humerus
 UBERON_0004765	UBERON_0012130	olecranon fossa
 UBERON_0004765	UBERON_0012291	lateral malleolus of fibula
@@ -9429,7 +9695,6 @@ UBERON_0004765	UBERON_0016425	epiphyseal plate of radius
 UBERON_0004765	UBERON_0016440	glabella region of bone
 UBERON_0004765	UBERON_0016492	foramen spinosum of sphenoid bone
 UBERON_0004765	UBERON_0016497	epicondyle of humerus
-UBERON_0004765	UBERON_0016881	craniopharyngeal canal
 UBERON_0004765	UBERON_0016928	metaphysis of fibula
 UBERON_0004765	UBERON_0016930	ridge of tooth
 UBERON_0004765	UBERON_0016931	transverse ridge of tooth
@@ -9515,8 +9780,6 @@ UBERON_0004765	UBERON_0018655	pars endotympanica
 UBERON_0004765	UBERON_0018664	neck of bone element
 UBERON_0004765	UBERON_0018667	neck of scapula
 UBERON_0004765	UBERON_0018673	neck of fibula
-UBERON_0004765	UBERON_0026584	tympanic canal
-UBERON_0004765	UBERON_0026586	vestibular canal
 UBERON_0004765	UBERON_0034712	yellow fibrocartilage
 UBERON_0004765	UBERON_0034898	alveolar ridge of premaxilla
 UBERON_0004765	UBERON_0034900	palatine process of premaxilla
@@ -9533,6 +9796,7 @@ UBERON_0004765	UBERON_0035958	preoptic pillar
 UBERON_0004765	UBERON_0035959	orbital pillar
 UBERON_0004765	UBERON_0035964	promontory of tympanic cavity
 UBERON_0004765	UBERON_0036144	incisive duct
+UBERON_0004765	UBERON_0036266	pars interarticularis of vertebra
 UBERON_0004765	UBERON_1500000	scapular blade
 UBERON_0004765	UBERON_2000224	quadrate ventral process
 UBERON_0004765	UBERON_2000623	basipterygium bone
@@ -9614,7 +9878,6 @@ UBERON_0004765	UBERON_2002076	lateral process of basipterygium
 UBERON_0004765	UBERON_2002080	spina occipitalis
 UBERON_0004765	UBERON_2002090	pro-otic fossa
 UBERON_0004765	UBERON_2002095	third posttemporal fossa
-UBERON_0004765	UBERON_2002110	metapterygoid-quadrate fenestra
 UBERON_0004765	UBERON_2002166	pseudourostyle
 UBERON_0004765	UBERON_2002249	ctenius
 UBERON_0004765	UBERON_2002250	epural 2
@@ -9687,7 +9950,6 @@ UBERON_0004765	UBERON_3000381	paranasal commissure
 UBERON_0004765	UBERON_3000386	cultriform process
 UBERON_0004765	UBERON_3000387	subotic alae
 UBERON_0004765	UBERON_3000389	paries nasi
-UBERON_0004765	UBERON_3000433	pineal foramen
 UBERON_0004765	UBERON_3000434	planum antorbitale
 UBERON_0004765	UBERON_3000437	planum conchale
 UBERON_0004765	UBERON_3000438	planum internasale
@@ -9827,7 +10089,6 @@ UBERON_0004765	UBERON_4100112	radial facet
 UBERON_0004765	UBERON_4100114	anterior distal condyle of femur
 UBERON_0004765	UBERON_4100115	spiracular notch
 UBERON_0004765	UBERON_4100116	posterior distal condyle of femur
-UBERON_0004765	UBERON_4100120	prezygapophyses
 UBERON_0004765	UBERON_4200000	medial blade of ilium
 UBERON_0004765	UBERON_4200001	postpubis
 UBERON_0004765	UBERON_4200002	coracoid plate
@@ -9955,9 +10216,18 @@ UBERON_0004765	UBERON_4300144	profundus foramen
 UBERON_0004765	UBERON_4300154	procurrent spur
 UBERON_0004765	UBERON_4300156	anterodorsal crest
 UBERON_0004765	UBERON_4300158	ectepicondylar depression
+UBERON_0004765	UBERON_4300184	neural spine 5
+UBERON_0004765	UBERON_4300185	neural spine 6
+UBERON_0004765	UBERON_4300186	neural spine 7
+UBERON_0004765	UBERON_4300189	parapophysis 3
+UBERON_0004765	UBERON_4300196	processus descendens of sphenoid
+UBERON_0004765	UBERON_4300197	Westoll line
+UBERON_0004765	UBERON_4300201	subepiotic fossa
+UBERON_0004765	UBERON_4300212	acrodin
 UBERON_0004765	UBERON_0000209	tetrapod frontal bone
 UBERON_0004765	UBERON_0000210	tetrapod parietal bone
 UBERON_0004765	UBERON_0000218	vertebral arch of axis
+UBERON_0004765	UBERON_0000219	vertebral foramen of atlas
 UBERON_0004765	UBERON_0000312	inner cambium layer of periosteum
 UBERON_0004765	UBERON_0000332	yellow bone marrow
 UBERON_0004765	UBERON_0000361	red bone marrow
@@ -10013,6 +10283,7 @@ UBERON_0004765	UBERON_0001689	malleus bone
 UBERON_0004765	UBERON_0001692	basioccipital bone
 UBERON_0004765	UBERON_0001693	exoccipital bone
 UBERON_0004765	UBERON_0001695	squamous part of temporal bone
+UBERON_0004765	UBERON_0001724	sphenoidal sinus
 UBERON_0004765	UBERON_0001764	maxillary sinus
 UBERON_0004765	UBERON_0002208	sternebra
 UBERON_0004765	UBERON_0002218	tympanic ring
@@ -10021,9 +10292,6 @@ UBERON_0004765	UBERON_0002228	rib
 UBERON_0004765	UBERON_0002229	interparietal bone
 UBERON_0004765	UBERON_0002234	proximal phalanx of manus
 UBERON_0004765	UBERON_0002236	costal cartilage
-UBERON_0004765	UBERON_0002237	true rib
-UBERON_0004765	UBERON_0002238	false rib
-UBERON_0004765	UBERON_0002239	floating rib
 UBERON_0004765	UBERON_0002244	premaxilla
 UBERON_0004765	UBERON_0002347	thoracic vertebra
 UBERON_0004765	UBERON_0002371	bone marrow
@@ -10076,6 +10344,7 @@ UBERON_0004765	UBERON_0003652	metatarsal bone of digit 3
 UBERON_0004765	UBERON_0003653	metatarsal bone of digit 4
 UBERON_0004765	UBERON_0003654	metatarsal bone of digit 5
 UBERON_0004765	UBERON_0003656	mesopodium bone
+UBERON_0004765	UBERON_0003687	foramen magnum
 UBERON_0004765	UBERON_0003690	fused sacrum
 UBERON_0004765	UBERON_0003821	metapodium bone
 UBERON_0004765	UBERON_0003826	upper leg bone
@@ -10175,11 +10444,11 @@ UBERON_0004765	UBERON_0004744	articular/anguloarticular
 UBERON_0004765	UBERON_0004745	parasphenoid
 UBERON_0004765	UBERON_0004746	prootic bone
 UBERON_0004765	UBERON_0004747	supraoccipital bone
-UBERON_0004765	UBERON_0004751	hypohyal bone
 UBERON_0004765	UBERON_0004766	cranial bone
 UBERON_0004765	UBERON_0004768	bone of lower jaw
 UBERON_0004765	UBERON_0004865	actinopterygian parietal bone
 UBERON_0004765	UBERON_0004866	actinopterygian frontal bone
+UBERON_0004765	UBERON_0005446	foramen rotundum
 UBERON_0004765	UBERON_0005620	primary palate
 UBERON_0004765	UBERON_0005659	primary palate epithelium
 UBERON_0004765	UBERON_0005705	primary palate mesenchyme
@@ -10283,7 +10552,6 @@ UBERON_0004765	UBERON_0010740	bone of appendage girdle complex
 UBERON_0004765	UBERON_0010741	bone of pectoral complex
 UBERON_0004765	UBERON_0010742	bone of pelvic complex
 UBERON_0004765	UBERON_0010750	prefrontal bone
-UBERON_0004765	UBERON_0010757	rib 8
 UBERON_0004765	UBERON_0010759	equine distal sesamoid
 UBERON_0004765	UBERON_0010898	gastralium
 UBERON_0004765	UBERON_0010907	parafibula
@@ -10300,6 +10568,9 @@ UBERON_0004765	UBERON_0011238	mesethmoid bone
 UBERON_0004765	UBERON_0011246	procoracoid bone
 UBERON_0004765	UBERON_0011250	autopod bone
 UBERON_0004765	UBERON_0011267	quadratojugal bone
+UBERON_0004765	UBERON_0011342	surface of mandible
+UBERON_0004765	UBERON_0011343	medial surface of mandible
+UBERON_0004765	UBERON_0011344	lateral surface of mandible
 UBERON_0004765	UBERON_0011597	bone of upper jaw
 UBERON_0004765	UBERON_0011598	coronoid bone
 UBERON_0004765	UBERON_0011606	hyomandibular bone
@@ -10333,11 +10604,15 @@ UBERON_0004765	UBERON_0011677	trunk vertebra
 UBERON_0004765	UBERON_0011678	hindlimb intermedium bone
 UBERON_0004765	UBERON_0011679	proximal tarsal bone
 UBERON_0004765	UBERON_0011770	mentomeckelian
+UBERON_0004765	UBERON_0011772	lower jaw opening
+UBERON_0004765	UBERON_0011773	upper jaw opening
 UBERON_0004765	UBERON_0011863	bone collagen fibril
 UBERON_0004765	UBERON_0011941	lateral angle of scapula
 UBERON_0004765	UBERON_0012071	palate bone
 UBERON_0004765	UBERON_0012075	replacement bone
 UBERON_0004765	UBERON_0012104	sesamoid bone of the peroneus longus muscle
+UBERON_0004765	UBERON_0012116	nutrient foramen conduit
+UBERON_0004765	UBERON_0012117	lumen of nutrient foramen
 UBERON_0004765	UBERON_0012124	avian scapholunar bone
 UBERON_0004765	UBERON_0012126	fibulare
 UBERON_0004765	UBERON_0012131	centrale
@@ -10389,10 +10664,10 @@ UBERON_0004765	UBERON_0014708	costal plate of carapace
 UBERON_0004765	UBERON_0014762	fused metapodial bones 2-4
 UBERON_0004765	UBERON_0014763	fused metatarsal bones 2-4
 UBERON_0004765	UBERON_0016404	cervical vertebral arch joint
+UBERON_0004765	UBERON_0016881	craniopharyngeal canal
 UBERON_0004765	UBERON_0016896	periosteum of long bone
 UBERON_0004765	UBERON_0018102	distal mesopodial bone
 UBERON_0004765	UBERON_0018144	cervical rib
-UBERON_0004765	UBERON_0018145	lumbar rib
 UBERON_0004765	UBERON_0018266	third phalanx
 UBERON_0004765	UBERON_0018267	atlantal spinal nerve foramen
 UBERON_0004765	UBERON_0018283	lower pharyngobranchial toothplate
@@ -10406,6 +10681,8 @@ UBERON_0004765	UBERON_0018348	petrosal bone
 UBERON_0004765	UBERON_0018356	rostral entotympanic element
 UBERON_0004765	UBERON_0018366	supratendinal bridge
 UBERON_0004765	UBERON_0018409	infra-orbital groove of maxilla
+UBERON_0004765	UBERON_0026584	tympanic canal
+UBERON_0004765	UBERON_0026586	vestibular canal
 UBERON_0004765	UBERON_0035083	transverse process-bearing vertebra
 UBERON_0004765	UBERON_0035084	non-transverse process-bearing vertebra
 UBERON_0004765	UBERON_1500006	paired fin radial bone
@@ -10432,7 +10709,6 @@ UBERON_0004765	UBERON_2000300	ventral hypohyal bone
 UBERON_0004765	UBERON_2000336	preopercle vertical limb
 UBERON_0004765	UBERON_2000337	basioccipital posterodorsal region
 UBERON_0004765	UBERON_2000348	exoccipital posteroventral region
-UBERON_0004765	UBERON_2000350	epipleural
 UBERON_0004765	UBERON_2000356	gill raker
 UBERON_0004765	UBERON_2000364	hypural
 UBERON_0004765	UBERON_2000376	infraorbital
@@ -10445,11 +10721,8 @@ UBERON_0004765	UBERON_2000452	urohyal
 UBERON_0004765	UBERON_2000474	intercalar
 UBERON_0004765	UBERON_2000476	branchiostegal ray
 UBERON_0004765	UBERON_2000495	infraorbital 5
-UBERON_0004765	UBERON_2000507	epineural
 UBERON_0004765	UBERON_2000508	pelvic fin radial bone
 UBERON_0004765	UBERON_2000525	intercalarium
-UBERON_0004765	UBERON_2000526	intermuscular bone
-UBERON_0004765	UBERON_2000527	pharyngobranchial bone
 UBERON_0004765	UBERON_2000549	posttemporal
 UBERON_0004765	UBERON_2000557	preural 1 vertebra
 UBERON_0004765	UBERON_2000576	pterotic
@@ -10475,8 +10748,6 @@ UBERON_0004765	UBERON_2001223	basibranchial 1 bone
 UBERON_0004765	UBERON_2001224	basibranchial 2 bone
 UBERON_0004765	UBERON_2001225	basibranchial 3 bone
 UBERON_0004765	UBERON_2001226	basibranchial 4 bone
-UBERON_0004765	UBERON_2001250	pharyngobranchial 2 bone
-UBERON_0004765	UBERON_2001252	pharyngobranchial 3 bone
 UBERON_0004765	UBERON_2001253	neural arch 2
 UBERON_0004765	UBERON_2001274	coronomeckelian
 UBERON_0004765	UBERON_2001275	sublingual
@@ -10524,7 +10795,6 @@ UBERON_0004765	UBERON_2001606	caudal scute
 UBERON_0004765	UBERON_2001613	dorsal fin middle radial bone
 UBERON_0004765	UBERON_2001614	anal fin middle radial bone
 UBERON_0004765	UBERON_2001623	type 1 odontode
-UBERON_0004765	UBERON_2001635	pharyngobranchial 1 bone
 UBERON_0004765	UBERON_2001640	notochordal ossification
 UBERON_0004765	UBERON_2001647	pharyngeal tooth plate
 UBERON_0004765	UBERON_2001648	basihyal tooth plate
@@ -10586,36 +10856,34 @@ UBERON_0004765	UBERON_2001737	coracoid foramen
 UBERON_0004765	UBERON_2001741	trigeminofacial foramen
 UBERON_0004765	UBERON_2001742	auditory foramen
 UBERON_0004765	UBERON_2001748	superficial ophthalmic nerve foramen
-UBERON_0004765	UBERON_2001750	rib of vertebra 6
-UBERON_0004765	UBERON_2001751	rib of vertebra 5
-UBERON_0004765	UBERON_2001754	dorsal fin lepidotrichium 1
-UBERON_0004765	UBERON_2001755	dorsal fin lepidotrichium 2
-UBERON_0004765	UBERON_2001756	dorsal fin lepidotrichium 3
-UBERON_0004765	UBERON_2001757	dorsal fin lepidotrichium 4
-UBERON_0004765	UBERON_2001758	dorsal fin lepidotrichium 5
-UBERON_0004765	UBERON_2001759	dorsal fin lepidotrichium 6
-UBERON_0004765	UBERON_2001760	dorsal fin lepidotrichium 7
-UBERON_0004765	UBERON_2001761	pectoral fin lepidotrichium 1
-UBERON_0004765	UBERON_2001762	pectoral fin lepidotrichium 2
-UBERON_0004765	UBERON_2001763	pectoral fin lepidotrichium 3
-UBERON_0004765	UBERON_2001764	pectoral fin lepidotrichium 4
-UBERON_0004765	UBERON_2001765	pectoral fin lepidotrichium 5
-UBERON_0004765	UBERON_2001766	pectoral fin lepidotrichium 6
-UBERON_0004765	UBERON_2001767	pectoral fin lepidotrichium 7
-UBERON_0004765	UBERON_2001769	anal fin lepidotrichium 1
-UBERON_0004765	UBERON_2001770	anal fin lepidotrichium 2
-UBERON_0004765	UBERON_2001771	anal fin lepidotrichium 3
-UBERON_0004765	UBERON_2001772	anal fin lepidotrichium 4
-UBERON_0004765	UBERON_2001773	anal fin lepidotrichium 5
-UBERON_0004765	UBERON_2001774	anal fin lepidotrichium 6
-UBERON_0004765	UBERON_2001775	anal fin lepidotrichium 7
-UBERON_0004765	UBERON_2001776	pelvic fin lepidotrichium 1
-UBERON_0004765	UBERON_2001777	pelvic fin lepidotrichium 2
-UBERON_0004765	UBERON_2001778	pelvic fin lepidotrichium 3
-UBERON_0004765	UBERON_2001779	pelvic fin lepidotrichium 4
-UBERON_0004765	UBERON_2001780	pelvic fin lepidotrichium 5
-UBERON_0004765	UBERON_2001781	pelvic fin lepidotrichium 6
-UBERON_0004765	UBERON_2001782	pelvic fin lepidotrichium 7
+UBERON_0004765	UBERON_2001754	dorsal fin ray 1
+UBERON_0004765	UBERON_2001755	dorsal fin ray 2
+UBERON_0004765	UBERON_2001756	dorsal fin ray 3
+UBERON_0004765	UBERON_2001757	dorsal fin ray 4
+UBERON_0004765	UBERON_2001758	dorsal fin ray 5
+UBERON_0004765	UBERON_2001759	dorsal fin ray 6
+UBERON_0004765	UBERON_2001760	dorsal fin ray 7
+UBERON_0004765	UBERON_2001761	pectoral fin ray 1
+UBERON_0004765	UBERON_2001762	pectoral fin ray 2
+UBERON_0004765	UBERON_2001763	pectoral fin ray 3
+UBERON_0004765	UBERON_2001764	pectoral fin ray 4
+UBERON_0004765	UBERON_2001765	pectoral fin ray 5
+UBERON_0004765	UBERON_2001766	pectoral fin ray 6
+UBERON_0004765	UBERON_2001767	pectoral fin ray 7
+UBERON_0004765	UBERON_2001769	anal fin ray 1
+UBERON_0004765	UBERON_2001770	anal fin ray 2
+UBERON_0004765	UBERON_2001771	anal fin ray 3
+UBERON_0004765	UBERON_2001772	anal fin ray 4
+UBERON_0004765	UBERON_2001773	anal fin ray 5
+UBERON_0004765	UBERON_2001774	anal fin ray 6
+UBERON_0004765	UBERON_2001775	anal fin ray 7
+UBERON_0004765	UBERON_2001776	pelvic fin ray 1
+UBERON_0004765	UBERON_2001777	pelvic fin ray 2
+UBERON_0004765	UBERON_2001778	pelvic fin ray 3
+UBERON_0004765	UBERON_2001779	pelvic fin ray 4
+UBERON_0004765	UBERON_2001780	pelvic fin ray 5
+UBERON_0004765	UBERON_2001781	pelvic fin ray 6
+UBERON_0004765	UBERON_2001782	pelvic fin ray 7
 UBERON_0004765	UBERON_2001785	branched dorsal fin ray
 UBERON_0004765	UBERON_2001786	unbranched dorsal fin ray
 UBERON_0004765	UBERON_2001787	pectoral fin spine
@@ -10623,8 +10891,6 @@ UBERON_0004765	UBERON_2001788	pelvic splint
 UBERON_0004765	UBERON_2001789	dorsal fin spine 1
 UBERON_0004765	UBERON_2001790	dorsal fin spine 2
 UBERON_0004765	UBERON_2001795	ceratohyal foramen
-UBERON_0004765	UBERON_2001798	epicentral bone
-UBERON_0004765	UBERON_2001800	cephalic rib
 UBERON_0004765	UBERON_2001804	olfactory nerve foramen
 UBERON_0004765	UBERON_2001805	articular bone
 UBERON_0004765	UBERON_2001808	facial foramen
@@ -10645,7 +10911,6 @@ UBERON_0004765	UBERON_2001877	neural arch 1
 UBERON_0004765	UBERON_2001878	rib of vertebra 2
 UBERON_0004765	UBERON_2001879	rib of vertebra 1
 UBERON_0004765	UBERON_2001880	rib of vertebra 3
-UBERON_0004765	UBERON_2001881	rib of vertebra 4
 UBERON_0004765	UBERON_2001884	accessory neural arch
 UBERON_0004765	UBERON_2001923	aortic canal
 UBERON_0004765	UBERON_2001924	occipital artery foramen
@@ -10697,11 +10962,11 @@ UBERON_0004765	UBERON_2002087	pectoral axillary process
 UBERON_0004765	UBERON_2002088	interhaemal bone
 UBERON_0004765	UBERON_2002089	gular plate
 UBERON_0004765	UBERON_2002109	uroneural 2
+UBERON_0004765	UBERON_2002110	metapterygoid-quadrate fenestra
 UBERON_0004765	UBERON_2002112	preural 3 vertebra
 UBERON_0004765	UBERON_2002115	uroneural 3
 UBERON_0004765	UBERON_2002120	orbitosphenoid septum
 UBERON_0004765	UBERON_2002123	neural arch 5
-UBERON_0004765	UBERON_2002127	myorhabdoid bone
 UBERON_0004765	UBERON_2002132	hypural 7
 UBERON_0004765	UBERON_2002159	caudal basal fulcrum
 UBERON_0004765	UBERON_2002160	ural centrum 3
@@ -10713,12 +10978,6 @@ UBERON_0004765	UBERON_2002168	preural centrum 1 + ural centrum 1 + ural centrum 
 UBERON_0004765	UBERON_2002214	os suspensorium medial flange
 UBERON_0004765	UBERON_2002261	dorsal fin spine
 UBERON_0004765	UBERON_2002262	anal fin spine
-UBERON_0004765	UBERON_2002263	epineural 1
-UBERON_0004765	UBERON_2002264	epineural 2
-UBERON_0004765	UBERON_2002265	epineural 3
-UBERON_0004765	UBERON_2002266	epineural 4
-UBERON_0004765	UBERON_2002267	epineural 5
-UBERON_0004765	UBERON_2002268	epineural 6
 UBERON_0004765	UBERON_2002270	pelvic fin spine
 UBERON_0004765	UBERON_2002271	ventral caudal procurrent ray 2
 UBERON_0004765	UBERON_2002272	ventral caudal procurrent ray 1
@@ -10731,7 +10990,6 @@ UBERON_0004765	UBERON_2002293	hypaxial basal fulcrum
 UBERON_0004765	UBERON_2002294	fish scute
 UBERON_0004765	UBERON_2005225	median fin radial bone
 UBERON_0004765	UBERON_2005226	median fin proximal radial bone
-UBERON_0004765	UBERON_2005228	segmented lepidotrichium
 UBERON_0004765	UBERON_2005269	hypophyseal fenestra
 UBERON_0004765	UBERON_2005275	hyomandibular foramen
 UBERON_0004765	UBERON_2005372	dorsal fin distal radial bone 1
@@ -10751,6 +11009,7 @@ UBERON_0004765	UBERON_2005385	dorsal fin proximal radial bone 8
 UBERON_0004765	UBERON_2005415	inner ear foramen
 UBERON_0004765	UBERON_2005416	sacculoagenar foramen
 UBERON_0004765	UBERON_2007005	hemal prezygapophysis
+UBERON_0004765	UBERON_3000006	alveolar foramen
 UBERON_0004765	UBERON_3000155	extremitas anterior
 UBERON_0004765	UBERON_3000178	footplate of pars media plectri
 UBERON_0004765	UBERON_3000254	lamella alaris
@@ -10767,16 +11026,16 @@ UBERON_0004765	UBERON_3000400	pars facialis of maxilla
 UBERON_0004765	UBERON_3000401	pars facialis of maxillopalatine
 UBERON_0004765	UBERON_3000406	pars interna plectri
 UBERON_0004765	UBERON_3000408	pars media plectri
+UBERON_0004765	UBERON_3000433	pineal foramen
 UBERON_0004765	UBERON_3000443	plectral apparatus
 UBERON_0004765	UBERON_3000515	pseudoangular
 UBERON_0004765	UBERON_3000518	pseudodentary
 UBERON_0004765	UBERON_3000539	recessus marsupiatus of premaxilla
 UBERON_0004765	UBERON_3000540	recessus vaginiformis
-UBERON_0004765	UBERON_3000572	sphenethmoid
 UBERON_0004765	UBERON_3000580	stylus of pars media plectri
 UBERON_0004765	UBERON_3000581	sulcus dentalis of maxilla
 UBERON_0004765	UBERON_3000582	sulcus dentalis of premaxilla
-UBERON_0004765	UBERON_3000591	suprasphenoid
+UBERON_0004765	UBERON_3000605	tentacular foramen
 UBERON_0004765	UBERON_3000628	ventral ramus of squamosal
 UBERON_0004765	UBERON_3000634	vomerine canal
 UBERON_0004765	UBERON_3000645	corpus
@@ -10785,7 +11044,6 @@ UBERON_0004765	UBERON_3000651	lamina anterior of maxilla
 UBERON_0004765	UBERON_3000653	pars glenoidalis of quadratojugal
 UBERON_0004765	UBERON_3000654	pars jugalis
 UBERON_0004765	UBERON_3000660	margo choanalis
-UBERON_0004765	UBERON_3000663	parahyoid
 UBERON_0004765	UBERON_3000692	pedicel
 UBERON_0004765	UBERON_3000694	atlantal cotyle
 UBERON_0004765	UBERON_3000696	posterior intervertebral notch
@@ -10857,7 +11115,7 @@ UBERON_0004765	UBERON_3001002	basale commune (tarsal)
 UBERON_0004765	UBERON_3010045	centrale 1
 UBERON_0004765	UBERON_3010060	centrale (fore)
 UBERON_0004765	UBERON_3010073	centrale 2
-UBERON_0004765	UBERON_3010576	prenasal
+UBERON_0004765	UBERON_3010576	prenasal (amphibians)
 UBERON_0004765	UBERON_3010583	basibranchial I
 UBERON_0004765	UBERON_3010585	basibranchial II
 UBERON_0004765	UBERON_3010624	subarticular sesamoid
@@ -10875,8 +11133,6 @@ UBERON_0004765	UBERON_4000177	dorsal fin lepidotrichium
 UBERON_0004765	UBERON_4100005	second phalanx
 UBERON_0004765	UBERON_4100006	parasternal process
 UBERON_0004765	UBERON_4100009	pedal digit 7 phalanx
-UBERON_0004765	UBERON_4100117	presacral rib
-UBERON_0004765	UBERON_4100118	trunk rib
 UBERON_0004765	UBERON_4100119	extratemporal bone
 UBERON_0004765	UBERON_4200008	inter-clavicle joint
 UBERON_0004765	UBERON_4200009	hypochordal lepidotrichium
@@ -10946,21 +11202,35 @@ UBERON_0004765	UBERON_4300098	anal fin spine 2
 UBERON_0004765	UBERON_4300103	rudimentary pectoral fin ray
 UBERON_0004765	UBERON_4300104	ectocoracoid bone
 UBERON_0004765	UBERON_4300105	caudal vertebra 1
-UBERON_0004765	UBERON_4300116	dorsal fin soft ray
-UBERON_0004765	UBERON_4300117	pelvic fin soft ray
+UBERON_0004765	UBERON_4300116	dorsal fin ray
+UBERON_0004765	UBERON_4300117	pelvic fin ray
 UBERON_0004765	UBERON_4300124	axis intercentrum
 UBERON_0004765	UBERON_4300128	sacral rib
 UBERON_0004765	UBERON_4300155	pectoral splint
 UBERON_0004765	UBERON_4300175	procumbent dorsal fin spine
+UBERON_0004765	UBERON_4300192	branched pelvic fin ray
+UBERON_0004765	UBERON_4300193	unbranched anal fin ray
+UBERON_0004765	UBERON_4300199	postsplenial
+UBERON_0004765	UBERON_4300207	submandibular bone
+UBERON_0004765	UBERON_4300211	lateral plate
+UBERON_0004765	UBERON_4300223	precaudal vertebra
 UBERON_0004765	UBERON_4400007	camptotrichium
 UBERON_0004765	UBERON_4440011	paired fin lepidotrichium
 UBERON_0004765	UBERON_4500002	upper uroneural
+UBERON_0004765	UBERON_4500005	prenasal ossicle
+UBERON_0004765	UBERON_4500006	anal fin ray
+UBERON_0004765	UBERON_4500007	pectoral fin ray
+UBERON_0004765	UBERON_4500008	median fin lepidotrichium
+UBERON_0004765	UBERON_4500009	paired fin spine
+UBERON_0004765	UBERON_4500010	unbranched pectoral fin ray
+UBERON_0004765	UBERON_4500011	unbranched pelvic fin ray
 UBERON_0004765	UBERON_0000041	odontode scale
 UBERON_0004765	UBERON_0000975	sternum
 UBERON_0004765	UBERON_0001066	intervertebral disk
 UBERON_0004765	UBERON_0001091	calcareous tooth
 UBERON_0004765	UBERON_0001098	incisor tooth
 UBERON_0004765	UBERON_0001102	cartilage of main bronchus
+UBERON_0004765	UBERON_0001131	vertebral foramen
 UBERON_0004765	UBERON_0001470	glenohumeral joint
 UBERON_0004765	UBERON_0001738	thyroid cartilage
 UBERON_0004765	UBERON_0001739	laryngeal cartilage
@@ -10971,6 +11241,10 @@ UBERON_0004765	UBERON_0001848	auricular cartilage
 UBERON_0004765	UBERON_0001867	cartilage of external ear
 UBERON_0004765	UBERON_0001956	cartilage of bronchus
 UBERON_0004765	UBERON_0002205	manubrium of sternum
+UBERON_0004765	UBERON_0002222	perichondrium
+UBERON_0004765	UBERON_0002237	true rib
+UBERON_0004765	UBERON_0002238	false rib
+UBERON_0004765	UBERON_0002239	floating rib
 UBERON_0004765	UBERON_0002242	nucleus pulposus
 UBERON_0004765	UBERON_0002375	cricoid cartilage
 UBERON_0004765	UBERON_0002487	tooth cavity
@@ -11003,6 +11277,7 @@ UBERON_0004765	UBERON_0003955	molar crown
 UBERON_0004765	UBERON_0004106	crus of ear
 UBERON_0004765	UBERON_0004368	Reichert's cartilage
 UBERON_0004765	UBERON_0004637	otic capsule
+UBERON_0004765	UBERON_0004751	hypohyal bone
 UBERON_0004765	UBERON_0004752	palatoquadrate cartilage
 UBERON_0004765	UBERON_0004753	scapulocoracoid
 UBERON_0004765	UBERON_0004756	dermal skeletal element
@@ -11065,7 +11340,11 @@ UBERON_0004765	UBERON_0007775	secondary tooth
 UBERON_0004765	UBERON_0007776	unerupted tooth
 UBERON_0004765	UBERON_0007804	sclerotic ring
 UBERON_0004765	UBERON_0007844	cartilage element
+UBERON_0004765	UBERON_0008115	surface of cartilage
+UBERON_0004765	UBERON_0008124	joint articular surface
 UBERON_0004765	UBERON_0008254	styliform cartilage
+UBERON_0004765	UBERON_0008304	inner chondrogenic layer of perichondrium
+UBERON_0004765	UBERON_0008305	outer fibrous layer of perichondrium
 UBERON_0004765	UBERON_0008854	root of molar tooth
 UBERON_0004765	UBERON_0009078	pessulus
 UBERON_0004765	UBERON_0009191	sphenoid bone pre-cartilage condensation
@@ -11151,6 +11430,7 @@ UBERON_0004765	UBERON_0010733	alisphenoid cartilage element
 UBERON_0004765	UBERON_0010744	sacral vertebra pre-cartilage condensation
 UBERON_0004765	UBERON_0010745	sacral vertebra cartilage element
 UBERON_0004765	UBERON_0010752	exoccipital cartilage element
+UBERON_0004765	UBERON_0010757	rib 8
 UBERON_0004765	UBERON_0010801	calcaneum pre-cartilage condensation
 UBERON_0004765	UBERON_0010842	calcaneum cartilage element
 UBERON_0004765	UBERON_0010846	radius pre-cartilage condensation
@@ -11364,6 +11644,7 @@ UBERON_0004765	UBERON_0016476	primary incisor tooth
 UBERON_0004765	UBERON_0016491	vertebral centrum element
 UBERON_0004765	UBERON_0016619	Y-shaped fibrocartilage skeleton of ventral pouch
 UBERON_0004765	UBERON_0016628	stem of Y-shaped fibrocartilage skeleton of ventral pouch
+UBERON_0004765	UBERON_0016629	branch of Y-shaped fibrocartilage skeleton of ventral pouch
 UBERON_0004765	UBERON_0016929	lingual cusp of tooth
 UBERON_0004765	UBERON_0016943	lower premolar tooth
 UBERON_0004765	UBERON_0016944	upper premolar tooth
@@ -11379,6 +11660,7 @@ UBERON_0004765	UBERON_0018099	distal mesopodial endochondral element
 UBERON_0004765	UBERON_0018100	distal mesopodial cartilage element
 UBERON_0004765	UBERON_0018101	distal mesopodial pre-cartilage condensation
 UBERON_0004765	UBERON_0018142	caudal vertebra endochondral element
+UBERON_0004765	UBERON_0018145	lumbar rib
 UBERON_0004765	UBERON_0018272	apex of paracone
 UBERON_0004765	UBERON_0018276	egg tooth
 UBERON_0004765	UBERON_0018277	calcareous egg tooth
@@ -11479,6 +11761,7 @@ UBERON_0004765	UBERON_1700006	paired fin radial cartilage
 UBERON_0004765	UBERON_2000052	dorsal actinotrichium
 UBERON_0004765	UBERON_2000078	ventral actinotrichium
 UBERON_0004765	UBERON_2000089	actinotrichium
+UBERON_0004765	UBERON_2000350	epipleural
 UBERON_0004765	UBERON_2000363	hypobranchial bone
 UBERON_0004765	UBERON_2000373	dorsal fin actinotrichium
 UBERON_0004765	UBERON_2000375	anal fin actinotrichium
@@ -11487,6 +11770,9 @@ UBERON_0004765	UBERON_2000442	supraneural bone
 UBERON_0004765	UBERON_2000460	adipose fin actinotrichium
 UBERON_0004765	UBERON_2000461	Weberian ossicle
 UBERON_0004765	UBERON_2000488	ceratobranchial bone
+UBERON_0004765	UBERON_2000507	epineural
+UBERON_0004765	UBERON_2000526	intermuscular bone
+UBERON_0004765	UBERON_2000527	pharyngobranchial bone
 UBERON_0004765	UBERON_2000544	pectoral fin actinotrichium
 UBERON_0004765	UBERON_2000585	kinethmoid cartilage
 UBERON_0004765	UBERON_2000596	pelvic fin actinotrichium
@@ -11537,7 +11823,9 @@ UBERON_0004765	UBERON_2001244	epibranchial 5 cartilage
 UBERON_0004765	UBERON_2001245	epibranchial 4 bone
 UBERON_0004765	UBERON_2001246	epibranchial 2 bone
 UBERON_0004765	UBERON_2001247	epibranchial 3 bone
+UBERON_0004765	UBERON_2001250	pharyngobranchial 2 bone
 UBERON_0004765	UBERON_2001251	pharyngobranchial 4 cartilage
+UBERON_0004765	UBERON_2001252	pharyngobranchial 3 bone
 UBERON_0004765	UBERON_2001361	basiventral
 UBERON_0004765	UBERON_2001397	post-Weberian supraneural
 UBERON_0004765	UBERON_2001425	basal plate cartilage
@@ -11582,6 +11870,7 @@ UBERON_0004765	UBERON_2001626	premaxillary tooth
 UBERON_0004765	UBERON_2001632	ectopterygoid tooth
 UBERON_0004765	UBERON_2001633	entopterygoid tooth
 UBERON_0004765	UBERON_2001634	pharyngobranchial 1 cartilage
+UBERON_0004765	UBERON_2001635	pharyngobranchial 1 bone
 UBERON_0004765	UBERON_2001636	pharyngobranchial 4 bone
 UBERON_0004765	UBERON_2001688	palatine cartilage
 UBERON_0004765	UBERON_2001689	pterygoquadrate cartilage
@@ -11591,7 +11880,11 @@ UBERON_0004765	UBERON_2001695	mediopharyngobranchial
 UBERON_0004765	UBERON_2001696	gongyloid cartilage
 UBERON_0004765	UBERON_2001697	transverse radial
 UBERON_0004765	UBERON_2001732	vertebral element 5
+UBERON_0004765	UBERON_2001750	rib of vertebra 6
+UBERON_0004765	UBERON_2001751	rib of vertebra 5
 UBERON_0004765	UBERON_2001752	pre-narial cartilage
+UBERON_0004765	UBERON_2001798	epicentral bone
+UBERON_0004765	UBERON_2001800	cephalic rib
 UBERON_0004765	UBERON_2001824	lateral line scale
 UBERON_0004765	UBERON_2001856	gill ray
 UBERON_0004765	UBERON_2001858	suprapharyngobranchial
@@ -11603,6 +11896,7 @@ UBERON_0004765	UBERON_2001869	supraneural 2 cartilage
 UBERON_0004765	UBERON_2001870	supraneural 3 cartilage
 UBERON_0004765	UBERON_2001874	basibranchial 2 cartilage
 UBERON_0004765	UBERON_2001876	basibranchial 3 cartilage
+UBERON_0004765	UBERON_2001881	rib of vertebra 4
 UBERON_0004765	UBERON_2001882	parapophysis + rib of vertebra 3
 UBERON_0004765	UBERON_2001883	parapophysis + rib of vertebra 3 + rib of vertebra 4
 UBERON_0004765	UBERON_2001888	supraneural 1 bone
@@ -11655,11 +11949,18 @@ UBERON_0004765	UBERON_2002092	rostral cartilage
 UBERON_0004765	UBERON_2002118	scale radius
 UBERON_0004765	UBERON_2002119	dermal scale focus
 UBERON_0004765	UBERON_2002122	pouch scale
+UBERON_0004765	UBERON_2002127	myorhabdoid bone
 UBERON_0004765	UBERON_2002149	vertebral element 9
 UBERON_0004765	UBERON_2002150	vertebral element 10
 UBERON_0004765	UBERON_2002151	vertebral element 11
 UBERON_0004765	UBERON_2002152	vertebral element 12
 UBERON_0004765	UBERON_2002258	trituration tooth
+UBERON_0004765	UBERON_2002263	epineural 1
+UBERON_0004765	UBERON_2002264	epineural 2
+UBERON_0004765	UBERON_2002265	epineural 3
+UBERON_0004765	UBERON_2002266	epineural 4
+UBERON_0004765	UBERON_2002267	epineural 5
+UBERON_0004765	UBERON_2002268	epineural 6
 UBERON_0004765	UBERON_2002269	interarcual cartilage
 UBERON_0004765	UBERON_2002273	ctenoid scale
 UBERON_0004765	UBERON_2002274	transforming ctenoid scale
@@ -11757,10 +12058,13 @@ UBERON_0004765	UBERON_3000431	pila antoptica
 UBERON_0004765	UBERON_3000432	pila metoptica
 UBERON_0004765	UBERON_3000454	postnasal wall
 UBERON_0004765	UBERON_3000519	pseudodentary tooth
+UBERON_0004765	UBERON_3000572	sphenethmoid
+UBERON_0004765	UBERON_3000591	suprasphenoid
 UBERON_0004765	UBERON_3000599	taenia tecti marginalis
 UBERON_0004765	UBERON_3000601	tectum nasi
 UBERON_0004765	UBERON_3000640	arcus praeoccipitalis
 UBERON_0004765	UBERON_3000642	maxillopalatine tooth
+UBERON_0004765	UBERON_3000663	parahyoid
 UBERON_0004765	UBERON_3000759	omosternum
 UBERON_0004765	UBERON_3000762	epicoracoid
 UBERON_0004765	UBERON_3000763	epicoracoid bridge
@@ -11775,7 +12079,6 @@ UBERON_0004765	UBERON_3000952	posterior radial
 UBERON_0004765	UBERON_3000954	hypobranchial I
 UBERON_0004765	UBERON_3000955	ceratobranchial I
 UBERON_0004765	UBERON_3000956	hypobranchial II
-UBERON_0004765	UBERON_3000957	basihyal
 UBERON_0004765	UBERON_3000998	suprarostral cartilage
 UBERON_0004765	UBERON_3010061	anterior quadratocranial commissure
 UBERON_0004765	UBERON_3010118	quadrato-orbital commissure
@@ -11811,6 +12114,8 @@ UBERON_0004765	UBERON_4000105	limiting layer of elasmoid scale
 UBERON_0004765	UBERON_4000138	ligamentous replacement element
 UBERON_0004765	UBERON_4000146	transient cartilaginous element
 UBERON_0004765	UBERON_4100013	postcoracoid
+UBERON_0004765	UBERON_4100117	presacral rib
+UBERON_0004765	UBERON_4100118	trunk rib
 UBERON_0004765	UBERON_4200068	prepubic element
 UBERON_0004765	UBERON_4200135	puboischiadic bar
 UBERON_0004765	UBERON_4200139	palatoquadrate element
@@ -11838,6 +12143,30 @@ UBERON_0004765	UBERON_4300111	lateral ethmoid element
 UBERON_0004765	UBERON_4300135	upper jaw symphyseal tooth
 UBERON_0004765	UBERON_4300151	pelvic intercleithral cartilage
 UBERON_0004765	UBERON_4300157	midshaft
+UBERON_0004765	UBERON_4300181	posterior sclerotic cartilage
+UBERON_0004765	UBERON_4300182	anterior sclerotic cartilage
+UBERON_0004765	UBERON_4300188	terminal scale
+UBERON_0004765	UBERON_4300190	claustrum element
+UBERON_0004765	UBERON_4300198	epichordal radial
+UBERON_0004765	UBERON_4300203	tectum orbitale
+UBERON_0004765	UBERON_4300213	supraneural 1 element
+UBERON_0004765	UBERON_4300214	supraneural 2 element
+UBERON_0004765	UBERON_4300215	supraneural 3 element
+UBERON_0004765	UBERON_4300216	supraneural 4 element
+UBERON_0004765	UBERON_4300217	supraneural 5 element
+UBERON_0004765	UBERON_4300218	supraneural 6 element
+UBERON_0004765	UBERON_4300219	supraneural 7 element
+UBERON_0004765	UBERON_4300220	supraneural 8 element
+UBERON_0004765	UBERON_4300221	supraneural 9 element
+UBERON_0004765	UBERON_4300222	axilar scale
+UBERON_0004765	UBERON_4300224	precaudal vertebra endochondral element
+UBERON_0004765	UBERON_4300225	precaudal vertebra cartilage element
+UBERON_0004765	UBERON_4300233	mammiliform tooth
+UBERON_0004765	UBERON_4300235	spinoid scale
+UBERON_0004765	UBERON_4300236	rib of vertebra 7
+UBERON_0004765	UBERON_4300237	rib of vertebra 8
+UBERON_0004765	UBERON_4300238	pored lateral line scale
+UBERON_0004765	UBERON_4300240	rostral ossicle
 UBERON_0004765	UBERON_4400000	metapterygium cartilage
 UBERON_0004765	UBERON_4400001	ceratotrichium
 UBERON_0004765	UBERON_4400005	fin ray
@@ -11859,9 +12188,11 @@ UBERON_0005057	UBERON_0001960	periarterial lymphatic sheath
 UBERON_0005057	UBERON_0002006	cortex of lymph node
 UBERON_0005057	UBERON_0002007	medulla of lymph node
 UBERON_0005057	UBERON_0002106	spleen
+UBERON_0005057	UBERON_0002122	capsule of thymus
 UBERON_0005057	UBERON_0002123	cortex of thymus
 UBERON_0005057	UBERON_0002124	medulla of thymus
 UBERON_0005057	UBERON_0002125	thymus lobule
+UBERON_0005057	UBERON_0002194	capsule of lymph node
 UBERON_0005057	UBERON_0002195	trabecula of lymph node
 UBERON_0005057	UBERON_0002370	thymus
 UBERON_0005057	UBERON_0002429	cervical lymph node
@@ -11891,7 +12222,10 @@ UBERON_0005057	UBERON_0004850	lymph node endothelium
 UBERON_0005057	UBERON_0004870	superficial cervical lymph node
 UBERON_0005057	UBERON_0005196	spleen germinal center
 UBERON_0005057	UBERON_0005353	spleen perifollicular zone
+UBERON_0005057	UBERON_0005457	left thymus lobe
 UBERON_0005057	UBERON_0005463	subcapsular sinus of lymph node
+UBERON_0005057	UBERON_0005469	right thymus lobe
+UBERON_0005057	UBERON_0005483	thymus lobe
 UBERON_0005057	UBERON_0006936	thymus subcapsular epithelium
 UBERON_0005057	UBERON_0007643	node of ligamentum arteriosum
 UBERON_0005057	UBERON_0007644	thoracic lymph node
@@ -12325,6 +12659,7 @@ UBERON_0005156	UBERON_0013720	dartos muscle of labia majora
 UBERON_0005156	UBERON_0013758	cervical os
 UBERON_0005156	UBERON_0013759	internal cervical os
 UBERON_0005156	UBERON_0013760	external cervical os
+UBERON_0005156	UBERON_0013761	cervical cavity
 UBERON_0005156	UBERON_0013769	uterine lumen
 UBERON_0005156	UBERON_0014394	uterine fat pad
 UBERON_0005156	UBERON_0014458	female bulbospongiosus muscle
@@ -12348,6 +12683,7 @@ UBERON_0005156	UBERON_0016486	posterior fornix of vagina
 UBERON_0005156	UBERON_0016487	anterior fornix of vagina
 UBERON_0005156	UBERON_0016524	muscle layer of spongiose part of urethra
 UBERON_0005156	UBERON_0016632	isthmus of fallopian tube
+UBERON_0005156	UBERON_0017160	lumen of hemipenial sheath
 UBERON_0005156	UBERON_0017161	hemipenial mucuous gland
 UBERON_0005156	UBERON_0017162	hemipenial holocrine gland
 UBERON_0005156	UBERON_0017180	hemipenis keratinized epithelium
@@ -12356,6 +12692,7 @@ UBERON_0005156	UBERON_0017259	placental caruncle
 UBERON_0005156	UBERON_0017294	horn of hemipenis
 UBERON_0005156	UBERON_0017623	prepelvic clasper
 UBERON_0005156	UBERON_0017624	pseudoclasper
+UBERON_0005156	UBERON_0017659	ventral surface of penis
 UBERON_0005156	UBERON_0017732	raphe of scrotum
 UBERON_0005156	UBERON_0018131	periovarian fat pad
 UBERON_0005156	UBERON_0018134	rugal fold of scrotum
@@ -12377,6 +12714,7 @@ UBERON_0005156	UBERON_0034694	gubernacular bulb, intra-abdominal part
 UBERON_0005156	UBERON_0034695	gubernacular bulb, extra-abdominal part
 UBERON_0005156	UBERON_0034735	oviduct albumen gland
 UBERON_0005156	UBERON_0034770	bulbourethral gland epithelium
+UBERON_0005156	UBERON_0034928	dorsal surface of penis
 UBERON_0005156	UBERON_0034963	lateral fornix of vagina
 UBERON_0005156	UBERON_0035004	preputial swelling
 UBERON_0005156	UBERON_0035005	preputial swelling of male
@@ -12387,6 +12725,7 @@ UBERON_0005156	UBERON_0035105	sac of scrotum
 UBERON_0005156	UBERON_0035142	preputial space of male
 UBERON_0005156	UBERON_0035143	preputial space of female
 UBERON_0005156	UBERON_0035144	preputial space
+UBERON_0005156	UBERON_0035165	posterior surface of prostate
 UBERON_0005156	UBERON_0035258	mons pubis
 UBERON_0005156	UBERON_0035310	inferolateral surface of prostate
 UBERON_0005156	UBERON_0035316	prostatic capsule
@@ -12394,8 +12733,11 @@ UBERON_0005156	UBERON_0035331	base of prostate
 UBERON_0005156	UBERON_0035341	posterior lobe of prostate
 UBERON_0005156	UBERON_0035441	apex of prostate
 UBERON_0005156	UBERON_0035465	endometrial cavity
+UBERON_0005156	UBERON_0035480	surface of prostate
+UBERON_0005156	UBERON_0035523	anterior surface of prostate
 UBERON_0005156	UBERON_0035651	glans
 UBERON_0005156	UBERON_0035766	median lobe of prostate
+UBERON_0005156	UBERON_0035956	epididymal lumen
 UBERON_0005156	UBERON_0035962	supravaginal part of cervix
 UBERON_0005156	UBERON_0036151	diffuse placenta
 UBERON_0005156	UBERON_0036152	cotyledonary placenta
@@ -12405,6 +12747,7 @@ UBERON_0005156	UBERON_0036161	epitheliochorial placenta
 UBERON_0005156	UBERON_0036162	endotheliochorial placenta
 UBERON_0005156	UBERON_0036163	hemochorial placenta
 UBERON_0005156	UBERON_0036185	Sertoli cell barrier
+UBERON_0005156	UBERON_0036262	uterine ligament
 UBERON_0005156	UBERON_2001263	ovarian follicle stage I
 UBERON_0005156	UBERON_2001265	ovarian follicle stage II
 UBERON_0005156	UBERON_2001266	ovarian follicle stage III
@@ -12428,6 +12771,7 @@ UBERON_0006562	UBERON_0001042	chordate pharynx
 UBERON_0006562	UBERON_0001051	hypopharynx
 UBERON_0006562	UBERON_0001728	nasopharynx
 UBERON_0006562	UBERON_0001729	oropharynx
+UBERON_0006562	UBERON_0001731	cavity of pharynx
 UBERON_0006562	UBERON_0001732	pharyngeal tonsil
 UBERON_0006562	UBERON_0001735	tonsillar ring
 UBERON_0006562	UBERON_0001742	epiglottic cartilage
@@ -12470,6 +12814,7 @@ UBERON_0006562	UBERON_0007250	lingual tonsil
 UBERON_0006562	UBERON_0007303	pharyngeal vasculature
 UBERON_0006562	UBERON_0007689	thyroid diverticulum
 UBERON_0006562	UBERON_0008310	nasopharyngeal gland
+UBERON_0006562	UBERON_0008804	stylopharyngeus muscle
 UBERON_0006562	UBERON_0008815	pharyngeal slit
 UBERON_0006562	UBERON_0008817	thymus primordium endoderm
 UBERON_0006562	UBERON_0009116	thymoid
@@ -12478,10 +12823,13 @@ UBERON_0006562	UBERON_0009695	epithelium of laryngopharynx
 UBERON_0006562	UBERON_0009867	Hatschek's diverticulum
 UBERON_0006562	UBERON_0009868	Hatschek's left diverticulum
 UBERON_0006562	UBERON_0009869	Hatschek's right diverticulum
+UBERON_0006562	UBERON_0009959	lumen of oropharynx
 UBERON_0006562	UBERON_0010060	pharyngeal opening of pharyngotympanic tube
 UBERON_0006562	UBERON_0010061	lumen of nasopharynx
+UBERON_0006562	UBERON_0010234	palatopharyngeus muscle
 UBERON_0006562	UBERON_0010384	lumen of laryngopharynx
 UBERON_0006562	UBERON_0010423	primary lymphoid nodule of tonsil
+UBERON_0006562	UBERON_0010937	salpingopharyngeus muscle
 UBERON_0006562	UBERON_0011289	pharyngobasilar fascia
 UBERON_0006562	UBERON_0011345	pharyngeal raphe
 UBERON_0006562	UBERON_0012181	tonsil crypt
@@ -12491,18 +12839,31 @@ UBERON_0006562	UBERON_0013688	tonsil germinal center
 UBERON_0006562	UBERON_0013696	tonsil epithelium
 UBERON_0006562	UBERON_0014475	endostylar duct
 UBERON_0006562	UBERON_0016545	pharyngeal ectoderm
+UBERON_0006562	UBERON_0017616	afferent spiracular artery
+UBERON_0006562	UBERON_0017617	efferent spiracular artery
+UBERON_0006562	UBERON_0018103	posterior fascicle of palatopharyngeus
 UBERON_0006562	UBERON_0034721	pharyngeal taste bud
 UBERON_0006562	UBERON_0034937	pharyngeal bar
 UBERON_0006562	UBERON_0034971	aortic body
 UBERON_0006562	UBERON_0035120	fauces
 UBERON_0006562	UBERON_0035228	tonsillar fossa
+UBERON_0006562	UBERON_0035240	posterior wall of oropharynx
 UBERON_0006562	UBERON_0035270	roof of nasopharynx
+UBERON_0006562	UBERON_0035286	lateral wall of oropharynx
+UBERON_0006562	UBERON_0035313	posterior wall of laryngopharynx
+UBERON_0006562	UBERON_0035383	lateral wall of nasopharynx
+UBERON_0006562	UBERON_0035401	posterior wall of nasopharynx
+UBERON_0006562	UBERON_0036274	tonsillar pillar
+UBERON_0006562	UBERON_2000202	efferent portion of pharyngeal arch artery
 UBERON_0006562	UBERON_2000666	filamental artery
+UBERON_0006562	UBERON_2000716	afferent portion of pharyngeal arch artery
 UBERON_0006562	UBERON_2001467	pharyngeal mesoderm
 UBERON_0006562	UBERON_2001990	epibranchial arborescent organ
 UBERON_0006562	UBERON_2002057	gill opening
 UBERON_0006562	UBERON_2002116	epibranchial organ
 UBERON_0006562	UBERON_2005012	afferent filamental artery
+UBERON_0006562	UBERON_2005013	concurrent branch afferent branchial artery
+UBERON_0006562	UBERON_2005014	recurrent branch afferent branchial artery
 UBERON_0006562	UBERON_2005015	afferent lamellar arteriole
 UBERON_0006562	UBERON_2005018	efferent filamental artery
 UBERON_0006562	UBERON_2005019	efferent lamellar arteriole
@@ -12594,6 +12955,7 @@ UBERON_0007196	UBERON_0005681	right lung upper lobe bronchiole
 UBERON_0007196	UBERON_0005682	right lung accessory lobe bronchiole
 UBERON_0007196	UBERON_0006679	carina of trachea
 UBERON_0007196	UBERON_0006680	trachealis
+UBERON_0007196	UBERON_0006833	lumen of trachea
 UBERON_0007196	UBERON_0007267	trachea pre-cartilage rings
 UBERON_0007196	UBERON_0008961	parabronchus
 UBERON_0007196	UBERON_0008989	submocosal esophageal gland
@@ -12716,6 +13078,7 @@ UBERON_0018707	UBERON_0011202	urachus epithelium
 UBERON_0018707	UBERON_0011203	urachus mesenchyme
 UBERON_0018707	UBERON_0012239	urinary bladder vasculature
 UBERON_0018707	UBERON_0012303	ureteral orifice
+UBERON_0018707	UBERON_0012351	urachal lumen
 UBERON_0018707	UBERON_0012378	muscle layer of urinary bladder
 UBERON_0018707	UBERON_0015139	infundibulum of gallbladder
 UBERON_0018707	UBERON_0016500	muscularis mucosa of fundus of urinary bladder
