@@ -1,7 +1,6 @@
 	CD3-negative, CD4-positive, CD8-positive, double positive thymocyte	E-MTAB-3827
 	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte	E-MTAB-3827
 	CD34-positive mobilized cell	E-GEOD-26284
-	CD8-positive, alpha-beta T cell	E-MTAB-3827
 	Leydig cells	E-PROT-3
 	adipocytes	E-PROT-3
 	bile duct cells	E-PROT-3
@@ -51,7 +50,7 @@ http://purl.obolibrary.org/obo/CL_0000185	myoepithelial cells	E-PROT-3
 http://purl.obolibrary.org/obo/CL_0000187	myocytes	E-PROT-3
 http://purl.obolibrary.org/obo/CL_0000192	smooth muscle cells	E-PROT-3
 http://purl.obolibrary.org/obo/CL_0000235	macrophage	E-MTAB-3827
-http://purl.obolibrary.org/obo/CL_0000236	B cell	E-GEOD-26284
+http://purl.obolibrary.org/obo/CL_0000236	B cell	E-GEOD-26284,E-MTAB-6867
 http://purl.obolibrary.org/obo/CL_0000236	CD20-positive B cell	E-GEOD-26284
 http://purl.obolibrary.org/obo/CL_0000312	normal human epidermal keratinocyte (NHEK)	E-GEOD-26284
 http://purl.obolibrary.org/obo/CL_0000322	pneumocytes	E-PROT-3
@@ -68,6 +67,7 @@ http://purl.obolibrary.org/obo/CL_0000580	neutrophilic myelocyte	E-MTAB-3827
 http://purl.obolibrary.org/obo/CL_0000582	neutrophilic metamyelocyte	E-MTAB-3827
 http://purl.obolibrary.org/obo/CL_0000584	enterocyte	E-PROT-6
 http://purl.obolibrary.org/obo/CL_0000624	CD4-positive, alpha-beta T cell	E-MTAB-3827
+http://purl.obolibrary.org/obo/CL_0000625	CD8-positive, alpha-beta T cell	E-MTAB-3827
 http://purl.obolibrary.org/obo/CL_0000765	erythroblast	E-MTAB-3819,E-MTAB-3827,E-MTAB-4101
 http://purl.obolibrary.org/obo/CL_0000786	plasma cell	E-MTAB-4754
 http://purl.obolibrary.org/obo/CL_0000787	memory B cell	E-MTAB-3827

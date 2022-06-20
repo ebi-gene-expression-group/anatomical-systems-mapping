@@ -30,7 +30,7 @@ E-MTAB-3827	CD3-negative, CD4-positive, CD8-positive, double positive thymocyte
 E-MTAB-3827	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
 E-MTAB-3827	CD4-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000624
 E-MTAB-3827	CD4-positive, alpha-beta thymocyte	http://purl.obolibrary.org/obo/CL_0000810
-E-MTAB-3827	CD8-positive, alpha-beta T cell
+E-MTAB-3827	CD8-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000625
 E-MTAB-3827	CD8-positive, alpha-beta thymocyte	http://purl.obolibrary.org/obo/CL_0000811
 E-MTAB-3827	central memory CD4-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000904
 E-MTAB-3827	central memory CD8-positive, alpha-beta T cell	http://purl.obolibrary.org/obo/CL_0000907
@@ -61,6 +61,7 @@ E-MTAB-4748	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
 E-MTAB-4754	plasma cell	http://purl.obolibrary.org/obo/CL_0000786
 E-MTAB-5015	intestinal epithelial cell	http://purl.obolibrary.org/obo/CL_0002563
 E-MTAB-5015	intestinal epithelial organoid
+E-MTAB-6867	B cell	http://purl.obolibrary.org/obo/CL_0000236
 E-PROT-3	adipocytes
 E-PROT-3	bile duct cells
 E-PROT-3	cells in endometrial stroma

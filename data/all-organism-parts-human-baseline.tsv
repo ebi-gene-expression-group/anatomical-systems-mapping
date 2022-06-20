@@ -157,14 +157,13 @@ E-MTAB-3871	spinal cord	http://purl.obolibrary.org/obo/UBERON_0002240
 E-MTAB-3871	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
 E-MTAB-3871	thymus	http://purl.obolibrary.org/obo/UBERON_0002370
 E-MTAB-3983	adrenal gland	http://purl.obolibrary.org/obo/UBERON_0002369
-E-MTAB-3983	animal ovary
 E-MTAB-3983	bile duct	http://purl.obolibrary.org/obo/UBERON_0002394
 E-MTAB-3983	bone	http://purl.obolibrary.org/obo/UBERON_0002481
 E-MTAB-3983	brain	http://purl.obolibrary.org/obo/UBERON_0000955
 E-MTAB-3983	breast	http://purl.obolibrary.org/obo/UBERON_0000310
 E-MTAB-3983	connective tissue	http://purl.obolibrary.org/obo/UBERON_0002384
 E-MTAB-3983	esophagus	http://purl.obolibrary.org/obo/UBERON_0001043
-E-MTAB-3983	gallbladder	http://purl.obolibrary.org/obo/UBERON_0002110
+E-MTAB-3983	gall bladder	http://purl.obolibrary.org/obo/UBERON_0002110
 E-MTAB-3983	hematopoietic system	http://purl.obolibrary.org/obo/UBERON_0002390
 E-MTAB-3983	kidney	http://purl.obolibrary.org/obo/UBERON_0002113
 E-MTAB-3983	large intestine	http://purl.obolibrary.org/obo/UBERON_0000059
@@ -172,6 +171,7 @@ E-MTAB-3983	liver	http://purl.obolibrary.org/obo/UBERON_0002107
 E-MTAB-3983	lung	http://purl.obolibrary.org/obo/UBERON_0002048
 E-MTAB-3983	mucosa	http://purl.obolibrary.org/obo/UBERON_0000344
 E-MTAB-3983	musculature	http://purl.obolibrary.org/obo/UBERON_0001015
+E-MTAB-3983	ovary	http://purl.obolibrary.org/obo/UBERON_0000992
 E-MTAB-3983	pancreas	http://purl.obolibrary.org/obo/UBERON_0001264
 E-MTAB-3983	peripheral nervous system	http://purl.obolibrary.org/obo/UBERON_0000010
 E-MTAB-3983	placenta	http://purl.obolibrary.org/obo/UBERON_0001987
@@ -236,59 +236,97 @@ E-MTAB-513	prostate gland	http://purl.obolibrary.org/obo/UBERON_0002367
 E-MTAB-513	skeletal muscle tissue	http://purl.obolibrary.org/obo/UBERON_0001134
 E-MTAB-513	testis	http://purl.obolibrary.org/obo/UBERON_0000473
 E-MTAB-513	thyroid gland	http://purl.obolibrary.org/obo/UBERON_0002046
-E-MTAB-5214	adrenal gland
-E-MTAB-5214	amygdala
-E-MTAB-5214	aorta
-E-MTAB-5214	atrium auricular region
-E-MTAB-5214	blood
-E-MTAB-5214	breast
-E-MTAB-5214	Brodmann (1909) area 24
-E-MTAB-5214	Brodmann (1909) area 9
-E-MTAB-5214	C1 segment of cervical spinal cord
-E-MTAB-5214	caudate nucleus
-E-MTAB-5214	cerebellar hemisphere
-E-MTAB-5214	cerebellum
-E-MTAB-5214	cerebral cortex
-E-MTAB-5214	coronary artery
-E-MTAB-5214	cortex of kidney
-E-MTAB-5214	EBV-transformed lymphocyte
-E-MTAB-5214	ectocervix
-E-MTAB-5214	endocervix
-E-MTAB-5214	esophagogastric junction
-E-MTAB-5214	esophagus mucosa
-E-MTAB-5214	esophagus muscularis mucosa
-E-MTAB-5214	fallopian tube
-E-MTAB-5214	greater omentum
-E-MTAB-5214	heart left ventricle
-E-MTAB-5214	hippocampus proper
-E-MTAB-5214	hypothalamus
-E-MTAB-5214	liver
-E-MTAB-5214	lower leg skin
-E-MTAB-5214	lung
-E-MTAB-5214	minor salivary gland
-E-MTAB-5214	nucleus accumbens
-E-MTAB-5214	ovary
-E-MTAB-5214	pancreas
-E-MTAB-5214	pituitary gland
-E-MTAB-5214	prostate gland
-E-MTAB-5214	putamen
-E-MTAB-5214	sigmoid colon
-E-MTAB-5214	skeletal muscle tissue
-E-MTAB-5214	small intestine Peyer's patch
-E-MTAB-5214	spleen
-E-MTAB-5214	stomach
-E-MTAB-5214	subcutaneous adipose tissue
-E-MTAB-5214	substantia nigra
-E-MTAB-5214	suprapubic skin
-E-MTAB-5214	testis
-E-MTAB-5214	thyroid gland
-E-MTAB-5214	tibial artery
-E-MTAB-5214	tibial nerve
-E-MTAB-5214	transformed skin fibroblast
-E-MTAB-5214	transverse colon
-E-MTAB-5214	urinary bladder
-E-MTAB-5214	uterus
-E-MTAB-5214	vagina
+E-MTAB-5200	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-5200	brain	http://purl.obolibrary.org/obo/UBERON_0000955
+E-MTAB-5200	breast	http://purl.obolibrary.org/obo/UBERON_0000310
+E-MTAB-5200	esophagus	http://purl.obolibrary.org/obo/UBERON_0001043
+E-MTAB-5200	kidney	http://purl.obolibrary.org/obo/UBERON_0002113
+E-MTAB-5200	large intestine	http://purl.obolibrary.org/obo/UBERON_0000059
+E-MTAB-5200	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-MTAB-5200	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-MTAB-5200	mouth mucosa	http://purl.obolibrary.org/obo/UBERON_0003729
+E-MTAB-5200	ovary	http://purl.obolibrary.org/obo/UBERON_0000992
+E-MTAB-5200	pancreas	http://purl.obolibrary.org/obo/UBERON_0001264
+E-MTAB-5200	prostate gland	http://purl.obolibrary.org/obo/UBERON_0002367
+E-MTAB-5200	skeletal muscle tissue	http://purl.obolibrary.org/obo/UBERON_0001134
+E-MTAB-5200	skin	http://purl.obolibrary.org/obo/UBERON_0000014
+E-MTAB-5200	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-MTAB-5200	thyroid gland	http://purl.obolibrary.org/obo/UBERON_0002046
+E-MTAB-5200	urinary bladder	http://purl.obolibrary.org/obo/UBERON_0001255
+E-MTAB-5200	uterine cervix	http://purl.obolibrary.org/obo/UBERON_0000002
+E-MTAB-5200	uterus	http://purl.obolibrary.org/obo/UBERON_0000995
+E-MTAB-5214	adrenal gland	http://purl.obolibrary.org/obo/UBERON_0002369
+E-MTAB-5214	amygdala	http://purl.obolibrary.org/obo/UBERON_0001876
+E-MTAB-5214	aorta	http://purl.obolibrary.org/obo/UBERON_0000947
+E-MTAB-5214	atrium auricular region	http://purl.obolibrary.org/obo/UBERON_0006618
+E-MTAB-5214	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-5214	breast	http://purl.obolibrary.org/obo/UBERON_0000310
+E-MTAB-5214	Brodmann (1909) area 24	http://purl.obolibrary.org/obo/UBERON_0006101
+E-MTAB-5214	Brodmann (1909) area 9	http://purl.obolibrary.org/obo/UBERON_0013540
+E-MTAB-5214	C1 segment of cervical spinal cord	http://purl.obolibrary.org/obo/UBERON_0006469
+E-MTAB-5214	caudate nucleus	http://purl.obolibrary.org/obo/UBERON_0001873
+E-MTAB-5214	cerebellar hemisphere	http://purl.obolibrary.org/obo/UBERON_0002245
+E-MTAB-5214	cerebellum	http://purl.obolibrary.org/obo/UBERON_0002037
+E-MTAB-5214	cerebral cortex	http://purl.obolibrary.org/obo/UBERON_0000956
+E-MTAB-5214	coronary artery	http://purl.obolibrary.org/obo/UBERON_0001621
+E-MTAB-5214	cortex of kidney	http://purl.obolibrary.org/obo/UBERON_0001225
+E-MTAB-5214	EBV-transformed lymphocyte	http://purl.obolibrary.org/obo/CL_0000542
+E-MTAB-5214	ectocervix	http://purl.obolibrary.org/obo/UBERON_0012249
+E-MTAB-5214	endocervix	http://purl.obolibrary.org/obo/UBERON_0000458
+E-MTAB-5214	esophagogastric junction	http://purl.obolibrary.org/obo/UBERON_0007650
+E-MTAB-5214	esophagus mucosa	http://purl.obolibrary.org/obo/UBERON_0002469
+E-MTAB-5214	esophagus muscularis mucosa	http://purl.obolibrary.org/obo/UBERON_0004648
+E-MTAB-5214	fallopian tube	http://purl.obolibrary.org/obo/UBERON_0003889
+E-MTAB-5214	greater omentum	http://purl.obolibrary.org/obo/UBERON_0005448
+E-MTAB-5214	heart left ventricle	http://purl.obolibrary.org/obo/UBERON_0002084
+E-MTAB-5214	hippocampus proper	http://purl.obolibrary.org/obo/UBERON_0001954
+E-MTAB-5214	hypothalamus	http://purl.obolibrary.org/obo/UBERON_0001898
+E-MTAB-5214	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-MTAB-5214	lower leg skin	http://purl.obolibrary.org/obo/UBERON_0004264
+E-MTAB-5214	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-MTAB-5214	minor salivary gland	http://purl.obolibrary.org/obo/UBERON_0001830
+E-MTAB-5214	nucleus accumbens	http://purl.obolibrary.org/obo/UBERON_0001882
+E-MTAB-5214	ovary	http://purl.obolibrary.org/obo/UBERON_0000992
+E-MTAB-5214	pancreas	http://purl.obolibrary.org/obo/UBERON_0001264
+E-MTAB-5214	pituitary gland	http://purl.obolibrary.org/obo/UBERON_0000007
+E-MTAB-5214	prostate gland	http://purl.obolibrary.org/obo/UBERON_0002367
+E-MTAB-5214	putamen	http://purl.obolibrary.org/obo/UBERON_0001874
+E-MTAB-5214	sigmoid colon	http://purl.obolibrary.org/obo/UBERON_0001159
+E-MTAB-5214	skeletal muscle tissue	http://purl.obolibrary.org/obo/UBERON_0001134
+E-MTAB-5214	small intestine Peyer's patch	http://purl.obolibrary.org/obo/UBERON_0003454
+E-MTAB-5214	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+E-MTAB-5214	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-MTAB-5214	subcutaneous adipose tissue	http://purl.obolibrary.org/obo/UBERON_0002190
+E-MTAB-5214	substantia nigra	http://purl.obolibrary.org/obo/UBERON_0002038
+E-MTAB-5214	suprapubic skin	http://purl.obolibrary.org/obo/UBERON_0036149
+E-MTAB-5214	testis	http://purl.obolibrary.org/obo/UBERON_0000473
+E-MTAB-5214	thyroid gland	http://purl.obolibrary.org/obo/UBERON_0002046
+E-MTAB-5214	tibial artery	http://purl.obolibrary.org/obo/UBERON_0007610
+E-MTAB-5214	tibial nerve	http://purl.obolibrary.org/obo/UBERON_0001323
+E-MTAB-5214	transformed skin fibroblast	http://purl.obolibrary.org/obo/CL_0000057
+E-MTAB-5214	transverse colon	http://purl.obolibrary.org/obo/UBERON_0001157
+E-MTAB-5214	urinary bladder	http://purl.obolibrary.org/obo/UBERON_0001255
+E-MTAB-5214	uterus	http://purl.obolibrary.org/obo/UBERON_0000995
+E-MTAB-5214	vagina	http://purl.obolibrary.org/obo/UBERON_0000996
+E-MTAB-5423	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-5423	brain	http://purl.obolibrary.org/obo/UBERON_0000955
+E-MTAB-5423	breast	http://purl.obolibrary.org/obo/UBERON_0000310
+E-MTAB-5423	esophagus	http://purl.obolibrary.org/obo/UBERON_0001043
+E-MTAB-5423	kidney	http://purl.obolibrary.org/obo/UBERON_0002113
+E-MTAB-5423	large intestine	http://purl.obolibrary.org/obo/UBERON_0000059
+E-MTAB-5423	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-MTAB-5423	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+E-MTAB-5423	mouth mucosa	http://purl.obolibrary.org/obo/UBERON_0003729
+E-MTAB-5423	ovary	http://purl.obolibrary.org/obo/UBERON_0000992
+E-MTAB-5423	pancreas	http://purl.obolibrary.org/obo/UBERON_0001264
+E-MTAB-5423	prostate gland	http://purl.obolibrary.org/obo/UBERON_0002367
+E-MTAB-5423	skeletal muscle tissue	http://purl.obolibrary.org/obo/UBERON_0001134
+E-MTAB-5423	skin	http://purl.obolibrary.org/obo/UBERON_0000014
+E-MTAB-5423	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-MTAB-5423	thyroid gland	http://purl.obolibrary.org/obo/UBERON_0002046
+E-MTAB-5423	urinary bladder	http://purl.obolibrary.org/obo/UBERON_0001255
+E-MTAB-5423	uterine cervix	http://purl.obolibrary.org/obo/UBERON_0000002
+E-MTAB-5423	uterus	http://purl.obolibrary.org/obo/UBERON_0000995
 E-PROT-1	adrenal gland	http://purl.obolibrary.org/obo/UBERON_0002369
 E-PROT-1	B cell	http://purl.obolibrary.org/obo/CL_0000236
 E-PROT-1	brain	http://purl.obolibrary.org/obo/UBERON_0000955
