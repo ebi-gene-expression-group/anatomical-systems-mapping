@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 PAGE_SIZE=1000
 
 set -euo pipefail
