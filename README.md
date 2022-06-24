@@ -10,32 +10,31 @@ UBERON_0000020	sense organ	UBERON_0000966	retina
 Use metadata from Expression Atlas experiments to find terms without mappings to aid further curation.
 
 #### Dependencies:
-- Unix utilities, like `cut`, `join`, `sort` - tested on OSX and RHEL6
-- `make`
-- [jq](https://stedolan.github.io/jq/download/)
-- [ammonite](http://ammonite.io)
-- environmental variable ATLAS_EXPS - wherever you have Expression Atlas experiments
 
-#### Setup - Expression Atlas team
-The production user `fg_atlas` will already have these programs and the right environmental variables.
+- Snakemake (tested with 6.6.1) via Conda.
+- Container `quay.io/ebigxa/atlas-metadata-base:1.0.1`
 
 ### Run
 ```
-git clone https://github.com/gxa/atlas-metadata <my-dir>
-cd <my-dir>
-make clean && make
+git clone https://github.com/gxa/atlas-metadata
+conda activate snakemake@6.6.1 # this depends on the name where snakemake env is available
+cd atlas-metadata
+snakemake --use-conda --conda-frontend mamba \
+        --profile $CLUSTER_PROFILE \
+        $CONDA_PREFIX_LINE \
+        $DRY_RUN_LINE \
+        --latency-wait 150 \
+        --keep-going \
+        --config \
+        atlas_exps=<path-to-atlas-exps-for-bulk> \
+        --restart-times $RESTART_TIMES \
+        -j $NPROC --use-singularity -s
 ```
 
+
 #### Expression Atlas per-release workflow
-- `make clean && make`
-- Commit and run something like `git diff HEAD~ HEAD out/anatomical_systems.txt` to see the changes look like they can be attributed to progress of science and not bad code
-- If the changes look incorrect or there were errors, delete the bad files and `make` again
-- Push the new files to repository
-- Log in to the cluster, and give the webapps the few files using a command like
-	```
-	curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/anatomical_systems.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/anatomical_systems.txt
-	curl https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/organs.txt > /ebi/ftp/pub/databases/microarray/data/atlas/ontology/organs.txt
-	```
+
+- Run the associated CI job according to internal SOP and follow up from there.
 
 #### Curation workflow
 The files to curate are **curated/anatomical_systems/ids.tsv** and  **curated/organs/ids.tsv** .
@@ -47,7 +46,7 @@ We strive to not have any unmapped tissues show up in the UI while keeping the l
 
 ##### Anatomical systems
 The systems we use are children of `UBERON_0000467` - "anatomical system" in OLS - that are being trimmed down manually.
-[Laura](https://github.com/lauhuema) gives the following rules of curating this list:
+[Laura](https://github.com/lauhuema) suggested the following rules of curating this list:
 
 1. If one anatomical system only contains another system as children term -> just import the children term.
   *Example: instead of importing entire sense organ system, import sensory system.*
@@ -59,8 +58,10 @@ The systems we use are children of `UBERON_0000467` - "anatomical system" in OLS
   *Example: don’t import water vascular system*
 
 ##### Organs
+
 Children of `organ` in UBERON are abstract kinds of organs e.g. `cavitated compound organ`.
 We have instead chosen concrete and recognisable leaves in the ontology e.g. `kidney`.
 
 #### Curation notes
+
 Gustatory System: For now in Atlas we just have tongue mapped to gustatory system. Tongue is also mapped to digestive system and sensory system. We kept it out but if we have more experiments for gustatory system tissues we shall include it back.
