@@ -25,9 +25,9 @@ rule public_human_baseline_experiments:
         set -e # snakemake on the cluster doesn't stop on error when --keep-going is set
         exec &> "{log}"
         curl 'https://wwwdev.ebi.ac.uk/gxa/json/experiments' \
-		    | jq -r '.experiments | map(select(.species | contains ("sapiens")) | select(.experimentType | contains("Baseline")) | .experimentAccession)[]' \
-		    | sort \
-		        > {output}
+            | jq -r '.experiments | map(select(.species | contains ("sapiens")) | select(.experimentType | contains("Baseline")) | .experimentAccession)[]' \
+            | sort \
+                > {output}
         """
 
 rule organism_parts_human_baseline:
@@ -42,11 +42,11 @@ rule organism_parts_human_baseline:
         set -e # snakemake on the cluster doesn't stop on error when --keep-going is set
         exec &> "{log}"
         cat {input} \
-        | parallel --joblog missing_studies_{log} \
-        grep "factor[[:space:]]organism part" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
-	    | cut -f 1,6,7 \
-	    | sort -u \
-	        > {output}
+            | parallel --joblog missing_studies_{log} \
+            grep "factor[[:space:]]organism part" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
+            | cut -f 1,6,7 \
+            | sort -u \
+                > {output}
         """
 
 rule ontology_ids_per_experiment_human_baseline:
@@ -80,21 +80,21 @@ rule anatomical_systems:
         exec &> "{log}"
         echo "Getting IDs..."
         cut -f 1 {input.curated_ids} \
-		    | parallel --joblog missing_ids_{log} {workflow.basedir}/src/hierarchical_descendants.sh \
-		    > data/anatomical_systems_ids.tsv
+            | parallel --joblog missing_ids_{log} {workflow.basedir}/src/hierarchical_descendants.sh \
+            > data/anatomical_systems_ids.tsv
         echo "Running amm to get anatomical systems..."
         amm -s src/Annotate.sc {input.curated_ids} data/anatomical_systems_ids.tsv \
-	        | cat - {input.curated_extra_mappings} \
-	        | sort -u \
-	        | cat {input.curated_anatomical_headers} - \
-	        > {output.anatomical_systems}
+            | cat - {input.curated_extra_mappings} \
+            | sort -u \
+            | cat {input.curated_anatomical_headers} - \
+            > {output.anatomical_systems}
         echo "Getting mapped anatomica systems..."    
         cut -f 3 {output.anatomical_systems} | sort -u > {output.mapped_anatomical_systems}
         echo "Getting unmapped anatomica systems..."
         grep -oe "UBERON.*" {input.ontology_ids_per_experiment} \
-	        | sort -k 1 \
-	        | join -t '	' -v 1 -1 1 -2 1 - {output.mapped_anatomical_systems} \
-	        > {output.for_curation_unmapped}
+            | sort -k 1 \
+            | join -t '	' -v 1 -1 1 -2 1 - {output.mapped_anatomical_systems} \
+            > {output.for_curation_unmapped}
         """
 
 rule organs:
@@ -114,27 +114,27 @@ rule organs:
         exec &> "{log}"
         echo "Getting organ_ids..."
         cut -f 1 {input.curated_organ_ids} \
-		    | parallel --joblog missing_ids_{log} {workflow.basedir}/src/hierarchical_descendants.sh \
-		    > data/organs_ids.tsv
+            | parallel --joblog missing_ids_{log} {workflow.basedir}/src/hierarchical_descendants.sh \
+            > data/organs_ids.tsv
         echo "Running amm to get tmp organs..."
         amm -s src/Annotate.sc {input.curated_organ_ids} data/organs_ids.tsv > data/organs.txt.tmp
-	    echo "Appending more to tmp organs..."
+        echo "Appending more to tmp organs..."
         cat curated/organs/atlas_extra_mappings.tsv >> data/organs.txt.tmp
-	    paste {input.curated_organ_ids} {input.curated_organ_ids}  >> data/organs.txt.tmp
-	    echo "Producing organs file..."
+        paste {input.curated_organ_ids} {input.curated_organ_ids}  >> data/organs.txt.tmp
+        echo "Producing organs file..."
         sort -u data/organs.txt.tmp \
-		    | cat  {input.curated_organ_headers} - \
-		    > {output.organs}
-	    rm data/organs.txt.tmp
+            | cat  {input.curated_organ_headers} - \
+            > {output.organs}
+        rm data/organs.txt.tmp
         # mapped
         echo "Producing organs mapped file..."
         cut -f 3 {output.organs} | sort -u > {output.mapped_organs}
         # unmapped
         echo "Producing organs unmapped file..."
         grep -oe "UBERON.*" {input.ontology_ids_per_experiment} \
-	        | sort -k 1 \
-	        | join -t '	' -v 1 -1 1 -2 1 - data/organs_mapped_ids.txt \
-	        > {output.for_curation_unmapped}
+            | sort -k 1 \
+            | join -t '	' -v 1 -1 1 -2 1 - data/organs_mapped_ids.txt \
+            > {output.for_curation_unmapped}
         """
 
 rule cell_types_human_baseline:
@@ -152,13 +152,13 @@ rule cell_types_human_baseline:
         exec &> "{log}"
         echo "Producing cell types for human baseline..."
         cat {input} \
-	        | parallel --joblog missing_experiments_{log} grep "characteristic[[:space:]]cell type" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
-	        | cut -f 1,6,7 \
-	        | sort -u \
-	        > {output.cell_types_human_baseline}
+            | parallel --joblog missing_experiments_{log} grep "characteristic[[:space:]]cell type" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
+            | cut -f 1,6,7 \
+            | sort -u \
+            > {output.cell_types_human_baseline}
         echo "Producing cell types ids for human baseline..."
         amm -s src/JoinByThirdColumn.sc {output.cell_types_human_baseline} \
-		    > {output.cell_types_ids_per_exp_human_baseline}
+            > {output.cell_types_ids_per_exp_human_baseline}
         """ 
 
 rule cell_types_anatomical_systems:
@@ -178,22 +178,22 @@ rule cell_types_anatomical_systems:
         exec &> "{log}"
         echo "Data for cell anatomical systems"
         cut -f 1 {input.curated_cell_type_ids} \
-		    | parallel --joblog missing_ids_{log} {workflow.basedir}/src/hierarchical_ancestors.sh | grep "UBERON_*" | grep "system" | grep -v "anatomical system" \
-		    > data/celltypes_anatomical_systems_ids.tsv
+            | parallel --joblog missing_ids_{log} {workflow.basedir}/src/hierarchical_ancestors.sh | grep "UBERON_*" | grep "system" | grep -v "anatomical system" \
+            > data/celltypes_anatomical_systems_ids.tsv
         echo "Producing cell anatomical systems"    
         amm -s src/Annotate.sc {input.curated_cell_type_ids} data/celltypes_anatomical_systems_ids.tsv \
-		    | sort -u | awk -F"\t" '{{print $$3"\t"$$4"\t"$$1"\t"$$2}}' \
-		    | cat {input.curated_cell_type_headers} - \
-		    > {output.cell_anatomical_systems}
+            | sort -u | awk -F"\t" '{{print $$3"\t"$$4"\t"$$1"\t"$$2}}' \
+            | cat {input.curated_cell_type_headers} - \
+            > {output.cell_anatomical_systems}
         echo "Producing mapped cell anatomical systenms"
         cut -f 3 {output.cell_anatomical_systems} \
-		    | sort -u \
-		    > {output.cell_anatomical_systems_mapped}
+            | sort -u \
+            > {output.cell_anatomical_systems_mapped}
         echo "Producing unmapped cell anatomical systenms"
         grep -oe "CL.*" {input.cell_types_ids_per_exp_human_baseline} \
-		    | sort -k 1 \
-		    | join -t '	' -v 1 -1 1 -2 1 - {output.cell_anatomical_systems_mapped} \
-		    > {output.cell_anatomical_systems_unmapped}
+            | sort -k 1 \
+            | join -t '	' -v 1 -1 1 -2 1 - {output.cell_anatomical_systems_mapped} \
+            > {output.cell_anatomical_systems_unmapped}
         """ 
 
 rule cell_type_organs:
@@ -212,22 +212,22 @@ rule cell_type_organs:
         exec &> "{log}"
         echo "Data for cell type organs"
         cut -f 1 {input.curated_cell_type_ids} \
-		    | parallel --joblog missing_studies_{log} {workflow.basedir}/src/hierarchical_ancestors.sh | grep "UBERON_*" |  grep -v "organism\|structure\|entity\|anatomical" \
-		    > data/celltypes_organs_ids.tsv
+            | parallel --joblog missing_studies_{log} {workflow.basedir}/src/hierarchical_ancestors.sh | grep "UBERON_*" |  grep -v "organism\|structure\|entity\|anatomical" \
+            > data/celltypes_organs_ids.tsv
         echo "Producing cell type organs"
         amm -s src/Annotate.sc {input.curated_cell_type_ids} data/celltypes_organs_ids.tsv \
-		    | sort -u | awk -F"\t" '{{print $$3"\t"$$4"\t"$$1"\t"$$2}}' \
-		    | cat {input.curated_cell_type_headers2} - \
-		    > {output.cell_organs}
+            | sort -u | awk -F"\t" '{{print $$3"\t"$$4"\t"$$1"\t"$$2}}' \
+            | cat {input.curated_cell_type_headers2} - \
+            > {output.cell_organs}
         echo "Producing mapped cell type organs"
         cut -f 3 {output.cell_organs} \
-		    | sort -u \
-		    > data/cell_organ_mapped_ids.txt
+            | sort -u \
+            > data/cell_organ_mapped_ids.txt
         echo "Producing unmapped cell type organs"
         grep -oe "CL.*" {input.cell_types_ids_per_exp_human_baseline} \
-		    | sort -k 1 \
-		    | join -t '	' -v 1 -1 1 -2 1 - data/cell_organ_mapped_ids.txt \
-		    > {output.cell_organs_unmapped}
+            | sort -k 1 \
+            | join -t '	' -v 1 -1 1 -2 1 - data/cell_organ_mapped_ids.txt \
+            > {output.cell_organs_unmapped}
         """ 
 
 
