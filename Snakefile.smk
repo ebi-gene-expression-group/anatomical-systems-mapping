@@ -7,10 +7,10 @@ def get_all_outputs():
     return ['out/ontology_ids_per_experiment-human-baseline.tsv',
              'out/anatomical_systems.txt', 'out/curation/anatomical_systems_unmapped_ids.tsv',
              'out/organs.txt', 'out/curation/organs_unmapped_ids.tsv',
-	         'out/celltype_ids_per_experiment-human-baseline.tsv', 
+             'out/celltype_ids_per_experiment-human-baseline.tsv', 
              'out/cell_anatomical_systems.txt', 
              'out/curation/cell_anatomical_systems_unmapped_ids.tsv',
-	         'out/cell_organ.txt', 'out/curation/cell_organ_unmapped_ids.tsv']
+             'out/cell_organ.txt', 'out/curation/cell_organ_unmapped_ids.tsv']
 
 rule all: 
     input: get_all_outputs()
