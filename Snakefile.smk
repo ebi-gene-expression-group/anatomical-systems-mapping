@@ -43,7 +43,7 @@ rule organism_parts_human_baseline:
         exec &> "{log}"
         cat {input} \
             | parallel --joblog missing_studies_{log} \
-            grep "factor[[:space:]]organism part" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
+            grep "'factor[[:space:]]organism part'" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
             | cut -f 1,6,7 \
             | sort -u \
                 > {output}
@@ -152,7 +152,7 @@ rule cell_types_human_baseline:
         exec &> "{log}"
         echo "Producing cell types for human baseline..."
         cat {input} \
-            | parallel --joblog missing_experiments_{log} grep "characteristic[[:space:]]cell type" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
+            | parallel --joblog missing_experiments_{log} grep "'characteristic[[:space:]]cell type'" "{params.atlas_exps}/{{}}/{{}}.condensed-sdrf.tsv" \
             | cut -f 1,6,7 \
             | sort -u \
             > {output.cell_types_human_baseline}
