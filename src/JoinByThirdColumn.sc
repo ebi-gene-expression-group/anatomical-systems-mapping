@@ -1,5 +1,5 @@
 def fileToArray(inFile: ammonite.ops.Path) = {
-  io.Source.fromFile(inFile.toIO).getLines.map{_.split("\t").toList}
+  scala.io.Source.fromFile(inFile.toIO).getLines.map{_.split("\t").toList}
 }
 
 @main
