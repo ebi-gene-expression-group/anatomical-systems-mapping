@@ -157,7 +157,7 @@ rule cell_types_human_baseline:
             | sort -u \
             > {output.cell_types_human_baseline}
         echo "Producing cell types ids for human baseline..."
-        amm -s src/JoinByThirdColumn.sc {output.cell_types_human_baseline} \
+        amm -s {workflow.basedir}/src/JoinByThirdColumn.sc {output.cell_types_human_baseline} \
             > {output.cell_types_ids_per_exp_human_baseline}
         """ 
 
