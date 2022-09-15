@@ -1,0 +1,46 @@
+# This is a basic workflow to test for new pushes and pull requests
+
+name: CIs for new pull requests
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+      - 'feature/**'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Setup singularity and add it to the PATH
+      - name: Setup singularity
+        uses: eWaterCycle/setup-singularity@v7
+      
+      # Set up Conda package and environment manager with Miniconda
+      - name: Setup Miniconda
+        uses: conda-incubator/setup-miniconda@v2.1.1
+        with:
+          auto-update-conda: true
+          mamba-version: "*"
+          channels: bioconda,conda-forge,defaults
+          channel-priority: true
+      
+      - name: Install Snakemake
+        run: |
+          mamba create -c conda-forge -c bioconda -n snakemake snakemake
+          conda activate snakemake
