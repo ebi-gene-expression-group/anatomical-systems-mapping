@@ -45,6 +45,12 @@ jobs:
       
       - name: Install Snakemake
         run: |
-          mamba create -c conda-forge -c bioconda -n snakemake snakemake
-          conda activate snakemake
+          mamba install snakemake
           snakemake --help
+      
+      - name: Run the test
+        run:
+          snakemake --use-conda --conda-frontend mamba \
+            --cores 4 --latency-wait 150 --keep-going --restart-times 0 \
+            --config atlas_exps=test_data \
+            --use-singularity --singularity-prefix $SINGULARITY_ROOT -s Snakefile.smk
