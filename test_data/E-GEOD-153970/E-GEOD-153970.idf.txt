@@ -1,0 +1,30 @@
+MAGE-TAB Version	1.1																		
+Public Release Date	2020-07-21																		
+Investigation Title	Primary Human Airway Epithelial Cultures infected with SARS-CoV-2																		
+Experiment Description	We performed RNAseq analysis on primary human airway epithelial cultures either mock infected (PBS) or infected with SARS-CoV-2. Transcriptional profiling studies found that infected pHAE cells had a molecular signature dominated by pro-inflammatory cytokines and chemokine induction, including IL-6, TNFα, CXCL8, and identified NF-κB and ATF4 as key drivers of this pro-inflammatory cytokine response. Surprisingly, we observed a lack of a type I or III interferon (IFN) response to SARS-CoV-2 infection pHAE cultures were infected apically with SARS-CoV-2 (MOI= 0.25) for 48 hours, at which point mock and SARS-CoV-2 infected (n=3) samples were harvested for bulk RNA-Seq analysis.																		
+Experimental Factor Name	infect																		
+Experimental Factor Type	infect																		
+Person Last Name	Suthar	Vanderheiden	Ralfs	Chirkova	Upadhyay	Zimmerman	Danzy	Pellegrini	Manfredi	Sorscher	Mainou	Lobby	Kohlmeier	Lowen	Shi	Menachery	Anderson	Grakoui	Bosinger
+Person First Name	Mehul	Abigail	Philipp	Tatiana	Amit	Matthew	Shamika	Kathryn	Candela	Eric	Bernardo	Jenna	Jacob	Anice	Pei-Yong	Vineet	Larry	Arash	Steven
+Person Mid Initials	Shamal																		
+Person Email	geo@ncbi.nlm.nih.gov																		
+Person Affiliation	Emory University																		
+Person Address	Emory University, 954 Gatewood Road, Office 2022, Atlanta, GA, USA																		
+Person Roles	submitter																		
+Term Source Name	ArrayExpress																		
+Term Source File	http://www.ebi.ac.uk/arrayexpress/																		
+Protocol Name	P-GSE153970-1	P-GSE153970-2	P-GSE153970-3																
+Protocol Description	pHAE cultures were infected at MOI= 0.5 for 48 hours. RNA was harvested from mock and infected pHAE cultures (n=3) by gently scraping the Transwell insert with a plunger to dislodge the cells, which were then lysed by treatment with RNA lysis buffer for > 5 minutes.	Total RNA was extracted using the Zymo Quick-RNA MiniPrep kit (VWR, R1055) according to the manufacturers protocol. Libraries were generated using the Clontech SMART-Seq v4 kit, barcoding and sequencing primers were added using NexteraXT Library Prep kit. Libraries were validated by microelectrophoresis, quantified, pooled and sequenced on an Illumina NovaSeq 6000 in 100-base single-read reactions.	Illumina bcl2fastq v2.17.1.14 was used for demultiplexing. Reads were mapped to the human (GRCh38 Ensemble release 100) and SARS-CoV2 (MT246667.1) genomic reference with STAR (v2.7.3a) with default alignment parameters. Abundance estimation of raw read counts per transcript was done internally with STAR using the algorithm of htseq-count. A value of '1' was added to each of the normalized read counts. This provides a value to genes which show no read counts and allows for appropriate calculations of fold change. Low abundance transripts are moe influenced by highly expressed transcripts. Genome_build: GRCh38 Ensembl release 100 (primary assembly) and MT246667.1 reference. ORF7b was annotated in MT246667.1 based on NC_045512.2 reference Supplementary_files_format_and_content: STARv2.7.3a was used to generate the raw read counts. Read counts were normalized using DESeq2 through R software.																
+Protocol Type	sample treatment protocol	nucleic acid library construction protocol	normalization data transformation protocol																
+Comment[SecondaryAccession]	GSE153970																		
+Comment[ExpressionAtlasAccession]	E-GEOD-153970																		
+Comment[GEOReleaseDate]	2020-07-21																		
+Comment[GEOLastUpdateDate]	2020-07-21																		
+Comment[AEExperimentType]	RNA-seq of coding RNA																		
+Comment[SecondaryAccession]	SRP270817																		
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR12168536-SRR12168547																		
+SDRF File	E-GEOD-153970.sdrf.txt																		
+Publication Author List	Vanderheiden A, Ralfs P, Chirkova T, Upadhyay AA, Zimmerman MG, Bedoya S, Aoued H, Tharp GM, Pellegrini KL, Manfredi C, Sorscher E, Mainou B, Lobby JL, Kohlmeier JE, Lowen AC, Shi PY, Menachery VD, Anderson LJ, Grakoui A, Bosinger SE, Suthar MS.																		
+Publication Title	Type I and Type III IFN Restrict SARS-CoV-2 Infection of Human Airway Epithelial Cultures																		
+PubMed ID	32699094																		
+Publication DOI	10.1128/JVI.00985-20																		

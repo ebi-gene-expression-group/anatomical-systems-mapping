@@ -1,0 +1,32 @@
+Comment[ArrayExpressAccession]	E-CURD-116	disease	disease	disease	disease	disease
+MAGE-TAB Version	1.1	disease	disease	disease	disease	disease
+Public Release Date	2008-09-12	disease	disease	disease	disease	disease
+Investigation Title	Gene expression profiling of HhAntag-treated pancreatic xenografts - mouse dataset	disease	disease	disease	disease	disease
+Comment[Submitted Name]	Gene expression profiling of HhAntag-treated pancreatic xenografts - mouse dataset	disease	disease	disease	disease	disease
+Comment[AEExperimentDisplayName]	Transcription profiling by array of human HhAntag-treated pancreatic xenograft tumors	disease	disease	disease	disease	disease
+Experiment Description	Four vehicle-treated and four HhAntag-treated pancreatic xenograft tumors were profiled for gene expression changes using Affymetrix U133 Plus 2.0 and Affymetrix Mouse Genome 430 2.0 arrays.  Keywords: comparative gene expression, hedgehog, hh A primary human pancreatic tumor xenograft (1051178-A) was established by direct implantation of surgical material into female CD1 nu/nu mice of 6-8 weeks of age.  Tumors were serially passaged into larger cohorts of mice for efficacy testing and subsequently distributed into tumor volume-matched cohorts upon tumors reaching between 200 to 350 mm3.  HhAntag was resuspended in 0.5% methyl-cellulose, 0.2% Tween-80 (MCT) and administered orally twice daily at 75 mg/kg from a 10 mg/ml suspension.  MCT alone served as vehicle control.  Tumor xenografts (4/group) were excised following 21 days of dosing and RNA was extracted.  Preparation of complementary RNA, Human Genome U133 Plus 2.0 array and Mouse Genome 430 2.0 array hybridizations, and subsequent data analysis were carried out using Affymetrix protocols, with signal intensities being determined by the MAS5.0 algorithm.	disease	disease	disease	disease	disease
+Term Source Name	ArrayExpress	EFO	disease	disease	disease	disease
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl	disease	disease	disease	disease
+Person Last Name	Haverty	Yauch	DeSauvage	disease	disease	disease
+Person First Name	Peter	Bob	Fred	disease	disease	disease
+Person Email	phaverty@gene.com	disease	disease	disease	disease	disease
+Person Affiliation	Genentech, Inc.	disease	disease	disease	disease	disease
+Person Address	Bioinformatics, Genentech, Inc., 1 DNA Way, South San Francisco, CA, USA	disease	disease	disease	disease	disease
+Person Roles	submitter	disease	disease	disease	disease	disease
+Protocol Name	P-GSE11981-1	P-GSE11981-3	P-GSE11981-4	P-GSE11981-2	P-GSE11981-5	P-GSE11981-6
+Protocol Description	MAS 5 ID_REF =  VALUE = MAS 5 signal	standard Affymetrix protocol	standard Affymetrix protocol	standard Affymetrix protocol	standard Affymetrix protocol	Primary tumour samples were provided by the National Disease Research Interchange (NDRI) and the Cooperative Human Tissue Network, which is funded by the National Cancer Institute. Other investigators may have received samples from these same tissues. Primary human xenografts were established by direct implantation of surgical material into female CD1 nu/nu mice of 6–8 weeks of age (Charles River Laboratories, Inc.). All mice were housed and maintained according to the animal use guidelines of Genentech, Inc., conforming to California State legal and ethical practices. Tissue specimens were shipped in RPMI-containing antibiotics on wet ice and implanted within 24 h after rinsing in DMEM containing 0.11 mg ml-1 sodium pyruvate, 1.125 µg ml-1 amphotericin B and 1 mg ml-1 kanamycin. Tissue was minced with scalpels to a size of <1 mm3, and approximately 100 mg of tissue was implanted in the subcutaneous space of the hind flank using blunt dissection and a 10G trocar. Tumour lines were serially passaged into larger cohorts of mice for efficacy testing. Mice were distributed into tumour-volume-matched cohorts when tumours reached between 200 mm3 and 350 mm3. HT-29, HT55 and DLD-1 cell lines were purchased from ATCC and were established as xenografts by injection into the hind flank of 6–8-week-old female CD1 nu/nu mice with 5 × 106 (HT-29 and HT55) or 10 × 106 (DLD-1) cells resuspended in Hanks’ balanced salt solution. Tumour-bearing mice were distributed into tumour-volume-matched cohorts when the tumours reached between 80 mm3 and 120 mm3. HhAntag, or a close derivative, was resuspended in MCT and administered orally twice daily at either 100 or 75 mg kg-1 from a 10 mg ml-1 suspension as indicated. 5E1 or an isotypic control (IgG1) were dissolved in PBS and administered at 60 mg kg-1 on day 1 and then at 30 mg kg-1 weekly by intraperitoneal delivery. Tumour volume and animal weights were monitored twice weekly and tumour volume calculated as (L × W × W)/2.
+Protocol Type	normalization data transformation protocol	labelling protocol	hybridization protocol	nucleic acid extraction protocol	array scanning protocol	sample collection protocol
+Experimental Factor Name	compound	dose	disease	disease	disease	disease
+Experimental Factor Type	compound	dose	disease	disease	disease	disease
+Publication Title	A paracrine requirement for hedgehog signalling in cancer.	disease	disease	disease	disease	disease
+Publication Author List	Yauch RL, Gould SE, Scales SJ, Tang T, Tian H, Ahn CP, Marshall D, Fu L, Januario T, Kallop D, Nannini-Pepe M, Kotkow K, Marsters JC, Rubin LL, de Sauvage FJ	disease	disease	disease	disease	disease
+PubMed ID	18754008	disease	disease	disease	disease	disease
+Publication DOI	10.1038/nature07275	disease	disease	disease	disease	disease
+Comment[SecondaryAccession]	GSE11981	disease	disease	disease	disease	disease
+Comment[GEOReleaseDate]	2008-09-12	disease	disease	disease	disease	disease
+Comment[ArrayExpressSubmissionDate]	2008-07-03	disease	disease	disease	disease	disease
+Comment[GEOLastUpdateDate]	2014-01-13	disease	disease	disease	disease	disease
+Comment[AEExperimentType]	transcription profiling by array	disease	disease	disease	disease	disease
+SDRF File	E-CURD-116.sdrf.txt	disease	disease	disease	disease	disease
+	disease	disease	disease	disease	disease	disease
+Comment[RelatedExperiment]	E-CURD-115	disease	disease	disease	disease	disease
