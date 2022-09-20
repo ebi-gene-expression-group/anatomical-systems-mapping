@@ -43,15 +43,22 @@ jobs:
           channels: bioconda,conda-forge,defaults
           channel-priority: true
       
-      - name: Install Snakemake
-        run: |
-          mamba install snakemake
-          snakemake --help
+      - name: snakemake
+        uses: snakemake/snakemake-github-action@v1.23.0
+        with:
+          directory: '.test'
+          snakefile: 'Snakefile.smk'
+          args: '--use-conda --conda-frontend mamba --use-singularity --singularity-prefix $SINGULARITY_ROOT --cores 4 --latency-wait 150 --keep-going --restart-times 0 --config atlas_exps=/home/test_data/'
+
+#      - name: Install Snakemake
+#        run: |
+#          mamba install snakemake
+#          snakemake --help
       
-      - name: Run the test
-        run:
-          snakemake --use-conda --conda-frontend mamba \
-            --cores 4 --latency-wait 150 --keep-going --restart-times 0 \
-            --config \
-            atlas_exps=/home/test_data/ \
-            --use-singularity --singularity-prefix $SINGULARITY_ROOT -s Snakefile.smk
+#      - name: Run the test
+#        run:
+#          snakemake --use-conda --conda-frontend mamba \
+#            --cores 4 --latency-wait 150 --keep-going --restart-times 0 \
+#            --config \
+#            atlas_exps=/home/test_data/ \
+#            --use-singularity --singularity-prefix $SINGULARITY_ROOT -s Snakefile.smk
