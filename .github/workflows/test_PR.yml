@@ -48,7 +48,7 @@ jobs:
         with:
           directory: '.test'
           snakefile: 'Snakefile.smk'
-          args: '--use-conda --conda-frontend mamba --use-singularity --singularity-prefix $SINGULARITY_ROOT --cores 4 --latency-wait 150 --keep-going --restart-times 0 --config atlas_exps=/home/test_data/'
+          args: '--use-conda --conda-frontend mamba --cores 4 --latency-wait 150 --keep-going --restart-times 0 --config atlas_exps=/home/test_data/'
 
 #      - name: Install Snakemake
 #        run: |
