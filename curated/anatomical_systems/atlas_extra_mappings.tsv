@@ -54,3 +54,5 @@ UBERON_0001016	nervous system	UBERON_0001871	temporal lobe
 UBERON_0034929	external soft tissue zone	UBERON_0000341	throat
 UBERON_0002384	connective tissue	CL_0000057	transformed skin fibroblast
 UBERON_0000061	anatomical structure	UBERON_0002331	umbilical cord
+UBERON_0002204	musculoskeletal system	UBERON_0001134	skeletal muscle
+UBERON_0002204	musculoskeletal system	UBERON_0001135	smooth muscle
