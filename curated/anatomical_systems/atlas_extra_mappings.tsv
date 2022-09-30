@@ -1,56 +1,57 @@
-UBERON_0002416	integumental system	UBERON_0001013	adipose tissue
-UBERON_0002193	hemolymphoid system	CL_0000236	B cell
-UBERON_0002405	immune system	CL_0000236	B cell
-UBERON_0002465	lymphoid system	CL_0000236	B cell
+UBERON_0007651	anatomical junction	UBERON_0007650	esophagogastric junction
+UBERON_0000061	anatomical structure	UBERON_0000922	embryo
+UBERON_0000061	anatomical structure	UBERON_0002331	umbilical cord
+UBERON_0000060	anatomical wall	UBERON_0005448	greater omentum
+UBERON_0000060	anatomical wall	UBERON_0003688	omentum
+UBERON_0001009	circulatory system	UBERON_0002349	heart muscle
+UBERON_0002384	connective tissue	CL_0000057	fibroblast
+UBERON_0002384	connective tissue	CL_0000057	transformed skin fibroblast
+UBERON_0001007	digestive system	UBERON_0001555	gut
+UBERON_0001007	digestive system	UBERON_0000167	oral cavity
+UBERON_0001007	digestive system	UBERON_0003729	oral mucosa
+UBERON_0000949	endocrine system	UBERON_0001264	pancreas
 UBERON_0034929	external soft tissue zone	UBERON_0000310	breast
-UBERON_0001016	nervous system	UBERON_0000955	brain fragment
+UBERON_0034929	external soft tissue zone	UBERON_0000341	throat
+UBERON_0002390	hematopoietic system	CL_0000738	leukocyte
+UBERON_0002390	hematopoietic system	CL_0000576	monocyte
+UBERON_0002390	hematopoietic system	CL_0000623	natural killer cell
+UBERON_0002390	hematopoietic system	CL_0000233	platelet
+UBERON_0002193	hemolymphoid system	CL_0000236	B cell
 UBERON_0002193	hemolymphoid system	CL_0000084	CD4-positive T cell
-UBERON_0002405	immune system	CL_0000084	CD4-positive T cell
-UBERON_0002465	lymphoid system	CL_0000084	CD4-positive T cell
 UBERON_0002193	hemolymphoid system	CL_0000084	CD8-positive T cell
+UBERON_0002193	hemolymphoid system	CL_0000542	EBV-transformed lymphocyte
+UBERON_0002405	immune system	CL_0000236	B cell
+UBERON_0002405	immune system	CL_0000084	CD4-positive T cell
 UBERON_0002405	immune system	CL_0000084	CD8-positive T cell
+UBERON_0002405	immune system	CL_0000542	EBV-transformed lymphocyte
+UBERON_0002405	immune system	CL_0000738	leukocyte
+UBERON_0002405	immune system	CL_0000576	monocyte
+UBERON_0002405	immune system	CL_0000623	natural killer cell
+UBERON_0002416	integumental system	UBERON_0001013	adipose tissue
+UBERON_0002416	integumental system	UBERON_0001003	epidermis
+UBERON_0002465	lymphoid system	CL_0000236	B cell
+UBERON_0002465	lymphoid system	CL_0000084	CD4-positive T cell
 UBERON_0002465	lymphoid system	CL_0000084	CD8-positive T cell
-UBERON_0000990	reproductive system	UBERON_0000002	cervix, uterine
+UBERON_0002465	lymphoid system	CL_0000542	EBV-transformed lymphocyte
+UBERON_0001016	nervous system	UBERON_0000955	brain fragment
 UBERON_0001016	nervous system	UBERON_0001894	diencephalon and midbrain
 UBERON_0001016	nervous system	UBERON_0002363	dura mater
-UBERON_0002193	hemolymphoid system	CL_0000542	EBV-transformed lymphocyte
-UBERON_0002405	immune system	CL_0000542	EBV-transformed lymphocyte
-UBERON_0002465	lymphoid system	CL_0000542	EBV-transformed lymphocyte
-UBERON_0000061	anatomical structure	UBERON_0000922	embryo
-UBERON_0002416	integumental system	UBERON_0001003	epidermis
-UBERON_0007651	anatomical junction	UBERON_0007650	esophagogastric junction
-UBERON_0002384	connective tissue	CL_0000057	fibroblast
 UBERON_0001016	nervous system	UBERON_0001890	forebrain and midbrain
 UBERON_0001016	nervous system	UBERON_0001890	forebrain fragment
 UBERON_0001016	nervous system	UBERON_0016525	frontal lobe
-UBERON_0000060	anatomical wall	UBERON_0005448	greater omentum
-UBERON_0001007	digestive system	UBERON_0001555	gut
-UBERON_0001009	circulatory system	UBERON_0002349	heart muscle
 UBERON_0001016	nervous system	UBERON_0002028	hindbrain fragment
 UBERON_0001016	nervous system	UBERON_0002028	hindbrain without cerebellum
 UBERON_0001016	nervous system	UBERON_0002421	hippocampus
 UBERON_0001016	nervous system	UBERON_0001954	hippocampus proper
-UBERON_0001008	renal system	UBERON_0001225	left renal cortex
-UBERON_0002405	immune system	CL_0000738	leukocyte
-UBERON_0002390	hematopoietic system	CL_0000738	leukocyte
 UBERON_0001016	nervous system	UBERON_0002771	middle temporal gyrus
-UBERON_0002405	immune system	CL_0000576	monocyte
-UBERON_0002390	hematopoietic system	CL_0000576	monocyte
-UBERON_0002405	immune system	CL_0000623	natural killer cell
-UBERON_0002390	hematopoietic system	CL_0000623	natural killer cell
 UBERON_0001016	nervous system	CL_0000540	neuron
 UBERON_0001016	nervous system	UBERON_0002021	occipital lobe
-UBERON_0001032	sensory system	UBERON_0000004	olfactory apparatus
-UBERON_0000060	anatomical wall	UBERON_0003688	omentum
-UBERON_0001007	digestive system	UBERON_0000167	oral cavity
-UBERON_0001007	digestive system	UBERON_0003729	oral mucosa
-UBERON_0000990	reproductive system	UBERON_0000992	ovary
-UBERON_0000949	endocrine system	UBERON_0001264	pancreas
 UBERON_0001016	nervous system	UBERON_0001872	parietal lobe
 UBERON_0001016	nervous system	UBERON_0001894	pituitary and diencephalon
-UBERON_0002390	hematopoietic system	CL_0000233	platelet
-UBERON_0001008	renal system	UBERON_0001225	right renal cortex
 UBERON_0001016	nervous system	UBERON_0001871	temporal lobe
-UBERON_0034929	external soft tissue zone	UBERON_0000341	throat
-UBERON_0002384	connective tissue	CL_0000057	transformed skin fibroblast
-UBERON_0000061	anatomical structure	UBERON_0002331	umbilical cord
+UBERON_0001008	renal system	UBERON_0001225	left renal cortex
+UBERON_0001008	renal system	UBERON_0001225	right renal cortex
+UBERON_0000990	reproductive system	UBERON_0000002	cervix, uterine
+UBERON_0000990	reproductive system	UBERON_0000992	ovary
+UBERON_0001032	sensory system	UBERON_0000004	olfactory apparatus
+UBERON_0002204	musculoskeletal system	UBERON_0001134	skeletal muscle
