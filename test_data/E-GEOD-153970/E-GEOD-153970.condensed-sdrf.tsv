@@ -1,0 +1,72 @@
+E-GEOD-153970		SRR12168536	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168536	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168536	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168536	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168536	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168536	factor	infect	mock	http://www.ebi.ac.uk/efo/EFO_0001461
+E-GEOD-153970		SRR12168537	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168537	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168537	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168537	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168537	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168537	factor	infect	mock	http://www.ebi.ac.uk/efo/EFO_0001461
+E-GEOD-153970		SRR12168538	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168538	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168538	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168538	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168538	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168538	factor	infect	mock	http://www.ebi.ac.uk/efo/EFO_0001461
+E-GEOD-153970		SRR12168539	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168539	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168539	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168539	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168539	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168539	factor	infect	mock	http://www.ebi.ac.uk/efo/EFO_0001461
+E-GEOD-153970		SRR12168540	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168540	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168540	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168540	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168540	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168540	factor	infect	mock	http://www.ebi.ac.uk/efo/EFO_0001461
+E-GEOD-153970		SRR12168541	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168541	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168541	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168541	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168541	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168541	factor	infect	mock	http://www.ebi.ac.uk/efo/EFO_0001461
+E-GEOD-153970		SRR12168542	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168542	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168542	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168542	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168542	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168542	factor	infect	Severe acute respiratory syndrome coronavirus 2	http://purl.obolibrary.org/obo/NCBITaxon_2697049
+E-GEOD-153970		SRR12168543	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168543	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168543	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168543	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168543	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168543	factor	infect	Severe acute respiratory syndrome coronavirus 2	http://purl.obolibrary.org/obo/NCBITaxon_2697049
+E-GEOD-153970		SRR12168544	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168544	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168544	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168544	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168544	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168544	factor	infect	Severe acute respiratory syndrome coronavirus 2	http://purl.obolibrary.org/obo/NCBITaxon_2697049
+E-GEOD-153970		SRR12168545	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168545	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168545	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168545	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168545	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168545	factor	infect	Severe acute respiratory syndrome coronavirus 2	http://purl.obolibrary.org/obo/NCBITaxon_2697049
+E-GEOD-153970		SRR12168546	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168546	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168546	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168546	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168546	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168546	factor	infect	Severe acute respiratory syndrome coronavirus 2	http://purl.obolibrary.org/obo/NCBITaxon_2697049
+E-GEOD-153970		SRR12168547	characteristic	cell type	respiratory epithelial cell	http://purl.obolibrary.org/obo/CL_0002368
+E-GEOD-153970		SRR12168547	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-153970		SRR12168547	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-153970		SRR12168547	characteristic	organism part	respiratory tract	http://purl.obolibrary.org/obo/UBERON_0000065
+E-GEOD-153970		SRR12168547	characteristic	sampling time point	48 hour
+E-GEOD-153970		SRR12168547	factor	infect	Severe acute respiratory syndrome coronavirus 2	http://purl.obolibrary.org/obo/NCBITaxon_2697049

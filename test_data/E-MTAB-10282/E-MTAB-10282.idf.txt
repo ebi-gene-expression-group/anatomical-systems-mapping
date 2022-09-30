@@ -1,0 +1,68 @@
+MAGE-TAB Version	1.1
+Investigation Title	Acclimation of photosynthesis to changes in the environment results decreases oxidative stress in Arabidopsis thaliana
+
+Experimental Design
+Experimental Design Term Source REF
+Experimental Design Term Accession Number
+
+Experimental Factor Name	growth condition	time	genotype
+Experimental Factor Type	growth condition	time	genotype
+Experimental Factor Term Source REF
+Experimental Factor Term Accession Number
+
+Person Last Name	Zeef
+Person First Name	Leo
+Person Mid Initials
+Person Email	Leo.Zeef@manchester.ac.uk
+Person Phone
+Person Fax
+Person Affiliation	University of Manchester
+Person Address	University of Manchester, B.1083 Michael Smith Bldg, M13 9PT, UK
+Person Roles	submitter
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2014-09-25
+Public Release Date	2021-03-24
+
+PubMed ID
+Publication DOI
+Publication Author List
+Publication Title
+Publication Status
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	Dynamic acclimation of photosynthesis plays an important role in increasing plant fitness under variable light environments. Acclimation is mediated by a glucose-6-phosphate/phosphate translocator, GPT2. This study examined whether plants lacking GPT2, which are defective in acclimation to increases in light, are more susceptible to oxidative stress. To understand this, we used the model plant of Arabidopsis thaliana (accession Wassilewskija-4 (Ws-4)) and compared this to mutants lacking GPT2. Plants were grown at low light (100 μmol m−2 s−1) for 7 weeks. For acclimation experiments, a set of plant from low light was transferred to 400 μmol m−2 s−1 for 7 days. Microarray analysis showed that gpt2 plants showed a greater induction of stress related genes relative to WT.
+
+Protocol Name	P-MTAB-107987	P-MTAB-107986	P-MTAB-107988	P-MTAB-107983	P-MTAB-107982	P-MTAB-107985	P-MTAB-107984
+Protocol Type	array scanning and feature extraction protocol	nucleic acid hybridization to array protocol	normalization data transformation protocol	growth protocol	sample collection protocol	nucleic acid labeling protocol	nucleic acid extraction protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003814	EFO_0003815	EFO_0003816	EFO_0003789	EFO_0005518	EFO_0003813	EFO_0002944
+Protocol Description	P-AFFY-6 Affymetrix CEL analysis	P-AFFY-3 GeneChip hybridization	Microarrays were processed by RMA Bioconductor	Seeds of Arabidopsis thaliana accession Wassilewskija-4 (Ws-4) and T-DNA insertion mutant gpt2 (FLAG_326E03; INRA, Versailles, France) were grown on an 8-hour day at an irradiance of 100 µmol.m-2.s-1 (Low Light or LL) at a temperature of 20°C day, 16°C night in 3\\" pots in peat-based multipurpose compost. Growth light was provided by warm white LEDs (colour temperature 3000-3200 K) Plants were grown for 8 weeks prior to experiments commencing. The youngest fully expanded leaves were identified prior to experimental treatments. For acclimation experiments, randomly selected plants were transferred to a shelf in the same growth cabinet set to a light intensity of 400 µmol.m-2.s-1 (High Light or HL). Plants were maintained at this irradiance for 1 or 7 days. Samples were taken after 4 hours illumination on the day of treatment. For each condition, a single mature leaf was detached from each of three plants and immediately flash frozen in liquid nitrogen.	Seeds of Arabidopsis thaliana accession Wassilewskija-4 (Ws-4) and T-DNA insertion mutant gpt2 (FLAG_326E03; INRA, Versailles, France) were grown on an 8-hour day at an irradiance of 100 µmol.m-2.s-1 (Low Light or LL) at a temperature of 20°C day, 16°C night in 3\\" pots in peat-based multipurpose compost. Growth light was provided by warm white LEDs (colour temperature 3000-3200 K) Plants were grown for 8 weeks prior to experiments commencing. The youngest fully expanded leaves were identified prior to experimental treatments. For acclimation experiments, randomly selected plants were transferred to a shelf in the same growth cabinet set to a light intensity of 400 µmol.m-2.s-1 (High Light or HL). Plants were maintained at this irradiance for 1 or 7 days. Samples were taken after 4 hours illumination on the day of treatment. For each condition, a single mature leaf was detached from each of three plants and immediately flash frozen in liquid nitrogen.	P-AFFY-2 Affymetrix biotin labelling	Total RNA was extracted using an RNeasy Plant mini kit (Qiagen, Crawley, UK).
+Protocol Parameters
+Protocol Hardware
+Protocol Software
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-10282.sdrf.txt
+Comment [TemplateType]	Plant - One-color microarray
+Comment [Submitted Name]	Acclimation of photosynthesis to changes in the environment results decreases oxidative stress in Arabidopsis thaliana
+Comment [AEExperimentType]	transcription profiling by array
+Comment[ArrayExpressAccession]	E-MTAB-10282

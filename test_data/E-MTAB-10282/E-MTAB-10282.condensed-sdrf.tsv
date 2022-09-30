@@ -1,0 +1,264 @@
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_4	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_5	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day1_KO_HL_6	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_1	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_2	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day1_KO_LL_3	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_1	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_4	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day1_WT_HL_8	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_2	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_5	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day1_WT_LL_9	factor	time	1 day
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_07	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_08	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day7_KO_HL_09	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_10	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_11	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	factor	genotype	gpt2 T-DNA mutant
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day7_KO_LL_12	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_01	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_02	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	light	400 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	factor	growth condition	high light intensity
+E-MTAB-10282	A-AFFY-2	day7_WT_HL_03	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_04	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_05	factor	time	7 day
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	age	8 week
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	ecotype	Ws-4
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	light	100 micromol per square meter per second
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	organism	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	organism part	leaf	http://purl.obolibrary.org/obo/PO_0025034
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	characteristic	temperature	3000 to 3200 kelvin
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	factor	genotype	wild type genotype
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	factor	growth condition	low light intensity
+E-MTAB-10282	A-AFFY-2	day7_WT_LL_06	factor	time	7 day
